@@ -1,0 +1,1292 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sovereign MRP Dashboard</title>
+    <style>
+        :root {
+            --bg: #eef1f6;
+            --panel: #ffffff;
+            --panel-2: #f7f8fb;
+            --ink: #141821;
+            --muted: #5b6472;
+            --line: #e4e8ef;
+            --line-2: #eef1f6;
+            --accent: #3b5bdb;
+            --accent-soft: #e7ecfd;
+            --safe: #15a15a;
+            --fragile: #e8930c;
+            --distressed: #e5484d;
+            --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 8px 24px rgba(16, 24, 40, .06);
+            --radius: 14px;
+            --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        }
+
+        @media (prefers-color-scheme:dark) {
+            :root {
+                --bg: #0d1017;
+                --panel: #151a23;
+                --panel-2: #1b212c;
+                --ink: #e8ecf3;
+                --muted: #9aa4b2;
+                --line: #252c38;
+                --line-2: #1f2530;
+                --accent: #7d94ff;
+                --accent-soft: #1e2740;
+                --safe: #2fbd74;
+                --fragile: #f2a53b;
+                --distressed: #f0656a;
+                --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 10px 30px rgba(0, 0, 0, .35);
+            }
+        }
+
+        * {
+            box-sizing: border-box
+        }
+
+        html,
+        body {
+            margin: 0
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--ink);
+            font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.45;
+            -webkit-font-smoothing: antialiased
+        }
+
+        a {
+            color: var(--accent)
+        }
+
+        header.top {
+            padding: 22px 26px 6px;
+            max-width: 1360px;
+            margin: 0 auto
+        }
+
+        header.top h1 {
+            margin: 0;
+            font-size: 22px;
+            letter-spacing: -.01em
+        }
+
+        header.top p {
+            margin: 4px 0 0;
+            color: var(--muted);
+            font-size: 13px;
+            max-width: 70ch
+        }
+
+        .wrap {
+            max-width: 1360px;
+            margin: 0 auto;
+            padding: 14px 26px 40px;
+            display: grid;
+            grid-template-columns: 340px 1fr;
+            gap: 20px;
+            align-items: start
+        }
+
+        @media(max-width:940px) {
+            .wrap {
+                grid-template-columns: 1fr
+            }
+        }
+
+        .card {
+            background: var(--panel);
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow)
+        }
+
+        .sidebar {
+            position: sticky;
+            top: 14px;
+            padding: 16px;
+            max-height: calc(100vh - 28px);
+            overflow: auto
+        }
+
+        @media(max-width:940px) {
+            .sidebar {
+                position: static;
+                max-height: none
+            }
+        }
+
+        .selrow {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 12px
+        }
+
+        label.fld {
+            display: block;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: .04em;
+            color: var(--muted);
+            margin-bottom: 4px;
+            font-weight: 600
+        }
+
+        select,
+        input[type=number] {
+            width: 100%;
+            padding: 8px 10px;
+            border: 1px solid var(--line);
+            border-radius: 9px;
+            background: var(--panel-2);
+            color: var(--ink);
+            font-size: 13px;
+            font-family: inherit
+        }
+
+        select:focus,
+        input:focus {
+            outline: 2px solid var(--accent-soft);
+            border-color: var(--accent)
+        }
+
+        .btn {
+            width: 100%;
+            padding: 9px 12px;
+            border: 1px solid var(--line);
+            border-radius: 9px;
+            background: var(--panel-2);
+            color: var(--ink);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer
+        }
+
+        .btn:hover {
+            border-color: var(--accent);
+            color: var(--accent)
+        }
+
+        .note {
+            margin: 12px 0;
+            padding: 9px 11px;
+            border-radius: 9px;
+            font-size: 12px
+        }
+
+        .note.ok {
+            background: color-mix(in srgb, var(--safe) 12%, transparent);
+            color: var(--safe)
+        }
+
+        .note.bad {
+            background: color-mix(in srgb, var(--distressed) 12%, transparent);
+            color: var(--distressed);
+            border: 1px solid color-mix(in srgb, var(--distressed) 30%, transparent)
+        }
+
+        details.grp {
+            border-top: 1px solid var(--line-2);
+            padding: 6px 0
+        }
+
+        details.grp summary {
+            cursor: pointer;
+            font-weight: 700;
+            font-size: 12.5px;
+            padding: 6px 2px;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            text-transform: uppercase;
+            letter-spacing: .03em;
+            color: var(--muted)
+        }
+
+        details.grp summary::-webkit-details-marker {
+            display: none
+        }
+
+        details.grp summary::before {
+            content: "▸";
+            font-size: 10px;
+            transition: transform .15s
+        }
+
+        details.grp[open] summary::before {
+            transform: rotate(90deg)
+        }
+
+        .prow {
+            display: grid;
+            grid-template-columns: 1fr auto;
+            gap: 4px 8px;
+            align-items: center;
+            padding: 7px 2px;
+            border-bottom: 1px solid var(--line-2)
+        }
+
+        .prow:last-child {
+            border-bottom: 0
+        }
+
+        .plab {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12.5px
+        }
+
+        .plab .sym {
+            font-weight: 600
+        }
+
+        .info {
+            border: 0;
+            background: transparent;
+            color: var(--accent);
+            cursor: pointer;
+            font-size: 14px;
+            line-height: 1;
+            padding: 0;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%
+        }
+
+        .info:hover {
+            background: var(--accent-soft)
+        }
+
+        .pval {
+            width: 96px
+        }
+
+        .pval input {
+            text-align: right;
+            font-variant-numeric: tabular-nums;
+            padding: 5px 7px
+        }
+
+        .prow input[type=range] {
+            grid-column: 1/-1;
+            width: 100%;
+            accent-color: var(--accent);
+            height: 16px
+        }
+
+        .prow.missing input {
+            border-color: var(--distressed)
+        }
+
+        .chip-miss {
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--distressed);
+            background: color-mix(in srgb, var(--distressed) 14%, transparent);
+            padding: 1px 6px;
+            border-radius: 6px
+        }
+
+        .roval {
+            font-family: var(--mono);
+            font-size: 12px;
+            color: var(--muted);
+            text-align: right
+        }
+
+        .roval.miss {
+            color: var(--distressed);
+            font-weight: 700
+        }
+
+        .seg {
+            display: flex;
+            gap: 4px
+        }
+
+        .seg button {
+            flex: 1;
+            padding: 5px 6px;
+            border: 1px solid var(--line);
+            background: var(--panel-2);
+            color: var(--muted);
+            border-radius: 7px;
+            font-size: 11px;
+            cursor: pointer;
+            font-weight: 600
+        }
+
+        .seg button.on {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff
+        }
+
+        /* content */
+        .content {
+            display: grid;
+            gap: 18px;
+            min-width: 0
+        }
+
+        .hero {
+            padding: 18px 20px;
+            display: flex;
+            gap: 18px;
+            align-items: center;
+            flex-wrap: wrap
+        }
+
+        .badge {
+            --c: var(--muted);
+            color: #fff;
+            background: var(--c);
+            font-weight: 800;
+            font-size: 34px;
+            padding: 8px 20px;
+            border-radius: 12px;
+            letter-spacing: 1px;
+            min-width: 96px;
+            text-align: center;
+            box-shadow: 0 6px 16px color-mix(in srgb, var(--c) 40%, transparent)
+        }
+
+        .hero .rtitle {
+            font-size: 18px;
+            font-weight: 700;
+            text-transform: capitalize
+        }
+
+        .hero .rdesc {
+            color: var(--muted);
+            font-size: 13px;
+            margin-top: 2px
+        }
+
+        .chips {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-left: auto
+        }
+
+        .stat {
+            background: var(--panel-2);
+            border: 1px solid var(--line-2);
+            border-radius: 10px;
+            padding: 7px 12px;
+            min-width: 96px
+        }
+
+        .stat .k {
+            font-size: 10.5px;
+            text-transform: uppercase;
+            letter-spacing: .03em;
+            color: var(--muted)
+        }
+
+        .stat .v {
+            font-size: 16px;
+            font-weight: 700;
+            font-variant-numeric: tabular-nums
+        }
+
+        .hero.bad {
+            border: 1px solid color-mix(in srgb, var(--distressed) 35%, transparent)
+        }
+
+        .hero .warnicon {
+            font-size: 30px
+        }
+
+        .chart {
+            padding: 14px 16px 10px
+        }
+
+        .chart h3 {
+            margin: 0 0 2px;
+            font-size: 14px
+        }
+
+        .chart .sub {
+            color: var(--muted);
+            font-size: 12px;
+            margin: 0 0 8px
+        }
+
+        .chart svg {
+            width: 100%;
+            height: auto;
+            display: block;
+            overflow: visible;
+            touch-action: none
+        }
+
+        .two {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px
+        }
+
+        @media(max-width:720px) {
+            .two {
+                grid-template-columns: 1fr
+            }
+        }
+
+        .metrics {
+            padding: 6px 6px
+        }
+
+        .mgrid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 2px
+        }
+
+        .mcell {
+            padding: 9px 12px;
+            border-radius: 9px
+        }
+
+        .mcell:hover {
+            background: var(--panel-2)
+        }
+
+        .mcell .k {
+            font-size: 11px;
+            color: var(--muted)
+        }
+
+        .mcell .v {
+            font-size: 15px;
+            font-weight: 700;
+            font-variant-numeric: tabular-nums;
+            margin-top: 1px
+        }
+
+        .axis {
+            stroke: var(--line);
+            stroke-width: 1
+        }
+
+        .gridline {
+            stroke: var(--line-2);
+            stroke-width: 1
+        }
+
+        .tick {
+            fill: var(--muted);
+            font-size: 10px;
+            font-family: var(--mono)
+        }
+
+        .clabel {
+            fill: var(--muted);
+            font-size: 11px
+        }
+
+        .foot {
+            color: var(--muted);
+            font-size: 11.5px;
+            padding: 0 4px 10px;
+            max-width: 80ch
+        }
+
+        /* modal */
+        .backdrop {
+            position: fixed;
+            inset: 0;
+            background: rgba(8, 12, 20, .5);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            z-index: 50
+        }
+
+        .backdrop.show {
+            display: flex
+        }
+
+        .modal {
+            background: var(--panel);
+            border: 1px solid var(--line);
+            border-radius: 14px;
+            max-width: 520px;
+            width: 100%;
+            padding: 20px 22px;
+            box-shadow: var(--shadow)
+        }
+
+        .modal h4 {
+            margin: 0 0 8px;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px
+        }
+
+        .modal p {
+            margin: 0;
+            color: var(--ink);
+            font-size: 13.5px;
+            line-height: 1.55
+        }
+
+        .modal .close {
+            margin-top: 16px;
+            float: right
+        }
+
+        .modal .src {
+            color: var(--accent);
+            font-size: 14px
+        }
+
+        /* tooltip */
+        #tip {
+            position: fixed;
+            pointer-events: none;
+            background: var(--ink);
+            color: var(--bg);
+            font-size: 11.5px;
+            font-family: var(--mono);
+            padding: 5px 8px;
+            border-radius: 7px;
+            opacity: 0;
+            transition: opacity .08s;
+            z-index: 40;
+            white-space: nowrap;
+            transform: translate(-50%, -130%)
+        }
+
+        .handle {
+            cursor: grab;
+            fill: var(--accent)
+        }
+
+        .handle:active {
+            cursor: grabbing
+        }
+    </style>
+</head>
+
+<body>
+    <header class="top">
+        <h1>Sovereign Minimal Rating Process</h1>
+        <p>The Minimal Rating Process for euro-area sovereigns, running entirely in your browser. Pick a country and
+            quarter, edit any calibrated parameter (or drag the markers on the charts), and the funding curve, fragile
+            band, exit thresholds and rating class recompute live. Each input has an <span class="src">&#9432;</span>
+            with its source and construction.</p>
+    </header>
+
+    <div class="wrap">
+        <aside class="card sidebar">
+            <div class="selrow">
+                <div><label class="fld" for="country">Country</label><select id="country"></select></div>
+                <div><label class="fld" for="quarter">Quarter</label><select id="quarter"></select></div>
+            </div>
+            <button class="btn" id="reset">Reset to database defaults</button>
+            <div id="completeness"></div>
+            <div id="paramPanel"></div>
+        </aside>
+
+        <main class="content">
+            <section class="card hero" id="hero"></section>
+            <section class="card chart" id="fundingCard">
+                <h3>Funding curve, band edges &amp; refinancing need</h3>
+                <p class="sub">Proceeds &xi;(d); the shaded strip is the fragile band [n<sub>L</sub>, n<sub>U</sub>].
+                    Drag the dashed <b>need</b> line to change n<sub>t</sub>.</p>
+                <svg id="svgFunding" viewBox="0 0 760 360" preserveAspectRatio="xMidYMid meet"></svg>
+            </section>
+            <div class="two">
+                <section class="card chart" id="bandCard">
+                    <h3>Position in the fragile band</h3>
+                    <p class="sub">Where the need sits across safe / fragile / distressed. Drag the marker.</p>
+                    <svg id="svgBand" viewBox="0 0 380 150" preserveAspectRatio="xMidYMid meet"></svg>
+                </section>
+                <section class="card chart" id="exitCard">
+                    <h3>Exit thresholds on the risk axis</h3>
+                    <p class="sub">Current &theta;<sub>t</sub> within [&theta;<sub>B</sub>, &theta;<sub>G</sub>].
+                        Drag &theta;<sub>t</sub>.</p>
+                    <svg id="svgExit" viewBox="0 0 380 150" preserveAspectRatio="xMidYMid meet"></svg>
+                </section>
+            </div>
+            <section class="card metrics">
+                <div class="mgrid" id="metrics"></div>
+            </section>
+            <p class="foot"></p>
+        </main>
+    </div>
+
+    <div class="backdrop" id="backdrop">
+        <div class="modal">
+            <h4><span class="src">&#9432;</span><span id="modalTitle"></span></h4>
+            <p id="modalBody"></p>
+            <button class="btn close" id="modalClose" style="width:auto;padding:7px 16px">Close</button>
+        </div>
+    </div>
+    <div id="tip"></div>
+
+    <script>/* MRP model core in plain JS -- a faithful port of dashboard/mrp.R (rating
+tasks R3-R6). Verified against the R pipeline's golden output. */
+        (function (root) {
+            "use strict";
+
+            // Standard normal CDF -- Graeme West / Hart algorithm, ~1e-15 accuracy.
+            function pnorm(x) {
+                var a = Math.abs(x), c;
+                if (a > 37) {
+                    c = 0;
+                } else {
+                    var e = Math.exp(-a * a / 2), b;
+                    if (a < 7.07106781186547) {
+                        b = 3.52624965998911e-2 * a + 0.700383064443688;
+                        b = b * a + 6.37396220353165;
+                        b = b * a + 33.912866078383;
+                        b = b * a + 112.079291497871;
+                        b = b * a + 221.213596169931;
+                        b = b * a + 220.206867912376;
+                        var d = 8.83883476483184e-2 * a + 1.75566716318264;
+                        d = d * a + 16.064177579207;
+                        d = d * a + 86.7807322029461;
+                        d = d * a + 296.564248779674;
+                        d = d * a + 637.333633378831;
+                        d = d * a + 793.826512519948;
+                        d = d * a + 440.413735824752;
+                        c = e * b / d;
+                    } else {
+                        b = a + 0.65;
+                        b = a + 4 / b;
+                        b = a + 3 / b;
+                        b = a + 2 / b;
+                        b = a + 1 / b;
+                        c = e / (b * 2.506628274631);
+                    }
+                }
+                return x > 0 ? 1 - c : c;
+            }
+
+            function dnorm(x) {
+                return Math.exp(-x * x / 2) / 2.5066282746310002;
+            }
+
+            // Inverse standard normal CDF -- Acklam, refined with one Halley step.
+            function qnorm(p) {
+                if (p <= 0) return -Infinity;
+                if (p >= 1) return Infinity;
+                var a = [-3.969683028665376e+01, 2.209460984245205e+02, -2.759285104469687e+02,
+                    1.383577518672690e+02, -3.066479806614716e+01, 2.506628277459239e+00];
+                var b = [-5.447609879822406e+01, 1.615858368580409e+02, -1.556989798598866e+02,
+                    6.680131188771972e+01, -1.328068155288572e+01];
+                var c = [-7.784894002430293e-03, -3.223964580411365e-01, -2.400758277161838e+00,
+                -2.549732539343734e+00, 4.374664141464968e+00, 2.938163982698783e+00];
+                var d = [7.784695709041462e-03, 3.224671290700398e-01, 2.445134137142996e+00,
+                    3.754408661907416e+00];
+                var plow = 0.02425, phigh = 1 - plow, q, r, x;
+                if (p < plow) {
+                    q = Math.sqrt(-2 * Math.log(p));
+                    x = (((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) /
+                        ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1);
+                } else if (p <= phigh) {
+                    q = p - 0.5; r = q * q;
+                    x = (((((a[0] * r + a[1]) * r + a[2]) * r + a[3]) * r + a[4]) * r + a[5]) * q /
+                        (((((b[0] * r + b[1]) * r + b[2]) * r + b[3]) * r + b[4]) * r + 1);
+                } else {
+                    q = Math.sqrt(-2 * Math.log(1 - p));
+                    x = -(((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) /
+                        ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1);
+                }
+                var e = pnorm(x) - p;              // Halley refinement
+                var u = e * 2.5066282746310002 * Math.exp(x * x / 2);
+                x = x - u / (1 + x * u / 2);
+                return x;
+            }
+
+            // One-dimensional root by bisection (endpoints must bracket a sign change).
+            function uniroot(f, lo, hi, tol, maxit) {
+                tol = tol || 1e-12; maxit = maxit || 200;
+                var flo = f(lo), fhi = f(hi);
+                if (isNaN(flo) || isNaN(fhi) || flo * fhi > 0) return NaN;
+                var mid, fmid;
+                for (var i = 0; i < maxit; i++) {
+                    mid = 0.5 * (lo + hi); fmid = f(mid);
+                    if (fmid === 0 || (hi - lo) < tol * (1 + Math.abs(mid))) return mid;
+                    if (flo * fmid < 0) { hi = mid; fhi = fmid; } else { lo = mid; flo = fmid; }
+                }
+                return 0.5 * (lo + hi);
+            }
+
+            function pTheta(d, sBar, bM, mu, theta, sigma) {
+                return pnorm((Math.log(d) - Math.log(sBar + bM) - (mu - theta * sigma)) / sigma);
+            }
+            function xi(d, sBar, bM, mu, theta, sigma, rf, h) {
+                return d * (1 - h * pTheta(d, sBar, bM, mu, theta, sigma)) / rf;
+            }
+            function solveZm(sigma) {
+                return uniroot(function (z) { return sigma * (1 - pnorm(z)) - dnorm(z); }, -10, 0);
+            }
+            function modelSpread(d, sBar, bM, mu, theta, sigma, rf, h) {
+                var p = pTheta(d, sBar, bM, mu, theta, sigma);
+                return rf * h * p / (1 - h * p);
+            }
+            function stationary(mu, sigma, sBar, bM, theta, h) {
+                var a = Math.log(sBar + bM) + (mu - theta * sigma);
+                if (h * (pnorm(sigma) + dnorm(sigma) / sigma) <= 1) return { dU: NaN, dL: NaN };
+                var dStar = Math.exp(a + sigma * sigma);
+                var fp = function (d) {
+                    var u = (Math.log(d) - a) / sigma;
+                    return h * (pnorm(u) + dnorm(u) / sigma) - 1;
+                };
+                return {
+                    dU: uniroot(fp, Math.exp(a - 12 * sigma), dStar),
+                    dL: uniroot(fp, dStar, Math.exp(a + 12 * sigma))
+                };
+            }
+            function bandAtTheta(theta, mu, sigma, sBar, rf, h, zM) {
+                var gamma = (1 - pnorm(zM)) * Math.exp(mu - theta * sigma + sigma * zM);
+                var bM = sBar * gamma / (rf - gamma);
+                var sp = stationary(mu, sigma, sBar, bM, theta, h);
+                return {
+                    nU: xi(sp.dU, sBar, bM, mu, theta, sigma, rf, h),
+                    nL: xi(sp.dL, sBar, bM, mu, theta, sigma, rf, h)
+                };
+            }
+            function thetaForEdge(target, edge, mu, sigma, sBar, rf, h, zM) {
+                var thetaCross = (mu + sigma * zM - Math.log(rf / (1 - pnorm(zM)))) / sigma;
+                return uniroot(function (theta) {
+                    return bandAtTheta(theta, mu, sigma, sBar, rf, h, zM)[edge] - target;
+                }, thetaCross + 1e-4, 500);
+            }
+
+            var REQUIRED = ["mu", "sigma", "s_bar", "rf", "h", "theta", "n"];
+            function missing(p) {
+                return REQUIRED.filter(function (k) { return p[k] == null || isNaN(p[k]); });
+            }
+
+            function rate(p) {
+                var miss = missing(p);
+                if (miss.length > 0 || p.s_bar == null || p.s_bar <= 0) {
+                    return {
+                        computable: false, missing: miss,
+                        reason: (p.s_bar != null && p.s_bar <= 0)
+                            ? "no market borrowing capacity (best sustained surplus <= 0)" : null
+                    };
+                }
+                var mu = p.mu, sigma = p.sigma, sBar = p.s_bar, rf = p.rf, h = p.h,
+                    theta = p.theta, n = p.n, sT = p.s_t,
+                    thetaInf = p.theta_inf, sigmaTheta = p.sigma_theta,
+                    spread = p.spread, eState = p.e_state;
+
+                var zM = solveZm(sigma);
+                var kern = Math.exp(mu - theta * sigma + sigma * zM);
+                var gamma = (1 - pnorm(zM)) * kern;
+                var bM = sBar * gamma / (rf - gamma);
+                var dM = (sBar + bM) * kern;
+
+                var sp = stationary(mu, sigma, sBar, bM, theta, h);
+                var dU = sp.dU, dL = sp.dL;
+                var nU = xi(dU, sBar, bM, mu, theta, sigma, rf, h);
+                var nL = xi(dL, sBar, bM, mu, theta, sigma, rf, h);
+                var regime = isNaN(nL) ? "safe" : (n < nL ? "safe" : (n <= nU ? "fragile" : "distressed"));
+
+                var branch = null, psiGood = NaN, psiBad = NaN;
+                if (regime === "fragile") {
+                    var rootFn = function (d) { return xi(d, sBar, bM, mu, theta, sigma, rf, h) - n; };
+                    var dGood = uniroot(rootFn, 1e-8, dU);
+                    var dBad = uniroot(rootFn, dL, Math.exp(Math.log(dL) + 40 * sigma));
+                    psiGood = modelSpread(dGood, sBar, bM, mu, theta, sigma, rf, h);
+                    psiBad = modelSpread(dBad, sBar, bM, mu, theta, sigma, rf, h);
+                    branch = (spread != null && !isNaN(spread) && spread > (psiGood + psiBad) / 2) ? "bad" : "good";
+                }
+
+                var dT = n * rf;
+                var psiModel = h * pTheta(dT, sBar, bM, mu, theta, sigma);
+                var spreadLiquidity = (spread != null && !isNaN(spread)) ? spread - psiModel : NaN;
+
+                var thetaG = thetaForEdge(n, "nU", mu, sigma, sBar, rf, h, zM);
+                var thetaB = thetaForEdge(n, "nL", mu, sigma, sBar, rf, h, zM);
+                var deltaG = thetaG - theta;
+                var deltaB = theta - thetaB;
+                var exposure = 1 - pnorm((thetaG - thetaInf) / sigmaTheta);
+                var nLinf = bandAtTheta(thetaInf, mu, sigma, sBar, rf, h, zM).nL;
+                var xFisc;
+                if (sT == null || isNaN(sT)) { xFisc = NaN; }
+                else {
+                    var num = Math.max(n - nLinf, 0), den = sBar - sT;
+                    xFisc = num === 0 ? 0 : (den > 0 ? num / den : Infinity);
+                }
+                var pRiskon = regime === "distressed" ? pnorm((thetaB - thetaInf) / sigmaTheta) : NaN;
+
+                var thetaLo = Math.max(0, thetaInf + sigmaTheta * qnorm(0.05));
+                var nUlo = bandAtTheta(thetaLo, mu, sigma, sBar, rf, h, zM).nU;
+                var exposureRated = (eState === "eligible") ? 0 : exposure;
+                var cls;
+                if (regime === "safe" && exposureRated <= 0.0001) cls = "S1";
+                else if (regime === "safe" && exposureRated <= 0.001) cls = "S2";
+                else if (regime === "safe") cls = "S3";
+                else if (regime === "fragile" && exposureRated <= 0.05 && !isNaN(xFisc) && xFisc <= 2) cls = "F1";
+                else if (regime === "fragile" && exposureRated <= 0.15) cls = "F2";
+                else if (regime === "fragile" && exposureRated <= 0.30) cls = "F3";
+                else if (regime === "fragile") cls = "F4";
+                else if (regime === "distressed" && n > nUlo) cls = "D3";
+                else if (regime === "distressed" && !isNaN(pRiskon) && pRiskon >= 0.25) cls = "D1";
+                else if (regime === "distressed") cls = "D2";
+                else cls = null;
+
+                return {
+                    computable: true, missing: [],
+                    mu: mu, sigma: sigma, s_bar: sBar, rf: rf, h: h, theta: theta, n: n,
+                    z_m: zM, gamma: gamma, b_m: bM, d_m: dM, d_u: dU, d_l: dL, n_u: nU, n_l: nL,
+                    regime: regime, branch: branch, psi_good: psiGood, psi_bad: psiBad,
+                    psi_model: psiModel, spread: spread, spread_liquidity: spreadLiquidity,
+                    theta_g: thetaG, theta_b: thetaB, delta_g: deltaG, delta_b: deltaB,
+                    exposure: exposure, n_l_inf: nLinf, x_fisc: xFisc, p_riskon: pRiskon,
+                    theta_inf: thetaInf, sigma_theta: sigmaTheta,
+                    n_u_lo: nUlo, exposure_rated: exposureRated, class: cls
+                };
+            }
+
+            var api = {
+                pnorm: pnorm, dnorm: dnorm, qnorm: qnorm, uniroot: uniroot,
+                pTheta: pTheta, xi: xi, solveZm: solveZm, stationary: stationary,
+                bandAtTheta: bandAtTheta, thetaForEdge: thetaForEdge, rate: rate
+            };
+            if (typeof module !== "undefined" && module.exports) module.exports = api;
+            else root.MRP = api;
+        })(typeof self !== "undefined" ? self : this);</script>
+    <script>
+        const MRP_DATA = [{ "quarter": "2025-Q4", "entity_id": "AUT", "entity_name": "Austria", "mu_r": 0.01269212379709, "pi_u": 0.022738, "pi_e": -0.000152, "e_mrp": -0.000152, "mu": 0.03527812379709, "sigma": 0.02639246665716, "s_bar": 0.011134, "s_t": -0.027, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1637976884579, "spread": 0.001729554047952, "e_state": "ineligible", "d_stock": 0.80493, "b_st": null, "b_lt": null, "due_1y": 0.122, "due_source": "Eurostat", "def": 0.04179768845787, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "BEL", "entity_name": "Belgium", "mu_r": 0.01531492603329, "pi_u": 0.022738, "pi_e": -0.00084, "e_mrp": -0.00084, "mu": 0.03721292603329, "sigma": 0.02700812054575, "s_bar": 0.05908, "s_t": -0.03296, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.2007531738156, "spread": 0.003955554047952, "e_state": "ineligible", "d_stock": 1.06333, "b_st": null, "b_lt": null, "due_1y": 0.149, "due_source": "Eurostat", "def": 0.05175317381557, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "CYP", "entity_name": "Cyprus", "mu_r": 0.03005929624316, "pi_u": 0.022738, "pi_e": -0.00231, "e_mrp": -0.00231, "mu": 0.05048729624316, "sigma": 0.05331694531415, "s_bar": 0.032392, "s_t": 0.03723, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.0716858299863, "spread": 0.0007555540479524, "e_state": "ineligible", "d_stock": 0.55301, "b_st": 0.1058717228336, "b_lt": 0, "due_1y": 0.1058717228336, "due_source": "QPSD", "def": -0.03418589284731, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "DEU", "entity_name": "Germany", "mu_r": 0.009783724483932, "pi_u": 0.022738, "pi_e": -0.000228, "e_mrp": -0.000228, "mu": 0.03229372448393, "sigma": 0.0248103432435, "s_bar": 0.021598, "s_t": -0.02835, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1375896099184, "spread": -0.001114445952048, "e_state": "ineligible", "d_stock": 0.6293, "b_st": 0.0453538400281, "b_lt": 0.06558042336209, "due_1y": 0.1109342633902, "due_source": "QPSD", "def": 0.02665534652823, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "ESP", "entity_name": "Spain", "mu_r": 0.0162502525491, "pi_u": 0.022738, "pi_e": 0.000866, "e_mrp": 0, "mu": 0.0389882525491, "sigma": 0.04840766456063, "s_bar": 0.024678, "s_t": 0.0029, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1659236010803, "spread": 0.003465554047952, "e_state": "ineligible", "d_stock": 1.00433, "b_st": null, "b_lt": null, "due_1y": 0.142, "due_source": "Eurostat", "def": 0.02392360108033, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "EST", "entity_name": "Estonia, Republic of", "mu_r": 0.02737707762554, "pi_u": 0.022738, "pi_e": 0.005928, "e_mrp": 0, "mu": 0.05011507762554, "sigma": 0.07122375187146, "s_bar": 0.017854, "s_t": -0.04197, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.06282412724346, "spread": 0.004555554047952, "e_state": "ineligible", "d_stock": 0.24188, "b_st": null, "b_lt": null, "due_1y": 0.043, "due_source": "Eurostat", "def": 0.01982412724346, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "FIN", "entity_name": "Finland", "mu_r": 0.01032267142036, "pi_u": 0.022738, "pi_e": -0.001318, "e_mrp": -0.001318, "mu": 0.03174267142036, "sigma": 0.02787660510602, "s_bar": 0.045942, "s_t": -0.0401, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1712623944114, "spread": 0.002405554047952, "e_state": "ineligible", "d_stock": 0.89296, "b_st": null, "b_lt": null, "due_1y": 0.137, "due_source": "Eurostat", "def": 0.03426239441138, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "FRA", "entity_name": "France", "mu_r": 0.0121271692153, "pi_u": 0.022738, "pi_e": -0.004336, "e_mrp": -0.004336, "mu": 0.0305291692153, "sigma": 0.02558941155955, "s_bar": 0.007116, "s_t": -0.02711, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.2421252947871, "spread": 0.006355554047952, "e_state": "ineligible", "d_stock": 1.15992, "b_st": null, "b_lt": null, "due_1y": 0.191, "due_source": "Eurostat", "def": 0.05112529478711, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "GRC", "entity_name": "Greece", "mu_r": 0.006400293026635, "pi_u": 0.022738, "pi_e": 0.002972, "e_mrp": 0, "mu": 0.02913829302663, "sigma": 0.06320641315834, "s_bar": 0.03054, "s_t": 0.03776, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.08341, "spread": 0.005155554047952, "e_state": "ineligible", "d_stock": 1.45678, "b_st": null, "b_lt": null, "due_1y": 0.096, "due_source": "Eurostat", "def": -0.01259, "def_source": "WEO" }, { "quarter": "2025-Q4", "entity_id": "HRV", "entity_name": "Croatia, Republic of", "mu_r": 0.02338826291854, "pi_u": 0.022738, "pi_e": 0.006562, "e_mrp": 0, "mu": 0.04612626291854, "sigma": 0.0573431223767, "s_bar": 0.02232, "s_t": -0.01779, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1237759235004, "spread": 0.002155554047952, "e_state": "ineligible", "d_stock": 0.55874, "b_st": null, "b_lt": null, "due_1y": 0.094, "due_source": "Eurostat", "def": 0.02977592350041, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "IRL", "entity_name": "Ireland", "mu_r": 0.05048342109751, "pi_u": 0.022738, "pi_e": 0.00012, "e_mrp": 0, "mu": 0.07322142109751, "sigma": 0.07703561378375, "s_bar": 0.051474, "s_t": 0.00837, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.05052759321927, "spread": 0.0008875540479524, "e_state": "ineligible", "d_stock": 0.3293, "b_st": 0.06645784530699, "b_lt": 0.001717432110225, "due_1y": 0.06817527741722, "due_source": "QPSD", "def": -0.01764768419795, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "ITA", "entity_name": "Italy", "mu_r": 0.00386672311109, "pi_u": 0.022738, "pi_e": -0.00015, "e_mrp": -0.00015, "mu": 0.02645472311109, "sigma": 0.03504453056872, "s_bar": 0.043204, "s_t": 0.00787, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.2942320333124, "spread": 0.006275554047952, "e_state": "ineligible", "d_stock": 1.37088, "b_st": 0.1491270519333, "b_lt": 0.1143788988184, "due_1y": 0.2635059507517, "due_source": "QPSD", "def": 0.03072608256065, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "LTU", "entity_name": "Lithuania, Republic of", "mu_r": 0.03750858381177, "pi_u": 0.022738, "pi_e": 0.005856, "e_mrp": 0, "mu": 0.06024658381177, "sigma": 0.0702571998621, "s_bar": 0.012918, "s_t": -0.02159, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.09323091149458, "spread": -0.0004444459520476, "e_state": "ineligible", "d_stock": 0.3983, "b_st": 0.04013684160554, "b_lt": 0.03481746540388, "due_1y": 0.07495430700942, "due_source": "QPSD", "def": 0.01827660448516, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "LUX", "entity_name": "Luxembourg", "mu_r": 0.02255872572226, "pi_u": 0.022738, "pi_e": -0.00182, "e_mrp": -0.00182, "mu": 0.04347672572226, "sigma": 0.03010537095894, "s_bar": 0.029352, "s_t": -0.01173, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": null, "spread": 0.001775554047952, "e_state": "ineligible", "d_stock": 0.26972, "b_st": null, "b_lt": null, "due_1y": null, "due_source": null, "def": 0.01961478374031, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "LVA", "entity_name": "Latvia, Republic of", "mu_r": 0.02930643980603, "pi_u": 0.022738, "pi_e": 0.003148, "e_mrp": 0, "mu": 0.05204443980603, "sigma": 0.09506033614812, "s_bar": 0.00718, "s_t": -0.02119, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.10046, "spread": 0.007355554047952, "e_state": "ineligible", "d_stock": 0.46948, "b_st": null, "b_lt": null, "due_1y": 0.06, "due_source": "Eurostat", "def": 0.04046, "def_source": "WEO" }, { "quarter": "2025-Q4", "entity_id": "MLT", "entity_name": "Malta", "mu_r": 0.04453896764279, "pi_u": 0.022738, "pi_e": -0.001082, "e_mrp": -0.001082, "mu": 0.06619496764279, "sigma": 0.04216020723134, "s_bar": 0.029774, "s_t": -0.01644, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.2306903451633, "spread": 0.007955554047952, "e_state": "ineligible", "d_stock": 0.46772, "b_st": 0.1761587536254, "b_lt": 0.03234580279229, "due_1y": 0.2085045564177, "due_source": "QPSD", "def": 0.02218578874558, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "NLD", "entity_name": "Netherlands, The", "mu_r": 0.01481387468449, "pi_u": 0.022738, "pi_e": 3.2e-05, "e_mrp": 0, "mu": 0.03755187468449, "sigma": 0.03030441447413, "s_bar": 0.028716, "s_t": -0.01976, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": null, "spread": 0.0004355540479524, "e_state": "ineligible", "d_stock": 0.43349, "b_st": null, "b_lt": null, "due_1y": null, "due_source": null, "def": 0.01588254242748, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "PRT", "entity_name": "Portugal", "mu_r": 0.009711822726409, "pi_u": 0.022738, "pi_e": 0.001192, "e_mrp": 0, "mu": 0.03244982272641, "sigma": 0.04102523144947, "s_bar": 0.023044, "s_t": 0.01693, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.2782420976203, "spread": 0.002215554047952, "e_state": "ineligible", "d_stock": 0.89906, "b_st": 0.2444075232698, "b_lt": 0.04054593714222, "due_1y": 0.284953460412, "due_source": "QPSD", "def": -0.006711362791698, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "SVK", "entity_name": "Slovak Republic", "mu_r": 0.0320707169743, "pi_u": 0.022738, "pi_e": 0.006746, "e_mrp": 0, "mu": 0.0548087169743, "sigma": 0.0428245705694, "s_bar": 0.007116, "s_t": -0.03057, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1289146177703, "spread": 0.005414054047952, "e_state": "ineligible", "d_stock": 0.61648, "b_st": 0.0477724938908, "b_lt": 0.03663662495439, "due_1y": 0.08440911884518, "due_source": "QPSD", "def": 0.04450549892508, "def_source": "QGFS" }, { "quarter": "2025-Q4", "entity_id": "SVN", "entity_name": "Slovenia, Republic of", "mu_r": 0.02237698224679, "pi_u": 0.022738, "pi_e": 0.00027, "e_mrp": 0, "mu": 0.04511498224679, "sigma": 0.04648258604944, "s_bar": 0.015552, "s_t": -0.01737, "rf": 1.019668200851, "h": 0.4591657059113, "theta": 0.2780480129827, "theta_inf": 0.3, "sigma_theta": 0.25, "n": 0.1033425351134, "spread": 0.003255554047952, "e_state": "ineligible", "d_stock": 0.6589, "b_st": null, "b_lt": null, "due_1y": 0.078, "due_source": "Eurostat", "def": 0.02534253511336, "def_source": "QGFS" }];
+        const MRP_PROV = { "mu_r": "Task C1 (real growth drift). Mean of annual log real GDP growth over the last 25 years. Source: IMF WEO, indicator NGDP_R (constant-price GDP), Apr 2026 vintage.", "pi_u": "Task C2 (union inflation). Projected 5-year-ahead average euro-area HICP inflation. Source: IMF WEO group aggregate PCPIPCH for the euro area (G119).", "pi_e": "Task C2 (inflation differential). Domestic minus union projected 5-year HICP inflation. Source: IMF WEO PCPIPCH. Shown for reference; only its floored value e_MRP enters the model.", "e_mrp": "Task C2 (inflation stance used). e_MRP = min(0, differential): a positive differential is credited at zero (competitiveness mean-reversion in a currency union), a negative one debited in full.", "mu": "Nominal growth drift used in capacity (eq. 15): mu = mu_r + pi_u + e_MRP. Derived from the three inflation/growth inputs; not edited directly.", "sigma": "Task C1 (nominal growth volatility). Standard deviation of annual log NOMINAL GDP growth over 25 years (default is triggered by nominal shortfalls). Source: IMF WEO, indicator NGDP.", "s_bar": "Task C3 (fiscal capacity). Best 5-year rolling average primary balance in the country's own history, floored at the smallest positive value across members if negative. Source: IMF WEO, GGXONLB_NGDP.", "s_t": "Task C3 (planned primary balance). Next-year projected primary balance, share of GDP. Source: IMF WEO, GGXONLB_NGDP (2026).", "rf": "Task C4 (safe rate, gross). Quarterly-average 1-year point of the ECB euro-area AAA yield curve over the reference quarter, expressed gross (exp(yield)). Source: ECB YC dataset.", "h": "Task C5 (haircut). Mean NPV Bulow-Rogoff restructuring haircut over the last 50 years. Source: Cruces-Trebesch Master Haircuts database (Apr 2025). Spec fixes h=0.30; this default is the data-driven estimate.", "theta": "Task R2 (market price of distress risk). theta_hat = max(0, theta_inf + sigma_theta * z), z = standardized log quarterly-average VIX vs its 20-year history. Global, common to all countries. Source: CBOE VIX.", "theta_inf": "Task C6 (long-run anchor of the distress-risk factor). Calibration constant theta_inf = 0.30 (Longstaff et al. one-third-of-spread premium).", "sigma_theta": "Task C6 (dispersion of the distress-risk factor). Calibration constant sigma_theta = 0.25, scaling one SD of the VIX proxy into kernel units.", "n": "Task R1 (refinancing need). n_t = debt due within one year + headline deficit, share of GDP. Its two components have their own sources below.", "spread": "Observed 10-year sovereign spread over the ECB AAA 10-year spot rate, reference month. Used in R4 to identify the good vs bad branch inside the fragile region. Source: ECB long-term interest rates (IRS) and AAA curve.", "e_state": "Task R6 (backstop eligibility). eligible / watch / ineligible from EU fiscal-framework compliance and the Commission DSA. If eligible, exposure is truncated at theta_G. Defaults to 'ineligible' (the EDP/DSA feed is not yet sourced).", "d_stock": "Gross general-government debt, % of GDP (context for n_t). Source: IMF WEO, GGXWDG_NGDP.", "due_1y": "Debt due within one year on a remaining-maturity basis, % of GDP. Primary source QPSD (short-term + long-term due <=1y); Eurostat gov_10dd_rmd fills members missing the QPSD long-term leg.", "def": "Headline general-government deficit, share of GDP. Primary source IMF QGFS quarterly net lending summed over the auction year; WEO annual GGXCNL_NGDP fills partial/missing years." };
+        const MRP_CLASSDESC = { "S1": "Safe -- tail exposure <= 0.01%", "S2": "Safe -- tail exposure <= 0.1%", "S3": "Safe -- tail exposure <= 1%", "F1": "Fragile (good eq.) -- exposure <= 5% and fiscal exit <= 2y", "F2": "Fragile -- exposure <= 15%", "F3": "Fragile -- exposure <= 30%", "F4": "Fragile -- exposure > 30%", "D1": "Distressed -- P[risk-on exit] >= 25%", "D2": "Distressed -- P[risk-on exit] < 25%", "D3": "Distressed -- need above the band on the 90% factor range" };
+        const MRP_LABELS = { "mu_r": "Real growth drift (mu_r)", "pi_u": "Union inflation (pi_u)", "pi_e": "Inflation differential (pi_e)", "e_mrp": "Inflation stance (e_MRP)", "mu": "Nominal growth drift (mu)", "sigma": "Nominal growth volatility (sigma)", "s_bar": "Fiscal capacity (s_bar)", "s_t": "Planned primary balance (s_t)", "rf": "Safe rate (R^f)", "h": "Haircut (h)", "theta": "Distress-risk price (theta_t)", "spread": "10y sovereign spread", "theta_inf": "Factor anchor (theta_inf)", "sigma_theta": "Factor dispersion (sigma_theta)", "n": "Refinancing need (n_t)", "d_stock": "Gross debt stock", "due_1y": "Debt due within one year", "def": "Headline deficit", "e_state": "Backstop eligibility" };
+        const MRP_COLORS = { "safe": "#1a9850", "fragile": "#f39c12", "distressed": "#d73027" };
+    </script>
+    <script>"use strict";
+        (function () {
+            var $ = function (id) { return document.getElementById(id); };
+            var COL = MRP_COLORS;
+
+            // Editable + read-only parameter specification -------------------------
+            var GROUPS = ["Growth & inflation", "Fiscal", "Market & risk",
+                "Risk factor (global)", "Refinancing & state"];
+            var SPECS = [
+                { id: "mu_r", g: 0, sym: "μ_r", lab: "real growth drift", min: -0.02, max: 0.06, step: 0.001 },
+                { id: "pi_u", g: 0, sym: "πᵘ", lab: "union inflation", min: 0, max: 0.05, step: 0.001 },
+                { id: "e_mrp", g: 0, sym: "e", lab: "inflation stance", min: -0.03, max: 0.01, step: 0.001 },
+                { id: "sigma", g: 0, sym: "σ", lab: "growth volatility", min: 0.005, max: 0.12, step: 0.001 },
+                { id: "mu", g: 0, sym: "μ", lab: "nominal drift (derived)", ro: true, fmt: "n3" },
+                { id: "pi_e", g: 0, sym: "πᵉ", lab: "inflation differential", ro: true, fmt: "n3" },
+                { id: "s_bar", g: 1, sym: "s̄", lab: "fiscal capacity", min: 0, max: 0.10, step: 0.001 },
+                { id: "s_t", g: 1, sym: "s_t", lab: "planned primary balance", min: -0.08, max: 0.06, step: 0.001 },
+                { id: "rf", g: 2, sym: "Rᶠ", lab: "safe rate (gross)", min: 1.00, max: 1.06, step: 0.001 },
+                { id: "h", g: 2, sym: "h", lab: "haircut", min: 0.10, max: 0.70, step: 0.01 },
+                { id: "theta", g: 2, sym: "θ_t", lab: "distress-risk price", min: 0, max: 1.5, step: 0.01 },
+                { id: "spread", g: 2, sym: "", lab: "10y sovereign spread", min: -0.005, max: 0.05, step: 0.001 },
+                { id: "theta_inf", g: 3, sym: "θ_∞", lab: "factor anchor", min: 0, max: 0.6, step: 0.01 },
+                { id: "sigma_theta", g: 3, sym: "σ_θ", lab: "factor dispersion", min: 0.05, max: 0.5, step: 0.01 },
+                { id: "n", g: 4, sym: "n_t", lab: "refinancing need", min: 0, max: 0.6, step: 0.001 },
+                { id: "d_stock", g: 4, sym: "", lab: "debt stock", ro: true, fmt: "pct" },
+                { id: "due_1y", g: 4, sym: "", lab: "debt due ≤1y", ro: true, fmt: "pct" },
+                { id: "def", g: 4, sym: "", lab: "deficit", ro: true, fmt: "pct" }
+            ];
+            var byId = {}; SPECS.forEach(function (s) { byId[s.id] = s; });
+            var EDITABLE = SPECS.filter(function (s) { return !s.ro; }).map(function (s) { return s.id; });
+
+            // Formatting -----------------------------------------------------------
+            function pct(x, d) { d = d == null ? 1 : d; return (x == null || isNaN(x)) ? "n/a" : (100 * x).toFixed(d) + "%"; }
+            function num(x, d) { d = d == null ? 3 : d; return (x == null || isNaN(x)) ? "n/a" : x.toFixed(d); }
+            // Keep >=6 decimals so defaults compute to database precision (theta_g and
+            // exposure are sensitive near the fold; 4 dp visibly shifts the rating).
+            function clean(v, step) { var dec = (String(step).split(".")[1] || "").length; return Number(v.toFixed(Math.max(dec, 6))); }
+
+            // Data lookup ----------------------------------------------------------
+            function row() {
+                var c = $("country").value, q = $("quarter").value;
+                return MRP_DATA.find(function (r) { return r.entity_id === c && r.quarter === q; });
+            }
+
+            // Build sidebar --------------------------------------------------------
+            function buildPanel() {
+                var panel = $("paramPanel"); panel.innerHTML = "";
+                GROUPS.forEach(function (gname, gi) {
+                    var det = document.createElement("details");
+                    det.className = "grp"; if (gi === 0) det.open = true;
+                    var sum = document.createElement("summary"); sum.textContent = gname; det.appendChild(sum);
+                    SPECS.filter(function (s) { return s.g === gi; }).forEach(function (s) {
+                        det.appendChild(paramRow(s));
+                    });
+                    if (gi === 4) det.appendChild(eStateRow());
+                    panel.appendChild(det);
+                });
+            }
+            function infoBtn(id) {
+                var b = document.createElement("button");
+                b.className = "info"; b.innerHTML = "&#9432;"; b.title = "source & construction";
+                b.onclick = function () { openModal(id); }; return b;
+            }
+            function paramRow(s) {
+                var wrap = document.createElement("div"); wrap.className = "prow"; wrap.id = "row_" + s.id;
+                var lab = document.createElement("div"); lab.className = "plab";
+                lab.appendChild(infoBtn(s.id));
+                var t = document.createElement("span");
+                t.innerHTML = (s.sym ? '<span class="sym">' + s.sym + '</span> ' : '') + s.lab;
+                lab.appendChild(t); wrap.appendChild(lab);
+                if (s.ro) {
+                    var rv = document.createElement("div"); rv.className = "roval"; rv.id = "ro_" + s.id; rv.textContent = "–";
+                    wrap.appendChild(rv);
+                } else {
+                    var pv = document.createElement("div"); pv.className = "pval";
+                    var inp = document.createElement("input");
+                    inp.type = "number"; inp.step = "any"; inp.id = "in_" + s.id;
+                    inp.oninput = function () { syncFromNumber(s); compute(); };
+                    pv.appendChild(inp); wrap.appendChild(pv);
+                    var sl = document.createElement("input");
+                    sl.type = "range"; sl.min = s.min; sl.max = s.max; sl.step = s.step; sl.id = "sl_" + s.id;
+                    sl.oninput = function () { $("in_" + s.id).value = sl.value; syncFromNumber(s); compute(); };
+                    wrap.appendChild(sl);
+                }
+                return wrap;
+            }
+            function eStateRow() {
+                var wrap = document.createElement("div"); wrap.className = "prow";
+                var lab = document.createElement("div"); lab.className = "plab";
+                lab.appendChild(infoBtn("e_state"));
+                var t = document.createElement("span"); t.textContent = "backstop eligibility"; lab.appendChild(t);
+                wrap.appendChild(lab);
+                var seg = document.createElement("div"); seg.className = "seg"; seg.style.gridColumn = "1/-1";
+                ["ineligible", "watch", "eligible"].forEach(function (v) {
+                    var b = document.createElement("button"); b.textContent = v; b.dataset.v = v;
+                    b.onclick = function () { setEState(v); compute(); }; seg.appendChild(b);
+                });
+                wrap.appendChild(seg); return wrap;
+            }
+            function setEState(v) {
+                var seg = document.querySelector(".seg");
+                Array.prototype.forEach.call(seg.children, function (b) { b.classList.toggle("on", b.dataset.v === v); });
+            }
+            function eState() { var on = document.querySelector(".seg button.on"); return on ? on.dataset.v : "ineligible"; }
+
+            function syncFromNumber(s) {
+                var inp = $("in_" + s.id), sl = $("sl_" + s.id);
+                var v = inp.value.trim() === "" ? NaN : parseFloat(inp.value);
+                if (sl && !isNaN(v)) sl.value = v;
+                $("row_" + s.id).classList.toggle("missing", inp.value.trim() === "");
+            }
+
+            // Load defaults from the selected row ----------------------------------
+            function setVal(id, v) {
+                var s = byId[id], inp = $("in_" + id), sl = $("sl_" + id);
+                var missing = (v == null || (typeof v === "number" && isNaN(v)));
+                inp.value = missing ? "" : clean(v, s.step);
+                if (sl) sl.value = missing ? s.min : v;
+                $("row_" + id).classList.toggle("missing", missing);
+            }
+            function loadDefaults() {
+                var r = row();
+                EDITABLE.forEach(function (id) { setVal(id, r[id]); });
+                setEState(r.e_state == null ? "ineligible" : r.e_state);
+                renderReadonly(); renderCompleteness();
+            }
+
+            // Read live parameter vector ------------------------------------------
+            function readParams() {
+                function g(id) { var v = $("in_" + id).value; return v.trim() === "" ? NaN : parseFloat(v); }
+                var p = {
+                    mu: g("mu_r") + g("pi_u") + g("e_mrp"),
+                    sigma: g("sigma"), s_bar: g("s_bar"), rf: g("rf"), h: g("h"),
+                    theta: g("theta"), n: g("n"), s_t: g("s_t"),
+                    theta_inf: g("theta_inf"), sigma_theta: g("sigma_theta"),
+                    spread: g("spread"), e_state: eState()
+                };
+                return p;
+            }
+
+            var LAST = null, LASTP = null;
+            function compute() {
+                var p = readParams(); LASTP = p;
+                var r; try { r = MRP.rate(p); } catch (e) { r = { computable: false, missing: [], reason: "parameters out of valid range" }; }
+                LAST = r;
+                renderReadonly(); renderHero(r); renderMetrics(r);
+                renderFunding(r, p); renderBand(r); renderExit(r);
+            }
+
+            // Read-only derived fields --------------------------------------------
+            function renderReadonly() {
+                var r = row();
+                function g(id) { var v = $("in_" + id).value; return v.trim() === "" ? NaN : parseFloat(v); }
+                var mu = g("mu_r") + g("pi_u") + g("e_mrp");
+                setRO("mu", isNaN(mu) ? null : mu, "n3");
+                setRO("pi_e", r.pi_e, "n3");
+                setRO("d_stock", r.d_stock, "pct");
+                setRO("due_1y", r.due_1y, "pct");
+                setRO("def", r.def, "pct");
+            }
+            function setRO(id, v, fmt) {
+                var el = $("ro_" + id); if (!el) return;
+                if (v == null || isNaN(v)) { el.textContent = "missing"; el.classList.add("miss"); }
+                else { el.textContent = fmt === "pct" ? pct(v, 1) : num(v, 3); el.classList.remove("miss"); }
+            }
+            function renderCompleteness() {
+                var r = row(), miss = [];
+                SPECS.forEach(function (s) { var v = r[s.id]; if (v == null || (typeof v === "number" && isNaN(v))) miss.push(s.id); });
+                var el = $("completeness");
+                if (miss.length === 0) { el.className = "note ok"; el.innerHTML = "&#10003; all inputs present in the database"; }
+                else {
+                    el.className = "note bad";
+                    el.innerHTML = "<b>Missing in source:</b> " + miss.map(function (id) { return MRP_LABELS[id] || id; }).join(", ") +
+                        ". Fields are empty below — enter a value to compute a rating.";
+                }
+            }
+
+            // Hero -----------------------------------------------------------------
+            function renderHero(r) {
+                var h = $("hero");
+                if (!r.computable) {
+                    h.className = "card hero bad";
+                    var msg = r.missing && r.missing.length
+                        ? "missing required input(s): " + r.missing.map(function (id) { return MRP_LABELS[id] || id; }).join(", ")
+                        : (r.reason || "inputs incomplete");
+                    h.innerHTML = '<div class="warnicon">⚠️</div><div><div class="rtitle">Rating not computable</div>' +
+                        '<div class="rdesc">Cannot compute the rating: ' + msg + ".</div></div>";
+                    return;
+                }
+                h.className = "card hero";
+                var c = COL[r.regime];
+                var branch = r.branch ? " · " + r.branch + " branch" : "";
+                h.innerHTML =
+                    '<div class="badge" style="--c:' + c + '">' + r["class"] + '</div>' +
+                    '<div><div class="rtitle" style="color:' + c + '">' + r.regime + branch + '</div>' +
+                    '<div class="rdesc">' + (MRP_CLASSDESC[r["class"]] || "") + '</div></div>' +
+                    '<div class="chips">' +
+                    chip("Need n_t", pct(r.n)) +
+                    chip("Exposure", pct(r.exposure, 2)) +
+                    chip("Fiscal exit", isFinite(r.x_fisc) ? num(r.x_fisc, 1) + "y" : "—") +
+                    '</div>';
+            }
+            function chip(k, v) { return '<div class="stat"><div class="k">' + k + '</div><div class="v">' + v + '</div></div>'; }
+
+            // Metrics --------------------------------------------------------------
+            function renderMetrics(r) {
+                var m = $("metrics");
+                if (!r.computable) { m.innerHTML = ""; return; }
+                var rows = [
+                    ["Fragile band n_L", pct(r.n_l)], ["Fragile band n_U", pct(r.n_u)],
+                    ["Good exit θ_G", num(r.theta_g, 2)], ["Bad exit θ_B", num(r.theta_b, 2)],
+                    ["Head-room Δ_G", num(r.delta_g, 2)], ["Down-dist Δ_B", num(r.delta_b, 2)],
+                    ["Max capacity b_M", pct(r.b_m)], ["Model default ψ", pct(r.psi_model, 2)],
+                    ["Liquidity resid.", isNaN(r.spread_liquidity) ? "n/a" : pct(r.spread_liquidity, 2)]
+                ];
+                if (r.regime === "distressed") rows.push(["Risk-on P[θ<θ_B]", pct(r.p_riskon, 1)]);
+                m.innerHTML = rows.map(function (kv) {
+                    return '<div class="mcell"><div class="k">' + kv[0] + '</div><div class="v">' + kv[1] + '</div></div>';
+                }).join("");
+            }
+
+            // SVG helpers ----------------------------------------------------------
+            var NS = "http://www.w3.org/2000/svg";
+            function svgLine(x1, y1, x2, y2, cls, extra) { return '<line x1="' + x1 + '" y1="' + y1 + '" x2="' + x2 + '" y2="' + y2 + '" class="' + (cls || "") + '" ' + (extra || "") + '/>'; }
+            function svgText(x, y, t, cls, extra) { return '<text x="' + x + '" y="' + y + '" class="' + (cls || "") + '" ' + (extra || "") + '>' + t + '</text>'; }
+            function placeholder(svg, msg) {
+                var vb = svg.viewBox.baseVal;
+                svg.innerHTML = svgText(vb.width / 2, vb.height / 2, msg, "clabel", 'text-anchor="middle"');
+            }
+            var G = { drag: null };
+
+            // Funding curve --------------------------------------------------------
+            function renderFunding(r, p) {
+                var svg = $("svgFunding");
+                if (!r.computable) { placeholder(svg, "Rating not computable"); return; }
+                var W = 760, H = 360, mL = 58, mR = 22, mT = 16, mB = 40;
+                var x0 = mL, x1 = W - mR, y0 = H - mB, y1 = mT;
+                var haveBand = !isNaN(r.d_u) && !isNaN(r.d_l);
+                var dA = haveBand ? r.d_u * 0.35 : 1e-4, dB = haveBand ? r.d_l * 1.55 : r.d_m * 1.6;
+                var N = 180, xs = [], ys = [], i, d;
+                for (i = 0; i <= N; i++) { d = dA + (dB - dA) * i / N; xs.push(d); ys.push(MRP.xi(d, p.s_bar, r.b_m, p.mu, p.theta, p.sigma, p.rf, p.h)); }
+                var yvals = ys.concat([r.n, r.n_l, r.n_u].filter(function (v) { return !isNaN(v); }));
+                var yMin = Math.min.apply(null, yvals), yMax = Math.max.apply(null, yvals);
+                var pad = (yMax - yMin) * 0.08 || 0.01; yMin -= pad; yMax += pad;
+                var sx = function (v) { return x0 + (v - dA) / (dB - dA) * (x1 - x0); };
+                var sy = function (v) { return y0 - (v - yMin) / (yMax - yMin) * (y0 - y1); };
+                var s = "";
+                // grid + axes
+                var kx, ky, tv;
+                for (kx = 0; kx <= 4; kx++) {
+                    tv = dA + (dB - dA) * kx / 4; var px = sx(tv);
+                    s += svgLine(px, y1, px, y0, "gridline"); s += svgText(px, y0 + 14, (tv * 100).toFixed(0) + "%", "tick", 'text-anchor="middle"');
+                }
+                for (ky = 0; ky <= 4; ky++) {
+                    tv = yMin + (yMax - yMin) * ky / 4; var py = sy(tv);
+                    s += svgLine(x0, py, x1, py, "gridline"); s += svgText(x0 - 6, py + 3, (tv * 100).toFixed(0) + "%", "tick", 'text-anchor="end"');
+                }
+                // fragile band strip
+                if (haveBand) {
+                    var yb = sy(r.n_u), yt = sy(r.n_l);
+                    s += '<rect x="' + x0 + '" y="' + Math.min(yb, yt) + '" width="' + (x1 - x0) + '" height="' + Math.abs(yt - yb) + '" fill="' + COL.fragile + '" opacity="0.12"/>';
+                }
+                // curve
+                var pathD = "M"; for (i = 0; i <= N; i++) { pathD += (i ? "L" : "") + sx(xs[i]).toFixed(2) + " " + sy(ys[i]).toFixed(2); }
+                s += '<path d="' + pathD + '" fill="none" stroke="' + COL[r.regime] + '" stroke-width="2.6"/>';
+                // edge points
+                if (haveBand) {
+                    s += '<circle cx="' + sx(r.d_u) + '" cy="' + sy(r.n_u) + '" r="4.5" fill="var(--panel)" stroke="' + COL[r.regime] + '" stroke-width="2"/>';
+                    s += '<circle cx="' + sx(r.d_l) + '" cy="' + sy(r.n_l) + '" r="4.5" fill="var(--panel)" stroke="' + COL[r.regime] + '" stroke-width="2"/>';
+                    s += svgText(sx(r.d_u), sy(r.n_u) - 9, "n_U", "clabel", 'text-anchor="middle"');
+                    s += svgText(sx(r.d_l), sy(r.n_l) + 16, "n_L", "clabel", 'text-anchor="middle"');
+                }
+                // need line + drag handle
+                var ny = sy(r.n);
+                s += svgLine(x0, ny, x1, ny, "", "stroke=\"var(--muted)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"");
+                s += svgText(x0 + 4, ny - 5, "need n = " + pct(r.n), "clabel");
+                s += '<circle class="handle" cx="' + (x1 - 2) + '" cy="' + ny + '" r="7"/>';
+                // axis lines
+                s += svgLine(x0, y0, x1, y0, "axis") + svgLine(x0, y1, x0, y0, "axis");
+                s += svgText((x0 + x1) / 2, H - 4, "face value d  (% of GDP)", "clabel", 'text-anchor="middle"');
+                svg.innerHTML = s;
+                G.funding = { svg: svg, W: W, H: H, x0: x0, x1: x1, y0: y0, y1: y1, dA: dA, dB: dB, yMin: yMin, yMax: yMax, sx: sx, sy: sy, r: r, p: p };
+                hookHover(svg, "funding"); hookDrag(svg, "funding", "n", "y");
+            }
+
+            // Band strip -----------------------------------------------------------
+            function renderBand(r) {
+                var svg = $("svgBand");
+                if (!r.computable) { placeholder(svg, "—"); return; }
+                var W = 380, H = 150, mL = 14, mR = 14, x0 = mL, x1 = W - mR, yb = 58, yt = 96, ymid = (yb + yt) / 2;
+                var nl = isNaN(r.n_l) ? null : r.n_l, nu = isNaN(r.n_u) ? null : r.n_u;
+                var hi = Math.max(r.n_u || 0, r.n, r.n_l || 0) * 1.25 || 0.1;
+                var sx = function (v) { return x0 + v / hi * (x1 - x0); };
+                var s = "";
+                var xnl = nl == null ? x1 : sx(nl), xnu = nu == null ? x1 : sx(nu);
+                s += '<rect x="' + x0 + '" y="' + yb + '" width="' + (xnl - x0) + '" height="' + (yt - yb) + '" fill="' + COL.safe + '" opacity="0.28"/>';
+                s += '<rect x="' + xnl + '" y="' + yb + '" width="' + (xnu - xnl) + '" height="' + (yt - yb) + '" fill="' + COL.fragile + '" opacity="0.34"/>';
+                s += '<rect x="' + xnu + '" y="' + yb + '" width="' + (x1 - xnu) + '" height="' + (yt - yb) + '" fill="' + COL.distressed + '" opacity="0.28"/>';
+                s += svgText((x0 + xnl) / 2, yb - 6, "safe", "clabel", 'text-anchor="middle" fill="' + COL.safe + '"');
+                s += svgText((xnl + xnu) / 2, yb - 6, "fragile", "clabel", 'text-anchor="middle" fill="' + COL.fragile + '"');
+                s += svgText((xnu + x1) / 2, yb - 6, "distressed", "clabel", 'text-anchor="middle" fill="' + COL.distressed + '"');
+                if (nl != null) { s += svgLine(xnl, yb, xnl, yt, "", "stroke=\"var(--muted)\""); s += svgText(xnl, yt + 13, "n_L " + pct(nl), "tick", 'text-anchor="middle"'); }
+                if (nu != null) { s += svgLine(xnu, yb, xnu, yt, "", "stroke=\"var(--muted)\""); s += svgText(xnu, yt + 13, "n_U " + pct(nu), "tick", 'text-anchor="middle"'); }
+                var xn = sx(r.n);
+                s += svgText(xn, yb - 22, "n = " + pct(r.n), "clabel", 'text-anchor="middle" font-weight="700" fill="var(--ink)"');
+                s += '<circle class="handle" cx="' + xn + '" cy="' + ymid + '" r="8" fill="' + COL[r.regime] + '" stroke="var(--panel)" stroke-width="2"/>';
+                // axis
+                var kx; for (kx = 0; kx <= 4; kx++) { var tv = hi * kx / 4; s += svgText(sx(tv), H - 6, (tv * 100).toFixed(0) + "%", "tick", 'text-anchor="middle"'); }
+                svg.innerHTML = s;
+                G.band = { svg: svg, W: W, H: H, x0: x0, x1: x1, hi: hi, sx: sx, r: r };
+                hookHover(svg, "band"); hookDrag(svg, "band", "n", "x");
+            }
+
+            // Exit strip -----------------------------------------------------------
+            function renderExit(r) {
+                var svg = $("svgExit");
+                if (!r.computable) { placeholder(svg, "—"); return; }
+                var W = 380, H = 150, mL = 14, mR = 14, x0 = mL, x1 = W - mR, yb = 58, yt = 96, ymid = (yb + yt) / 2;
+                var vals = [r.theta_b, r.theta_g, r.theta, r.theta_inf].filter(function (v) { return !isNaN(v); });
+                var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals), pad = 0.15 * (hi - lo + 1e-6);
+                lo = Math.min(lo - pad, -0.15); hi = hi + pad;
+                var sx = function (v) { return x0 + (v - lo) / (hi - lo) * (x1 - x0); };
+                var s = "";
+                var xb = sx(r.theta_b), xg = sx(r.theta_g);
+                s += '<rect x="' + Math.min(xb, xg) + '" y="' + yb + '" width="' + Math.abs(xg - xb) + '" height="' + (yt - yb) + '" fill="' + COL[r.regime] + '" opacity="0.30"/>';
+                s += svgLine(xb, yb, xb, yt, "", "stroke=\"var(--muted)\"") + svgLine(xg, yb, xg, yt, "", "stroke=\"var(--muted)\"");
+                s += svgText(xb, yt + 13, "θ_B " + num(r.theta_b, 2), "tick", 'text-anchor="middle"');
+                s += svgText(xg, yt + 13, "θ_G " + num(r.theta_g, 2), "tick", 'text-anchor="middle"');
+                var xi = sx(r.theta_inf);
+                s += svgLine(xi, yb - 14, xi, yt + 4, "", "stroke=\"var(--muted)\" stroke-dasharray=\"3 3\"");
+                s += svgText(xi, yb - 18, "θ_∞", "clabel", 'text-anchor="middle"');
+                var xt = sx(r.theta);
+                s += svgText(xt, yb - 22, "θ_t = " + num(r.theta, 2), "clabel", 'text-anchor="middle" font-weight="700" fill="var(--ink)"');
+                s += '<circle class="handle" cx="' + xt + '" cy="' + ymid + '" r="8" fill="' + COL[r.regime] + '" stroke="var(--panel)" stroke-width="2"/>';
+                var kx; for (kx = 0; kx <= 4; kx++) { var tv = lo + (hi - lo) * kx / 4; s += svgText(sx(tv), H - 6, tv.toFixed(1), "tick", 'text-anchor="middle"'); }
+                svg.innerHTML = s;
+                G.exit = { svg: svg, W: W, H: H, x0: x0, x1: x1, lo: lo, hi: hi, sx: sx, r: r };
+                hookHover(svg, "exit"); hookDrag(svg, "exit", "theta", "x");
+            }
+
+            // Pointer -> viewBox coordinate ---------------------------------------
+            function vbCoord(svg, ev, W, H) {
+                var rect = svg.getBoundingClientRect();
+                return { x: (ev.clientX - rect.left) / rect.width * W, y: (ev.clientY - rect.top) / rect.height * H };
+            }
+            // Hover tooltips -------------------------------------------------------
+            function hookHover(svg, which) {
+                svg.onmousemove = function (ev) {
+                    var t = $("tip"); var g = G[which]; if (!g) return;
+                    var c = vbCoord(svg, ev, g.W, g.H); var msg = "";
+                    if (which === "funding") {
+                        var d = g.dA + (c.x - g.x0) / (g.x1 - g.x0) * (g.dB - g.dA);
+                        if (c.x < g.x0 || c.x > g.x1) { t.style.opacity = 0; return; }
+                        var xiv = MRP.xi(d, g.p.s_bar, g.r.b_m, g.p.mu, g.p.theta, g.p.sigma, g.p.rf, g.p.h);
+                        msg = "d " + pct(d) + "  ·  ξ " + pct(xiv);
+                    } else if (which === "band") {
+                        var v = (c.x - g.x0) / (g.x1 - g.x0) * g.hi; msg = "need " + pct(v) + "  ·  band " + pct(g.r.n_l) + "–" + pct(g.r.n_u);
+                    } else {
+                        var th = g.lo + (c.x - g.x0) / (g.x1 - g.x0) * (g.hi - g.lo); msg = "θ " + num(th, 2) + "  ·  [θ_B " + num(g.r.theta_b, 2) + ", θ_G " + num(g.r.theta_g, 2) + "]";
+                    }
+                    t.textContent = msg; t.style.left = ev.clientX + "px"; t.style.top = ev.clientY + "px"; t.style.opacity = 1;
+                };
+                svg.onmouseleave = function () { $("tip").style.opacity = 0; };
+            }
+            // Drag markers ---------------------------------------------------------
+            function hookDrag(svg, which, paramId, axis) {
+                var handle = svg.querySelector(".handle"); if (!handle) return;
+                handle.addEventListener("pointerdown", function (ev) {
+                    ev.preventDefault(); G.drag = { which: which, paramId: paramId, axis: axis }; handle.setPointerCapture && handle.setPointerCapture(ev.pointerId);
+                });
+            }
+            document.addEventListener("pointermove", function (ev) {
+                if (!G.drag) return;
+                var g = G[G.drag.which]; if (!g) return;
+                var c = vbCoord(g.svg, ev, g.W, g.H), v;
+                if (G.drag.axis === "y") { v = g.yMin + (g.y0 - c.y) / (g.y0 - g.y1) * (g.yMax - g.yMin); }
+                else if (G.drag.which === "band") { v = (c.x - g.x0) / (g.x1 - g.x0) * g.hi; }
+                else { v = g.lo + (c.x - g.x0) / (g.x1 - g.x0) * (g.hi - g.lo); }
+                var s = byId[G.drag.paramId];
+                v = Math.max(s.min, Math.min(s.max, v));
+                $("in_" + s.id).value = clean(v, s.step); syncFromNumber(s); compute();
+            });
+            document.addEventListener("pointerup", function () { G.drag = null; });
+
+            // Modal ----------------------------------------------------------------
+            function openModal(id) {
+                var r = row(), txt = MRP_PROV[id] || "";
+                if (id === "due_1y" && r && r.due_source) txt += "  This country: " + r.due_source + ".";
+                if (id === "def" && r && r.def_source) txt += "  This country: " + r.def_source + ".";
+                if (id === "n" && r && (r.n == null)) txt += "  NOTE: not available for this country (a debt-due source is missing); supply n_t to rate it.";
+                $("modalTitle").textContent = " " + (MRP_LABELS[id] || id);
+                $("modalBody").textContent = txt;
+                $("backdrop").classList.add("show");
+            }
+            function closeModal() { $("backdrop").classList.remove("show"); }
+
+            // Init -----------------------------------------------------------------
+            function init() {
+                var csel = $("country"), qsel = $("quarter");
+                var seen = {}, countries = [];
+                MRP_DATA.forEach(function (r) { if (!seen[r.entity_id]) { seen[r.entity_id] = 1; countries.push([r.entity_id, r.entity_name]); } });
+                countries.sort(function (a, b) { return a[1] < b[1] ? -1 : 1; });
+                countries.forEach(function (c) { var o = document.createElement("option"); o.value = c[0]; o.textContent = c[1]; csel.appendChild(o); });
+                var qs = {}; MRP_DATA.forEach(function (r) { qs[r.quarter] = 1; });
+                Object.keys(qs).sort().reverse().forEach(function (q) { var o = document.createElement("option"); o.value = q; o.textContent = q; qsel.appendChild(o); });
+                buildPanel();
+                csel.onchange = function () { loadDefaults(); compute(); };
+                qsel.onchange = function () { loadDefaults(); compute(); };
+                $("reset").onclick = function () { loadDefaults(); compute(); };
+                $("modalClose").onclick = closeModal;
+                $("backdrop").onclick = function (e) { if (e.target === $("backdrop")) closeModal(); };
+                document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeModal(); });
+                loadDefaults(); compute();
+            }
+            document.addEventListener("DOMContentLoaded", init);
+        })();</script>
+</body>
+
+</html>
