@@ -1,0 +1,30 @@
+---
+title: "Rating App"
+page-layout: full
+toc: false
+body-classes: rating-app-page
+---
+
+The minimal rating process for euro-area sovereigns, running entirely in your browser. Pick a country and quarter, edit any calibrated parameter (or drag the markers on the charts), and the funding curve, fragile band, exit thresholds and rating class recompute live. Each input has an ⓘ with its source and construction. Use the [wiki](../wiki/index.qmd) to challenge, corroborate, or fill in the parameters.
+
+```{=html}
+<iframe id="rating-app" class="rating-app" src="rating-app.html" title="Rating App"></iframe>
+<script>
+  // Fill the window below the intro; the app scrolls inside its frame
+  (function () {
+    const frame = document.getElementById("rating-app");
+    const fit = () => {
+      // On narrow screens the intro pushes the app down; the frame then fills the screen
+      // once the intro has scrolled away
+      const min = window.innerWidth < 768 ? window.innerHeight - 70 : 480;
+      const top = frame.getBoundingClientRect().top + window.scrollY;
+      frame.style.height = Math.max(min, window.innerHeight - top) + "px";
+      // Quarto's page grid adds spacing below the content; shrink the frame by that amount
+      const overflow = document.documentElement.scrollHeight - window.innerHeight;
+      if (overflow > 0) frame.style.height = Math.max(min, frame.offsetHeight - overflow) + "px";
+    };
+    fit();
+    window.addEventListener("resize", fit);
+  })();
+</script>
+```

@@ -68,3 +68,15 @@ a.entry-card:focus {
   font-style: italic;
   cursor: help;
 }
+
+/* Rating app, framed below the page intro */
+.rating-app {
+  display: block;
+  width: 100%;
+  height: calc(100vh - 64px);
+  margin: 0;
+  border: 0;
+}
+.rating-app-page main.content {
+  margin-bottom: 0;
+}

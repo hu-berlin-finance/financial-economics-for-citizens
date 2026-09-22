@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
   resources:
-    # The rating app is a self-contained HTML page, copied as is
-    - app/index.html
+    # The rating app is a self-contained HTML page, copied as is and framed by app/index.qmd
+    - app/rating-app.html
     # GitHub Pages serves docs/ as is, without Jekyll
     - .nojekyll
 
@@ -13,7 +13,7 @@ website:
     location: navbar
   navbar:
     left:
-      - href: app/index.html
+      - href: app/index.qmd
         text: Rating App
       - href: wiki/index.qmd
         text: Wiki
