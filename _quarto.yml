@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    # The rating app is a self-contained HTML page, copied as is
+    - app/index.html
+    # GitHub Pages serves docs/ as is, without Jekyll
+    - .nojekyll
+
+website:
+  title: "Financial Economics for Citizens"
+  search:
+    location: navbar
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: app/index.html
+        text: Rating App
+      - href: wiki/index.qmd
+        text: Wiki
+  sidebar:
+    - title: Wiki
+      style: docked
+      contents:
+        - wiki/index.qmd
+        - section: Countries
+          href: wiki/countries/index.qmd
+          contents: wiki/countries/*.qmd
+        - section: Parameters
+          href: wiki/parameters/index.qmd
+          contents: wiki/parameters/*.qmd
+        - section: Agencies
+          href: wiki/agencies/index.qmd
+          contents: wiki/agencies/*.qmd
+        - section: Institutions
+          href: wiki/institutions/index.qmd
+          contents: wiki/institutions/*.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/light.scss]
+      dark: [darkly, styles/dark.scss]
+    css: styles/wiki.css
+    include-after-body: styles/source-tooltips.html
+    toc: true
+    toc-depth: 3
+    anchor-sections: true

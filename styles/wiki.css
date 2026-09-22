@@ -1,0 +1,70 @@
+/* Evidence gaps in the country dossiers */
+.no-evidence {
+  color: var(--bs-secondary-color);
+  font-style: italic;
+}
+
+/* Wide key-figure and rating tables */
+main table {
+  font-size: 0.85rem;
+}
+main table td:last-child {
+  white-space: nowrap;
+}
+
+/* Source references: an information icon that shows the source on hover */
+.source-ref {
+  color: var(--bs-primary);
+  cursor: help;
+  font-size: 0.8em;
+  margin-left: 0.2em;
+  vertical-align: super;
+}
+.source-ref:focus {
+  outline: 1px dotted currentColor;
+}
+
+/* Entry points on the home page */
+.entry-points {
+  margin-top: 2rem;
+}
+a.entry-card {
+  display: block;
+  height: 100%;
+  padding: 1.5rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 14px;
+  color: var(--bs-body-color);
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+a.entry-card:hover,
+a.entry-card:focus {
+  border-color: var(--bs-primary);
+  box-shadow: 0 8px 24px rgba(16, 24, 40, 0.08);
+}
+.entry-title {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.entry-action {
+  display: block;
+  margin-top: 1rem;
+  color: var(--bs-primary);
+  font-weight: 600;
+}
+
+/* Key figures: years as columns, scrollable on small screens */
+.key-figures {
+  overflow-x: auto;
+}
+.key-figures td,
+.key-figures th {
+  white-space: nowrap;
+}
+.year-mark {
+  font-style: italic;
+  cursor: help;
+}

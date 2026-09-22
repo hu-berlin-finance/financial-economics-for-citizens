@@ -1,0 +1,25 @@
+---
+title: "Sovereign Credit Ratings"
+subtitle: "Financial Economics for Citizens"
+page-layout: full
+toc: false
+---
+
+How risky is it to lend to a euro-area government? In this course, you rate the credit risk of euro-area sovereigns with the **minimal rating process** (MRP), a transparent, model-based rating process. The MRP asks how large a drop in global risk appetite a country could withstand before it loses access to markets, and how much fiscal effort would take it out of danger.
+
+The rating itself is mechanical: parameters in, rating out. Your job is the judgment around it. In the **discretionary adjustments process** (DAP), you work in a country team, check whether the parameters for your country are the best defensible ones, and say clearly when they are in doubt.
+
+```{=html}
+<div class="grid entry-points">
+  <a class="entry-card g-col-12 g-col-md-6" href="app/index.html">
+    <span class="entry-title">Rating App</span>
+    <span>Set the model parameters for a country and see its rating, its position relative to the fragile region, and how sensitive the result is to each input.</span>
+    <span class="entry-action">Open the app →</span>
+  </a>
+  <a class="entry-card g-col-12 g-col-md-6" href="wiki/index.html">
+    <span class="entry-title">Wiki</span>
+    <span>Find the evidence to challenge, corroborate, or fill in the parameters: country dossiers, parameter definitions, rating agencies, and institutions, with every statement linked to its source.</span>
+    <span class="entry-action">Browse the wiki →</span>
+  </a>
+</div>
+```

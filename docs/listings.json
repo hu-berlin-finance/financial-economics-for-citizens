@@ -1,0 +1,59 @@
+[
+  {
+    "listing": "/wiki/agencies/index.html",
+    "items": [
+      "/wiki/agencies/s-p-global-ratings.html"
+    ]
+  },
+  {
+    "listing": "/wiki/institutions/index.html",
+    "items": [
+      "/wiki/institutions/bank-for-international-settlements.html",
+      "/wiki/institutions/european-central-bank.html",
+      "/wiki/institutions/european-commission.html",
+      "/wiki/institutions/european-investment-bank.html",
+      "/wiki/institutions/european-stability-mechanism.html",
+      "/wiki/institutions/eurostat.html",
+      "/wiki/institutions/international-monetary-fund.html",
+      "/wiki/institutions/oecd.html",
+      "/wiki/institutions/world-bank.html"
+    ]
+  },
+  {
+    "listing": "/wiki/parameters/index.html",
+    "items": [
+      "/wiki/parameters/backstop-eligibility.html",
+      "/wiki/parameters/fiscal-capacity.html",
+      "/wiki/parameters/growth.html",
+      "/wiki/parameters/haircut.html",
+      "/wiki/parameters/inflation-differential.html",
+      "/wiki/parameters/outlook-factors.html",
+      "/wiki/parameters/refinancing-need.html"
+    ]
+  },
+  {
+    "listing": "/wiki/countries/index.html",
+    "items": [
+      "/wiki/countries/austria.html",
+      "/wiki/countries/belgium.html",
+      "/wiki/countries/croatia.html",
+      "/wiki/countries/cyprus.html",
+      "/wiki/countries/estonia.html",
+      "/wiki/countries/finland.html",
+      "/wiki/countries/france.html",
+      "/wiki/countries/germany.html",
+      "/wiki/countries/greece.html",
+      "/wiki/countries/ireland.html",
+      "/wiki/countries/italy.html",
+      "/wiki/countries/latvia.html",
+      "/wiki/countries/lithuania.html",
+      "/wiki/countries/luxembourg.html",
+      "/wiki/countries/malta.html",
+      "/wiki/countries/netherlands.html",
+      "/wiki/countries/portugal.html",
+      "/wiki/countries/slovakia.html",
+      "/wiki/countries/slovenia.html",
+      "/wiki/countries/spain.html"
+    ]
+  }
+]
