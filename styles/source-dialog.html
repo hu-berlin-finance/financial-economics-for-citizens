@@ -1,0 +1,48 @@
+<div class="source-backdrop" id="source-backdrop" hidden>
+  <div class="source-dialog" role="dialog" aria-modal="true" aria-labelledby="source-dialog-title">
+    <h4 id="source-dialog-title"><span class="source-icon" aria-hidden="true">ⓘ</span> Source</h4>
+    <dl>
+      <dt>Document</dt>
+      <dd id="source-dialog-document"></dd>
+      <dt>Page</dt>
+      <dd id="source-dialog-page"></dd>
+    </dl>
+    <button type="button" class="source-close" id="source-dialog-close">Close</button>
+  </div>
+</div>
+<script>
+  // Show the source of a statement in a dialog, like the information buttons of the rating app
+  (function () {
+    const backdrop = document.getElementById("source-backdrop");
+    const closeButton = document.getElementById("source-dialog-close");
+    let opener = null;
+
+    const open = (button) => {
+      const source = button.dataset.source;
+      const split = source.lastIndexOf(", p");
+      document.getElementById("source-dialog-document").textContent = split > 0 ? source.slice(0, split) : source;
+      document.getElementById("source-dialog-page").textContent =
+        split > 0 ? source.slice(split + 2).replace(/^pp?\.\s*/, "") : "–";
+      opener = button;
+      backdrop.hidden = false;
+      closeButton.focus();
+    };
+    const close = () => {
+      if (backdrop.hidden) return;
+      backdrop.hidden = true;
+      if (opener) opener.focus();
+    };
+
+    document.addEventListener("click", (event) => {
+      const button = event.target.closest(".source-ref");
+      if (button) open(button);
+    });
+    closeButton.addEventListener("click", close);
+    backdrop.addEventListener("click", (event) => {
+      if (event.target === backdrop) close();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") close();
+    });
+  })();
+</script>

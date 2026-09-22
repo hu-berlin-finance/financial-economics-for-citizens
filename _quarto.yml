@@ -41,7 +41,7 @@ format:
       light: [cosmo, styles/light.scss]
       dark: [darkly, styles/dark.scss]
     css: styles/wiki.css
-    include-after-body: styles/source-tooltips.html
+    include-after-body: styles/source-dialog.html
     toc: true
     toc-depth: 3
     anchor-sections: true

@@ -12,16 +12,95 @@ main table td:last-child {
   white-space: nowrap;
 }
 
-/* Source references: an information icon that shows the source on hover */
+/* Source references: an information button that opens a dialog, as in the rating app */
 .source-ref {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.15em;
+  height: 1.15em;
+  margin-left: 0.15em;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
   color: var(--bs-primary);
-  cursor: help;
-  font-size: 0.8em;
-  margin-left: 0.2em;
-  vertical-align: super;
+  font-size: 1em;
+  line-height: 1;
+  vertical-align: -0.1em;
+  cursor: pointer;
 }
-.source-ref:focus {
-  outline: 1px dotted currentColor;
+.source-ref:hover,
+.source-ref:focus-visible {
+  background: rgba(var(--bs-primary-rgb), 0.12);
+  outline: none;
+}
+
+.source-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(8, 12, 20, 0.5);
+}
+.source-backdrop[hidden] {
+  display: none;
+}
+.source-dialog {
+  width: 100%;
+  max-width: 520px;
+  padding: 20px 22px;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 14px;
+  background: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  box-shadow: 0 8px 24px rgba(16, 24, 40, 0.12);
+}
+.source-dialog h4 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 12px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.source-dialog .source-icon {
+  color: var(--bs-primary);
+}
+.source-dialog dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 16px;
+  margin: 0;
+  font-size: 0.9rem;
+}
+.source-dialog dt {
+  color: var(--bs-secondary-color);
+  font-weight: 400;
+}
+.source-dialog dd {
+  margin: 0;
+  font-family: var(--bs-font-monospace);
+  word-break: break-all;
+}
+.source-close {
+  display: block;
+  margin: 16px 0 0 auto;
+  padding: 7px 16px;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 9px;
+  background: rgba(var(--bs-body-color-rgb), 0.05);
+  color: var(--bs-body-color);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.source-close:hover {
+  border-color: var(--bs-primary);
+  color: var(--bs-primary);
 }
 
 /* Entry points on the home page */
