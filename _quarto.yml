@@ -13,8 +13,6 @@ website:
     location: navbar
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: app/index.html
         text: Rating App
       - href: wiki/index.qmd
