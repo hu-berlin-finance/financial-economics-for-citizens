@@ -4,10 +4,18 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sovereign MRP Dashboard</title>
+    <title>Rating App – Financial Economics for Citizens</title>
+    <script>
+        // Follow the light/dark choice of the course website (Quarto stores it under this key)
+        try {
+            if (localStorage.getItem("quarto-color-scheme") === "alternate") {
+                document.documentElement.dataset.theme = "dark";
+            }
+        } catch (e) { }
+    </script>
     <style>
         :root {
-            --bg: #eef1f6;
+            --bg: #ffffff;
             --panel: #ffffff;
             --panel-2: #f7f8fb;
             --ink: #141821;
@@ -19,26 +27,93 @@
             --safe: #15a15a;
             --fragile: #e8930c;
             --distressed: #e5484d;
-            --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 8px 24px rgba(16, 24, 40, .06);
+            --shadow: 0 1px 2px rgba(16, 24, 40, .04);
+            --accent-strong: #334ebc;
             --radius: 14px;
             --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
         }
 
-        @media (prefers-color-scheme:dark) {
-            :root {
-                --bg: #0d1017;
-                --panel: #151a23;
-                --panel-2: #1b212c;
-                --ink: #e8ecf3;
-                --muted: #9aa4b2;
-                --line: #252c38;
-                --line-2: #1f2530;
-                --accent: #7d94ff;
-                --accent-soft: #1e2740;
-                --safe: #2fbd74;
-                --fragile: #f2a53b;
-                --distressed: #f0656a;
-                --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 10px 30px rgba(0, 0, 0, .35);
+        :root[data-theme="dark"] {
+            --bg: #0d1017;
+            --panel: #151a23;
+            --panel-2: #1b212c;
+            --ink: #e8ecf3;
+            --muted: #9aa4b2;
+            --line: #252c38;
+            --line-2: #1f2530;
+            --accent: #7d94ff;
+            --accent-strong: #a3b3ff;
+            --accent-soft: #1e2740;
+            --safe: #2fbd74;
+            --fragile: #f2a53b;
+            --distressed: #f0656a;
+            --shadow: 0 1px 2px rgba(0, 0, 0, .3);
+        }
+
+        /* Site navbar, matching the Quarto pages of the course website */
+        .site-nav {
+            position: sticky;
+            top: 0;
+            z-index: 30;
+            background: var(--bg);
+            border-bottom: 1px solid var(--line)
+        }
+
+        .site-nav .inner {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            min-height: 64px;
+            padding: 8px 17px;
+            font-size: 17px
+        }
+
+        .site-nav a {
+            color: var(--ink);
+            text-decoration: none
+        }
+
+        .site-nav .brand {
+            font-size: 21.25px;
+            margin-right: 18px;
+            white-space: nowrap
+        }
+
+        .site-nav .links a {
+            padding: 8px 10px
+        }
+
+        .site-nav .links a:hover,
+        .site-nav .links a[aria-current="page"] {
+            color: var(--accent-strong)
+        }
+
+        .site-nav .theme-toggle {
+            margin-left: auto;
+            display: flex;
+            padding: 6px;
+            border: 0;
+            background: none;
+            color: var(--ink);
+            cursor: pointer
+        }
+
+        .site-nav .theme-toggle:hover {
+            color: var(--accent-strong)
+        }
+
+        .site-nav .theme-toggle .on,
+        :root[data-theme="dark"] .site-nav .theme-toggle .off {
+            display: none
+        }
+
+        :root[data-theme="dark"] .site-nav .theme-toggle .on {
+            display: block
+        }
+
+        @media(max-width:640px) {
+            .site-nav .brand {
+                display: none
             }
         }
 
@@ -61,26 +136,32 @@
         }
 
         a {
-            color: var(--accent)
+            color: var(--accent);
+            text-decoration: none
+        }
+
+        a:hover {
+            text-decoration: underline
         }
 
         header.top {
-            padding: 22px 26px 6px;
+            padding: 32px 26px 10px;
             max-width: 1360px;
             margin: 0 auto
         }
 
         header.top h1 {
             margin: 0;
-            font-size: 22px;
-            letter-spacing: -.01em
+            font-size: 2.1rem;
+            font-weight: 600;
+            line-height: 1.2
         }
 
         header.top p {
-            margin: 4px 0 0;
-            color: var(--muted);
-            font-size: 13px;
-            max-width: 70ch
+            margin: 10px 0 0;
+            font-size: 17px;
+            line-height: 1.5;
+            max-width: 80ch
         }
 
         .wrap {
@@ -108,9 +189,9 @@
 
         .sidebar {
             position: sticky;
-            top: 14px;
+            top: 80px;
             padding: 16px;
-            max-height: calc(100vh - 28px);
+            max-height: calc(100vh - 96px);
             overflow: auto
         }
 
@@ -581,12 +662,28 @@
 </head>
 
 <body>
+    <nav class="site-nav" aria-label="Site">
+        <div class="inner">
+            <a class="brand" href="../index.html">Financial Economics for Citizens</a>
+            <div class="links">
+                <a href="../index.html">Home</a>
+                <a href="index.html" aria-current="page">Rating App</a>
+                <a href="../wiki/index.html">Wiki</a>
+            </div>
+            <button class="theme-toggle" id="themeToggle" type="button" title="Toggle dark mode" aria-label="Toggle dark mode">
+                <svg class="off" width="20" height="20" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M11 4a4 4 0 0 1 0 8H8a5 5 0 0 0 2-4 5 5 0 0 0-2-4zm-6 8a4 4 0 1 1 0-8 4 4 0 0 1 0 8M0 8a5 5 0 0 0 5 5h6a5 5 0 0 0 0-10H5a5 5 0 0 0-5 5"/></svg>
+                <svg class="on" width="20" height="20" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M5 3a5 5 0 0 0 0 10h6a5 5 0 0 0 0-10zm6 9a4 4 0 1 1 0-8 4 4 0 0 1 0 8"/></svg>
+            </button>
+        </div>
+    </nav>
+
     <header class="top">
-        <h1>Sovereign Minimal Rating Process</h1>
-        <p>The Minimal Rating Process for euro-area sovereigns, running entirely in your browser. Pick a country and
+        <h1>Rating App</h1>
+        <p>The minimal rating process for euro-area sovereigns, running entirely in your browser. Pick a country and
             quarter, edit any calibrated parameter (or drag the markers on the charts), and the funding curve, fragile
             band, exit thresholds and rating class recompute live. Each input has an <span class="src">&#9432;</span>
-            with its source and construction.</p>
+            with its source and construction. Use the <a href="../wiki/index.html">wiki</a> to challenge,
+            corroborate, or fill in the parameters.</p>
     </header>
 
     <div class="wrap">
@@ -636,6 +733,20 @@
         </div>
     </div>
     <div id="tip"></div>
+    <script>
+        // Toggle dark mode and remember the choice for the rest of the website
+        document.getElementById("themeToggle").addEventListener("click", function () {
+            var dark = document.documentElement.dataset.theme !== "dark";
+            if (dark) {
+                document.documentElement.dataset.theme = "dark";
+            } else {
+                delete document.documentElement.dataset.theme;
+            }
+            try {
+                localStorage.setItem("quarto-color-scheme", dark ? "alternate" : "default");
+            } catch (e) { }
+        });
+    </script>
 
     <script>/* MRP model core in plain JS -- a faithful port of dashboard/mrp.R (rating
 tasks R3-R6). Verified against the R pipeline's golden output. */
