@@ -1,0 +1,6 @@
+---
+title: "Wiki"
+description: "Evidence for the discretionary adjustments process of the minimal rating process."
+---
+
+The wiki is coming soon. It will collect evidence from rating reports, methodologies, and other documents that helps you challenge, corroborate, or fill in the parameters of the [rating app](../app/index.html) for your country.

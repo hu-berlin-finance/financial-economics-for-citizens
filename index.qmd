@@ -18,8 +18,8 @@ The rating itself is mechanical: parameters in, rating out. Your job is the judg
   </a>
   <a class="entry-card g-col-12 g-col-md-6" href="wiki/index.html">
     <span class="entry-title">Wiki</span>
-    <span>Find the evidence to challenge, corroborate, or fill in the parameters: country dossiers, parameter definitions, rating agencies, and institutions, with every statement linked to its source.</span>
-    <span class="entry-action">Browse the wiki →</span>
+    <span>Find the evidence to challenge, corroborate, or fill in the parameters for your country.</span>
+    <span class="entry-action">Coming soon</span>
   </a>
 </div>
 ```
