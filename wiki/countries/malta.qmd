@@ -1,0 +1,213 @@
+---
+title: "Malta"
+summary: "This dossier draws on the 2025 Debt Sustainability Monitor and the Spring 2026 Economic Forecast, both issued by the European Commission in early and mid-2026, alongside the 2026 Country Report issued on 2026-06-03. The …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the 2025 [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) and the Spring 2026 [Economic Forecast](../document-types/economic-forecast.qmd), both issued by the [European Commission](../institutions/european-commission.qmd) in early and mid-2026, alongside the 2026 [Country Report](../document-types/country-report.qmd) issued on 2026-06-03. The evidence characterizes the [Malta](../countries/malta.qmd) economy as robust, with real gross domestic product growth projected at 3.7% for 2026, driven by tourism and domestic consumption. Fiscal indicators show a general government deficit stabilizing around 2.2% of GDP and public debt remaining below 47% of GDP, with a projected decline to 40.8% by 2036 under a no-policy-change baseline. Key themes include persistent labor shortages, pressure on housing and infrastructure, and institutional challenges related to the justice system and transparency. Long-term fiscal sustainability assessments indicate high risk for debt stabilization due to ageing costs, requiring significant structural primary balance improvements.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 46.2 | 47.0 | 47.2 | 47.4 | 40.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -2.4 | -2.0 | -1.4 | -1.6 | -0.6 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 8.1 | 8.2 | 7.5 | 7.5 | 6.5 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -1.0 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 8.2 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 4.0 | 3.7 | 3.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 136" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 136">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -2.2 | -2.2 | -2.1 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 137" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 137">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} | [2028]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 4.4 | 4.2 | 4.0 | 3.7 | 2.3 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Headline HICP inflation | % | 5.9 | 3.0 | 2.4 | 2.7 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -1.3 | -1.5 | -2.2 | -2.2 | -2.1 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3-4" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3-4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance | % of GDP |  |  | -2.2 |  |  | -0.8 | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 49.6 | 46.8 | 46.4 | 46.3 | 46.2 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 35">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Nominal wage growth per employee | % |  |  | 4.2 | 3.5 | 2.1 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Employment growth | % |  |  | 3.9 | 3.2 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03" aria-label="Source: ec/country-reports/Malta_2026-06-03">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break**: Real GDP is expected to grow by 3.7% in 2026 and 3.6% in 2027. Growth is driven by domestic consumption and services. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 136" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 136">ⓘ</button>
+- **C1-T, structural break in trend**: Nominal wage growth is projected to ease from 4.2% in 2025 to 3.5% in 2026 and 2.1% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, competitiveness gap**: Labour shortages persist, particularly in tourism, healthcare, and services, despite strong employment growth. Vacancy rates continued to increase. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: Real GDP grew by 4.0% in 2025 and is forecast to grow by 3.7% in 2026, driven by private and public consumption and tourism. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Employment growth is projected at 3.9% in 2025 and 3.2% in 2026, relying heavily on foreign workers. Unemployment is expected to remain low at around 3.2% in 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **C2\*, context**: Headline inflation moderated to 2.4% in 2025 and is forecast to increase to 2.7% in 2026, driven by international energy prices. Local energy inflation is neutralized by state measures keeping retail prices unchanged. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The government deficit is forecast to remain stable at 2.2% in 2026 and fall to 2.1% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 137" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 137">ⓘ</button>
+- **C3-T, history lags policy**: The medium-term fiscal structural plan for 2025-2028 implies an improvement of the structural primary balance of 1.4 percentage points, from -2.2% of GDP in 2025 to -0.8% in 2028. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 4">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, default is chosen, not only suffered**: The tax system faces challenges regarding aggressive tax planning risks, with features creating opportunities for double non-taxation and profit shifting. [Malta](../countries/malta.qmd) does not publish tax expenditure reporting. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 4, 10, 39" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 4, 10, 39">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3\*, context**: The structural primary balance is projected at -1.0% of GDP on average for 2026-2035. The fiscal consolidation space is 50% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3\*, context**: The European Commission projects a structural primary deficit of 1% of GDP as of 2026. This is in line with past fiscal performance. Ageing-related expenditure is projected to decrease slightly over the medium term but increase over the long term. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 207" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 207">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to high risk, requiring an 8.1 percentage point improvement, driven by ageing costs (6.5 pps). The S1 indicator points to medium risk, requiring a 3.1 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 208" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 208">ⓘ</button>
+- **C3\*, context**: The government deficit fell to 2.2% of GDP in 2025 and is projected to remain stable in 2026, reflecting strong revenue growth offsetting increased expenditure on wages and energy subsidies. It is projected to fall to 2.1% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3-4" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3-4">ⓘ</button>
+- **C3\*, context**: Public debt is expected to stabilize at around 46% of GDP by 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 4">ⓘ</button>
+- **C3\*, context**: Total tax revenues amounted to 28.9% of GDP in 2024, well below the EU average of 39.4%. Corporate income tax accounts for a large share of revenues. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 10-11" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 10-11">ⓘ</button>
+- **C3\*, context**: Ageing-related spending is projected to rise by 9 percentage points of GDP between 2025 and 2070, driven by pensions, healthcare, and long-term care. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 36" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 36">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: The debt-to-GDP ratio is expected to stabilize at around 46%. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 137" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 137">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, context**: Risk-mitigating factors include a high share of domestically-held debt and a positive international investment position. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 208" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 208">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1\*, context**: Gross financing needs were 8.2% of GDP in 2025. Debt is projected to decline to 40.8% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected to amount to 7.5% of GDP over 2026-2027, decreasing to 6.5% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 207" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 207">ⓘ</button>
+- **R1\*, context**: General government gross debt stood at 46.4% of GDP at the end of 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 35">ⓘ</button>
+- **R1\*, context**: Defence expenditure amounted to 0.5% of GDP in 2024 and is forecast to remain broadly unchanged. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 4">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, bright-line inputs**: The [Council of the EU](../institutions/council-of-the-eu.qmd) adopted a recommendation to correct the excessive deficit in [Malta](../countries/malta.qmd). The [European Commission](../institutions/european-commission.qmd) has proposed to abrogate the excessive deficit procedure due to compliance with net expenditure growth rates. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 35, 29" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 35, 29">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling**: Business confidence and investment indicators show mixed results, with high administrative burdens and regulatory barriers cited by firms. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 13, 48-49" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 13, 48-49">ⓘ</button>
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 91 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 209">ⓘ</button>
+
+## Outlook Material
+
+- **Outlook Factors, rule of law**: Concerns persist over the efficiency of the justice system. The time to resolve civil and commercial cases increased from 432 to 491 days between 2016 and 2024. Resources for the judiciary are limited, with a low number of judges per capita. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 11-12, 64" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 11-12, 64">ⓘ</button>
+- **Outlook Factors, rule of law**: Transparency issues exist in public procurement and lobbying. Ministers stopped publicly declaring family income after 2023. No comprehensive rules on lobbying or robust asset declaration requirements are in place. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 13-14, 64" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 13-14, 64">ⓘ</button>
+- **Housing and Infrastructure**: Rapid population growth (34% increase between 2015 and 2025) has put strain on infrastructure, land use, and public services. Housing costs are a significant driver of poverty, with 7.7% of those at risk of poverty having mortgage or rent arrears in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 5, 97-101" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 5, 97-101">ⓘ</button>
+- **Energy Security and Climate**: [Malta](../countries/malta.qmd) is highly vulnerable to climate risks. The energy mix is skewed towards imported fossil fuels. Renewable energy share in electricity mix was 16.7% in 2025, below the EU average of 45%. Fossil fuel subsidies accounted for 1% of GDP in 2024. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 5, 15-17, 75" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 5, 15-17, 75">ⓘ</button>
+- **Labor Market and Skills**: Severe skills shortages exist, particularly in STEM (Science, Technology, Engineering, and Mathematics) and green transition sectors. Participation in STEM post-secondary education is significantly below the EU average (13.8% vs 25.2%). <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 19-20, 92" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 19-20, 92">ⓘ</button>
+- **Social Protection**: Social transfers reduced the monetary poverty rate by only 24.9% in 2025, below the EU average of 33.2%. Vulnerable groups, including third-country nationals and persons with disabilities, face higher risks of poverty and exclusion. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 21-22, 88" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 21-22, 88">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

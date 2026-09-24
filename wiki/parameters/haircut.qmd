@@ -1,0 +1,50 @@
+---
+title: "Haircut"
+summary: "h is fixed at 0.30 for all countries. This value represents the center of historical restructuring haircuts based on the Cruces–Trebesch database. The sensitivity grid always spans h from 0.20 to 0.50. Spreads in the …"
+date-modified: 2026-09-23
+---
+
+## In the MRP
+
+h is fixed at 0.30 for all countries. This value represents the center of historical restructuring haircuts based on the Cruces–Trebesch database. The sensitivity grid always spans h from 0.20 to 0.50. Spreads in the bad equilibrium approach a ceiling set by h.
+
+## In the DAP
+
+No E or T issues arise. C5-A politically feasible haircut differs from 0.30 (red flags: concentrated foreign holdings together with a precedent of selective creditor treatment; domestic-bank share of sovereign debt above 25% together with thin bank capital, the "doom loop"). The only admissible response is focusing the h = 0.50 corner. There is no parameter move.
+
+## Methods by Document Type
+
+### [Country Report](../document-types/country-report.qmd)
+
+- The European Commission assesses the political feasibility of haircuts. It examines non-resident holdings of government debt and the capitalization of the domestic banking sector. The report notes whether immediate restructuring risks are flagged. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 54">ⓘ</button>
+
+### [Economic Survey](../document-types/economic-survey.qmd)
+
+- The OECD analyzes the composition of sovereign debt holdings, specifically the share held by domestic banks, to evaluate exposure to market deterioration and the risk of a "doom loop" between banks and sovereigns. It reports the residual duration of these holdings as an indicator of vulnerability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button>
+
+## Institutions and Data Sources
+
+- **[European Commission](../institutions/european-commission.qmd)**: The author of the report. It assesses financial sector stability, including bank capitalization and sovereign debt holdings, to evaluate restructuring risks. It does not flag immediate restructuring risks for Ireland in this report. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 54">ⓘ</button>
+- **[European Central Bank](../institutions/european-central-bank.qmd)**: The European Commission references European Central Bank data on financial sector indicators, such as capital adequacy, which informs the assessment of the "doom loop" risk associated with the haircut parameter. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 57, p. 58" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 57, p. 58">ⓘ</button>
+- **[OECD](../institutions/oecd.qmd)**: The Organization for Economic Co-operation and Development provides data on the domestic-bank share of government debt and the residual duration of these holdings. It uses this data to assess the exposure of the banking sector to sovereign bond market deterioration. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button>
+- **[International Monetary Fund](../institutions/international-monetary-fund.qmd)**: The OECD cites data from the International Monetary Fund for Financial Soundness Indicators, which inform the assessment of banking system vulnerabilities related to sovereign debt holdings. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button>
+
+## Country Overview
+
+::: {.table-scroll}
+
+| Country | Latest figures | Red flags with reported evidence | Source |
+| --- | --- | --- | --- |
+| [Ireland](../countries/ireland.qmd) | Domestic banks hold a share of sovereign debt; financial sector is stable with well-capitalized banks. | The European Commission does not flag immediate restructuring risks. Non-resident holdings are not explicitly detailed in terms of restructuring risk. | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 54">ⓘ</button> |
+| [Italy](../countries/italy.qmd) | Nonresident share of debt (Net Int. Inv. Pos.) 2025Q3: 13.3% of GDP (Surplus). Domestic-bank holdings of gov. debt 2025Q2: ~25% of bank assets. | C5-A politically feasible haircut differs from 30%. Domestic banks hold a relatively large share of government bonds (approx. 25% of bank assets). The average residual duration of these holdings has risen to near 4.8 years, exposing banks to deterioration in the government bond market. | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 24, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 24, p. 29">ⓘ</button> |
+| [Spain](../countries/spain.qmd) | General government gross debt (Maastricht) 2024: 101.6% of GDP. Mortgage lending shows a high share of variable-rate mortgages (about 70% of the stock). | The document does not explicitly assess the political feasibility of a haircut or the domestic bank holding of sovereign debt relevant to the C5-A red flags. | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 36" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 36">ⓘ</button> |
+
+:::
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

@@ -1,0 +1,296 @@
+---
+title: "Croatia"
+summary: "This dossier draws on the European Commission Country Report and Country-Specific Recommendations published on 2026-06-03, the OECD Economic Survey published on 2026-01-30, the European Commission Debt Sustainability …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [European Commission](../institutions/european-commission.qmd) [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) published on 2026-06-03, the [OECD](../institutions/oecd.qmd) [Economic Survey](../document-types/economic-survey.qmd) published on 2026-01-30, the [European Commission](../institutions/european-commission.qmd) [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published on 2026-02-12, and the [European Commission](../institutions/european-commission.qmd) [Economic Forecast](../document-types/economic-forecast.qmd) published on 2026-05-21. The documents assess Croatia’s economic performance, noting strong but moderating real GDP growth driven by domestic demand, while inflation remains above the euro-area average. Key fiscal issues include a general government deficit exceeding the 3% of GDP threshold in 2025 due to rising expenditures on investments, wages, and pensions, alongside the activation of the National Escape Clause for defence spending. Structural challenges persist, including high unit labour costs, labor shortages, an inefficient housing market, and significant demographic headwinds from a shrinking and aging population.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | 3.8 | 3.2 | 2.7 | 2.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 10" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 10">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised index of consumer prices (HICP) inflation | % |  |  | 4.0 | 4.4 | 3.3 | 2.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 10" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 10">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government financial balance | % of GDP |  |  | -1.9 | -2.9 | -2.9 | -2.7 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 10" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht definition) | % of GDP |  |  | 57.4 | 56.7 | 56.4 | 56.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 10" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (non-Maastricht) | % of GDP |  |  | 75.7 | 75.0 | 74.7 | 75.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 20" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 20">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Ten-year government bond yield | % |  |  | 3.3 | 3.0 | 3.1 | 3.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 20" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 20">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Tax expenditures | % of GDP | 4.2 | >4 |  |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 27" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 27">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 5">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Public sector wage bill | % of GDP |  | 11.3 | 12.8 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 33" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 33">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financial debt | 75.7 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 7" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 7">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net financial debt | 31.0 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 7" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 7">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | [2026]{.year-mark title="estimate"} | [2027]{.year-mark title="estimate"} | [2028]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | 3.4 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  | 4.4 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Euro-area HICP inflation | % |  |  | 2.1 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP |  |  | > -3.0 | -2.9 | -2.7 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 42">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance (structural) | % of GDP |  |  | -1.3 |  |  | -0.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross general government debt | % of GDP |  |  | 56.3 |  | 55.6 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 42">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government expenditure | % of GDP |  |  | 50.1 |  | 50.4 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 42">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Wage growth (nominal) | % | 13.0+ | 8.9 | 10.9 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 108" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 108">ⓘ</button> |
+
+: Years in italics: estimate, forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03" aria-label="Source: ec/country-reports/Croatia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Defence spending | 2024/2025: 1.5; 2026e: 1.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03" aria-label="Source: ec/country-reports/Croatia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 3.4 | 2.7 | 2.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 4.4 | 4.6 | 2.7 | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | 2.3 | 3.0 | 2.9 | 2.7 | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | 1.6 | -0.3 | -0.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net expenditure growth | % |  | 10.9 | 5.7 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4-5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 57.4 | 56.3 | 55.9 | 55.6 | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  | 1.5 | 1.6 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03" aria-label="Source: ec/recommendations/Croatia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net expenditure deviation | 2024-2025 cumulative: 1.4; 2024-2026 projected cumulative: 1.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4-5">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Climate risk insurance coverage | Current: ~2 | % | <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 9">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03" aria-label="Source: ec/recommendations/Croatia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -0.4 | -1.4 | -1.4 | -1.6 | -1.6 | -1.7 | -1.6 | -1.6 | -1.6 | -1.6 | -1.6 | -1.7 | -1.6 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 9.0 | 12.6 | 12.7 | 12.0 | 12.3 | 12.5 | 12.6 | 12.7 | 12.9 | 13.0 | 13.3 | 13.6 | 14.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 12.6 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 57.4 | 56.2 | 56.1 | 56.0 | 56.6 | 57.6 | 58.6 | 59.9 | 61.3 | 62.9 | 64.6 | 66.5 | 68.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -1.7 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, Structural break in trend**: The [OECD](../institutions/oecd.qmd) notes that economic growth is set to moderate but remain robust in 2026 and 2027. Real GDP growth is projected to decline from 3.8% in 2024 to 2.4% in 2027. This moderation reflects slower real disposable income growth moderating private consumption and the end of the EU Recovery and Resilience Facility funding, which will ease investment growth in 2027. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 11" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 11">ⓘ</button>
+- **C1-T, Structural break in trend**: The [European Commission](../institutions/european-commission.qmd) notes that wages grew faster than labour productivity in 2025, leading to a further appreciation of the real effective exchange rate and suggesting a loss of competitiveness. Unit labour costs increased significantly, growing by 11.3% in 2023 and 10.8% in 2024, with forecasts of an 8.9% increase in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 7, p. 108" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 7, p. 108">ⓘ</button>
+- **C1-T, structural break**: GDP growth is expected to moderate to 2.7% in 2026 and 2.5% in 2027. Domestic demand supports growth, but net exports weigh negatively. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 124" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 124">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, context**: Structural challenges weigh on growth potential, including labor and skills shortages, regulatory complexity, and administrative inefficiencies. Permitting processes are burdensome, and business-to-business payment periods are the longest in the EU. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 6-7" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 6-7">ⓘ</button>
+- **C1-A1, context**: The fragmented public research and innovation sector dilutes resources and hinders collaboration, resulting in lower research outputs and reduced scope for technology transfer. Public R&D expenditure as a share of GDP remains below the EU average and has been stagnating. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 6-7" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 6-7">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Wage growth has exceeded productivity growth in recent years, raising concerns about cost-competitiveness. Unit labour costs have risen rapidly, partly mitigated by reduced profit margins, but service price inflation remains high and sticky due to strong wage growth and tourism demand. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 16" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 16">ⓘ</button>
+- **C1-A2, Inherited competitiveness gap**: Wage growth has outpaced productivity, contributing to higher unit labour costs. The [European Commission](../institutions/european-commission.qmd) warns that this persistent gap could weigh on future competitiveness, despite solid goods export growth. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 7, p. 108" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 7, p. 108">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: The direct impact of recent trade tensions on the Croatian economy is limited, but the country could be indirectly affected by weakening demand from European trading partners, to which it directs about 65% of goods exports. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 17" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 17">ⓘ</button>
+- **C1\*, context**: The [European Commission](../institutions/european-commission.qmd)'s Spring 2026 Forecast projects real GDP growth of 2.7% in 2026 and 2.5% in 2027, following actual growth of 3.4% in 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button>
+- **C1-E, Context**: Real GDP growth slowed to 3.4% in 2025 from 3.8% in 2024, but remains strong. Growth is projected to continue at decreasing rates. Domestic demand remains the primary driver, supported by rising incomes and employment. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, Projections stale**: Administered price effects, such as the phase-out of energy support and the reintroduction of fuel price caps in March 2026 due to geopolitical tensions, create mechanical price impacts. The [European Commission](../institutions/european-commission.qmd) notes that food price caps have had limited long-term effectiveness in curbing inflation. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 4, p. 95" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 4, p. 95">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **C2\*, Context**: Inflation in [Croatia](../countries/croatia.qmd) reached 4.4% in 2025, firmly above the euro-area average of 2.1%. The gap was driven by services inflation, food inflation, and energy price increases due to the phase-out of government support measures. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The fiscal stance has been expansionary despite a positive output gap and elevated inflation. The general government deficit target for 2025 was revised up to 2.9% of GDP from 1.9% in 2024, driven by hikes in public sector compensations, social benefits, and cost-of-living support measures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 23" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 23">ⓘ</button>
+- **C3-T, history lags policy**: A tighter fiscal policy stance is warranted. The medium-term fiscal-structural plan aims to reach a primary structural deficit of 0.4% of GDP by 2028, implying a consolidation need of around 1.8% of GDP between 2025-2028. Further measures to reach these targets have not been specified. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 23" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 23">ⓘ</button>
+- **C3-T, History lags policy**: [Croatia](../countries/croatia.qmd) has activated the National Escape Clause under the EU fiscal framework to facilitate higher defence spending. Defence expenditure is projected to rise from 1.5% of GDP in 2024/2025 to 1.6% in 2026 and 1.7% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5, p. 35, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5, p. 35, p. 42">ⓘ</button>
+- **C3-T, context**: Net expenditure grew by 10.9% in 2025, exceeding the recommended maximum growth rate. The cumulative deviation for 2024-2025 was 1.4% of GDP, or 0.9% of GDP when accounting for defense spending flexibility under the national escape clause. Projected net expenditure growth for 2026 is 5.7%, leading to a cumulative deviation of 1.6% of GDP (1.0% with flexibility) for 2024-2026. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4-5">ⓘ</button>
+- **C3-T, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) allowed [Croatia](../countries/croatia.qmd) to activate the national escape clause for defense spending in 2025-2028, permitting deviations from net expenditure ceilings to support higher defense expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button>
+- **C3-T, context**: The fiscal stance was expansionary by 1.6% of GDP in 2025. It is projected to be contractionary by 0.3% of GDP in 2026 and 0.9% of GDP in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button>
+- **C3-T, context**: [Croatia](../countries/croatia.qmd) adopted temporary fiscal measures to mitigate the impact of high energy prices following the war in the Middle East in February 2026, including excise duty reductions and targeted support. The projected fiscal cost is 0.1% of GDP in 2026, or 0.2% if measures remain in force until year-end. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is projected to narrow from 3.0% in 2025 to 2.9% in 2026 and 2.7% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 125" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 125">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: Long-term spending pressures from aging, the green transition, and defense are significant. Without further measures, public debt would rise to about 90% of GDP by 2040. A recent pension reform aims to increase pension adequacy but is estimated to increase pension expenditure by about 1 percentage point of GDP by 2040. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 24" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 24">ⓘ</button>
+- **C3\*, context**: Tax revenues stood at 38.4% of GDP in 2024. Tax expenditures accounted for around 4.2% of GDP in 2022. The [OECD](../institutions/oecd.qmd) recommends broadening the VAT base and phasing out inefficient tax expenditures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 27" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 27">ⓘ</button>
+- **C3\*, context**: The general government deficit increased from 2.3% of GDP in 2024 to 3.0% in 2025, driven by nationally financed investments, public wages, and social assistance. The [European Commission](../institutions/european-commission.qmd) projects the deficit to decrease to 2.9% in 2026 and 2.7% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button>
+- **C3\*, Context**: The general government deficit widened to narrowly exceed the 3% of GDP reference value in 2025. This was driven by increased expenditure on public investments, wages, pensions, and social benefits. The [European Commission](../institutions/european-commission.qmd) projects a decrease to 2.9% of GDP in 2026 and 2.7% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5, p. 42">ⓘ</button>
+- **C3\*, Context**: The [European Commission](../institutions/european-commission.qmd) highlights that spending reviews are in early stages and have a narrow scope. The Fiscal Policy Commission has a narrow mandate and limited capacity. There is a call for improving the quality and efficiency of public spending. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5, p. 44, p. 45" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5, p. 44, p. 45">ⓘ</button>
+- **C3\*, context**: The structural primary balance is projected at -1.7% of GDP on average for 2026-2035. The fiscal consolidation space is 55% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3\*, context**: The [European Commission](../institutions/european-commission.qmd) projects a structural primary deficit of 1.7% of GDP as of 2026. This is in line with past fiscal performance. Ageing-related expenditure is projected to decrease slightly. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 172" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 172">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to low risk, requiring a 1.5 percentage point improvement in the structural primary balance by 2027. The S1 indicator also points to low risk, requiring a 1.3 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 173" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 173">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing or distorted**: Public debt continued to decline and fell below the Maastricht threshold of 60% of GDP in 2024 (57.4%), driven by robust growth and elevated inflation. Net financial debt stood at 31.0% of GDP in 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 7" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 7">ⓘ</button>
+- **R1-E, components missing**: The debt-to-GDP ratio is foreseen to decline to 55.6% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 125" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 125">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, context**: The financing landscape is predominantly bank-supported, with market-based finance playing a smaller role due to low retail participation and limited domestic institutional investor involvement in innovative businesses. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 7">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: Contingent liabilities and fiscal risks, such as those stemming from state-owned enterprises (SOEs) and climate change, are assessed. SOEs accounted for assets worth around 45% of GDP in 2021. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 25, p. 34" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 25, p. 34">ⓘ</button>
+- **R1-A, Part of the debt not exposed to the market**: [Croatia](../countries/croatia.qmd) secured EUR 1.7 billion in loans under the SAFE initiative for defence procurement, supported by the EU. Additionally, significant resources are channeled through the Recovery and Resilience Facility (RRP) and Cohesion Policy funds, which support public investment. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5, p. 42">ⓘ</button>
+- **R1-A, context**: The net international investment position (NIIP) adjusted for non-defaultable instruments reached +23.8% of GDP in Q3 2024. Financing sources are broadly stable. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 173" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 173">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1\*, context**: The financial sector appears resilient, but rapid credit growth poses risks. Household indebtedness is internationally low at 30.2% of GDP in 2024, but new loans were disbursed with looser lending standards in 2024. Real house prices increased by close to 66% between the second quarter of 2015 and the second quarter of 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 21" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 21">ⓘ</button>
+- **R1\*, context**: General government debt decreased from 57.4% of GDP at the end of 2024 to 56.3% at the end of 2025. The [European Commission](../institutions/european-commission.qmd) projects a further decline to 55.9% in 2026 and 55.6% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button>
+- **R1\*, Context**: General government debt-to-GDP is expected to decrease from 56.3% in 2025 to 55.6% by end-2027. Public investment remains supportive of GDP growth, reaching 6.4% of GDP in 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 42">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 12.6% of GDP in 2025. Debt is projected to increase to 68.4% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected to amount to just above 12% of GDP over 2026-2027, reaching 14% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 172" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 172">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: [Croatia](../countries/croatia.qmd) meets both the EU debt (60% of GDP) and deficit (3% of GDP) criteria. The [European Commission](../institutions/european-commission.qmd) provided a “technical information” at the country’s request, aligning with the medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 23" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 23">ⓘ</button>
+- **R6\*, context**: [Croatia](../countries/croatia.qmd) was not identified in the 2026 Alert Mechanism Report as requiring an in-depth review under Regulation (EU) No 1176/2011. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 2">ⓘ</button>
+- **R6\*, Context**: [Croatia](../countries/croatia.qmd) is subject to the EU fiscal framework. The Council activated the National Escape Clause for defence spending. The [European Commission](../institutions/european-commission.qmd) assesses compliance with net expenditure growth rates, noting partial explanation by the NEC flexibility. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 35, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 35, p. 42">ⓘ</button>
+- **R6\*, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed [Croatia](../countries/croatia.qmd)'s national medium-term fiscal-structural plan for 2025-2028, which sets maximum growth rates for net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, bright lines versus real eligibility**: The perception of corruption among citizens and businesses remains very high (92% of respondents consider it widespread). This poses risks to public sector efficiency and public integrity. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 35" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 35">ⓘ</button>
+- **R6-A, Bright lines versus real eligibility**: The document notes challenges in the justice system efficiency and high perception of corruption, which may affect institutional quality assessments. However, formal compliance with EU fiscal rules is being monitored with specific allowances for defence. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 14, p. 78" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 14, p. 78">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+The [European Commission](../institutions/european-commission.qmd) highlights that the Fiscal Policy Commission has a narrow mandate and limited capacity. The document also notes challenges in the justice system efficiency and high perception of corruption. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 14, p. 44, p. 45, p. 78" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 14, p. 44, p. 45, p. 78">ⓘ</button>
+
+## Market Signals
+
+- **Factor decoupling, rollover pessimism**: The ten-year government bond yield is projected to remain stable around 3.0-3.2% through 2027. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 20" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 20">ⓘ</button>
+- **Factor decoupling, context**: The document does not provide specific bond spread data but notes that [Croatia](../countries/croatia.qmd) has the sixth-highest wholesale electricity prices in the EU, which impacts industrial competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 17" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 17">ⓘ</button>
+- **Outlook Factors, context**: [Croatia](../countries/croatia.qmd) had the sixth highest wholesale electricity price in the EU in 2025, affecting cost competitiveness. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 8">ⓘ</button>
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 33 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 174">ⓘ</button>
+
+## Outlook Material
+
+- **Demographics**: [Croatia](../countries/croatia.qmd)’s population is shrinking and aging rapidly. The working-age population is projected to decline by about 25% between 2024 and 2050. The old-age dependency ratio is projected to increase from around 40% in 2024 to 59% in 2050. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 11" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 11">ⓘ</button>
+- **Housing**: High vacancy rates (around 15%) and short-term holiday rentals (around 10%) limit the housing stock for residential purposes. Real house prices and rents have increased rapidly in the past decade. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 45" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 45">ⓘ</button>
+- **Climate**: [Croatia](../countries/croatia.qmd) has significantly reduced greenhouse gas emissions since 2007 but needs additional measures to reach net-zero by 2050. Investment needs for the energy sector are estimated at EUR 45.5 billion (58% of 2023 GDP) to meet 2030 targets. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 66, p. 67" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 66, p. 67">ⓘ</button>
+- **Geopolitical shocks**: The conflict in the Middle East is expected to weigh on the macroeconomic outlook, dampening domestic demand. [Croatia](../countries/croatia.qmd) reintroduced fuel price caps in March 2026 in response to soaring oil prices. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3, p. 95" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3, p. 95">ⓘ</button>
+- **Economic security**: [Croatia](../countries/croatia.qmd) faces challenges related to economic security, including dependency on fossil-fuel imports and material import dependency above the EU average. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 7, p. 65" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 7, p. 65">ⓘ</button>
+- **Regional disparities**: Significant disparities persist in income, productivity, and public service provision between the capital region and less developed areas like Panonska Hrvatska. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 8, p. 133" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 8, p. 133">ⓘ</button>
+- **Structural reforms**: The document recommends consolidating public research institutes, simplifying regulation, merging local administration functions, and accelerating broadband deployment in rural areas. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 12" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 12">ⓘ</button>
+- **Energy transition**: Recommendations include accelerating renewable energy deployment, upgrading electricity grids, phasing out fossil fuel subsidies, and improving energy efficiency in buildings and transport. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 8-9, 12" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 8-9, 12">ⓘ</button>
+- **Social challenges**: The document highlights high poverty and income inequality, particularly among older people and those with disabilities, and calls for better targeting of social benefits and improved access to long-term care and healthcare. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 10-11, 13" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 10-11, 13">ⓘ</button>
+- **Labor market**: Persistent labor and skills shortages are addressed through recommendations to remove participation obstacles, strengthen education, and upskill workers. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 10, 12-13" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 10, 12-13">ⓘ</button>
+- **Climate resilience**: With low insurance coverage against climate risks, the document recommends creating incentives for climate risk insurance and investing in climate-proof infrastructure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 5, 9" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 5, 9">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

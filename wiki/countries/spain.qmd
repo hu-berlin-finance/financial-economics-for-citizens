@@ -1,0 +1,296 @@
+---
+title: "Spain"
+summary: "This dossier draws on the Debt Sustainability Monitor issued by the European Commission on 2026-02-12, the Economic Forecast issued by the European Commission on 2026-05-21, the Country Report and Country-Specific …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-02-12, the [Economic Forecast](../document-types/economic-forecast.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-05-21, the [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-06-03, and the [Economic Survey](../document-types/economic-survey.qmd) issued by the [OECD](../institutions/oecd.qmd) on 2025-11-26. The reports assess Spain's economic, social, and structural performance in 2025–2026. They highlight robust but moderating GDP growth driven by domestic demand, stable fiscal deficits, and declining debt-to-GDP ratios in the near term, though long-term projections indicate a rise in debt due to aging-related costs. Key themes include weak productivity growth, political fragmentation hindering budget approval, and structural challenges such as regional disparities, housing affordability, and climate vulnerability. The recommendations emphasize reinforcing fiscal sustainability, improving spending efficiency, addressing climate resilience, and enhancing SME productivity.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 3.5 | 2.9 | 2.2 | 1.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Consumer price index inflation | % | 2.9 | 2.6 | 2.3 | 1.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | -3.2 | -2.5 | -2.3 | -2.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal primary balance | % of GDP | -1.6 | -0.7 | -0.9 | -0.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 101.6 | 99.4 | 97.9 | 97.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % | 11.3 | 10.6 | 10.1 | 9.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Current account balance | % of GDP | 3.2 | 2.9 | 2.8 | 2.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financial debt (OECD: 2023) | 108.9 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 8" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 8">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net financial debt (OECD: 2023) | 77.9 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 8" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 8">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 16.4 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 101.6 | 100.0 | 98.2 | 97.3 | 96.6 | 96.8 | 97.3 | 97.8 | 99.0 | 100.6 | 102.7 | 105.1 | 107.7 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 15.7 | 16.4 | 15.0 | 15.4 | 15.1 | 15.6 | 16.1 | 16.3 | 16.9 | 17.4 | 18.1 | 18.7 | 19.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -0.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: -1.0; 2025: -0.6; 2026–2036: -0.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | 46 | bps | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.8 | 2.4 | 1.9 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -2.4 | -2.4 | -2.0 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 100.7 | 99.6 | 98.9 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 2.8 | 2.4 | 1.9 | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Headline inflation (HICP) | % |  | 2.7 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  | 2.4 | 2.4 | 2.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP |  | 100.7 | <100 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3, 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3, 35">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public investment | % of GDP |  | 2.7 | 3.2 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Labour productivity (EU=100) | Index | 96.4 |  |  | 94.8 | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 53" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 53">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03" aria-label="Source: ec/country-reports/Spain_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | 2025 Q4: <10%; 2025 annual: 10.5 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3, 95" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3, 95">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | 2025-2028 target: 1.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 5">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03" aria-label="Source: ec/country-reports/Spain_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 2.8 | 2.4 | 1.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 2.7 | 3.0 | 2.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | 3.2 | 2.4 | 2.4 | 2.0 | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | broadly neutral | expansionary 0.3 | contractionary 0.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | % |  | 4.8 | 5.1 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 5-6">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure deviation (annual) | % of GDP |  | 0.4 | 0.6 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 5-6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 101.6 | 100.7 | 99.6 | 98.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government defence expenditure | % of GDP |  | 1.0 | 1.2 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03" aria-label="Source: ec/recommendations/Spain_2026-06-03">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: Real GDP growth was 3.5% in 2024, surpassing European peers. Growth is projected to moderate to 2.9% in 2025, 2.2% in 2026, and 1.8% in 2027, driven by domestic demand and weakening external demand due to global trade uncertainty <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button>.
+- **C1-T, structural break**: The [European Commission](../institutions/european-commission.qmd) forecasts that real GDP is set to grow at 2.4% in 2026 and 1.9% in 2027. Growth is driven by domestic demand, supported by a robust labor market and investment. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 120" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 120">ⓘ</button>
+- **C1-T, structural break**: The [European Commission](../institutions/european-commission.qmd) notes that [Spain](../countries/spain.qmd)’s GDP growth expanded by 2.8% in 2025 and is projected to remain robust in the near term (2.4% in 2026) before moderating to 1.9% in 2027. Growth is supported by domestic demand and private consumption, but external demand is expected to weigh on growth due to a more fragile external environment. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Real GDP growth was 2.8% in 2025. The [European Commission](../institutions/european-commission.qmd)’s Spring 2026 Forecast projects real GDP to grow by 2.4% in 2026 and 1.9% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+- **C1*, context**: Real GDP growth is projected at 2.9% in 2025, 2.3% in 2026, and averaging 1.3% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 164" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 164">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, growth not thin-tailed or serially independent**: The external sector is resilient with a current account surplus of 3.2% of GDP in 2024. However, risks are tilted to the downside due to escalating global trade measures, potential tariffs, and climate-related shocks that could disrupt agriculture and infrastructure <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 33" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 33">ⓘ</button>.
+- **C1-A1, growth not thin-tailed or serially independent**: Productivity growth remains weak, with labour productivity reaching 96.4% of the EU average in 2024 but projected to decline to 94.8% in 2027. This stagnation is linked to weak business innovation, a fragmented business structure dominated by micro-enterprises, and skills mismatches. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 53" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 53">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Labor productivity growth remains sluggish compared to peer countries. While total factor productivity has improved recently, Spain’s GDP per capita has not converged to peer levels, reflecting weak productivity and capital stock per worker <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 22" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 22">ⓘ</button>.
+- **C1-A2, inherited competitiveness gap**: [Spain](../countries/spain.qmd) faces chronically low R&D investment (1.50% of GDP in 2024, well below the EU average of 2.24%) and weak science-business linkages. Private R&D expenditure is stagnant, and the country has a large VAT policy gap, indicating tax inefficiencies. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 47, 44" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 47, 44">ⓘ</button>
+- **C1-A2, context**: Low private research and development (R&D) investment remains a major constraint, hampered by a fragmented business structure dominated by low-value micro-enterprises. Business R&D expenditure is insufficient across the whole country due to uneven territorial distribution of public spending. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 7">ⓘ</button>
+- **C1-A2, context**: The [International Monetary Fund](../institutions/international-monetary-fund.qmd) points to insufficient market size and lack of access to equity financing as key factors underlying young firms’ inability to scale up rapidly. The [OECD](../institutions/oecd.qmd) reports that lack of available financing is a considerable long-term barrier to investment for [Spain](../countries/spain.qmd) firms, notably small and medium-sized enterprises. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 8">ⓘ</button>
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, projections stale**: Headline inflation is expected to decline to 2.3% in 2026 and 1.8% in 2027. Core inflation declined slowly to 2.7% in September 2025. Nominal wage growth averaged 5.0% in 2024, outpacing inflation, but second-round effects on inflation remained contained <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 31" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 31">ⓘ</button>.
+- **C2-T, context**: Following the outbreak of war in the Middle East in February 2026, [Spain](../countries/spain.qmd) adopted fiscal policy measures to mitigate high energy prices, including untargeted reductions in value-added tax (VAT) rates on fuels, electricity, and natural gas. These measures are expected to expire largely by 30 June 2026, with some remaining until early 2027. The fiscal cost is projected at approximately 0.3% of GDP in 2026, or 0.6% if all measures remained in force until end-2026. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **C2\*, context**: Harmonized Index of Consumer Prices (HICP) inflation stood at 2.7% in 2025. It is projected to stand at 3.0% in 2026 and 2.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **C3-E, history lags policy**: The S2 indicator points to medium risk, requiring a 5.3% of GDP improvement in 2027 to stabilize debt. The S1 indicator also points to medium risk, requiring a 4.8% of GDP effort to reduce debt to 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 163" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 163">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The general government fiscal deficit declined to 3.2% of GDP in 2024. The government’s medium-term fiscal plan aims to reduce the deficit to 0.8% by 2031 and debt to 90.6% by 2031. However, the plan lacks detailed policy measures, and the underlying structural deficit remains near 3% of GDP <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 44" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 44">ⓘ</button>.
+- **C3-T, history lags policy**: The general government deficit is set to stabilize at 2.4% in 2026 and fall to 2.0% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is projected to stabilize at 2.4% of GDP in 2026 and fall to 2.0% in 2027. The debt-to-GDP ratio fell to 100.7% in 2025 and is expected to drop below 100% in 2026, driven by strong nominal GDP growth and improved fiscal outcomes. However, fiscal space is limited by rising expenditure pressures from ageing and defence. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button>
+- **C3-T, history lags policy**: [Spain](../countries/spain.qmd) requested the activation of the National Escape Clause (NEC) in April 2026 for defence expenditure. Cumulated deviation in 2025 was 0.1% of GDP (fully explained by NEC flexibility), and in 2026 is projected at 0.7% of GDP (partially explained). <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 31" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 31">ⓘ</button>
+- **C3\*, context**: The general government deficit decreased from 3.2% of GDP in 2024 to 2.4% of GDP in 2025. The [European Commission](../institutions/european-commission.qmd) projects a deficit of 2.4% of GDP in 2026 and 2.0% of GDP in 2027. The stabilisation in 2026 reflects positive revenue developments compensating for measures to ease the consequences of floods and the Middle East crisis. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+- **C3\*, context**: Net expenditure grew by 4.8% in 2025, exceeding the recommended maximum growth rate with an annual deviation of 0.4% of GDP. Cumulative growth over 2024 and 2025 was 9.3%, exceeding the recommended maximum by 0.1% of GDP. This deviation is within the flexibility of the national escape clause based on defense spending estimates. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Net expenditure is projected to grow by 5.1% in 2026, exceeding the recommended maximum rate with an annual deviation of 0.6% of GDP. Cumulative growth over 2024, 2025, and 2026 is projected at 14.9%, with a cumulative deviation of 0.7% of GDP (or 0.4% taking into account defense spending flexibility). <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 6">ⓘ</button>
+- **C3-T, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed [Spain](../countries/spain.qmd)’s national medium-term fiscal-structural plan covering 2025–2028, recommending maximum net expenditure growth rates of 3.7% in 2025, 3.5% in 2026, 3.2% in 2027, and 3.0% in 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+- **C3-T, context**: [Spain](../countries/spain.qmd) activated the national escape clause of the Stability and Growth Pact for the period 2025–2028 to allow for deviation from recommended net expenditure growth rates to support increased defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+- **C3*, context**: The structural primary balance is projected at -0.3% of GDP on average for 2026-2035. The fiscal consolidation space is 47% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3*, context**: The SPB before cost of ageing is assumed at -0.3% of GDP from 2026 onwards. This is in line with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, default is chosen, not only suffered**: Long-term fiscal pressures are rising due to aging, with pension spending projected to increase by 3.2 percentage points of GDP from 2023 to 2050. The gap between pension expenditure and social security contributions is widening, creating implicit liabilities. Reforms such as a life expectancy adjustment are recommended to ensure sustainability <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 48" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 48">ⓘ</button>.
+- **C3-A, default is chosen, not only suffered**: Political fragmentation has prevented the approval of a budget by parliament since 2023. This has impeded the implementation of necessary tax reforms, such as simplifying the tax system and shifting the tax burden from labour to consumption and environmental taxes. The [European Commission](../institutions/european-commission.qmd) notes that no substantial reforms of the tax mix have been delivered due to parliamentary difficulties. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 5, 41" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 5, 41">ⓘ</button>
+- **C3-A, context**: The average share of labor taxes in total tax revenue increased from 48.7% in 2015–2019 to 51.8% in 2020–2024. Non-indexation of personal income tax brackets and rises in social security rates have accelerated the shift towards labor taxation. [Spain](../countries/spain.qmd) has the largest value-added tax (VAT) policy gaps in the European Union. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 5">ⓘ</button>
+
+#### Other fiscal context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing or distorted**: Gross general government debt (Maastricht) was 101.6% of GDP in 2024, declining to a projected 97.0% in 2027. OECD data shows gross financial debt at 108.9% of GDP (2023) and net financial debt at 77.9% of GDP (2023). The debt-to-GDP ratio would significantly increase in the 2040s under current policies due to aging costs <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 8, p. 46" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 8, p. 46">ⓘ</button>.
+- **R1-E, components missing**: The debt-to-GDP ratio is forecast to drop below 100% to 99.6% in 2026 and 98.9% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 121">ⓘ</button>
+- **R1-E, components missing or distorted**: Gross general government debt decreased by around 20 percentage points of GDP since the pandemic, aided by positive stock-flow adjustments (nominal GDP growth outpacing debt servicing costs). Interest expenditure pressures are rising but remain manageable. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button>
+- **R1\*, context**: General government debt decreased from 101.6% of GDP at the end of 2024 to 100.7% of GDP at the end of 2025. The [European Commission](../institutions/european-commission.qmd) projects the debt-to-GDP ratio to decrease to 99.6% by the end of 2026 and 98.9% by the end of 2027. The decrease reflects nominal GDP growth outpacing the cost of debt servicing. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button>
+- **R1\*, context**: Total general government defense expenditure amounted to 1.0% of GDP in 2025 and is projected at 1.2% of GDP in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button>
+- **R1*, context**: Gross financing needs were 16.4% of GDP in 2025. Debt is projected to increase to 107.7% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1*, context**: Gross debt is projected to increase to 107.7% of GDP by 2036. Gross financing needs are expected to rise to 19.4% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, financing behavior shifts**: Public investment increased to 2.7% of GDP in 2025 and is set to rise to 3.2% in 2026, supported by Next Generation EU funds and increased spending on defence. This indicates a shift in financing behavior towards higher public investment. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: The housing market shows structural challenges with persistent supply bottlenecks. Mortgage lending remains cautious, with a high share of variable-rate mortgages (about 70% of the stock), exposing households to interest rate volatility <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 36" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 36">ⓘ</button>.
+
+#### Other refinancing context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, bright lines versus real eligibility**: Spain’s fiscal framework is underpinned by the 2012 Budgetary Stability Law and adherence to the EU fiscal framework. The Independent Authority for Fiscal Responsibility (AIReF) monitors compliance. However, national fiscal rules do not fully align with the new EU fiscal framework, creating implementation difficulties <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 45" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 45">ⓘ</button>.
+- **R6*, context**: The document does not mention NEC activation for Spain in the relevant section, but Spain is not listed among the 16 states that requested it. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+- **R6-A, bright lines versus real eligibility**: [Spain](../countries/spain.qmd) adhered to the maximum growth rates of net expenditure recommended by the Council in 2025, with deviations explained by the National Escape Clause. The country’s fiscal governance is monitored under the EU fiscal framework, with the Independent Authority for Fiscal Responsibility (AIReF) playing a central role in spending reviews. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 31, 37" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 31, 37">ⓘ</button>
+- **R6\*, context**: [Spain](../countries/spain.qmd) is subject to the preventive arm of the Stability and Growth Pact under Regulation (EU) 2024/1263. The Council endorsed its national medium-term fiscal-structural plan. [Spain](../countries/spain.qmd) is not identified in the 2026 Alert Mechanism Report as requiring an in-depth review. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 1-2" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 1-2">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **Independent Authority for Fiscal Responsibility (AIReF)**: Plays a central role in spending reviews and monitoring fiscal governance under the EU fiscal framework. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 31, 37" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 31, 37">ⓘ</button>
+- **Bank of Spain**: The Bank of Spain has introduced a countercyclical capital buffer (CCyB) of 0.5%, increasing to 1%, aligning with [European Central Bank](../institutions/european-central-bank.qmd) guidance on climate risk and financial stability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35">ⓘ</button>
+- **National Statistical Office**: No specific evidence on the national statistical office (INE) beyond data provision by [Eurostat](../institutions/eurostat.qmd).
+
+## Market Signals
+
+- **Rollover pessimism**: The ten-year government bond yield averaged 3.2% in 2024 and is projected to rise to 3.4% in 2026 and 2027. Sovereign spreads could increase if fiscal targets are not met or if political fragmentation hinders reform implementation <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 34, p. 33" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 34, p. 33">ⓘ</button>.
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 46 bps at the end of 2025. Rating agencies recently upgraded assessments. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 162">ⓘ</button>
+
+## Outlook Material
+
+- **Topic: Productivity and SMEs**: SMEs face barriers including limited access to finance, high administrative burdens, and low adoption of advanced digital technologies. Only 26% of SMEs adopted cloud services in 2023, below the EU average. Productivity gaps persist between micro/small firms and large firms <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 13, p. 71" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 13, p. 71">ⓘ</button>.
+- **Topic: Labor Market and Demographics**: Population aging is advancing faster than in most OECD countries. The old-age dependency ratio is projected to increase by 41 percentage points by 2054. Employment rates for older workers remain low, and non-contributory unemployment assistance for those over 52 discourages job search <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 14, p. 84, p. 85" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 14, p. 84, p. 85">ⓘ</button>.
+- **Topic: Climate Resilience**: Spain is highly exposed to climate risks, with economic losses from disasters among the highest in Europe. Floods, droughts, and heatwaves threaten growth and public finances. Water pricing does not reflect scarcity, undermining efficient use <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 16, p. 101, p. 106" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 16, p. 101, p. 106">ⓘ</button>.
+- **Outlook Factors, investor base**: Slightly increasing share of government debt held by non-residents is a risk-increasing factor. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 163" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 163">ⓘ</button>
+- **Climate Risk**: Under the "Fragmented Action" climate scenario, debt could be around 6 pps. of GDP higher in 2050. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109">ⓘ</button>
+- **Outlook Factors, defense**: Russia’s war of aggression against Ukraine constitutes an existential challenge. [Spain](../countries/spain.qmd) is utilizing the national escape clause to increase defense spending, which is permitted under the EU fiscal framework provided it does not endanger fiscal sustainability in the medium term. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+- **Outlook Factors, energy**: Geopolitical tensions and the war in the Middle East have led to risks of energy supply disruptions. [Spain](../countries/spain.qmd) adopted temporary, targeted fiscal measures to mitigate high energy prices. The [European Commission](../institutions/european-commission.qmd) warns that broad and untargeted measures entail large fiscal costs and are inefficient. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button>
+- **Outlook Factors, climate**: Climate-related hazards pose significant risks. Extreme weather events resulted in economic losses of EUR 119.6 billion between 1980 and 2024. Climate insurance coverage remains low. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 9">ⓘ</button>
+- **Regional disparities**: Long-standing structural challenges persist, with only four regions (Madrid, Basque Country, Navarra, Catalonia) having GDP per capita above the EU average. Depopulation in rural areas and concentration of growth in coastal and capital areas exacerbate territorial imbalances in labour supply, public services, and development capabilities. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 7">ⓘ</button>
+- **Housing and social inclusion**: [Spain](../countries/spain.qmd) faces severe housing affordability issues, particularly in urban centers and tourist areas. Child poverty remains high (33.8% at risk of poverty or social exclusion in 2025), and the effectiveness of social transfers in reducing poverty is among the lowest in the EU. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 6, 99" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 6, 99">ⓘ</button>
+- **Energy and climate**: [Spain](../countries/spain.qmd) is expanding renewable energy capacity but faces grid constraints and permitting bottlenecks. The country is vulnerable to climate change impacts, including heatwaves, droughts, and wildfires, which pose significant economic and environmental costs. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 16, 88" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 16, 88">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

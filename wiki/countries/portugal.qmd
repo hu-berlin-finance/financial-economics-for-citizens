@@ -1,0 +1,355 @@
+---
+title: "Portugal"
+summary: "This dossier draws on the European Commission's Country Report for Portugal (2026-06-03), the Post-Programme Surveillance Report (2026-06-03), and the Country-Specific Recommendations (2026-06-03). It incorporates …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [European Commission](../institutions/european-commission.qmd)'s Country Report for [Portugal](../countries/portugal.qmd) (2026-06-03), the Post-Programme Surveillance Report (2026-06-03), and the Country-Specific Recommendations (2026-06-03). It incorporates evidence from the [European Commission](../institutions/european-commission.qmd)'s Debt Sustainability Monitor (2026-02-12), the Spring 2026 Economic Forecast (2026-05-21), and the [OECD](../institutions/oecd.qmd)'s Economic Survey (2026-01-06). The evidence highlights solid economic growth outpacing the euro-area average, supported by domestic consumption and investment. Public debt declined to 89.7% of GDP in 2025, with a projected shift to a small deficit in 2026–2027. Key challenges include structural productivity gaps, rising pension costs, housing affordability pressures, and external shocks. Banking stability remains strong. The [European Commission](../institutions/european-commission.qmd) notes that net expenditure growth exceeded recommended rates, partly due to the activation of the national escape clause for defense spending.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.2 | 1.9 | 1.7 | 1.8 | <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP |  | 0.7 | -0.1 | -0.4 | <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross general government debt | % of GDP |  | 89.7 |  | 86.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total tax revenues | % of GDP | 35.2 | 35.4 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 45" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 45">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | R&D intensity | % of GDP | 1.73 (EU: 2.24) |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 54">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03" aria-label="Source: ec/country-reports/Portugal_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | 2025: 2.3; EU-27 avg: 1.4 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 3">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03" aria-label="Source: ec/country-reports/Portugal_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 1.9 | 1.7f | 1.8f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % | 2.2 | 3.0f | 2.3f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 0.7 | -0.1f | -0.4f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public debt-to-GDP | % of GDP | 89.7 |  | 86.0f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | EUR billion | 30.0 | 28.4 |  | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17-18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17-18">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Treasury cash buffer | End-2025: 4.3; 2026: 5.0f | EUR billion | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year government bond yield | End-April 2026: 3.4 | % | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} | [2045]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 1.9 | 1.7 | 1.8 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 2.2 | 3.0 | 2.3 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 0.6 | 0.7 | -0.1 | -0.4 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 93.5 | 89.7 | 87.6 | 86.0 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | broadly neutral | expansionary by 1.6 | contractionary by 1.3 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | % |  | 5.5 | 5.6 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public pension expenditure | % of GDP |  | 12.8 |  |  | 15.1 | <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 5">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03" aria-label="Source: ec/recommendations/Portugal_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 93.6 | 91.3 | 89.2 | 88.3 | 86.2 | 84.7 | 83.5 | 82.6 | 82.1 | 81.9 | 82.0 | 82.4 | 83.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 9.4 | 9.7 | 10.5 | 10.4 | 8.5 | 8.4 | 8.0 | 10.5 | 9.4 | 9.8 | 9.0 | 10.6 | 11.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | 2.6 | 2.2 | 2.0 | 1.9 | 1.5 | 1.3 | 1.0 | 0.8 | 0.6 | 0.3 | 0.2 | -0.1 | -0.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | % of GDP | 2.2 | 2.2 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | 1.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 229">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.1 | 1.9 | 2.2 | 2.0 | 1.3 | 1.0 | 0.9 | 0.9 | 0.9 | 0.8 | 0.8 | 0.8 | 0.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 230" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 230">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Inflation rate | % | 4.8 | 3.2 | 2.8 | 2.0 | 2.1 | 2.1 | 2.1 | 2.2 | 2.2 | 2.2 | 2.2 | 2.3 | 2.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 230" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 230">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 9.7 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 1.8 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | 1.9 | 2.2 | 1.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % | 2.3 | 2.4 | 2.1 | 2.0 | 1.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 28" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 28">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % |  | 6.4 | 6.1 | 6.0 | 5.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Consumer price index (HICP) | % |  | 2.7 | 2.2 | 2.2 | 2.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | GDP deflator | % |  | 4.8 | 3.7 | 2.4 | 2.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 28" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 28">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | 1.3 | 0.5 | 0.1 | -0.6 | -0.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government primary balance | % of GDP | 2.3 | 2.3 | 1.9 | 1.3 | 1.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 96.9 | 93.6 | 90.1 | 87.2 | 84.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government net debt | % of GDP | 71.2 | 63.0 | 57.6 | 54.7 | 52.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 28" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 28">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Ten-year government bond yield | % | 3.0 | 3.1 | 3.1 | 3.2 | 3.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 28" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 28">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Current account balance | % of GDP | 0.5 | 2.1 | 1.3 | 1.0 | 1.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Net international investment position | % of GDP |  | -57.5 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 29" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 29">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Minimum wage earners share of employees | 23% | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 74" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 74">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | SME share of labour force | 72% | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 74" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 74">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP per capita gain from closing gender gaps | approx. 5% by 2060 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 80" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 80">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Foreign-born share of population | 16% in 2024 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 78" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 78">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Gender wage gap | 10% in 2023 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 81" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 81">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Social rental housing stock share of dwellings | Among lowest in OECD in 2022 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 107" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 107">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Households renting in private market | 12% in 2022 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 124" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 124">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Informal rental contracts share | Up to 60% of leases undeclared | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 124" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 124">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | GHG emissions reduction since 2005 | Over 30% | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 86" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 86">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Renewable share in electricity production | 63% in 2023 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 91" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 91">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Fossil fuel subsidies | 0.8% of GDP in 2023 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 89" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 89">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Insurance coverage for climate losses (1980-2024) | 3% of total losses | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 98" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 98">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Vacant dwellings share | 12% in 2021 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 106" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 106">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Holiday homes share | 19% in 2021 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 106" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 106">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 1.9 | 1.7 | 1.8 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 142" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 142">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 0.7 | -0.1 | -0.4 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 89.7 | 86.7 | 86.0 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break**: Medium-term potential growth reached 2.3% in 2025, but long-term outlook is constrained by an aging population. Structural challenges include a reliance on low-value-added services (80% of economy) and weak innovation output despite high business R&D intensity. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 3, 50-51" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 3, 50-51">ⓘ</button>
+- **C1-T, context**: Real GDP growth moderated to 1.9% in 2025. Growth is projected at 1.7% in 2026 and 1.8% in 2027. Risks are tilted to the downside due to global geopolitical uncertainty and adverse shocks from storms and energy prices. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button>
+- **C1\*, context**: The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects real GDP growth of 1.7% in 2026 and 1.8% in 2027, following actual growth of 1.9% in 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3">ⓘ</button>
+- **C1-T, Structural break in trend**: The OECD projects GDP growth to stabilize at 1.8% in 2027, down from 2.2% in 2026, driven by a slowdown in global and European growth and rising trade barriers, including an assumed 15% US tariff on Portuguese goods. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button>
+- **C1-T, structural break**: GDP growth is forecast to drop marginally to 1.7% in 2026 and 1.8% in 2027. Adverse shocks include severe storms and energy price surges. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 142" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 142">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, growth volatility**: The economy is exposed to external risks, with exports accounting for 44% of GDP. Energy trade deficit is 1.7% of GDP. Climate risks (wildfires, drought) pose significant economic damage potential. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 4, 95-96" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 4, 95-96">ⓘ</button>
+- **C1-A1, Fat tails/Rare disasters**: Trade tensions and geopolitical fragmentation pose significant downside risks. A 25 percentage point increase in US tariffs on the European Union, combined with retaliation, could reduce [Portugal](../countries/portugal.qmd)'s GDP by 0.7% to 1.1% after three years. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 29" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 29">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, competitiveness gap**: [Portugal](../countries/portugal.qmd)'s labor productivity remains well below the [European Commission](../institutions/european-commission.qmd)'s euro-area average, at 68.2% in 2024. High-tech exports account for only 5% of total exports (EU average: 17%), limiting productivity gains. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 3-4, 50, 56" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 3-4, 50, 56">ⓘ</button>
+- **C1-A2, Competitiveness gap**: Unit labour costs have increased rapidly, outpacing productivity growth, which remains 17% below the OECD average. This pressures competitiveness, particularly in labour-intensive services. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 25" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 25">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: [Portugal](../countries/portugal.qmd) has made progress in educational attainment, with upper secondary and tertiary completion rates approaching [OECD](../institutions/oecd.qmd) averages. However, skill mismatches remain high, and temporary employment is widespread among youth. Vocational education and training (VET) quality is uneven, and work-based learning opportunities are often short. Investments of EUR 710 million are upgrading facilities across secondary schools and training centres. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 74" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 74">ⓘ</button>
+- **C1\*, context**: Employment rates drop sharply after age 55 due to low opportunities, poor health, and lack of flexible work conditions. Chronic health conditions affect 42% of people aged 16 and over in 2024, above the EU average. Occupational risks are high, particularly in micro and small firms. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 76" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 76">ⓘ</button>
+- **C1\*, context**: Immigration is a key driver of labour supply, with the foreign-born share rising to 16% in 2024. However, migrant skills are often underutilised, with high rates of overqualification, especially for tertiary-educated migrants. Administrative bottlenecks in visa issuance and qualification recognition persist. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 78" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 78">ⓘ</button>
+- **C1\*, context**: Gender gaps in employment and wages are moderate compared to [OECD](../institutions/oecd.qmd) standards. Closing remaining gaps could raise GDP per capita by approximately 5% by 2060. Access to early childhood care for 0-2-year-olds remains low, at close to 50%, with a large gap between income tertiles. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 80" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 80">ⓘ</button>
+- **C1\*, context**: The gender wage gap stood at around 10% in 2023. Women are overrepresented in lower-paying firms and occupations. Mandatory gender-disaggregated pay reporting and equal pay audits have improved transparency, but enforcement resources may be limited. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 81" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 81">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, context**: Headline inflation dropped to 2.2% in 2025 but rose to 2.7% in March 2026 due to energy prices. Inflation is projected at 3.0% in 2026 and 2.3% in 2027. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, policy lag**: [Portugal](../countries/portugal.qmd) has committed to fiscal discipline under its medium-term fiscal-structural plan for 2025–2028, aiming for linear consolidation of 0.1 percentage points of GDP per year excluding [European Commission](../institutions/european-commission.qmd)'s Recovery and Resilience Facility (RRF) loan impacts. However, permanent measures such as public wage increases and tax cuts risk weakening the budget balance. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, pension sustainability**: Public pension expenditure is projected to rise from 12.8% of GDP in 2025 to 15.1% by 2045, peaking in 2046. This poses a medium-term fiscal sustainability challenge. Preparatory steps for pension reform are underway, with a report due in June 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5-6, 41-42" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5-6, 41-42">ⓘ</button>
+- **C3-T, tax expenditures**: Tax expenditures resulted in foregone revenue of 7.2% of GDP in 2024. This includes reduced VAT rates and exemptions. The Commission recommends phasing out fossil fuel subsidies and reforming inefficient tax incentives. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 6, 45-48" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 6, 45-48">ⓘ</button>
+- **C3-T, context**: Starting from a surplus of 0.7% of GDP in 2025, the budget balance is forecast at -0.1% of GDP in 2026 and -0.4% in 2027. The 2026 deficit is adversely impacted by support measures for storm damages and higher interest expenditure. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16-17" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16-17">ⓘ</button>
+- **C3\*, context**: [Portugal](../countries/portugal.qmd) recorded a general government surplus of 0.7% of GDP in 2025, an increase from 0.6% in 2024. The [European Commission](../institutions/european-commission.qmd) projects a deficit of 0.1% of GDP in 2026 and 0.4% of GDP in 2027. The deterioration in 2026 is attributed to government support measures for storms and balance-deteriorating fiscal policy measures. The 2027 deterioration is linked to additional measures, including a new housing package and a reduction in corporate income tax. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button>
+- **C3\*, context**: Net expenditure grew by 5.5% in 2025 and is projected to grow by 5.6% in 2026. Both figures exceed the recommended maximum growth rates set by the [Council of the EU](../institutions/council-of-the-eu.qmd). The cumulative deviation of net expenditure is 0.4% of GDP for 2024–2025 and projected at 0.6% of GDP for 2024–2026. These deviations are considered in light of the flexibility provided by the national escape clause for higher defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4-5">ⓘ</button>
+- **C3\*, context**: The fiscal stance was broadly neutral in 2025, projected to be expansionary by 1.6% of GDP in 2026, and contractionary by 1.3% of GDP in 2027. This stance includes both nationally and European Union financed expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4">ⓘ</button>
+- **C3\*, context**: The [European Commission](../institutions/european-commission.qmd) highlights sustainability pressures on the pay-as-you-go pension system due to population ageing. Public pension expenditure is projected to rise from 12.8% of GDP in 2025 to 15.1% in 2045. Concrete policy proposals to alleviate this pressure have not yet been presented by the working group established for this purpose. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Tax expenditures are widespread, with value-added tax (VAT) expenditure alone representing 4.3% of GDP in 2024. The [European Commission](../institutions/european-commission.qmd) notes that effective action to streamline tax expenditures remains limited despite the creation of a new permanent tax policy unit (U-TAX). <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 5-6">ⓘ</button>
+- **C3*, context**: The structural primary balance (SPB) is assumed to be a surplus of 1.8% of GDP as of 2026, excluding changes in the cost of ageing. This level is described as rather ambitious compared with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 227" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 227">ⓘ</button>
+- **C3*, context**: The S2 debt-stabilisation indicator points to low risk, signaling that Portugal could relax its structural primary balance by 1.4 percentage points and still ensure debt stabilizes over the long term. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228">ⓘ</button>
+- **C3*, context**: The S1 debt-reduction indicator points to low risk, showing that Portugal could relax its fiscal position by 0.8 percentage points and still ensure debt reaches 60% of GDP by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228">ⓘ</button>
+- **C3\*, context**: The structural primary balance is projected at 1.8% of GDP on average for 2026-2035. The fiscal consolidation space is 100% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3-T, history lags policy**: The general government surplus is forecast to turn into a small deficit of 0.1% in 2026 and 0.4% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143">ⓘ</button>
+- **C3-T, History lags policy**: The fiscal stance is accommodative in 2025-2026, with the headline balance projected to deteriorate from 0.1% of GDP in 2025 to -0.6% of GDP in 2026. This reflects higher public investment from the Recovery and Resilience Plan (RRP), pension increases, and tax cuts. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 23" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 23">ⓘ</button>
+- **C3\*, context**: Ageing-related expenditures are projected to rise by 3.8 percentage points of GDP between 2025 and 2045, reaching 27.3% of GDP. Without reforms, public debt could rise above 100% of GDP by 2060. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 34" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 34">ⓘ</button>
+- **C3\*, context**: Public spending on social housing was only about 0.1% of GDP in 2022, among the lowest in the [OECD](../institutions/oecd.qmd). The Recovery and Resilience Plan funding of over EUR 1.2 billion is expected to provide housing for around 26,000 households by 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 130" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 130">ⓘ</button>
+- **C3\*, context**: Housing allowances are poorly targeted, with a larger share of upper-income households receiving support compared to low-income households in 2022. Most programmes are available for households with gross annual incomes above EUR 40,000, despite 80% of tax households earning below EUR 28,650. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 133" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 133">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, context**: Fiscal outlook is subject to risks relating to state-owned enterprises and liabilities arising from public-private partnerships. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17">ⓘ</button>
+- **C3-A, Default risk/Political feasibility**: The OECD warns that further expansionary measures, such as corporate and personal income tax cuts, risk fueling inflation and lowering fiscal buffers. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 23" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 23">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3-E, historical capacity**: The general government recorded a surplus of 0.7% of GDP in 2025. Public debt fell to 89.7% of GDP in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, contingent liabilities**: Risk-increasing factors include vulnerabilities in some public corporations and ongoing requests for financial rebalancing of public-private partnerships (PPPs). <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228">ⓘ</button>
+- **R1-E, components missing**: Public debt is set to decline to 86.7% in 2026 and 86.0% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 143">ⓘ</button>
+- **R1-E, components missing**: Data not explicitly detailed in country summary, but included in aggregate tables. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, context**: Gross financing needs for 2026 are estimated at EUR 28.4 billion. The Treasury’s cash buffer is projected to increase to EUR 5.0 billion in 2026. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17-18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17-18">ⓘ</button>
+- **R1-T, bill share**: Risk-increasing factors are related to large short-term debt, although it mainly consists of saving certificates held by Portuguese households as long-term savings. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, official loans**: [Portugal](../countries/portugal.qmd) utilizes EU funding significantly. The RRF provides EUR 21.9 billion (EUR 16.4 billion in grants and EUR 5.6 billion in loans). Cohesion policy funds provide EUR 22.6 billion for 2021-2027. These funds are partially off-market or captive in nature, supporting public investment. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 8-10" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 8-10">ⓘ</button>
+- **R1-A, context**: As of April 2026, outstanding debt to the European Financial Stabilisation Mechanism was EUR 19.8 billion and to the European Financial Stability Facility was EUR 23.0 billion. Repayments totalling EUR 4.2 billion are due to the EFSM in the second half of 2026. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18">ⓘ</button>
+- **R1-A, captive/official**: Mitigating factors include a comfortable cash buffer, a maturity structure with mostly fixed rates, and a large share of debt denominated in euro. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 228">ⓘ</button>
+- **R1-A, Off-market/Contingent liabilities**: Government guarantees declined to 3.7% of GDP in 2023. Contingent liabilities of State-Owned Enterprises involved in financial activities reached 28.4% of GDP. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 35" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 35">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1\*, context**: Public investment is expected to reach 4.3% of GDP in 2026, driven by RRF execution, but is set to decline as the RRF ends in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 41" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 41">ⓘ</button>
+- **R1\*, context**: General government debt decreased from 93.5% of GDP in 2024 to 89.7% of GDP in 2025. The [European Commission](../institutions/european-commission.qmd) projects a further decrease to 87.6% in 2026 and 86.0% in 2027. This decline is attributed to persistent primary surpluses and a favorable interest-growth differential. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4">ⓘ</button>
+- **R1*, context**: Government gross financing needs are expected to average around 10% of GDP over 2026-2027 and reach 11% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 227" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 227">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 9.7% of GDP in 2025. Debt is projected to decline to 83.1% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: High reliance on passenger cars and an old fleet (average age 14 years) contribute to transport emissions. The share of new zero-emission vehicle registrations is rising but the overall pace of fleet renewal is slow. Charging infrastructure remains limited, with 1.6 charging points per 1,000 registered passenger cars in 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 93" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 93">ⓘ</button>
+- **R1\*, context**: Low insurance coverage for climate risks implies high contingent fiscal liabilities. Only 3% of losses from weather-related extremes between 1980 and 2024 were insured. Public funds are used to compensate victims, discouraging private insurance uptake. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 98" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 98">ⓘ</button>
+- **R1\*, context**: A large share of dwellings is vacant (12% in 2021) or used as holiday homes (19% in 2021), even in high-demand areas like Lisbon. Existing aggravated property tax rates for vacant dwellings have been ineffective due to weak enforcement and outdated cadastral values. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 106" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 106">ⓘ</button>
+- **R1\*, context**: Outdated property values for recurrent taxes reduce revenues. The tax base for the Municipal Real Estate Tax (IMI) is based on cadastral values last reviewed in 2015. Revenues from recurrent taxes have stagnated despite soaring real estate prices. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 118" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 118">ⓘ</button>
+- **R1\*, context**: Gross government debt (Maastricht definition) declined to 93.6% of GDP in 2024 and is projected to fall to 84.9% by 2027, supported by primary surpluses and strong nominal growth. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 34" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 34">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6-A, bright lines**: The [Council of the EU](../institutions/council-of-the-eu.qmd) activated the "national escape clause" for [Portugal](../countries/portugal.qmd) in July 2025 to facilitate higher defense spending without immediate compensatory measures. [Portugal](../countries/portugal.qmd) requested EUR 5.8 billion in EU loans under SAFE (Security Action for Europe) for defense procurement. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5, 34" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5, 34">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6\*, context**: [Portugal](../countries/portugal.qmd) adhered to the maximum growth rates of net expenditure recommended by the [Council of the EU](../institutions/council-of-the-eu.qmd), with a budget surplus in 2025 and a projected near-balance in 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 34" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 34">ⓘ</button>
+- **R6\*, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed [Portugal](../countries/portugal.qmd)'s national medium-term fiscal-structural plan on 21 January 2025. The plan covers 2025–2028 and sets maximum growth rates for net expenditure. On 8 July 2025, the [Council of the EU](../institutions/council-of-the-eu.qmd) allowed [Portugal](../countries/portugal.qmd) to deviate from these rates under the national escape clause for 2025–2028 to support higher defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button>
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd) assessed Portugal’s draft updated National Energy and Climate Plan. It also urges [Portugal](../countries/portugal.qmd) to fully transpose EU rules accelerating permitting procedures for renewable energy projects. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 92" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 92">ⓘ</button>
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd) reported implementation delays in public transport projects funded by the Recovery and Resilience Plan. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 95" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 95">ⓘ</button>
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd) estimated investment needs to fully transform [Portugal](../countries/portugal.qmd)’s building stock at EUR 4.95 billion per year. Current funding, including EUR 300 million from the Recovery and Resilience Plan, falls short of these needs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 137" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 137">ⓘ</button>
+- **R6\*, context**: Sovereign bond spreads have fallen to historically low levels relative to Germany, reflecting improved fiscal credibility. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 34" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 34">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+- **Banking stability**: Banks’ common equity tier 1 capital ratio was 17.9% at end-2025. Non-performing loans declined to 2.1% in the last quarter of 2025. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17">ⓘ</button>
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling**: No specific evidence of persistent spread decoupling from global risk appetite or redenomination premium is provided in the text. Bond spreads are not explicitly detailed in terms of basis points relative to AAA. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 1-139" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 1-139">ⓘ</button>
+- **Factor decoupling, context**: The 10-year Portuguese government bond yield stood at 3.4% as of end-April 2026, with the spread over 10-year German Bunds at around 40 basis points. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 18">ⓘ</button>
+- **Context**: Financial markets’ perceptions of sovereign risk are investment grade, with a 10-year sovereign yield spread of 33 basis points versus the German Bund as of December 31, 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 227, 229" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 227, 229">ⓘ</button>
+- **Factor decoupling**: House prices have outpaced incomes since 2013. Many low-income households are overburdened by housing costs. Variable interest rate mortgages account for 62% of the mortgage stock, passing monetary tightening quickly to holders. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 111" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 111">ⓘ</button>
+- **Factor decoupling**: Housing demand from foreigners accounted for about 10% of the value of all housing transactions between 2019 and 2024, focused on more expensive properties. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 111" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 111">ⓘ</button>
+- **Factor decoupling**: [Portugal](../countries/portugal.qmd)'s export performance has been strong since 2007, with exports growing faster than export markets. However, indirect effects of trade tensions may weigh on exports via European partners. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 27" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 27">ⓘ</button>
+
+## Outlook Material
+
+- **Topic: Housing Affordability**: A housing affordability crisis persists, with house prices rising nearly 124% cumulatively from 2015 to 2024. High vacancy rates (30% of dwellings not primary residences) coexist with supply shortages in high-demand areas like Lisbon and Porto. Homelessness reached a record high in 2024. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 7-8, 120-124" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 7-8, 120-124">ⓘ</button>
+- **Topic: Healthcare Access**: Significant shortages of healthcare workers exist. The National Health Service faces challenges in recruiting and retaining staff, with long waiting times for surgeries and specialist visits. Approximately 15% of the population did not have an assigned general practitioner in early 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 4, 25-26, 116-119" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 4, 25-26, 116-119">ⓘ</button>
+- **Topic: Energy Transition**: Permits for renewable energy projects are delayed due to complex regulatory frameworks. Wind deployment stagnated, and solar is the main growth driver. Energy storage capacity is below targets. Fossil fuel subsidies remain a barrier to decarbonization. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 15-19, 88-94" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 15-19, 88-94">ⓘ</button>
+- **Geopolitical shocks**: Portugal faced significant adverse shocks from storms and a steep rise in energy prices due to the conflict in the Middle East. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button>
+- **Housing Affordability**: Structural challenges in the housing market, including regulatory barriers to investment and weak rental markets, have undermined affordability. Young people are disproportionately affected. Reforms are needed to remove investment obstacles, use existing housing more effectively, and improve rental markets. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 103" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 103">ⓘ</button>
+- **Climate Adaptation**: [Portugal](../countries/portugal.qmd) is highly exposed to climate risks, including wildfires, heatwaves, and coastal erosion. Lack of stable funding and weak coordination at the local level hold back adaptation progress. Strengthening private insurance coverage is recommended to reduce contingent liabilities. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 88" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 88">ⓘ</button>
+- **Labour Market Potential**: Mobilising untapped labour market potential requires improving school-to-work transitions, creating enabling environments for older workers, maximising the contribution of foreign workers, and strengthening women’s participation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 74" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 74">ⓘ</button>
+- **Trade policy**: The OECD assumes a 15% US tariff on most European exports, including cars and pharmaceuticals, in its baseline projection. This is expected to weigh on [Portugal](../countries/portugal.qmd)'s exports and private investment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button>
+- **Defense spending**: [Portugal](../countries/portugal.qmd) has committed to increasing defense spending to 5% of GDP by 2035, up from 1.5% in 2023, posing additional fiscal pressure. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 35" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 35">ⓘ</button>
+- **Outlook Factors, Housing vulnerability**: Household debt remains a vulnerability. Gross household debt fell to 76% of gross disposable income in 2024, but housing prices have increased significantly, outpacing income growth. A sectoral systemic risk buffer of 4% was implemented in 2024 for residential real estate. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 31" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 31">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

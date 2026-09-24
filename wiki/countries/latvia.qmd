@@ -1,0 +1,237 @@
+---
+title: "Latvia"
+summary: "This dossier draws on the European Commission's Debt Sustainability Monitor published on 2026-02-12, the European Commission's Economic Forecast published on 2026-05-21, the European Commission's Country Report …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [European Commission](../institutions/european-commission.qmd)'s [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published on 2026-02-12, the [European Commission](../institutions/european-commission.qmd)'s [Economic Forecast](../document-types/economic-forecast.qmd) published on 2026-05-21, the [European Commission](../institutions/european-commission.qmd)'s [Country Report](../document-types/country-report.qmd) published on 2026-06-03, and the [OECD](../institutions/oecd.qmd)'s [Economic Survey](../document-types/economic-survey.qmd) published on 2026-06-12. The evidence covers Latvia's economic recovery, fiscal developments, and debt dynamics. Key themes include the slowdown in GDP growth due to a global energy shock, rising inflation, and a widening general government deficit driven by increased defence spending and labour tax reforms. Structural challenges regarding productivity, a shrinking working-age population, and regional disparities are highlighted. Long-term debt sustainability assessments indicate medium-term risks, with debt projected to rise significantly over the next decade.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | -0.9 | 0.0 | 2.1 | 1.4 | 1.6 | <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Nominal compensation per employee growth | % |  |  | 8.4 | 7.0 | 5.8 | <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  | 3.8 | 3.6 | 2.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  |  | 2.5 | 3.3 | 4.3 | <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP |  |  | 46.9 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Labour productivity (GDP per hour worked) | % of EU average |  |  | 62.2 (vs EU avg 100) |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 5">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03" aria-label="Source: ec/country-reports/Latvia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.0 | 2.1 | 1.9 | 2.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 10">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised consumer price index | % | 1.3 | 3.8 | 3.6 | 3.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 10">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % | 1.5 | 1.7 | 1.9 | 2.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 20" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 20">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government financial balance | % of GDP | -1.8 | -2.5 | -3.2 | -4.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 10">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Underlying government primary financial balance | % of GDP | -1.2 | -1.7 | -2.1 | -2.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 20" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 20">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 46.2 | 46.9 | 48.1 | 50.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 57.5 | 57.5 | 58.7 | 61.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 31" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 31">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government net debt | % of GDP | 17.7 | 18.2 | 19.4 | 21.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 31" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 31">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence spending (NATO concept) | % of GDP | 3.3 | 3.7 | 4.7 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 17" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 17">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Shadow economy | % of GDP | 21.4 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 40" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 40">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -0.7 | -1.9 | -2.1 | -2.1 | -2.1 | -2.2 | -2.1 | -2.1 | -2.1 | -2.2 | -2.3 | -2.1 | -2.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 46.6 | 48.3 | 49.9 | 54.1 | 56.0 | 58.2 | 60.2 | 62.4 | 64.7 | 67.0 | 69.4 | 71.7 | 74.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 6.8 | 8.7 | 8.5 | 10.8 | 8.9 | 9.2 | 9.4 | 9.7 | 10.0 | 10.3 | 10.7 | 10.8 | 11.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -2.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 8.7 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.1 | 1.4 | 1.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -2.5 | -3.3 | -4.3 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 48.3 | 49.9 | 53.8 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 131" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 131">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break**: The [European Commission](../institutions/european-commission.qmd) forecasts that EU GDP growth will slow to 1.1% in 2026 and the Euro area to 0.9%, due to an energy price shock from the Middle East conflict. Growth is projected to recover to 1.4% (EU) and 1.2% (Euro area) in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 18" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 18">ⓘ</button>
+- **C1-T, structural break**: GDP growth is forecast to slow to 1.4% in 2026 and pick up to 1.6% in 2027 due to the Middle East conflict. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130">ⓘ</button>
+- **C1-T, context**: Labour productivity reached 62.2% of the EU average (GDP per hour worked) in 2025. Productivity growth has lagged behind wage growth, reducing cost competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 5">ⓘ</button>
+- **C1-T, structural break**: The [OECD](../institutions/oecd.qmd) notes that weak private investment, innovation, and a shrinking working-age population continue to weigh on potential economic growth. Implementing structural reforms could raise GDP per capita growth by about 1.1 percentage points per year until 2036. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 22" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 22">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, competitiveness gap**: Rising wages have led to a strong increase in unit labor costs, weighing on the competitiveness of domestic firms. The working-age population is projected to further decline by 6% between 2024 and 2030. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 18" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 18">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: The economy recovered with real GDP growth of 2.1% in 2025, driven by private consumption and investment. Growth is forecast to slow to 1.4% in 2026 and pick up slightly to 1.6% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Nominal compensation per employee increased by 8.4% in 2025. Wage growth is predicted to slow to 7.0% in 2026 and 5.8% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **Inflation**: Inflation rebounded to 3.8% in 2025 and is expected to decline to 3.6% in 2026 before falling to 2.2% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3\*, context**: The [European Commission](../institutions/european-commission.qmd) projects a structural primary deficit of 2.1% of GDP as of 2026. This is low compared with past fiscal performance. Ageing-related expenditure is projected to remain stable. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 187" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 187">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is forecast to increase to 3.3% of GDP in 2026 and 4.3% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 130">ⓘ</button>
+- **C3-T, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) activated the national escape clause for Latvia in July 2025 to facilitate the transition to higher levels of defence spending. Total government expenditure on defence amounted to 3.2% of GDP in 2025 and is forecast to increase to 4.1% in 2026 and 5.5% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The fiscal stance was strongly expansionary in 2025 due to rising defense spending, which increased from 3.3% of GDP in 2024 to 3.7% in 2025 and is expected to reach 4.7% in 2026. The structural fiscal deficit is projected to increase to 2.5% of GDP in 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 30" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 30">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: The structural primary balance is projected at -2.1% of GDP on average for 2026-2035. The fiscal consolidation space is 75% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3\*, context**: The government deficit increased to 2.5% of GDP in 2025. The Commission’s Spring 2026 Forecast projects the deficit will increase to 3.3% of GDP in 2026 and 4.3% in 2027. This widening is driven by increasing defence expenditure and the impact of labour tax reforms on revenue. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button>
+- **C3\*, context**: Latvia’s tax revenue was 34.9% of GDP in 2024, remaining below the EU average of 39.4%. A 2025 labour tax reform lowered the tax burden for low- and middle-income earners but created a significant revenue gap. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, consolidation needs**: To stabilize public debt, a fiscal adjustment of 2.3% of GDP is needed by 2032, requiring a shift from a structural primary deficit of 1.2% of GDP in 2026 to a surplus of 0.8% of GDP. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 30" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 30">ⓘ</button>
+- **C3\*, context**: The [OECD](../institutions/oecd.qmd) recommends raising tax revenue by shifting the burden from labor to corporate income, property, and environmental taxes, and strengthening tax enforcement to reduce informality. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 12" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 12">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to medium risk, requiring a 2.2 percentage point improvement. The S1 indicator points to medium risk, requiring a 2.4 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 188" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 188">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: The debt-to-GDP ratio is forecast to increase to 53.8% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 131" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 131">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, context**: A relatively large share of public debt is held by non-residents. The net international investment position is negative. Risk-mitigating factors include the low share of short-term debt and euro denomination. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 188" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 188">ⓘ</button>
+- **R1-A, contingent liabilities**: Contingent fiscal risks exist related to cost increases in the Rail Baltica project and the financial situation of some state-owned enterprises. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 30" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 30">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1\*, context**: Gross financing needs were 8.7% of GDP in 2025. Debt is projected to increase to 74.2% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected at around 10% of GDP on average over 2026-2027, rising to around 11% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 187" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 187">ⓘ</button>
+- **R1\*, context**: The government debt-to-GDP ratio reached 46.9% in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button>
+- **R1\*, context**: Public investment is expected to reach 7.2% of GDP in 2026, up from 5.6% in 2021, driven by defence spending and EU fund inflows. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 35">ⓘ</button>
+- **R1\*, context**: General government gross debt (Maastricht) is projected to rise from 46.9% of GDP in 2025 to 50.3% in 2027. The [OECD](../institutions/oecd.qmd) notes that debt sustainability is sensitive to interest rate movements and growth trajectories. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 31" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 31">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: Latvia adhered to the maximum growth rates of net expenditure recommended by the Council in January 2025, while making use of the allowance under the national escape clause for higher defence expenditure. The cumulated deviation in 2025 amounted to -1.9% of GDP. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 30" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 30">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 85 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 189">ⓘ</button>
+
+## Outlook Material
+
+- **Competitiveness**: Latvia’s GDP per capita was 71% of the EU average in 2025, significantly below its Baltic peers. Convergence is slowing due to lagging productivity and skills shortages. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 5">ⓘ</button>
+- **Security**: Latvia successfully disconnected from the Russian-operated electricity system in February 2025, synchronizing with the Continental European Synchronous Area. This increases energy independence. However, the country faces hybrid threats and cyberattacks, particularly in border regions. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 7">ⓘ</button>
+- **Regional Disparities**: Significant disparities exist between Riga and other regions. Non-Riga regions have GDP per capita below 50% of the EU average and suffer from depopulation and low productivity. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 6">ⓘ</button>
+- **Political/Geopolitical Risks**: Downside risks include escalation of geopolitical tensions, particularly the war in Ukraine and conflicts in the Middle East, which could affect risk premiums and energy prices. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 9" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 9">ⓘ</button>
+- **Labor Market**: Labor shortages are exacerbated by a declining working-age population and emigration, contributing to inflationary pressures and rising unit labor costs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 18" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 18">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

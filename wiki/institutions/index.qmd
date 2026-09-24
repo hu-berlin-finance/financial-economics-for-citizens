@@ -1,0 +1,26 @@
+---
+title: "Institutions"
+description: "The institutions that appear in the source documents: their role in the rating process and what the sources say about them by country."
+listing:
+  type: table
+  contents:
+    - council-of-the-eu.qmd
+    - eurogroup.qmd
+    - european-central-bank.qmd
+    - european-commission.qmd
+    - european-fiscal-board.qmd
+    - european-investment-bank.qmd
+    - european-investment-fund.qmd
+    - european-stability-mechanism.qmd
+    - eurostat.qmd
+    - international-monetary-fund.qmd
+    - oecd.qmd
+    - world-bank.qmd
+  sort: false
+  fields: [title, summary]
+  field-display-names:
+    title: "Institution"
+    summary: "Summary"
+  filter-ui: true
+  sort-ui: false
+---

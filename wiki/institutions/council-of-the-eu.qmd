@@ -1,0 +1,184 @@
+---
+title: "Council of the EU"
+summary: "The Council of the EU is a key decision-maker in the fiscal surveillance framework. It formally opens and closes excessive deficit procedures and decides on effective action. These decisions serve as bright-line inputs …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+The Council of the EU is a key decision-maker in the fiscal surveillance framework. It formally opens and closes excessive deficit procedures and decides on effective action. These decisions serve as bright-line inputs for assessing [Backstop Eligibility](../parameters/backstop-eligibility.qmd) (R6). The Council also endorses national fiscal plans under the EU fiscal framework, which relates to the assessment of [Fiscal Capacity](../parameters/fiscal-capacity.qmd) and history-lags-policy risks (C3-T*).
+
+## Evidence by Country
+
+### Euro Area
+
+- The Council of the EU made financial assistance available under the Security Action for Europe (SAFE) instrument for defence spending in multiple member states. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- The Council of the EU adopted the Recommendation on the economic policy of the euro area. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 2">ⓘ</button>
+- The Council of the EU adopted the Recommendation on the economic policy of the euro area and the Joint Employment Report. <button type="button" class="source-ref" data-source="ec/recommendations/Ireland_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Ireland_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU adopted the Recommendation on the economic policy of the euro area and the Joint Employment Report. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 2-3">ⓘ</button>
+- The Council of the EU endorsed net expenditure paths for Member States. Activated the national escape clause (NEC) based on Commission recommendations. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+
+### [Austria](../countries/austria.qmd)
+
+- The Council of the EU adopted a recommendation endorsing Austria’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 37, p. 40" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 37, p. 40">ⓘ</button>
+- The Council of the EU activated the national escape clause for defence spending in February 2026 to facilitate higher defence expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 37, p. 40" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 37, p. 40">ⓘ</button>
+- The Council of the EU adopted recommendations on the excessive deficit procedure opened in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 6, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 6, p. 37">ⓘ</button>
+- The Council of the EU endorsed Austria's national medium-term fiscal-structural plan covering 2025–2029. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU allowed Austria to deviate from maximum net expenditure growth rates via the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button>
+
+### [Belgium](../countries/belgium.qmd)
+
+- The Council of the EU activated the national escape clause for Belgium in July 2025 to facilitate higher defence spending, allowing deviation from maximum growth rates of net expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button>
+- The Council of the EU adopted a recommendation endorsing Belgium’s medium-term fiscal structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button>
+- The Council of the EU adopted a revised recommendation under Article 126(7) TFEU regarding the excessive deficit procedure, which remains held in abeyance. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button>
+- The Council of the EU endorsed Belgium's national medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU recommended maximum growth rates for net expenditure and allowed Belgium to deviate from these rates under the national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 4">ⓘ</button>
+- The document notes the activation of the national escape clause (NEC) for Belgium. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### [Bulgaria](../countries/bulgaria.qmd)
+
+- The Council of the EU activated the national escape clause for Bulgaria for defence spending. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6, p. 43" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6, p. 43">ⓘ</button>
+- The Council of the EU endorsed Bulgaria’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6, p. 43" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6, p. 43">ⓘ</button>
+- The Council of the EU made financial assistance available under the SAFE instrument for up to EUR 3.262 billion. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- The Council of the EU recommended maximum growth rates of net expenditure for Bulgaria (6.2% in 2025, 4.9% in 2026, 4.4% in 2027, 4.0% in 2028). <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4-6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4-6">ⓘ</button>
+- The Council of the EU allowed Bulgaria to deviate from recommended maximum growth rates of net expenditure under the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4-6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4-6">ⓘ</button>
+- The Council of the EU adopted a Decision on the existence of an excessive deficit in Bulgaria and a Recommendation to bring the situation to an end. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4-6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4-6">ⓘ</button>
+- The document notes the activation of the national escape clause (NEC) for Bulgaria. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### [Croatia](../countries/croatia.qmd)
+
+- The Council of the EU allowed Croatia to activate the national escape clause for defense spending in 2025-2028, permitting deviations from net expenditure ceilings to support higher defense expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button>
+- The Council of the EU endorsed Croatia's national medium-term fiscal-structural plan for 2025-2028, which sets maximum growth rates for net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button>
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- The Council of the EU adopted decisions regarding financial assistance for defense spending under the SAFE instrument. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU adopted the medium-term fiscal structural plan for Cyprus. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU endorsed a national medium-term fiscal-structural plan for Cyprus covering 2025–2028 on 21 January 2025, setting maximum net expenditure growth rates. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU set net expenditure ceilings for Cyprus. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 3">ⓘ</button>
+
+### [Estonia](../countries/estonia.qmd)
+
+- The Council of the EU endorsed Estonia’s national medium-term fiscal-structural plan covering 2025–2028, with maximum growth rates of net expenditure of 7.1% in 2025, 5.1% in 2026, 3.6% in 2027, and 3.2% in 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU activated the national escape clause for Estonia in 2025, allowing deviation from recommended maximum growth rates to support increased defence spending until 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU allowed Estonia to deviate from recommended maximum growth rates of net expenditure via the national escape clause, activated on 8 July 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- The document notes the activation of the national escape clause (NEC) for Estonia. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### [Finland](../countries/finland.qmd)
+
+- The Council of the EU adopted a recommendation on 21 January 2026 to correct the excessive deficit, effectively closing the procedure while holding it in abeyance. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27">ⓘ</button>
+- The Council of the EU activated the national escape clause for defence spending on 8 July 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27">ⓘ</button>
+- The Council of the EU made financial assistance of up to EUR 1 billion available through the Security Action for Europe instrument. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5–6" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5–6">ⓘ</button>
+- The Council of the EU endorsed Finland’s medium-term fiscal-structural plan on 21 January 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27">ⓘ</button>
+- The Council of the EU recommended maximum growth rates of net expenditure of 1.3% in 2026, 1.5% in 2027, and 1.8% in 2028 to bring an end to the excessive deficit situation. <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 4">ⓘ</button>
+- The excessive deficit procedure for Finland is held in abeyance following the Council of the EU's assessment of effective action on 3 June 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU adopted a recommendation under Article 126(7) TFEU on 20 January 2026 to bring an end to the excessive deficit in Finland. <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 4">ⓘ</button>
+
+### [France](../countries/france.qmd)
+
+- The Council of the EU endorsed the national medium-term fiscal-structural plan of France on 21 January 2025, which covers 2025–2029 and presents a fiscal adjustment spread over seven years. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 4" aria-label="Source: ec/recommendations/France_2026-06-03, p. 4">ⓘ</button>
+- The recommended maximum growth rates of net expenditure for 2025–2029 coincide with the corrective path recommended by the Council under Article 126(7) of the Treaty on the Functioning of the European Union (TFEU) on 21 January 2025. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 4" aria-label="Source: ec/recommendations/France_2026-06-03, p. 4">ⓘ</button>
+- The document does not mention national escape clause (NEC) activation for France. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+
+### [Germany](../countries/germany.qmd)
+
+- The Council of the EU activated the National Escape Clause (NEC) for Germany to facilitate its transition to higher levels of defense spending. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, 33" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, 33">ⓘ</button>
+- The Council of the EU adopted the recommendation endorsing Germany’s medium-term fiscal-structural plan on 10 October 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, 33, 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, 33, 40">ⓘ</button>
+- The Council of the EU activated the national escape clause for Germany, allowing deviation from maximum growth rates of net expenditure to support defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU adopted the Recommendation on the economic policy of the euro area. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button>
+- The NEC is activated for Germany, deactivating the debt sustainability and deficit resilience safeguards. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) assessed the fiscal sustainability condition for activating the NEC. It concluded that sustainability is preserved over the medium term. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- The Council of the EU endorsed the national medium-term fiscal-structural plan for 2025–2028. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU set maximum growth rates of net expenditure at 3.7% (2025), 3.6% (2026), 3.1% (2027), and 3.0% (2028). <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 4–5" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 4–5">ⓘ</button>
+- The Council of the EU allowed Greece to deviate from these rates in July 2025 under the national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 4–5" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 4–5">ⓘ</button>
+- The [OECD](../institutions/oecd.qmd) references the newly adopted EU fiscal rules by the [Council of the EU](../institutions/council-of-the-eu.qmd), noting that Greece’s projected debt decline ensures compliance with these rules. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button>
+- The document notes the activation of the national escape clause (NEC) for Greece. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### [Ireland](../countries/ireland.qmd)
+
+- The Council of the EU adopted a recommendation endorsing Ireland’s revised medium-term fiscal-structural plan for 2026-2030 on 10 March 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 25, p. 31" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 25, p. 31">ⓘ</button>
+- The Council of the EU endorsed Ireland's national medium-term fiscal-structural plan on 10 March 2026, setting maximum net expenditure growth rates of 6.6% in 2026, 6.0% in 2027, 7.6% in 2028, 6.7% in 2029, and 6.4% in 2030. <button type="button" class="source-ref" data-source="ec/recommendations/Ireland_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Ireland_2026-06-03, p. 3-4">ⓘ</button>
+- Ireland submitted a revised medium-term plan following elections, which was still being assessed at the cut-off date. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 115" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 115">ⓘ</button>
+
+### [Italy](../countries/italy.qmd)
+
+- The Council of the EU endorsed [Italy](../countries/italy.qmd)'s national medium-term fiscal-structural plan on 21 January 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU recommended maximum growth rates for net expenditure, which coincide with the corrective path for 2025-2026. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 4">ⓘ</button>
+
+### [Latvia](../countries/latvia.qmd)
+
+- The Council of the EU activated the national escape clause for Latvia in July 2025 to facilitate the transition to higher levels of defence spending. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU adopted the Recommendation endorsing Latvia’s medium-term fiscal-structural plan in January 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 35">ⓘ</button>
+- The Council of the EU endorsed Latvia’s national medium-term fiscal-structural plan on 21 January 2025, setting maximum growth rates for net expenditure: 5.9% in 2025, 3.6% in 2026, 3.4% in 2027, and 3.3% in 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 3-5" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 3-5">ⓘ</button>
+- The Council of the EU allowed deviation from net expenditure growth rates via the national escape clause for 2025–2028 to allow deviations for higher defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 3">ⓘ</button>
+
+### [Lithuania](../countries/lithuania.qmd)
+
+- The Council of the EU adopted the recommendation endorsing Lithuania’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 39">ⓘ</button>
+- The Council of the EU activated the national escape clause for Lithuania for higher defence expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 39">ⓘ</button>
+- The Council of the EU endorsed Lithuania's national medium-term fiscal-structural plan covering 2025 to 2029. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU recommended maximum net expenditure growth rates of 6.1% in 2025, 5.2% in 2026, 4.8% in 2027, 4.5% in 2028, and 4.3% in 2029. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU allowed Lithuania to deviate from the recommended maximum growth rates of net expenditure under the national escape clause for the period 2025-2028, to support increased defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 3">ⓘ</button>
+
+### [Luxembourg](../countries/luxembourg.qmd)
+
+- The Council of the EU endorsed the national medium-term fiscal-structural plan of [Luxembourg](../countries/luxembourg.qmd) on 21 January 2025, setting maximum net expenditure growth rates for 2025–2029. <button type="button" class="source-ref" data-source="ec/recommendations/Luxembourg_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Luxembourg_2026-06-03, p. 3">ⓘ</button>
+
+### [Malta](../countries/malta.qmd)
+
+- The Council of the EU adopted a recommendation to correct the excessive deficit in Malta. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 35, 29" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 35, 29">ⓘ</button>
+- The Council of the EU adopted recommendations on Malta's economic policies and the maximum growth rates of net expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 29, 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 29, 35">ⓘ</button>
+- The Council of the EU endorsed Malta’s medium-term fiscal structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 29, 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 29, 35">ⓘ</button>
+- The Council of the EU endorsed a national medium-term fiscal-structural plan covering 2025–2028, with maximum growth rates of net expenditure coinciding with the corrective path for 2025–2027. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU set maximum growth rates for net expenditure of 6.0% in 2025 and 5.8% in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 3">ⓘ</button>
+- The Council of the EU abrogated the excessive deficit decision for [Malta](../countries/malta.qmd), indicating formal closure of the procedure. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 3">ⓘ</button>
+
+### [Netherlands](../countries/netherlands.qmd)
+
+- The Council of the EU endorsed the national medium-term fiscal-structural plan for the period 2026-2030, presenting a fiscal adjustment spread over four years with recommended maximum growth rates of net expenditure: 4.7% in 2026, 3.5% in 2027, 3.1% in 2028, 3.5% in 2029, and 3.7% in 2030. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 3-4">ⓘ</button>
+- The Council of the EU is the addressee of the European Commission's recommendation regarding the adherence to maximum growth rates of net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 1-3" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 1-3">ⓘ</button>
+
+### [Portugal](../countries/portugal.qmd)
+
+- The Council of the EU endorsed Portugal’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5, 34, 41" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5, 34, 41">ⓘ</button>
+- The Council of the EU activated the national escape clause for Portugal in July 2025 to facilitate higher defense spending. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5, 34" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5, 34">ⓘ</button>
+- Portugal adhered to the maximum growth rates of net expenditure recommended by the Council of the EU. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 34" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 34">ⓘ</button>
+- The Council of the EU endorsed [Portugal](../countries/portugal.qmd)'s national medium-term fiscal-structural plan on 21 January 2025. The plan covers 2025–2028 and sets maximum growth rates for net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button>
+- On 8 July 2025, the Council of the EU allowed [Portugal](../countries/portugal.qmd) to deviate from these rates under the national escape clause for 2025–2028 to support higher defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button>
+
+### [Slovakia](../countries/slovakia.qmd)
+
+- The Council of the EU adopted a recommendation endorsing Slovakia’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 41" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 41">ⓘ</button>
+- The Council of the EU activated the National Escape Clause for higher defence spending. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 41" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 41">ⓘ</button>
+- The Council of the EU held the Excessive Deficit Procedure in abeyance. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 41" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 41">ⓘ</button>
+- The Council of the EU endorsed [Slovakia](../countries/slovakia.qmd)'s national medium-term fiscal-structural plan in January 2025, setting maximum net expenditure growth rates. [Slovakia](../countries/slovakia.qmd) activated the national escape clause for defense spending (2025–2028). <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- The excessive deficit procedure for [Slovakia](../countries/slovakia.qmd) is held in abeyance following the endorsement of its fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU adopted recommendations on net expenditure growth rates, endorsed the fiscal-structural plan, and allowed deviation from expenditure limits via the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+
+### [Slovenia](../countries/slovenia.qmd)
+
+- The Council of the EU activated the 'national escape clause' for Slovenia to allow higher defense spending in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39">ⓘ</button>
+- The Council of the EU endorsed Slovenia’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39">ⓘ</button>
+- The Council of the EU adopted the Recommendation on the economic policy of the euro area. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 2-4">ⓘ</button>
+- The Council of the EU adopted the Recommendation on human capital. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 2-4">ⓘ</button>
+- The Council of the EU endorsed [Slovenia](../countries/slovenia.qmd)'s national medium-term fiscal-structural plan with recommended maximum growth rates of net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 2-4">ⓘ</button>
+- The Council of the EU activated the national escape clause for [Slovenia](../countries/slovenia.qmd) for the period 2025-2028 to allow deviation from maximum net expenditure growth rates due to increased defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button>
+- The Council of the EU adopted the Recommendation allowing [Slovenia](../countries/slovenia.qmd) to deviate from expenditure limits. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 2-4">ⓘ</button>
+
+### [Spain](../countries/spain.qmd)
+
+- The Council of the EU endorsed [Spain](../countries/spain.qmd)'s national medium-term fiscal-structural plan in January 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 2-3">ⓘ</button>
+- The Council of the EU allowed [Spain](../countries/spain.qmd) to deviate from recommended net expenditure growth rates via the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 2-3">ⓘ</button>
+- The Council endorsed Spain’s national medium-term fiscal-structural plan covering 2025–2028, recommending maximum net expenditure growth rates of 3.7% in 2025, 3.5% in 2026, 3.2% in 2027, and 3.0% in 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+- The document does not mention national escape clause (NEC) activation for Spain in the relevant section, but Spain is not listed among the 16 states that requested it. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

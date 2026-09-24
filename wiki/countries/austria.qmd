@@ -1,0 +1,276 @@
+---
+title: "Austria"
+summary: "This dossier synthesises findings from the OECD Economic Survey (published 2026-03-19), the European Commission Country Report and Country-Specific Recommendations (published 2026-06-03), the European Commission Debt …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier synthesises findings from the **[OECD](../institutions/oecd.qmd)** **[Economic Survey](../document-types/economic-survey.qmd)** (published 2026-03-19), the **[European Commission](../institutions/european-commission.qmd)** **[Country Report](../document-types/country-report.qmd)** and **[Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd)** (published 2026-06-03), the **[European Commission](../institutions/european-commission.qmd)** **[Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd)** (published 2026-02-12), and the **[European Commission](../institutions/european-commission.qmd)** **[Economic Forecast](../document-types/economic-forecast.qmd)** (published 2026-05-21). The evidence highlights that Austria is emerging from a prolonged 2022–2024 recession with modest growth, though structural headwinds remain, including low productivity, high unit labour costs, and an aging population. The country is under an **excessive deficit procedure**, which is currently held in abeyance. A national escape clause active from 2026 to 2028 permits increased defence spending. Additional challenges include housing affordability pressures, energy import dependence, and risks in commercial real estate lending. The **[Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd)** projects debt to exceed 100% of GDP by 2036 under a no-policy-change baseline, citing medium-term risks driven by a persistent structural primary deficit and ageing costs.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % annual change | -0.7 | -0.8 | 0.6 | 1.1 | 1.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 13" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 13">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % annual change | 1.3 | 1.1 | 0.9 | 0.8 | 0.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Consumer price index (Harmonised) | % annual change | 7.7 | 2.9 | 3.6 | 2.5 | 2.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | -2.6 | -4.7 | -4.5 | -4.2 | -4.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 13" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 13">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Underlying general government fiscal balance | % of potential GDP | -3.0 | -3.8 | -3.3 | -3.2 | -3.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Underlying government primary fiscal balance | % of potential GDP | -2.2 | -2.8 | -1.9 | -1.3 | -1.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 77.7 | 80.0 | 81.9 | 84.0 | 85.7 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government net debt | % of GDP | 44.9 | 47.8 | 49.8 | 51.9 | 53.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Interest payments | % of GDP | 1.2 | 1.5 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 28" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 28">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Ten-year government bond yield (average) | % | 3.1 | 2.8 | 3.0 | 3.1 | 3.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Backstop Eligibility](../parameters/backstop-eligibility.qmd) | Excessive Deficit Procedure | Open (entered July 2025) | Status | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 48" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 48">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2019 | 2023 | 2024 | [2025]{.year-mark title="estimate"} | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} | 2028 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | -0.7 | -0.7 | 0.6 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % |  |  |  | 0.5 |  |  | ~1.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General Government Balance | % of GDP |  |  | -4.6 | -4.2 | -4.1 | -4.1 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 6, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 6, p. 37">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total Tax Revenues | % of GDP |  |  | 43.4 | 44.0 | 44.1 | 43.9 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 38, p. 45" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 38, p. 45">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross General Government Debt | % of GDP |  |  |  | 81.5 |  | 84.9 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public Investment | % of GDP | 3.1 |  |  |  |  | 4.1 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 6, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 6, p. 37">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence Spending | % of GDP |  |  |  | 0.7 | 0.9 | 1.0 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 6">ⓘ</button> |
+
+: Years in italics: estimate, forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03" aria-label="Source: ec/country-reports/Austria_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Unit Labour Cost growth | 2022–2025: +21% (cumulative) | % | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP Inflation | 2025: ticked up after energy relief phase-out; Jan 2026: 2.0; 2026f: 3.0 (due to Middle East shock) | % | <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03" aria-label="Source: ec/country-reports/Austria_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="estimate"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.6 | 0.6 | 0.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 3.6 | 3.0 | 2.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | 4.6 | 4.2 | 4.1 | 4.1 | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | -1.1 | -0.4 | -0.4 | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | % |  | 2.0 | 2.1 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public pension expenditure | % of GDP |  | 14.5 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 80.0 | 81.5 | 83.4 | 84.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  | 0.7 | 0.9 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button> |
+
+: Years in italics: estimate, forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03" aria-label="Source: ec/recommendations/Austria_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -3.2 | -2.7 | -2.3 | -2.4 | -2.4 | -2.2 | -2.2 | -2.3 | -2.5 | -2.5 | -2.7 | -2.6 | -2.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 79.9 | 81.4 | 82.8 | 84.2 | 85.4 | 86.6 | 88.1 | 89.9 | 91.9 | 94.1 | 96.6 | 99.2 | 102.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 14.9 | 15.2 | 15.3 | 15.7 | 16.1 | 16.5 | 17.0 | 17.6 | 18.3 | 19.0 | 19.9 | 20.6 | 21.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -1.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 15.2 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **[C1-T, structural break in trend]**: The **[OECD](../institutions/oecd.qmd)** notes that potential GDP per capita growth has weakened since the pandemic, driven by a shrinking working-age population, low productivity growth, and high energy costs. Trend labour productivity growth is low, held back by low capital intensity and rising part-time employment. The medium-term growth forecast (1.1% in 2026) deviates significantly from the pre-crisis trend, reflecting permanent output loss from the 2022–2024 recession. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 30" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 30">ⓘ</button>
+- **[C1-T, Structural break in trend]**: The **[European Commission](../institutions/european-commission.qmd)** notes that potential GDP growth is estimated at 0.5% in 2025 and is expected to recover to only about 1% by 2028. This weak outlook is hampered by demographic challenges (population ageing) and sluggish productivity growth, with total factor productivity lagging behind the euro-area average. Real GDP declined by around 1.4% cumulatively in 2023 and 2024, whereas EU GDP grew by 1.5%. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button>
+- **[C1-T, structural break]**: GDP is expected to grow by 0.6% in 2026 and 0.9% in 2027. The energy price shock disrupts recovery momentum, weighing on consumption and investment. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 140" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 140">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **[C1-A1, growth not thin-tailed or serially independent]**: The economy experienced a prolonged recession (2023–2024), its longest since 1945, triggered by energy price shocks. Growth shortfalls came in runs, with real GDP declining by 2.8% between Q4 2022 and Q3 2024. The **[OECD](../institutions/oecd.qmd)** highlights exposure to rare disasters, including energy dependence on imported fossil fuels and geopolitical risks affecting trade value chains. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 22" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 22">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **[C1-A2, inherited competitiveness gap]**: Unit labour costs rose by 24% since 2021, among the largest increases in the EU. Industrial competitiveness has been eroded by high energy prices and rapid wage growth following inflation. Electricity prices for non-household consumers were 60% higher in 2025 than in late 2021. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 71" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 71">ⓘ</button>
+- **[C1-A2, Inherited competitiveness gap]**: Unit labour costs increased by 21% between 2022 and 2025, which is 6 percentage points above the EU average. This has further eroded Austria’s competitiveness, particularly hitting energy-intensive industries hard as industrial electricity prices almost doubled between 2021 and 2023. Manufacturing gross value added decreased by almost 9% between 2022 and 2024. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3, p. 62" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3, p. 62">ⓘ</button>
+
+#### Other growth context
+
+- **[C1*, context]**: The **[European Commission](../institutions/european-commission.qmd)** Spring 2026 Forecast projects real GDP growth of 0.6% in 2026 and 0.9% in 2027, following 0.6% growth in 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **[C2-T, projections stale]**: Inflation projections account for mechanical price effects from expiring energy support measures. Energy inflation surged from -7.8% in December 2024 to +5.2% in January 2025 due to the end of the electricity price brake and reinstatement of levies. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 24" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 24">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+- **[C2-A, imperfect indexation]**: Austria has widespread indexation mechanisms linking prices, wages, and benefits to past inflation. About 13% of household spending is directly indexed. A simulation suggests second-round effects from indexation add 0.4 percentage points to inflation in the first year after a 1% shock. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 27" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 27">ⓘ</button>
+- **[C2-A, Imperfect indexation]**: Inflation has persistently exceeded euro-area levels. Cumulative inflation from 2022 to 2025 amounted to around 25%, 5.2 percentage points higher than in the euro area. In 2025, inflation ticked up again after the phasing out of energy relief measures, causing household electricity prices to increase by roughly 36%. In January 2026, inflation fell to 2%, but a new energy shock from the Middle East conflict is expected to raise inflation to 3% in 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button>
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **[C2*, context]**: HICP inflation was 3.6% in 2025, projected to stand at 3.0% in 2026 and 2.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **[C3-E, estimator fails or rests on one episode]**: The structural primary balance was substantial and negative at -2.5% of potential GDP in 2024. The **[OECD](../institutions/oecd.qmd)** notes that long-term fiscal pressures from ageing and climate transition will require steady structural adjustments in tax and spending policies. The current tax and spending structure places the debt-to-GDP ratio on an upward trajectory over the long term. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 27" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 27">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **[C3-T, history lags policy]**: Austria entered an excessive deficit procedure in July 2025. The **[European Commission](../institutions/european-commission.qmd)** recommended limiting net expenditure growth to 2.6% in 2025, 2.2% in 2026–2027, and 2.0% in 2028. The government aims for spending and revenue measures amounting to 1.3% of GDP in 2025 and 1.6% in 2026 to narrow the deficit below 3% of GDP by 2028. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 44" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 44">ⓘ</button>
+- **[C3-T, History lags policy]**: Austria adopted a medium-term fiscal-structural plan (MTP) for 2025–2029, committing to limit net expenditure growth and reduce the deficit below 3% of GDP by 2028. The trajectory implies an improvement of the structural primary balance of 2.1 percentage points of GDP between 2025 and 2029. An excessive deficit procedure was opened in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 5, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 5, p. 37">ⓘ</button>
+- **[C3-T, context]**: **[Austria](../countries/austria.qmd)** has activated a national escape clause from February 2026 to 2028, allowing deviation from recommended maximum growth rates of net expenditure to support higher defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button>
+- **[C3-T, history lags policy]**: The general government deficit is projected to remain broadly unchanged at 4.1% in 2026 and 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 141" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 141">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **[C3*, context]**: Public debt is expected to increase from around 81.5% of GDP in 2025 to 84.9% in 2027, mostly due to persistent fiscal deficits and subdued GDP growth. Austria faces one of the highest age-related spending pressures in the EU. Total ageing-related spending is projected to rise by about 1 percentage point of GDP between now and 2040. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 6, p. 39" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 6, p. 39">ⓘ</button>
+- **[C3*, context]**: Austria’s total tax revenues were 44.0% of GDP in 2025, significantly above the EU average of 39.9%. The tax mix relies heavily on labour taxation (56.1% of total tax revenue in 2024, vs 51.5% EU average). Recurrent property taxes are comparatively low (0.2% of GDP in 2024, vs 0.9% EU average). <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 38, p. 43, p. 45" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 38, p. 43, p. 45">ⓘ</button>
+- **[C3*, context]**: The general government deficit decreased from 4.6% of GDP in 2024 to 4.2% in 2025, reflecting a consolidation package. It is projected to be 4.1% of GDP in both 2026 and 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+- **[C3*, context]**: The fiscal stance was contractionary by 1.1% of GDP in 2025 and is projected to be contractionary by 0.4% of GDP in both 2026 and 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+- **[C3*, context]**: Net expenditure grew by 2.0% in 2025, which is below the recommended maximum growth rate. It is projected to grow by 2.1% in 2026, also below the recommended maximum. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 5">ⓘ</button>
+- **[C3*, context]**: Public pension expenditure was 14.5% of GDP in 2025. The document highlights demographic ageing and low effective retirement ages as challenges to fiscal sustainability. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 5">ⓘ</button>
+- **[C3*, context]**: Healthcare and long-term care expenditure levels are elevated due to fragmentation and cost-inefficiencies. Reforms, including a healthcare reform fund established in 2026, aim to improve efficiency but are constrained by regulatory support and coordination issues. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 5">ⓘ</button>
+- **[C3*, context]**: The tax mix relies heavily on labour income and consumption. Personal income tax brackets have been indexed to inflation since 2023 to prevent bracket creep. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 6">ⓘ</button>
+- **[C3\*, context]**: The European Commission projects a structural primary deficit of 1.6% of GDP as of 2026, assuming no fiscal policy change from 2027. This level is low compared with past fiscal performance. Ageing-related expenditure is projected to increase. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 217" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 217">ⓘ</button>
+- **[C3\*, context]**: The S2 debt-stabilisation indicator points to medium risk, requiring a 4.2 percentage point improvement in the structural primary balance by 2027 to stabilize debt. This is driven by the initial budgetary position (2.3 pps) and ageing costs (1.8 pps). <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 218" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 218">ⓘ</button>
+- **[C3\*, context]**: The S1 debt-reduction indicator points to medium risk, requiring a 3.7 percentage point effort to reduce debt to 60% of GDP by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 218" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 218">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **[R1-E, components missing or distorted]**: Gross public debt rose to 80.0% of GDP in 2024. The **[OECD](../institutions/oecd.qmd)** notes that stock-flow adjustments and interest payments are key drivers. Interest payments increased to 1.5% of GDP in 2024. Non-performing loans in the banking sector rose to 3.0% of total loans in 2024, driven by commercial real estate exposures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button>
+- **[R1-E, components missing]**: The debt-to-GDP ratio is forecast to increase to 84.9% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 141" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 141">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **[R1-T, financing behavior shifts]**: The **[OECD](../institutions/oecd.qmd)** highlights risks from commercial real estate lending. Around one-third of new corporate loans in 2024 went to construction and real estate. A sectoral systemic risk buffer of 1% was introduced in July 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 40" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 40">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+- **[R1-A, Part of the debt not exposed to the market]**: The document notes that Austria benefits substantially from EU funding instruments, including the Recovery and Resilience Facility (RRF) with EUR 3.96 billion in grants and Cohesion Policy funds, which support investments and structural reforms. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 5, p. 8" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 5, p. 8">ⓘ</button>
+- **[R1-A, context]**: A large share of debt is held by non-residents. Contingent liability risks stem from the private sector and state guarantees. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 218" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 218">ⓘ</button>
+
+#### Other refinancing context
+
+- **[R1*, context]**: Gross general government debt rose to 81.5% of GDP at the end of 2025. The **[European Commission](../institutions/european-commission.qmd)** Spring 2026 Forecast projects debt to reach 84.9% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 37">ⓘ</button>
+- **[R1*, context]**: General government debt increased from 80.0% of GDP in 2024 to 81.5% in 2025, driven by the fiscal deficit, modest GDP growth, and credit-financed infrastructure investments. It is projected to rise to 83.4% by the end of 2026 and 84.9% by the end of 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+- **[R1*, context]**: Defence expenditure amounted to 0.7% of GDP in 2025 and is projected at 0.9% of GDP in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+- **[R1*, context]**: An untargeted reduction in excise duties on petrol and diesel was adopted in April and May 2026 to mitigate high energy prices. The fiscal cost is projected to be less than 0.1% of GDP in 2026, even if extended to year-end. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+- **[R1\*, context]**: Gross financing needs are expected to remain large, reaching around 21% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 217" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 217">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **[R6*, Bright-line inputs]**: An excessive deficit procedure was opened in 2025. The **[Council of the EU](../institutions/council-of-the-eu.qmd)** adopted a recommendation endorsing Austria’s medium-term fiscal-structural plan and activated the national escape clause for defence spending in February 2026 to facilitate higher defence expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 37, p. 40" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 37, p. 40">ⓘ</button>
+- **[R6*, context]**: The excessive deficit procedure for **[Austria](../countries/austria.qmd)** is held in abeyance based on the **[European Commission](../institutions/european-commission.qmd)**'s assessment of effective action dated 3 June 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button>
+- **[R6*, context]**: On 8 July 2025, the **[Council of the EU](../institutions/council-of-the-eu.qmd)** endorsed **[Austria](../countries/austria.qmd)**'s national medium-term fiscal-structural plan covering 2025–2029. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button>
+- **[R6*, context]**: **[Eurostat](../institutions/eurostat.qmd)** provided data confirming the general government deficit and debt figures. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **[R6-A, bright lines versus real eligibility]**: Austria is under an excessive deficit procedure. The **[OECD](../institutions/oecd.qmd)** emphasizes the need to implement the multi-year fiscal adjustment plan to restore compliance with EU fiscal rules. Effective action is established through the consolidation plan agreed with the European Union. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 44" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 44">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+- **[Bank-Sovereign Nexus]**: The document highlights that Austria’s venture and growth capital markets are underdeveloped. Venture capital investment declined to 0.03% of GDP in 2022–2024, well below the EU average of 0.06%. Pension fund assets amounted to only 7.2% of GDP in 2024 (vs 32.3% in the EU), limiting long-term capital availability. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 12, p. 65, p. 69" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 12, p. 65, p. 69">ⓘ</button>
+- **[Business Environment]**: A lack of risk financing hampers innovative firms. Start-up funding dropped by 56% in 2025. Administrative and regulatory burdens weigh on the business environment. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 6, p. 7" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 6, p. 7">ⓘ</button>
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **[Eurostat]**: Data on GDP, inflation, and government debt are sourced from **[Eurostat](../institutions/eurostat.qmd)** and national accounts, with revisions noted for 2021–2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 28" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 28">ⓘ</button>
+
+## Market Signals
+
+- **[Factor decoupling, rollover pessimism]**: Ten-year government bond yields averaged 3.0% in 2025, rising to 3.3% in 2027. The **[OECD](../institutions/oecd.qmd)** notes that financial stability indicators remain solid, with banks’ Common Equity Tier 1 capital at 18.6% of risk-weighted assets. However, spreads may reflect concerns about debt sustainability and growth prospects. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button>
+- **[Rollover pessimism]**: The 10-year sovereign yield spread vs. German Bund is 28 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 219">ⓘ</button>
+
+## Outlook Material
+
+- **[Geopolitical risks]**: Intensification of geopolitical tensions in Europe could disrupt value chains and raise energy prices. Austria is highly integrated into German and Central European value chains. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 30" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 30">ⓘ</button>
+- **[Demographic pressures]**: Population ageing is projected to reduce the working-age population and increase old-age dependency ratio to 52% by 2050. This will drive up spending on pensions, health, and long-term care. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 116" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 116">ⓘ</button>
+- **[Energy and Geopolitical Shocks]**: The conflict in the Middle East in early 2026 and the ensuing energy shock threaten to derail the modest economic recovery. Austria eliminated direct imports of Russian pipeline gas after Gazprom stopped delivery in November 2024. Dependence on fossil fuel imports exposed the economy to volatile prices. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3, p. 89" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3, p. 89">ⓘ</button>
+- **[Labour Market]**: Labour shortages persist, with regional mismatches and skills shortages hampering recruitment. Around 24,500 aspiring apprentices were unable to find placements in 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 9">ⓘ</button>
+- **[Energy]**: Fossil fuels accounted for more than half of the energy mix in 2024. Renewable energy accounted for 83.9% of electricity generation in 2025. The document calls for accelerated roll-out of renewable energy, particularly wind. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 8">ⓘ</button>
+- **[Social Situation]**: The share of people at risk of poverty or social exclusion rose in 2025, disproportionately affecting children. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 9">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

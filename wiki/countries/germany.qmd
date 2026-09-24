@@ -1,0 +1,274 @@
+---
+title: "Germany"
+summary: "This dossier draws on the European Commission Country Report and Country-Specific Recommendations published on 2026-06-03, the OECD Economic Survey published on 2025-06-12, the European Commission Debt Sustainability …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [European Commission](../institutions/european-commission.qmd) [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) published on 2026-06-03, the [OECD](../institutions/oecd.qmd) [Economic Survey](../document-types/economic-survey.qmd) published on 2025-06-12, the [European Commission](../institutions/european-commission.qmd) [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published on 2026-02-12, and the [European Commission](../institutions/european-commission.qmd) [Economic Forecast](../document-types/economic-forecast.qmd) published on 2026-05-21. The evidence highlights prolonged economic stagnation with real gross domestic product (GDP) growth near zero since 2019, alongside a modest projected recovery hindered by a new global energy shock triggered by conflict in the Middle East. Fiscal policy has turned expansionary following a 2025 reform of the national debt brake, creating space for defense spending and a special infrastructure fund. Structural challenges include high insolvency rates, low public investment quality, demographic pressures, and weak business dynamism. The [European Commission](../institutions/european-commission.qmd) projects debt to rise to 91% of GDP by 2036, though the [European Commission](../institutions/european-commission.qmd) assessed that fiscal sustainability is preserved over the medium term despite the activation of the national escape clause.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | [2025]{.year-mark title="estimate"} | [2026]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | -0.1 | -0.2 | 0.4 | 1.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 10">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HCPI Inflation | % | 6.0 | 2.5 | 2.4 | 2.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 10">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised core inflation | % | 3.2 | 2.7 | 2.4 | 2.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government financial balance | % of GDP | -2.5 | -2.7 | -2.7 | -3.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 62.4 | 63.4 | 64.6 | 65.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government net debt | % of GDP | 25.8 | 27.8 | 30.2 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Unemployment rate | % of labour force | 3.4 | 3.6 | 3.5 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 10" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 10">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Interest expenditure | % of GDP |  | 1.1 |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 37" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 37">ⓘ</button> |
+
+: Years in italics: estimate, forecast. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2005 | 2023 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  |  | 0.2 | 0.6 | 0.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  |  | 2.3 | 2.9 | 2.7 | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  |  | 2.7 | 2.7 | 3.7 | 4.1 | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP |  |  | 62.2 | 63.5 | 65.8 | 68.0 | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  |  |  | broadly neutral | 1.3 | 0.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  |  |  | 1.5 | 1.9 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public investment | % of GDP | 2.2 | 2.9 |  | 3.3 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net public investment | % of GDP |  |  |  | 0.4 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | % |  |  |  | 3.8 | 5.6 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Federal transfers to pension system | EUR |  |  |  | 122 billion |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 5">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03" aria-label="Source: ec/recommendations/Germany_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2021 | 2024 | 2025 | 2026 | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  |  | 0.6 | 0.9 | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  |  | 2.7 | 3.7 | 4.1 | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 40">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP |  | 62.2 | 63.5 |  | 68.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Defence expenditure | % of GDP | 1.1 |  | 1.5 |  | 2.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public investment | % of GDP |  | 3.1 | 3.3 |  | 3.7 | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 7">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total tax revenues | % of GDP |  | 39.6 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 46" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 46">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03" aria-label="Source: ec/country-reports/Germany_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Potential growth (average) | 2026-2030: 0.5 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 4">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | Jan 2025: 3.5; Mar 2026: 4.0 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 3">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03" aria-label="Source: ec/country-reports/Germany_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 62.2 | 63.5 | 65.2 | 67.1 | 69.2 | 71.1 | 73.3 | 75.8 | 78.5 | 81.5 | 84.6 | 87.8 | 91.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 13.0 | 14.3 | 15.4 | 15.8 | 16.2 | 16.7 | 17.4 | 18.1 | 19.0 | 19.9 | 20.8 | 21.7 | 22.6 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -2.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 14.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: -0.7; 2025: -0.9; 2026–2036: -2.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.2 | 0.6 | 0.9 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -2.7 | -3.7 | -4.1 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 63.5 | 65.8 | 68.0 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, Structural break in trend**: The OECD notes that economic growth has slowed down after a decade of strong export-led growth. Structural challenges, including high administrative burden and barriers to entry, have hampered business dynamism and productivity growth even before the pandemic <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 16" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 16">ⓘ</button>.
+- **C1-T, structural break in trend**: The [European Commission](../institutions/european-commission.qmd) projects real GDP growth of 0.6% in 2026 and 0.9% in 2027, following actual growth of 0.2% in 2025. The document notes that economic transformation is intensifying, with insolvencies at a 20-year high and structural challenges in industrial regions. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button>
+- **C1-T, structural break in trend**: The report states that real GDP growth has been almost non-existent since 2019. Potential growth is projected to average just 0.5% annually from 2026 to 2030, placing it at the low end among European Union (EU) economies. This low potential is attributed to demographic aging, a shrinking labor force, low average hours worked, weak education outcomes, and a lack of disruptive innovation. Long-term growth remains among the lowest in the EU. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 3-4" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 3-4">ⓘ</button>
+- **C1*, context**: Real GDP growth is projected at 0.2% in 2025, 1.2% in 2026, and averaging 0.9% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 144" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 144">ⓘ</button>
+- **C1-T, structural break**: Real GDP growth is forecast at 0.6% in 2026 and 0.9% in 2027. The energy price shock weighs on real incomes and investment. Public spending ramp-up following the debt brake reform supports growth. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 112" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 112">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, Growth not thin-tailed or serially independent**: Rising trade policy tensions and supply chain disruptions have weighed on investor confidence, particularly in export-oriented manufacturing sectors. High uncertainty regarding fiscal policy and green transition measures has also affected investment <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 20-21" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 20-21">ⓘ</button>.
+- **C1-A1, growth not thin-tailed**: The document cites risks from energy supply disruptions and geopolitical tensions, noting that broad measures to mitigate energy price impacts have large fiscal costs. It highlights exposure to rare disasters via energy dependence. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, Inherited competitiveness gap**: Export competitiveness has deteriorated. Rising unit labour costs in manufacturing have contributed to weaker export performance. The OECD emphasizes the need to foster business dynamism and productivity growth to improve international competitiveness <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 23-24" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 23-24">ⓘ</button>.
+- **C1-A2, inherited competitiveness gap**: Germany has recorded one of the weakest recoveries and lowest long-term growth rates in the EU since the pandemic. Global export market shares have declined sharply due to waning competitiveness, fading technological leadership, skills shortages, and high wage and energy costs. Private investment fell below its 2015 level by 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 3">ⓘ</button>
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **C3-E, history lags policy**: The S2 indicator points to medium risk, requiring a 4.1% of GDP improvement in 2027 to stabilize debt. The S1 indicator also points to medium risk, requiring a 3.5% of GDP effort to reduce debt to 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 143" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 143">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **C3-T, History lags policy**: A recent reform of national fiscal rules approved in March 2025 allows additional borrowing for defence and public investment. Spending exceeding 1% of GDP in defence and specific areas is exempted from fiscal rules. A special infrastructure fund of up to EUR 500 billion is established for the next 12 years <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 36-37" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 36-37">ⓘ</button>.
+- **C3-T, History lags policy**: The OECD projects that the fiscal stance will tighten in 2025 by 0.3% of GDP and expand by 0.9% of GDP in 2026. The tightening in 2025 is due to the fall of the previous coalition government and a provisional budget <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26">ⓘ</button>.
+- **C3-T, History lags policy**: Rapid population ageing will increase yearly public spending on pension benefits by around 2 percentage points of GDP until 2045. Without reforms, spending on pensions, health, and long-term care is projected to rise by about 3.5% of GDP by 2045 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 37-38" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 37-38">ⓘ</button>.
+- **C3-T, history lags policy**: The [Council of the EU](../institutions/council-of-the-eu.qmd) activated the national escape clause for Germany, allowing deviation from maximum growth rates of net expenditure to support defense spending. The [European Commission](../institutions/european-commission.qmd) projects a general government deficit of 3.7% of GDP in 2026 and 4.1% of GDP in 2027, exceeding the 3% reference value. However, no excessive deficit procedure is proposed because the deviation is explained by defense expenditure under the escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button>
+- **C3-T, history lags policy**: The fiscal framework changed significantly in 2025 with the reform of the national debt brake (Schuldenbremse). This reform created additional fiscal space by exempting defense spending above 1% of GDP from the debt brake and allowing federal states (Länder) to issue debt of 0.35% of GDP annually in structural terms. A Special Fund for Infrastructure and Climate Neutrality worth EUR 500 billion was legislated. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 4, 6" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 4, 6">ⓘ</button>
+- **C3*, context**: The structural primary balance is projected at -2.1% of GDP on average for 2026-2035. The fiscal consolidation space is 90% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3*, context**: The SPB before cost of ageing is assumed at -2.1% of GDP from 2026 onwards. This is low compared with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142">ⓘ</button>
+- **C3-T, history lags policy**: The [European Commission](../institutions/european-commission.qmd) assessed the fiscal sustainability condition for activating the NEC. It concluded that sustainability is preserved over the medium term. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is projected to increase to 3.7% of GDP in 2026 and 4.1% in 2027, driven by higher defense spending, public investment, and tax relief. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: The fiscal stance is projected to be expansionary by 1.3% of GDP in 2026 and 0.5% of GDP in 2027. Net expenditure grew by 3.8% in 2025, below the recommended maximum. It is projected to grow by 5.6% in 2026, exceeding the recommended rate by 0.5% of GDP annually, but this is within the flexibility of the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button>
+- **C3\*, context**: Public investment as a share of GDP increased to 3.3% in 2025, but net public investment remains low at 0.4% of GDP. The document recommends improving the quality of public finances and utilizing the Special Fund for Infrastructure and Climate Neutrality for productive capital stock. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 5">ⓘ</button>
+- **C3*, context**: The government deficit increased to 2.7% of GDP in 2025 and is projected to rise to 3.7% in 2026 and 4.1% in 2027. This increase is driven by rising general government expenditure, particularly on defense, infrastructure, and tax relief measures. The medium-term fiscal-structural plan (MTP) provides for fiscal consolidation from 2027, aiming to bring debt on a downward trajectory. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, 40">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, Components missing or distorted**: Gross general government debt (Maastricht definition) stood at 63.4% of GDP in 2024 and is projected to rise to 65.5% by 2026. Net debt is 27.8% of GDP in 2024 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26">ⓘ</button>.
+- **R1-E, Components missing or distorted**: Interest payments rose to 1.1% of GDP in 2024 and are projected to further rise. Repayment of pandemic- and energy-crisis-related debt will start in 2028 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 37" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 37">ⓘ</button>.
+- **R1-E, stock-flow adjustments**: General government debt increased from 62.2% of GDP in 2024 to 63.5% in 2025, primarily due to a higher stock-flow adjustment in 2025. The debt-to-GDP ratio is projected to rise to 65.8% by 2026 and 68.0% by 2027, reflecting increases in the primary deficit. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button>
+- **R1*, context**: Gross financing needs were 14.3% of GDP in 2025. Debt is projected to increase to 91.0% of GDP by 2036, crossing the 90% threshold. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1*, context**: Gross debt is projected to increase to 91.0% of GDP by 2036. Gross financing needs are expected to rise to 22.6% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142">ⓘ</button>
+- **R1-E, components missing**: The debt-to-GDP ratio is projected to rise from 63.5% in 2025 to 68.0% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 113">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other refinancing context
+
+- **R1*, context**: Public debt-to-GDP rose from 62.2% in 2024 to 63.5% in 2025 and is expected to reach 68.0% in 2027. Public investment as a share of GDP rose from 3.1% in 2024 to 3.3% in 2025 and is set to grow to 3.7% in 2027, driven by the Special Fund. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6-7" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6-7">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed Germany’s medium-term fiscal-structural plan and activated the national escape clause. The [European Commission](../institutions/european-commission.qmd) assessed that the deficit criterion is not fulfilled but determined there is no case for an excessive deficit procedure due to the escape clause activation. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button>
+- **R6*, context**: The Council of the European Union activated the National Escape Clause (NEC) for Germany to facilitate its transition to higher levels of defense spending. Germany submitted its medium-term fiscal-structural plan, which was adopted by the Council. The report notes that Germany is compliant with the net expenditure growth recommendations but utilizes the NEC flexibility. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, 33" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, 33">ⓘ</button>
+- **R6*, context**: The NEC is activated for Germany, deactivating the debt sustainability and deficit resilience safeguards. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, Bright lines versus real eligibility**: The OECD notes that the fiscal deficit according to EU rules stood at 2.8% of GDP in 2024, partly because net spending from special funds is not reflected in the federal deficit relevant for the debt brake. The fiscal balance of the Länder (states) has strongly deteriorated <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 45-46" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 45-46">ⓘ</button>.
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling**: The European Central Bank (ECB) has started to ease monetary policy with policy rates declining from 4% in June 2024 to 2.25% in April 2025. Market inflation expectations are well-anchored at the ECB’s target of 2% <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 20" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 20">ⓘ</button>.
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund is low (reference asset). Ratings remain AAA. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 142">ⓘ</button>
+
+## Outlook Material
+
+- **Elections**: The fall of the coalition government in November 2024 and the formation of a new government in early 2025 reduced domestic policy uncertainty. A provisional budget was approved for 2025 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 21-22" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 21-22">ⓘ</button>.
+- **Geopolitical shocks**: Russia’s war of aggression against Ukraine and rising trade tensions have hit the German economy. Supply chain bottlenecks and higher energy prices have affected the globally integrated German economy more than others <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 9-16" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 9-16">ⓘ</button>.
+- **Economic Security**: The war in Iran has reduced growth prospects and driven inflation up. Uncertainty due to the situation in the Middle East and US tariffs detracts from private consumption, investment, and exports. Germany faces economic security challenges linked to its export-oriented economy, including reliance on raw material imports and vulnerabilities in supply chains. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 3, 5" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 3, 5">ⓘ</button>
+- **Structural Reforms**: The document recommends reforms to pension sustainability, tax structure to incentivize labor supply, and improvement of innovation ecosystems. It notes challenges in digitalization of public administration, housing affordability, and energy transition. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 5">ⓘ</button>
+- **Structural Reforms**: The report highlights limited progress on structural reforms. Key challenges include accelerating the green transition, improving education outcomes, expanding housing supply, and modernizing public administration. Cyberattacks are estimated to have caused losses of almost EUR 200 billion (5% of GDP) in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 5, 27" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 5, 27">ⓘ</button>
+- **Contingent Liabilities**: Potential additional debt uptake allowed by the reform of the debt brake and the creation of the special fund for infrastructure and climate neutrality are risk-increasing factors. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 143" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 143">ⓘ</button>
+- **Climate Risk**: Under the "Fragmented Action" climate scenario, debt could be around 3 pps. of GDP higher in 2050. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

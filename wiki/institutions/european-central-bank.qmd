@@ -1,0 +1,128 @@
+---
+title: "European Central Bank"
+summary: "The European Central Bank publishes the euro-area AAA yield curve that determines the Safe Rate (C4). It provides inflation projections used for the Inflation Differential (C2). The bank reports government bond yields …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+The [European Central Bank](../institutions/european-central-bank.qmd) publishes the euro-area AAA yield curve that determines the Safe Rate (C4). It provides inflation projections used for the [Inflation Differential](../parameters/inflation-differential.qmd) (C2). The bank reports government bond yields and spreads, which feed into the [Haircut](../parameters/haircut.qmd) calculation (R4). Together with the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd), the [European Central Bank](../institutions/european-central-bank.qmd) acts as a backstop provider (R6). Holdings of government bonds by the Eurosystem are a key factor in determining the market-held portion of the debt, affecting the [Refinancing Need](../parameters/refinancing-need.qmd) assessment (R1-A*).
+
+## Evidence by Country
+
+### Euro Area
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) provides the broader macroeconomic context and euro-area inflation averages against which country-specific inflation is compared. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) provides the euro-area inflation average used for comparison. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd)’s composite indicator of systemic sovereign stress (SovCISS) is used to monitor short-term sovereign risk. The [European Central Bank](../institutions/european-central-bank.qmd)’s policy rates and asset purchase programs are noted in the context of financing conditions and debt holder composition. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 21, 23, 74" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 21, 23, 74">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) participates in the Debt Sustainability Analysis working group. Its composite indicator of systemic sovereign stress (SovCISS) is referenced in market risk charts. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 118" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 118">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) is expected to cautiously tighten its monetary policy stance, with markets pricing in policy rates of around 2.6% in the first quarter of 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 37" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 37">ⓘ</button>
+
+### [Austria](../countries/austria.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) provides data on banking sector resilience, capital ratios, and credit growth. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 66, p. 68, p. 70" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 66, p. 68, p. 70">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd)’s monetary policy normalization has led banks to shift portfolios away from central bank reserves towards government bonds, increasing exposure to sovereign risk. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 39" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 39">ⓘ</button>
+
+### [Belgium](../countries/belgium.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd)'s data is used to track bank funding structures and non-performing loans, providing context for the banking sector. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292">ⓘ</button>
+
+### [Bulgaria](../countries/bulgaria.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) estimated economic losses from extreme weather events in 2025 at 1% of GDP. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 22" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 22">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) is relevant regarding banking sector data and the context of Bulgaria's transition to the euro area. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 67" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 67">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) is mentioned in the context of the European Semester and economic governance framework, though no specific actions or data are detailed in the recommendation document. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 2">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) provided positive assessments for Bulgaria’s euro adoption. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 36" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 36">ⓘ</button>
+- Four Bulgarian banks are classified as significant institutions and have been subject to direct supervision by the [European Central Bank](../institutions/european-central-bank.qmd) since 2020. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 34, p. 36" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 34, p. 36">ⓘ</button>
+
+### [Croatia](../countries/croatia.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) is mentioned indirectly in the context of the European Semester and economic governance framework. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 2">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) is referenced in the context of climate risk stress tests for commercial banks, which complement domestic supervisory expectations. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 80" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 80">ⓘ</button>
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) publishes data on pension fund assets and banking sector indicators. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 58" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 58">ⓘ</button>
+
+### [Estonia](../countries/estonia.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd)'s data is used to track bank funding structures and non-performing loans, providing context for the banking sector. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292">ⓘ</button>
+
+### [Finland](../countries/finland.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) cut policy rates since June 2024, which has supported private consumption and investment in [Finland](../countries/finland.qmd) by lowering borrowing costs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 20" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 20">ⓘ</button>
+
+### [France](../countries/france.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd)’s Bank Lending Survey reported that French banks slightly tightened credit standards for non-financial corporation loans in the fourth quarter of 2025. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 79" aria-label="Source: ec/country-reports/France_2026-06-03, p. 79">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) provides data on credit growth and pension fund assets. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 83" aria-label="Source: ec/country-reports/France_2026-06-03, p. 83">ⓘ</button>
+
+### [Germany](../countries/germany.qmd)
+
+- The European Central Bank started to ease monetary policy in 2024, reducing policy rates from 4% in June 2024 to 2.25% in April 2025. Market inflation expectations over the next 12 months are well-anchored at the [European Central Bank](../institutions/european-central-bank.qmd)’s target of 2%. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 20" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 20">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) provided input for the 2025 EU-wide stress test conducted by the European Banking Authority, which confirmed the resilience of Greek banks. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 64-65" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 64-65">ⓘ</button>
+- Greece’s credit rating returned to investment grade in late 2023, making Greek sovereign bonds eligible for the [European Central Bank](../institutions/european-central-bank.qmd)’s monetary policy operations in the standard collateral framework. This upgrade reflects sustained structural reforms and enhanced banking-sector resilience. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 21" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 21">ⓘ</button>
+
+### [Ireland](../countries/ireland.qmd)
+
+- The [European Commission](../institutions/european-commission.qmd) references [European Central Bank](../institutions/european-central-bank.qmd) data on financial sector indicators, such as non-performing loan ratios and capital adequacy. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 57, p. 58" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 57, p. 58">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) notes the [European Central Bank](../institutions/european-central-bank.qmd)’s role in monitoring financial stability. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 57, p. 58" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 57, p. 58">ⓘ</button>
+- Staff from the [European Central Bank](../institutions/european-central-bank.qmd) participated in post-programme surveillance missions in liaison with the [European Commission](../institutions/european-commission.qmd). <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+
+### [Italy](../countries/italy.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) is referenced in the context of financial stability reports and banking sector resilience. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 75" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 75">ⓘ</button>
+
+### [Latvia](../countries/latvia.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) is mentioned regarding the monitoring of macroprudential stance and banking sector profitability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 25" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 25">ⓘ</button>
+
+### [Lithuania](../countries/lithuania.qmd)
+
+- Monetary policy normalisation by the [European Central Bank](../institutions/european-central-bank.qmd) contributed to easing lending standards and credit growth recovery in 2024-2025. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 13">ⓘ</button>
+
+### [Luxembourg](../countries/luxembourg.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) is cited in the context of financial stability, investment surveys (SAFE survey), and financial sector indicators such as loan-to-deposit ratios and non-performing loans. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 63" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 63">ⓘ</button>
+
+### [Malta](../countries/malta.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd)'s data is used to track bank funding structures and non-performing loans, providing context for the banking sector. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292">ⓘ</button>
+
+### [Netherlands](../countries/netherlands.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) is not directly discussed in the text, but the context of the economic and monetary union and the euro-area recommendations implies the broader institutional framework. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 10" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 10">ⓘ</button>
+
+### [Portugal](../countries/portugal.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd) is referenced in the context of banking sector data, capital markets, and debt securities. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 67-72" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 67-72">ⓘ</button>
+- Staff from the [European Central Bank](../institutions/european-central-bank.qmd) participated in post-programme surveillance missions. The bank’s discontinuation of purchase programs is noted as a factor for Portugal. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, 18">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) provides data on government debt securities by maturity, interest rates, and bank sector indicators such as non-performing loans and capital ratios. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd)'s monetary policy easing has supported private investment. The [European Central Bank](../institutions/european-central-bank.qmd)'s data is used to track bank funding structures and non-performing loans. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 28" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 28">ⓘ</button>
+
+### [Slovakia](../countries/slovakia.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd)'s data is used to track bank funding structures and non-performing loans, providing context for the banking sector. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292">ⓘ</button>
+
+### [Slovenia](../countries/slovenia.qmd)
+
+- The [European Central Bank](../institutions/european-central-bank.qmd)’s medium-term inflation target of 2% is referenced for inflation context. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 3">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) implemented a policy rate cut in June 2025, leading to decreasing interest rates on loans and deposits in [Slovenia](../countries/slovenia.qmd). <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 25" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 25">ⓘ</button>
+
+### [Spain](../countries/spain.qmd)
+
+- The document implies manageable refinancing conditions given the declining debt ratio and [European Central Bank](../institutions/european-central-bank.qmd) support. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd) is listed as an institution involved in the assessment of Spain’s economic, social, and structural performance. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 1" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 1">ⓘ</button>
+- The Bank of Spain has introduced a countercyclical capital buffer (CCyB) of 0.5%, increasing to 1%, aligning with [European Central Bank](../institutions/european-central-bank.qmd) guidance on climate risk and financial stability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35">ⓘ</button>
+- The [European Central Bank](../institutions/european-central-bank.qmd)’s projections on the impact of European Union Recovery and Resilience Plan funds on potential growth are cited. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

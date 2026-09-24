@@ -1,0 +1,159 @@
+---
+title: "Hungary"
+summary: "This dossier draws on the European Commission's Debt Sustainability Monitor published on 2026-02-12. The evidence covers Hungary's fiscal capacity, refinancing needs, and market signals. Key themes include a projected …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the European Commission's Debt Sustainability Monitor published on 2026-02-12. The evidence covers Hungary's fiscal capacity, refinancing needs, and market signals. Key themes include a projected structural primary deficit, rising gross financing needs, and significant risks related to foreign currency debt and contingent liabilities. The European Commission classifies Hungary's long-term fiscal sustainability risk as high.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -0.1 | -0.6 | -1.2 | -0.8 | -0.9 | -1.0 | -1.1 | -1.1 | -1.2 | -1.3 | -1.6 | -1.8 | -2.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 73.5 | 73.7 | 73.9 | 74.8 | 76.7 | 79.0 | 81.5 | 84.1 | 86.9 | 90.0 | 93.7 | 97.9 | 102.5 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 13.7 | 14.9 | 15.2 | 14.3 | 15.1 | 15.7 | 16.3 | 16.8 | 17.5 | 18.2 | 19.2 | 20.2 | 21.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: The European Commission projects a structural primary deficit of 0.9% of GDP as of 2026. This is low compared with past fiscal performance. Ageing-related expenditure is projected to increase. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 202" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 202">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to high risk, requiring a 6.7 percentage point improvement. The S1 indicator points to high risk, requiring a 5.3 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 203" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 203">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other refinancing context
+
+- **R1\*, context**: Gross financing needs are expected to increase, reaching around 21% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 202" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 202">ⓘ</button>
+- **R1-A, context**: Significant proportion of foreign currency debt exposes the government to exchange rate risk. High exposure of domestic banks to government debt. Sizable amount of redeemable retail government bonds (approx. 20% of central government debt in 2024) poses refinancing risk. High level of contingent liabilities from state guarantees. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 203" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 203">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+- **R1-A, context**: High exposure of domestic banks to government debt. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 203" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 203">ⓘ</button>
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 408 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 204">ⓘ</button>
+
+## Outlook Material
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

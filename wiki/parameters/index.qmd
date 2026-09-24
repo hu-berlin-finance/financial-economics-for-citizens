@@ -1,0 +1,21 @@
+---
+title: "Parameters"
+description: "The parameters of the MRP: their definition in the MRP and the DAP, how the source documents estimate them, the data sources, and an overview across countries."
+listing:
+  type: table
+  contents:
+    - growth.qmd
+    - inflation-differential.qmd
+    - fiscal-capacity.qmd
+    - refinancing-need.qmd
+    - haircut.qmd
+    - backstop-eligibility.qmd
+    - outlook-factors.qmd
+  sort: false
+  fields: [title, summary]
+  field-display-names:
+    title: "Parameter"
+    summary: "Summary"
+  filter-ui: true
+  sort-ui: false
+---

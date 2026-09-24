@@ -1,0 +1,304 @@
+---
+title: "Bulgaria"
+summary: "This dossier draws on the 2026 Country Report and the 2026 Recommendation for a Council Recommendation, both issued by the European Commission on 2026-06-03, and the 2026 Economic Survey issued by the OECD on …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the 2026 Country Report and the 2026 Recommendation for a Council Recommendation, both issued by the [European Commission](../institutions/european-commission.qmd) on 2026-06-03, and the 2026 Economic Survey issued by the [OECD](../institutions/oecd.qmd) on 2026-02-05. New evidence incorporates the [European Commission](../institutions/european-commission.qmd)’s Debt Sustainability Monitor from 2026-02-12 and the Spring 2026 Economic Forecast from 2026-05-21. The reports highlight that [Bulgaria](../countries/bulgaria.qmd) joined the euro area in January 2026 and faces rising fiscal deficits and public debt. Key themes include an expansionary fiscal stance driven by defense expenditure under the national escape clause and social spending, leading to a proposed excessive deficit procedure. Structural challenges persist in tax collection, public administration, and the independence of the Supreme Judicial Council. The [OECD](../institutions/oecd.qmd) and [European Commission](../institutions/european-commission.qmd) assessments note that while public debt remains low, long-term pressures from an ageing population and near-term deficits require consolidation. The Spring 2026 forecast projects growth deceleration due to a global energy shock.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 | [2026]{.year-mark title="estimate"} | [2027]{.year-mark title="estimate"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  |  | 3.1 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Gross fixed capital formation growth | % |  |  |  | 11.4 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Nominal unit labour costs growth | % |  |  |  | 9.4 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Wage growth | % |  |  |  | 10.4 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 24" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 24">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Wage growth | % |  |  | 14.1 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 25" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 25">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  | 2.6 | 3.5 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance/GDP | % of GDP |  |  |  | -3.5 | -4.1 | -4.3 | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt/GDP | % of GDP |  |  |  | 29.9 | 32.3 | 35.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government deficit/GDP | % of GDP |  |  | -3.0 | -3.5 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total tax revenues/GDP | % of GDP | 31.1 | 30.0 | 30.5 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 48" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 48">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Outstanding tax arrears/total revenue | % |  | 60% |  |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 15" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 15">ⓘ</button> |
+
+: Years in italics: estimate. Source <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 3.1 | 2.5 | 2.2 | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 3.5 | 4.2 | 2.6 | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | 3.0 | 3.5 | 4.1 | 4.3 | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 23.8 | 29.9 | 32.3 | 35.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government defense expenditure | % of GDP |  | 1.9 | 1.9 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance (expansionary/contractionary) | % of GDP |  | 2.3 | 1.0 | -1.6 | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | 2025: 12.3; 2026: 5.5; Cumulative 2025-2026: 18.5 | % | <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2019 | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 1.7 | 3.4 | 3.0 | 2.6 | 2.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Inflation (CPI) | % |  | 9.5 | 2.4 | 3.8 | 2.7 | 2.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % GDP |  | -2.0 | -3.0 | -3.0 | -3.0 | -3.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary Balance | % GDP | 2.6 |  | -2.4 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 40" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 40">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % GDP |  | 32.6 | 34.1 | 35.5 | 37.4 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 39" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 39">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt (Maastricht) | % GDP |  | 23.8 | 25.4 | 26.7 | 28.6 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 39" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 39">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Current account balance | % GDP |  | -0.9 | -1.6 | -4.4 | -4.5 | -4.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Headline inflation (HICP, Dec-2025) | 5.0 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 8" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 8">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financial debt (2024) | 32.8 | % GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 8" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 8">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 23.8 | 28.5 | 30.6 | 31.7 | 33.0 | 34.0 | 34.8 | 35.7 | 36.7 | 37.7 | 38.7 | 39.6 | 40.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 4.9 | 8.5 | 5.9 | 4.6 | 5.3 | 5.1 | 4.9 | 4.9 | 5.0 | 5.0 | 4.9 | 4.9 | 4.9 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: -2.2; 2025: -2.6; 2026–2036: -1.7 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | 112 | bps | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.5 | 2.2 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | 4.1 | 4.3 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Debt-to-GDP ratio | % |  | 35.5 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, Structural break in trend**: Real GDP growth reached 3.1% in 2025, driven by strong domestic demand including private consumption, investment, and public consumption. Private consumption was driven by rising real wages. Investment grew by 11.4%, supported by high credit volumes and increased absorption of Recovery and Resilience Facility funds. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Real GDP growth in 2025 was 3.1%. The Commission Spring 2026 Forecast projects real GDP to grow by 2.5% in 2026 and 2.2% in 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button>.
+- **C1\*, context**: Real GDP growth returned to its pre-pandemic average rate of 3% in recent years, driven by strong consumption growth supported by robust wage increases and credit growth. Growth is projected to moderate to 2.6% in 2026 as the economy rebalances toward investment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 20" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 20">ⓘ</button>
+- **C1-T, structural break in trend**: The [OECD](../institutions/oecd.qmd) notes that even at current growth rates, it would take 28 years for [Bulgaria](../countries/bulgaria.qmd) to converge to average [OECD](../institutions/oecd.qmd) income levels. Structural reforms (investment, skills, productivity) are estimated to raise per capita GDP by 2.3% in the next ten years and 9% by 2060. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 25" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 25">ⓘ</button>
+- **C1-T, structural break**: Real GDP growth is forecast to decelerate to 2.5% in 2026 and 2.2% in 2027. Domestic demand growth slows. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110">ⓘ</button>
+- **C1*, context**: Real GDP growth is projected at 3.0% in 2025, 2.7% in 2026, and averaging 2.3% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 128" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 128">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, Inherited competitiveness gap**: Nominal unit labour costs rose by 9.4% in 2025, mostly driven by increases in real wages. Wage growth stood at 10.4% in 2025, following increases of more than 13% between 2022 and 2024. This growth is well above the [European Commission](../institutions/european-commission.qmd) average and outpaces labour productivity growth. Unit labour costs remain among the lowest in the EU, but the rapid growth raises competitiveness concerns. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4, p. 25" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4, p. 25">ⓘ</button>
+- **C1-A2, inherited competitiveness gap**: Unit labour costs (ULC) have tripled since EU accession, surpassing cost growth in other EU competitor countries. This has eroded the country’s cost advantage, as manufacturing is positioned at low value-added segments of global value chains. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 117" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 117">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: The labour market remains tight with an unemployment rate of 3.5% in 2025. Labour market tightness, measured by the ratio of vacancies to unemployed workers, is at historically high levels. Labour shortages are acute in healthcare, industry, and construction. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button>
+- **C1\*, context**: R&D expenditure remains low. Public R&D spending was 0.27% of GDP in 2024, well below the EU average of 0.72%. Business R&D expenditure was 0.50% of GDP in 2024, stagnant and below the EU average of 1.49%. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 10" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 10">ⓘ</button>
+- **C1\*, context**: Labour productivity growth slowed since the pandemic. The manufacturing sector, which accounts for around 15% of the economy, has seen negative average quarterly growth since 2023 due to higher energy prices and unit labour costs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 27" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 27">ⓘ</button>
+- **C1\*, context**: [Bulgaria](../countries/bulgaria.qmd) joined the euro area in January 2026, replacing the longstanding currency board. This should reduce costs and strengthen integration, but a temporary increase in inflation from price resets is a risk. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **Executive Summary**: Inflation rebounded slightly in 2025, influenced by energy prices and tax changes, while nominal unit labor costs rose sharply. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button>
+- **C2\*, context**: HICP inflation stood at 3.5% in 2025. The Commission Spring 2026 Forecast projects HICP inflation to stand at 4.2% in 2026 and 2.6% in 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button>.
+- **Topic: Euro adoption risks**: A short-term spike in inflation may follow the euro's introduction due to price resetting. The authorities have committed to active surveillance to avoid inflation “rounding-up” effects. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 37" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 37">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **C3-E, history lags policy**: The S2 indicator points to low risk, requiring only a 1.4% of GDP improvement in 2027 to stabilize debt. The S1 indicator also points to low risk, requiring 0.7% of GDP effort to keep debt below 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 128" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 128">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **C3-T, History lags policy**: The general government deficit is projected to increase from 3.5% of GDP in 2025 to 4.1% in 2026 and 4.3% in 2027. This increase is driven by social spending, increases in public sector salaries, and planned defence expenditure under the national escape clause. Large and permanent increases in expenditure without compensatory structural financing measures have contributed to continued deficits. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- **C3\*, context**: The general government deficit increased from 3% of GDP in 2024 to 3.5% of GDP in 2025. The Commission Spring 2026 Forecast projects a deficit of 4.1% of GDP in 2026 and 4.3% of GDP in 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button>.
+- **C3\*, context**: The fiscal stance was expansionary by 2.3% of GDP in 2025. It is projected to be expansionary by 1.0% of GDP in 2026, and contractionary by 1.6% of GDP in 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button>.
+- **C3\*, context**: Net expenditure in [Bulgaria](../countries/bulgaria.qmd) grew by 12.3% in 2025, which is above the recommended maximum growth rate. Net expenditure is projected to grow by 5.5% in 2026, and 18.5% cumulatively over 2025 and 2026 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button>.
+- **C3\*, context**: A fiscal deficit emerged following recent crises and unfunded spending increases. The general government balance reached -3.0% of GDP in 2024, down from a surplus in 2019. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 40" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 40">ⓘ</button>
+- **C3-T, history lags policy**: The government’s medium-term budget plan relies heavily on higher tax collection to fund increases in pensions, public salaries, and investment, aiming to maintain the deficit around 3%. The [OECD](../institutions/oecd.qmd) recommends front-loaded consolidation to narrow the deficit and maintain the current debt ratio. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button>
+- **C3-T, history lags policy**: The government deficit is set to exceed 4% of GDP, reaching 4.1% in 2026 and 4.3% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110">ⓘ</button>
+- **C3*, context**: The SPB before cost of ageing is assumed at -1.7% of GDP from 2026 onwards. This is low compared with past performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: [Bulgaria](../countries/bulgaria.qmd) committed to a structural primary deficit target of 1.8% of GDP by 2028. The fiscal strategy aims to deliver commitments on net expenditure mainly through discretionary revenue-increasing measures with short-term impacts. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- **C3\*, context**: Total tax revenues amounted to 30.5% of GDP in 2024, well below the EU average of 39.4%. The tax system relies heavily on consumption taxes. The flat-rate personal income tax system limits redistributive capacity. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 15, p. 48" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 15, p. 48">ⓘ</button>
+- **C3\*, context**: Outstanding tax arrears increased from 2019 to approximately 60% of total revenue collected at the end of 2023, more than double the EU average of 31%. The shadow economy accounts for almost 35% of GDP. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 15" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 15">ⓘ</button>
+- **C3\*, context**: [Bulgaria](../countries/bulgaria.qmd) faces challenges in tax collection, with high levels of tax arrears and a large estimated shadow economy, which undermines tax compliance and limits revenue capacity <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 6">ⓘ</button>.
+- **C3\*, context**: Long-term fiscal pressures stem from an ageing population, with the old-age dependency ratio projected to increase from 38% in 2024 to around 60% by 2070. The pension system deficit reached 5.4% of GDP in 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 42" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 42">ⓘ</button>
+- **C3\*, context**: Defence spending stood at 1.3% of GDP in 2024 and is projected to rise to around 2.5% over the next three years, with a commitment to reach 5% of GDP by 2035. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 47" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 47">ⓘ</button>
+- **C3\*, context**: Widespread labour informality results in significant fiscal losses. The National Revenue Agency estimated an average annual revenue loss of BGN 420 million in 2023 from underreported wages alone. Broader estimates suggest total revenue losses of 2.2% of GDP from 2017 to 2021. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 50" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 50">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: The debt-to-GDP ratio is expected to reach 35.5% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 110">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, financing behavior shifts**: Long-term government interest rates have largely tracked those in the euro area. Spreads have increased recently following a long period of near-zero rates, reflecting increased perceived risk related to political instability and low market liquidity. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 38" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 38">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other refinancing context
+
+- **R1\*, context**: Public debt is expected to increase from 29.9% of GDP in 2025 to 32.3% in 2026 and 35.5% in 2027, driven by the structural deficit. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- **R1\*, context**: Defence spending increased in 2024 and 2025, utilizing the national escape clause and Security Action for Europe (SAFE) loans. The [Council of the EU](../institutions/council-of-the-eu.qmd) made financial assistance available for up to EUR 3.262 billion. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- **R1\*, context**: General government debt increased from 23.8% of GDP at the end of 2024 to 29.9% of GDP at the end of 2025. The Commission Spring 2026 Forecast projects the debt-to-GDP ratio to increase to 32.3% by the end of 2026 and to 35.5% by the end of 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button>.
+- **R1\*, context**: The increase in the debt ratio in 2025 mainly reflects capital injections into the Bulgarian Energy Holding and the Bulgarian Development Bank <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button>.
+- **R1\*, context**: General government gross debt was 34.1% of GDP in 2024 and is projected to rise to 37.4% in 2026. Under the Maastricht definition, debt was 25.4% of GDP in 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 39" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 39">ⓘ</button>
+- **R1\*, context**: Household credit has grown strongly, with bank loans to households up by 21% in the year to November 2025. Mortgage lending has been fuelled by low interest rates, associated with soaring housing prices. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 33" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 33">ⓘ</button>
+- **R1\*, context**: The banking system is well-capitalised and liquid. The liquidity coverage ratio is more than three-and-a-half times higher than required. However, the share of non-performing loans (NPL) remains relatively high at 3% as of Q3 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 34" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 34">ⓘ</button>
+- **[Refinancing Need](../parameters/refinancing-need.qmd)**: The [OECD](../institutions/oecd.qmd) notes that debt dynamics are currently favourable as expected nominal growth is well above interest rates on government debt. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 53" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 53">ⓘ</button>
+- **R1*, context**: Gross debt is projected to increase to 40.4% of GDP by 2036. Gross financing needs are stable around 5% of GDP. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: [Bulgaria](../countries/bulgaria.qmd) adopted the euro in January 2026. The [European Commission](../institutions/european-commission.qmd) assesses that [Bulgaria](../countries/bulgaria.qmd) may face challenges meeting its commitments under the medium-term fiscal-structural plan in the absence of robust consolidation efforts. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd) has proposed to open an excessive deficit procedure for [Bulgaria](../countries/bulgaria.qmd), recommending the Council adopt a Decision establishing the existence of an excessive deficit due to non-compliance with the deficit criterion in 2026 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 6">ⓘ</button>.
+- **R6\*, context**: [Bulgaria](../countries/bulgaria.qmd) has activated the national escape clause for defense expenditure (2025-2028), allowing deviation from recommended maximum growth rates of net expenditure <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button>.
+- **R6\*, context**: [Bulgaria](../countries/bulgaria.qmd) joined the euro area on 1 January 2026, following positive assessments from the [European Commission](../institutions/european-commission.qmd) and the [European Central Bank](../institutions/european-central-bank.qmd), and decisions by ECOFIN and the EU Parliament. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 36" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 36">ⓘ</button>
+- **[Backstop Eligibility](../parameters/backstop-eligibility.qmd)**: With euro adoption, [Bulgaria](../countries/bulgaria.qmd) is now part of the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) (ESM), providing additional financial protection. It is also fully integrated into the European banking framework subject to supervisory standards. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 37" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 37">ⓘ</button>
+- **R6*, context**: The document notes the activation of the national escape clause (NEC) for Bulgaria. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, Bright lines versus real eligibility**: Concerns about the independence of regulatory bodies and the Supreme Judicial Council persist. The Supreme Judicial Council has operated with an expired mandate since 2022. Anti-corruption measures, particularly in high-level cases, have not improved sufficiently. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 14, p. 15" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 14, p. 15">ⓘ</button>
+- **R6-A, bright lines versus real eligibility**: The [OECD](../institutions/oecd.qmd) notes that managing economies without independent monetary policy is challenging. While [Bulgaria](../countries/bulgaria.qmd) has been in a similar position under its currency board, the transition requires prudent management of public finances to control domestic demand. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 37" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 37">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+- **Banking Sector**: Non-performing loans in the banking sector are cited as a risk-increasing factor. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 128" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 128">ⓘ</button>
+
+### Willingness to pay and political stability
+
+- **Political stability and rule of law**: Strengthening the prosecution of corruption remains key. [Bulgaria](../countries/bulgaria.qmd) has not yet set a robust track-record in investigating and prosecuting high-level corruption cases. The independence and effective functioning of the Supreme Judicial Council are essential, as it has operated with an expired mandate since 2022 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 8">ⓘ</button>.
+- **Outlook Factors, political stability**: A period of political instability with seven early elections in four years ended with a government forming in January 2025, which resigned in December 2025. This instability has delayed reforms and disbursement of EU funds. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 25" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 25">ⓘ</button>
+- **Outlook Factors, rule of law**: Corruption remains a critical issue. The [OECD](../institutions/oecd.qmd) estimates that reducing corruption to Visegrad-4 levels would raise per capita GDP by 2.1% in the long run. Public procurement is identified as a high-risk area for state capture. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 135" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 135">ⓘ</button>
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Outlook Factors**: The introduction of the euro in January 2026 is expected to lower reserve requirements for commercial banks, potentially fueling credit growth. However, euro area membership will also broaden Bulgarian banks’ access to EU-wide capital markets, which could divert funds away from domestic lending. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button>
+- **Factor decoupling**: Due to the currency board arrangement and low government debt, long-term government interest rates have largely tracked those in the euro area. Spreads to Germany have risen recently from near-zero levels, reflecting perceived political risk. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 38" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 38">ⓘ</button>
+- **Rollover pessimism**: Mortgage and deposit rates in [Bulgaria](../countries/bulgaria.qmd) have diverged from the euro area during the tightening cycle, remaining lower due to high liquidity in the domestic banking system. This has contributed to negative real rates and a housing boom. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 29" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 29">ⓘ</button>
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 112 bps at the end of 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 127">ⓘ</button>
+
+## Outlook Material
+
+- **Structural Challenges**: Significant regional disparities persist. Economic activity and employment are heavily concentrated in urban areas, particularly the capital, which generates about half of national GDP. The north of the country remains structurally weak. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button>
+- **Energy**: Wholesale electricity prices were among the highest in the EU in 2025, reflecting reliance on fossil fuels. Renewables surpassed coal in the electricity mix for the first time in 2025. Energy poverty remains widespread. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 17, p. 19" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 17, p. 19">ⓘ</button>
+- **Public Administration**: The public administration faces operational and capacity challenges, particularly at regional and municipal levels. The workforce is ageing, and municipalities struggle to attract and retain talent. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 12" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 12">ⓘ</button>
+- **Justice**: The justice system performs efficiently overall, but digitalisation gaps remain. Political independence of regulatory bodies is limited, and the Parliament plays a direct role in appointing regulators. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 80" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 80">ⓘ</button>
+- **Energy security**: [Bulgaria](../countries/bulgaria.qmd) adopted fiscal policy measures to mitigate the impact of high energy prices on households and firms, with a projected fiscal cost of 0.1% of GDP in 2026 if measures remain in force until end-2026 <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button>.
+- **Topic: Climate risks**: [Bulgaria](../countries/bulgaria.qmd) is vulnerable to extreme weather events such as floods and droughts. Insurance coverage against catastrophic risks remains extremely limited, with only 2% of all insurance contracts covering climate-related risks. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 94" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 94">ⓘ</button>
+- **Topic: Demographics**: The working-age population is shrinking rapidly. Net migration has turned positive since 2020, but emigration of skilled labour remains a serious issue. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 31" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 31">ⓘ</button>
+- **[Fiscal Capacity](../parameters/fiscal-capacity.qmd)**: The [OECD](../institutions/oecd.qmd) projects that without policy adjustments, the government debt ratio (Maastricht definition) would rise to 160% by 2060 due to current budget deficits and ageing pressures. A consolidation scenario assumes an improvement in the primary fiscal balance by 0.5% of GDP per year over 2027-2033. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 54" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 54">ⓘ</button>
+- **Climate Risk**: Debt deviations under climate scenarios are generally small (below 1.5 pps. of GDP). <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 129" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 129">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

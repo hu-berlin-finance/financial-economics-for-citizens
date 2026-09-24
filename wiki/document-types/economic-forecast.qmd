@@ -1,0 +1,45 @@
+---
+title: "Economic Forecast"
+summary: "The European Commission publishes this document type every spring and autumn. It forecasts growth, inflation, the government balance, and debt for euro-area member states and the broader European Union. The card …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+The [European Commission](../institutions/european-commission.qmd) publishes this document type every spring and autumn. It forecasts growth, inflation, the government balance, and debt for euro-area member states and the broader European Union. The card currently draws on two source documents covering the Spring 2026 forecasts for Austria, Belgium, Bulgaria, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, Spain, and Sweden.
+
+## Use in the Rating Process
+
+This document type feeds the following tasks in the discretionary adjustments process (DAP) of the minimal rating process (MRP):
+
+- **[Growth](../parameters/growth.qmd) (C1\*)**: Provides projections for real gross domestic product (GDP) growth.
+- **[Inflation Differential](../parameters/inflation-differential.qmd) (C2\*)**: Provides projections for inflation rates.
+- **[Fiscal Capacity](../parameters/fiscal-capacity.qmd) (C3\*)**: Provides projections for the general government balance.
+- **[Refinancing Need](../parameters/refinancing-need.qmd) (R1\*)**: Provides projections for general government gross debt.
+
+## License and Attribution
+
+Reuse is allowed for any purpose if the source is credited and changes are indicated, in accordance with Commission Decision 2011/833/EU on the reuse of Commission documents. You must credit the work as © European Union, 2026, and provide a link to the document. Third-party content inside a document, such as logos or figures credited to another organization, is not covered by this license.
+
+## Methods
+
+- The forecast uses technical assumptions derived from futures markets for energy prices, exchange rates, and interest rates. The baseline assumes a relatively swift, albeit partial, normalization of global energy supply conditions. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 88" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 88">ⓘ</button>
+- Inflation projections incorporate the pass-through of higher energy prices to consumer prices, with a focus on the divergence between energy-sensitive and wage-sensitive components. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 60" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 60">ⓘ</button>
+- The forecast is made under a 'no-policy-change' assumption, incorporating adopted or credibly announced fiscal measures by the cut-off date. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89">ⓘ</button>
+- Debt projections are based on the general government balance, interest expenditures, and stock-flow adjustments. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 79" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 79">ⓘ</button>
+
+## Documents
+
+::: {.table-scroll}
+
+| Document | Country | Publication Date | Main Topics |
+| --- | --- | --- | --- |
+| [ec/forecast/Spring-2026-Economic-Forecast_2026-05-21] | [Austria](../countries/austria.qmd), [Belgium](../countries/belgium.qmd), [Bulgaria](../countries/bulgaria.qmd), [Croatia](../countries/croatia.qmd), [Cyprus](../countries/cyprus.qmd), [Estonia](../countries/estonia.qmd), [Finland](../countries/finland.qmd), [France](../countries/france.qmd), [Germany](../countries/germany.qmd), [Greece](../countries/greece.qmd), [Ireland](../countries/ireland.qmd), [Italy](../countries/italy.qmd), [Latvia](../countries/latvia.qmd), [Lithuania](../countries/lithuania.qmd), [Luxembourg](../countries/luxembourg.qmd), [Malta](../countries/malta.qmd), [Netherlands](../countries/netherlands.qmd), [Portugal](../countries/portugal.qmd), [Slovakia](../countries/slovakia.qmd), [Slovenia](../countries/slovenia.qmd), [Spain](../countries/spain.qmd), [Sweden](../countries/sweden.qmd) | 2026-05-21 | GDP growth, inflation, government balance, gross debt, energy shock impact, defense spending |
+
+:::
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

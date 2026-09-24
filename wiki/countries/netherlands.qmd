@@ -1,0 +1,262 @@
+---
+title: "Netherlands"
+summary: "This dossier draws on the OECD Economic Survey (2025-07-09), the European Commission Debt Sustainability Monitor (2026-02-12), the European Commission Spring 2026 Economic Forecast (2026-05-21), and the European …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [OECD](../institutions/oecd.qmd) [Economic Survey](../document-types/economic-survey.qmd) (2025-07-09), the [European Commission](../institutions/european-commission.qmd) [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) (2026-02-12), the [European Commission](../institutions/european-commission.qmd) Spring 2026 [Economic Forecast](../document-types/economic-forecast.qmd) (2026-05-21), and the [European Commission](../institutions/european-commission.qmd) [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) (2026-06-03). The main themes include a slowdown in growth driven by structural bottlenecks and global energy shocks, an expansionary fiscal stance raising sustainability risks, and rising government debt. Structural challenges such as housing shortages, labour market segmentation, and grid congestion remain key constraints. The [European Commission](../institutions/european-commission.qmd) concludes that macroeconomic imbalances have lessened but notes fiscal risks from the medium-term plan.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 1.8 | 1.0 | 1.1 | <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP Inflation | % |  | 3.0 | 3.2 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General Government Deficit | % of GDP |  | 1.6 | 2.5 | 1.9 | <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total Tax Revenues | % of GDP |  | 38.8 | 39.1 | 40.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 34" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 34">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General Government Debt | % of GDP |  | 44.4 | 46.9 | 47.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Household Debt-to-GDP | % | 93.3 | 92.8 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 4">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03" aria-label="Source: ec/country-reports/Netherlands_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2024 | 2025 | 2026 | 2027 | 2070 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | 1.8 | 1.0 | 1.1 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  | 3.3 | 3.2 | 2.5 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  | 0.7 | 1.6 | 2.5 | 1.9 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  |  | -0.8 (expansionary) | broadly neutral | broadly neutral |  | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government defence expenditure | % of GDP |  |  | 1.7 | 1.9 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP |  | 43.8 | 44.4 | 46.9 | 47.0 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4-5">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Long-term care spending | % of GDP | 3.8 |  |  |  |  | 5.7 (projected) | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 6">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03" aria-label="Source: ec/recommendations/Netherlands_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | 2024-2025 (cumulative): 10.6; 2025: 7.2; 2026: 4.9 | % | <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 5-6">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03" aria-label="Source: ec/recommendations/Netherlands_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 7.8 | 8.9 | 10.5 | 8.5 | 8.8 | 9.0 | 9.3 | 9.9 | 10.5 | 11.1 | 11.7 | 12.4 | 13.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -0.2 | -1.2 | -1.9 | -1.3 | -1.2 | -1.1 | -1.1 | -1.4 | -1.6 | -1.7 | -1.8 | -1.9 | -2.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 43.7 | 45.2 | 47.9 | 48.3 | 48.7 | 49.1 | 49.6 | 50.6 | 51.9 | 53.3 | 55.0 | 56.7 | 58.7 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -0.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 8.9 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 1.0 | 1.3 | 1.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 12" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 12">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % | 1.8 | 1.6 | 1.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 28" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 28">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Consumer price index (HICP) | % | 3.2 | 2.9 | 2.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 12" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 12">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised core consumer price index | % | 3.2 | 2.6 | 2.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 28" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 28">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | -0.9 | -2.3 | -2.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 12" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government primary balance | % of GDP | -0.5 | -1.8 | -2.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 28" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 28">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 43.3 | 44.7 | 46.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 12" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 12">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % | 3.7 | 3.9 | 4.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 12" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 12">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Current account balance | % of GDP | 9.9 | 9.3 | 9.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 12" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 12">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, context**: The [OECD](../institutions/oecd.qmd) projects real GDP growth of 1.3% in 2025 and 1.1% in 2026, driven by stronger private consumption owing to rising real incomes, before moderating as external demand weakens. Growth is converging towards its pre-pandemic trend. Potential GDP growth is estimated at 1.6% in 2025 and 1.5% in 2026. The output gap is projected to be -1.0% in 2025 and -1.3% in 2026. [oecd/economic-surveys/Netherlands_2025-07-09, p. 11; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 2" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 2">ⓘ</button>8]
+- **C1-T, structural break**: GDP growth is projected to slow to 1.0% in 2026 and 1.1% in 2027. Structural bottlenecks and global uncertainty dampen consumption and investment. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 138" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 138">ⓘ</button>
+- **C1-T, Structural break in trend**: The medium-term growth forecast for 2026 (1.0%) and 2027 (1.1%) deviates from the 2025 actual growth of 1.8%. The report notes that investment levels stayed subdued due to global uncertainties, high labour costs, and surging energy prices undermining export competitiveness. Structural bottlenecks, including housing shortages and grid congestion, further constrain productivity growth. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Real gross domestic product (GDP) growth in 2025 was 1.8%. The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects real GDP to grow by 1.0% in 2026 and 1.1% in 2027. Domestic demand has been the main contributor to recent real GDP growth, growing faster than in the rest of the euro area. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 3-4">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Labour market tightness persists, with the unemployment rate at 3.8% in Q1 2025 and a high job vacancy rate. This tightness pushes up wages and labour costs. Annual growth in collectively negotiated wages reached 6.6% in 2024. Strong wage growth sustains inflation, particularly in labour-intensive services. [oecd/economic-surveys/Netherlands_2025-07-09, p. 21; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 2" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 2">ⓘ</button>2]
+- **C1-A2, Inherited competitiveness gap**: High labour costs and surging energy prices undermine the competitiveness of Dutch exports amid low-productivity growth. The report highlights that productivity growth has lagged European peers like Germany and Sweden, partly due to the phase-out of gas extraction in Groningen. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3, 4" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3, 4">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: The large current account surplus has dipped recently, partly reflecting that domestic demand has grown faster than in the rest of the euro area. The surplus is not forecast to grow in 2026 or 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 3">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **C2\*, context**: Headline inflation is projected to fall slowly to 2.9% in 2025 and 2.5% in 2026. Core inflation is expected to remain sticky, slowing to 2.6% in 2026. Services prices continue to exert upward pressure due to rising labour costs. [oecd/economic-surveys/Netherlands_2025-07-09, p. 11; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 2" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 2">ⓘ</button>2]
+- **C2\*, context**: Harmonized Index of Consumer Prices (HICP) inflation stood at 3.3% in 2025. The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects HICP inflation to stand at 3.2% in 2026 and 2.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The fiscal stance is expansionary, with the general government fiscal balance projected to widen from -0.9% of GDP in 2024 to -2.8% in 2026. This expansion stems from the September 2024 fiscal package, which includes increased spending on healthcare, housing, and defence, alongside cuts in personal, corporate, and environmental taxes. The [OECD](../institutions/oecd.qmd) notes that current fiscal plans risk eroding fiscal sustainability and may breach EU fiscal rules. [oecd/economic-surveys/Netherlands_2025-07-09, p. 11; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 13" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 13">ⓘ</button>; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 3" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 3">ⓘ</button>5]
+- **C3-T, history lags policy**: The general government deficit is set to increase to 2.5% in 2026 and decrease to 1.9% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 139" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 139">ⓘ</button>
+- **C3-T, History lags policy**: The government deficit is expected to rise to 2.5% of GDP in 2026, primarily due to a temporary reform of the military pension system requiring a transfer of approximately 0.7% of GDP to a private pension fund. A revised medium-term expenditure plan covering 2026-2030 was submitted in April 2026. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 33" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 33">ⓘ</button>
+- **C3-T, History lags policy**: The report notes that adopted consolidation measures, such as the phase-out of the CO2 levy and changes to personal income tax brackets, will impact future fiscal positions. The 2026 tax plan includes measures affecting VAT and environmental taxes. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 39">ⓘ</button>
+- **C3-T, adopted consolidation**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed the national medium-term fiscal-structural plan for the period 2026-2030. The plan presents a fiscal adjustment spread over four years with recommended maximum growth rates of net expenditure: 4.7% in 2026, 3.5% in 2027, 3.1% in 2028, 3.5% in 2029, and 3.7% in 2030. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 3-4">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: The primary balance is projected to deteriorate from -0.5% of GDP in 2024 to -2.3% in 2026. Gross debt (Maastricht) is projected to rise from 43.3% of GDP in 2024 to 46.8% in 2026. Long-term spending pressures from ageing and climate change are cited as challenges to fiscal sustainability. [oecd/economic-surveys/Netherlands_2025-07-09, p. 12; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 28" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 28">ⓘ</button>; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 3" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 3">ⓘ</button>9]
+- **C3\*, context**: The structural primary balance is projected at -0.6% of GDP on average for 2026-2035. The fiscal consolidation space is 82% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3\*, context**: The general government deficit increased from 0.7% of GDP in 2024 to 1.6% of GDP in 2025. This increase reflects growing current expenditure, public investment, and structural cuts in personal income tax. The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects a deficit of 2.5% of GDP in 2026 and 1.9% of GDP in 2027. The 2026 deficit increase mainly reflects the temporary effect of a military pension reform requiring a transfer of approximately 0.7% of GDP to a private pension fund. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button>
+- **C3\*, context**: The fiscal stance was expansionary by 0.8% of GDP in 2025 and is projected to be broadly neutral in 2026 and 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button>
+- **C3\*, context**: Net expenditure in the [Netherlands](../countries/netherlands.qmd) grew by 7.2% in 2025 and 10.6% cumulatively over 2024 and 2025. The 2025 growth is above the maximum growth rate recommended by the [Council of the EU](../institutions/council-of-the-eu.qmd) in January 2025, corresponding to a deviation of 1.5% of GDP in annual terms. The cumulative deviation for 2024 and 2025 is 1.0% of GDP. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Net expenditure is projected to grow by 4.9% in 2026, which is above the maximum growth rate recommended by the [Council of the EU](../institutions/council-of-the-eu.qmd), corresponding to a deviation of 0.1% of GDP in annual terms. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: The European Commission projects a structural primary deficit of 0.6% of GDP as of 2026. This is low compared with past fiscal performance. Ageing-related expenditure is projected to increase. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 212" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 212">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to medium risk, requiring a 3.9 percentage point improvement. The S1 indicator points to medium risk, requiring a 2.5 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 213" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 213">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: The debt-to-GDP ratio is expected to increase to 46.9% in 2026 and stabilize at 47.0% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 139" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 139">ⓘ</button>
+- **R1-E, Components missing or distorted**: Household debt-to-GDP decreased marginally from 93.3% in 2024 to 92.8% in 2025, remaining the highest in the EU. The high level of debt stems primarily from high rates of mortgage-financed homeownership. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 4">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, Financing behavior shifts**: Government debt rose to 44.4% of GDP in 2025 and is expected to increase to 46.9% in 2026. This increase mainly reflects loans to TenneT, the electricity transmission system operator, and EBN, the state energy company. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 33" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 33">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other refinancing context
+
+- **R1\*, context**: Gross financing needs were 8.9% of GDP in 2025. Debt is projected to increase to 58.7% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: General government debt increased from 43.8% of GDP at the end of 2024 to 44.4% of GDP at the end of 2025. The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects the debt-to-GDP ratio to increase to 46.9% by the end of 2026 and remain broadly stable at 47.0% by the end of 2027. The increase in 2026 mainly reflects loans to TenneT and EBN. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4-5">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected to remain moderate, at around 10% of GDP over 2026-2027, reaching 13% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 212" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 212">ⓘ</button>
+- **R1-A, context**: Risk-increasing factors relate to relatively large contingent liabilities. Risk-mitigating factors include lengthening debt maturity, stable financing sources, and a very large share of debt denominated in euro. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 213" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 213">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, context**: The [OECD](../institutions/oecd.qmd) notes that the [Netherlands](../countries/netherlands.qmd)'s projected path for net primary expenditure growth is higher than the limits assigned by the [European Commission](../institutions/european-commission.qmd), potentially leading to a "Significant Deviation Procedure" under the EU Stability and Growth Pact. The [European Commission](../institutions/european-commission.qmd)'s debt-sustainability risk classification and fiscal rules are referenced as key constraints on Dutch fiscal policy. [oecd/economic-surveys/Netherlands_2025-07-09, p. 13; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 3" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 3">ⓘ</button>8]
+- **R6\*, context**: The Netherlands is subject to an in-depth review under the Macroeconomic Imbalance Procedure due to a large current account surplus (around 8% of GDP) and high household debt. The report highlights that the surplus is a structural feature driven by excess savings in the corporate sector, particularly multinationals. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3, 4" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3, 4">ⓘ</button>
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd) adopted an opinion on the 2026 draft budgetary plan of the [Netherlands](../countries/netherlands.qmd). The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed the national medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 2-3">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **[Eurostat](../institutions/eurostat.qmd)**: Provided data on the general government deficit, debt, and net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4-5">ⓘ</button>
+
+## Market Signals
+
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 16 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 214">ⓘ</button>
+- **Factor decoupling**: The report does not explicitly discuss bond spreads decoupling from global risk appetite, but notes high energy prices relative to the EU average, which affects industrial competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 17" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 17">ⓘ</button>
+
+## Outlook Material
+
+- **Geopolitical risks**: The economic outlook is surrounded by significant downside risks, primarily driven by rising geopolitical tensions and trade fragmentation. The [Netherlands](../countries/netherlands.qmd), as a trade-dependent economy, is exposed to higher tariffs and supply chain disruptions. US tariffs are expected to reduce Dutch GDP growth by one percentage point cumulatively over 2025-26. [oecd/economic-surveys/Netherlands_2025-07-09, p. 11; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 25" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 25">ⓘ</button>; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 2" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 2">ⓘ</button>9]
+- **Housing market**: Residential house prices have rebounded strongly since late 2023. The debt-to-income ratio remains high at 203%. The [OECD](../institutions/oecd.qmd) advises monitoring the housing market and considering further macroprudential measures, such as lowering the maximum loan-to-value ratio. [oecd/economic-surveys/Netherlands_2025-07-09, p. 11; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 3" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 3">ⓘ</button>0]
+- **Climate policy**: The [Netherlands](../countries/netherlands.qmd) is unlikely to reach its 2030 climate targets under current policies due to delays in implementation and policy uncertainty. Grid congestion hinders electrification. [oecd/economic-surveys/Netherlands_2025-07-09, p. 13; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 5" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 5">ⓘ</button>8]
+- **Housing shortage**: A structural housing shortage of over 400,000 homes is projected. Bottlenecks include permitting constraints, nitrogen deposition limits, and labour shortages. Recent rental regulations have led to a sell-off of private rental properties, reducing supply. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 4-6" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 4-6">ⓘ</button>
+- **Labour Market**: Persistent labour and skills shortages, particularly in construction, healthcare, and ICT, constrain economic activity. Labour market segmentation remains a structural challenge, with high prevalence of flexible employment. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 18-19" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 18-19">ⓘ</button>
+- **Energy Transition**: The Netherlands faces challenges in reducing reliance on fossil fuels and alleviating electricity grid congestion. The coal levy is being abolished, which may lead to higher emissions. Grid congestion hampers the integration of renewable energy. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 15-17" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 15-17">ⓘ</button>
+- **Housing and Taxation**: Mortgage interest deductions and low imputed rent taxation create a fiscal bias towards investing in housing, often debt-financed. The government is looking into transitioning to a capital growth tax, possibly by 2028. The housing shortage is projected to exceed 400,000 dwellings in 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 5-6">ⓘ</button>
+- **Macroeconomic Imbalances**: The [European Commission](../institutions/european-commission.qmd) concluded that the [Netherlands](../countries/netherlands.qmd) is no longer experiencing macroeconomic imbalances. Vulnerabilities related to household debt, the housing market, and the current account surplus have lessened. Household debt as a share of GDP fell in 2025 but may stabilize. Risks are partly mitigated by the prevalence of fixed-rate mortgages. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 3">ⓘ</button>
+- **Long-term Care**: Long-term care spending stood at 3.8% of GDP in 2022 and is projected to increase to 5.7% of GDP by 2070. The coalition agreement includes efforts to achieve structural savings of about 0.2% of GDP in the current term. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 6">ⓘ</button>
+- **Energy and Environment**: The [Netherlands](../countries/netherlands.qmd) adopted fiscal measures to mitigate high energy prices since February 2026, with a fiscal cost of less than 0.1% of GDP in 2026. Electricity grid congestion continues to worsen. Excessive nitrogen deposition remains a significant environmental challenge. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 5, 8" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 5, 8">ⓘ</button>
+- **Labor Market**: The share of flexible employment is high at 35.4%. The government is advancing reforms to reduce incentives for self-employment and flexible employment. Labor and skills shortages remain a key challenge. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 9-10" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 9-10">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

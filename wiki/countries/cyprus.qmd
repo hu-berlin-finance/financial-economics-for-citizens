@@ -1,0 +1,290 @@
+---
+title: "Cyprus"
+summary: "This dossier draws on the European Commission’s Country Report and Country-Specific Recommendations for Cyprus, both published on 2026-06-03, and the Post-Programme Surveillance Report published on 2026-06-02. It also …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [European Commission](../institutions/european-commission.qmd)’s [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) for Cyprus, both published on 2026-06-03, and the [Post-Programme Surveillance Report](../document-types/post-programme-surveillance-report.qmd) published on 2026-06-02. It also incorporates the [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published on 2026-02-12 and the [Economic Forecast](../document-types/economic-forecast.qmd) (Spring 2026) published on 2026-05-21. The evidence highlights a strong fiscal position with significant primary surpluses and declining public debt, projected to fall well below 60% of GDP by 2027. Key themes include deviations from recommended net expenditure growth ceilings, high energy import dependency, and structural vulnerabilities in the banking sector and labor market. The outlook remains influenced by geopolitical risks in the Middle East, potential energy price shocks, and ongoing repayment obligations to the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd).
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 3.8 | 2.3 | 2.7 | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Headline HICP inflation | % |  | 3.6 | 2.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 3.4 | 2.1 | 2.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 55.0 | 50.4 | 45.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Current account balance | % of GDP | -6.4 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 7">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Primary income deficit | % of GDP | 11.1 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 7">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03" aria-label="Source: ec/country-reports/Cyprus_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Unit Labour Cost (ULC) growth | 2019-2024 avg: 3.1; 2023: 8.6; 2024: 1.6; 2025: 2.1 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, pp. 6, 86" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, pp. 6, 86">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03" aria-label="Source: ec/country-reports/Cyprus_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} | 2028 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 3.8 | 2.3 | 2.7 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 0.8 | 3.6 | 2.2 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 4.1 | 3.4 | 2.1 | 2.5 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary surplus | % of GDP |  | 4.5 | 3.3 | 3.7 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | 1.8 | 0.4 | -1.2 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 62.7 | 55.0 | 50.4 | 45.5 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | % |  | 9.6 | 7.4 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Recommended net expenditure max growth | % |  | 6.0 | 5.0 | 5.4 | 4.3 | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Defence expenditure | % of GDP |  | 1.8 | 1.8 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 5">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Energy consumption from fossil fuels | % of gross energy consumption | 85.2 |  |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 7">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Energy import dependency | % of gross available energy | 87.7 |  |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 7">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Renewables in electricity mix | % |  | 27.4 |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 7">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03" aria-label="Source: ec/recommendations/Cyprus_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Cumulative net expenditure deviation | 2024-2025: 1.0; 2024-2026f: 1.8 | % of GDP | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal cost of energy measures | 2026f (partial): 0.1; 2026f (full year): 0.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 5">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03" aria-label="Source: ec/recommendations/Cyprus_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 3.8 | 2.3f | 2.7f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 3.6f | 2.2f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 3.4 | 2.1f | 2.5f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12-13" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12-13">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public debt-to-GDP | % of GDP |  | 50.4f | 45.5f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 13" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 13">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | EUR billion |  | 1.6 | 1.6 | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 4.2 | 3.9 | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Cash position | End-2025: 1.7 | EUR billion | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Cash position | End-2025: 4.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Weighted average cost of debt | End-Sep 2025: 1.83 | % | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.3 | 2.7 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 128" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 128">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 2.1 | 2.5 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 129" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 129">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 62.8 | 56.4 | 51.0 | 46.0 | 41.8 | 38.2 | 35.0 | 31.9 | 29.2 | 26.6 | 24.3 | 22.0 | 20.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 2.4 | 1.4 | 4.2 | 3.9 | 4.1 | 3.8 | 3.1 | 3.2 | 0.8 | 0.6 | 0.5 | 0.3 | 0.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 1.4 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | 5.4 | 4.6 | 4.3 | 4.0 | 3.6 | 3.3 | 2.9 | 2.6 | 2.4 | 2.3 | 2.1 | 2.0 | 1.7 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 2026-2035 avg: 3.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The [European Commission](../institutions/european-commission.qmd) projects real GDP growth of 2.3% in 2026 and 2.7% in 2027. This reflects positive pre-existing conditions and a potential easing of uncertainty. Growth is driven by private consumption and net trade, although investment remains feeble. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button>
+- **C1-T, structural break**: Real GDP is projected to grow by 2.3% in 2026 and 2.7% in 2027. Tourism exports may be negatively affected by the conflict. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 128" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 128">ⓘ</button>
+- **C1-T, structural bottlenecks**: Infrastructure projects face delays due to land acquisition, procurement, and limited administrative capacity. The regulatory framework presents obstacles to investment. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 6">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, growth not thin-tailed**: The Cypriot economy is vulnerable to external shocks due to its small size and dependence on imported energy. The conflict in the Middle East poses risks to tourism and investor confidence. Energy security challenges persist, with one of the highest energy import dependencies in the EU (87.7% of gross available energy in 2024). <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, pp. 3, 7, 13" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, pp. 3, 7, 13">ⓘ</button>
+- **C1-A1, energy dependence**: [Cyprus](../countries/cyprus.qmd) has one of the largest energy import dependencies in the European Union (87.7% of gross available energy in 2024) and relies heavily on fossil fuels (85.2% of gross energy consumption in 2024). Efforts to diversify via natural gas and interconnections face administrative delays. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 7">ⓘ</button>
+- **C1-A1, context**: Growth is expected to remain resilient despite the Middle East conflict. Real GDP expanded by 3.8% in 2025 and is projected to grow by 2.3% in 2026 and 2.7% in 2027. Risks include sector-specific vulnerabilities in tourism and sizeable import dependence, especially for energy goods. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Price competitiveness in the tradable sector has improved steadily. Unit labour costs (ULC) increased only modestly (3.1% per year on average between 2019 and 2024), while productivity gains (3.2% on average) exceeded real compensation per employee growth (2.0%). Export prices have increased faster than import prices, resulting in terms-of-trade gains. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 6">ⓘ</button>
+- **C1-A2, innovation and competitiveness**: Research and development investment is low, with weak knowledge valorisation. The Information Communication Technology sector is expanding, but links to domestic firms are limited. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 6">ⓘ</button>
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, context**: Headline inflation is projected to increase to 3.6% in 2026 before easing to 2.2% in 2027, reflecting a spike in energy prices. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **C3-E, estimator context**: [Cyprus](../countries/cyprus.qmd) reported a general government surplus of 3.4% of GDP in 2025 and a primary surplus of 4.5% of GDP. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: Cyprus maintains robust public finances with continuous budget surpluses. The general government balance stood at a surplus of 3.4% of GDP in 2025. The [European Commission](../institutions/european-commission.qmd) projects surpluses of 2.1% in 2026 and 2.5% in 2027. A major tax reform in early 2026 increased the corporate tax rate from 12.5% to 15% and introduced personal income tax reliefs, expected to reduce government revenues by around 0.75 percentage points of GDP in coming years. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed a national medium-term fiscal-structural plan for [Cyprus](../countries/cyprus.qmd) covering 2025–2028 on 21 January 2025, setting maximum net expenditure growth rates. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 3">ⓘ</button>
+- **C3-T, net expenditure deviations**: Net expenditure grew by 9.6% in 2025, exceeding the 6.0% recommended maximum, with a cumulative deviation of 1.0% of GDP over 2024–2025. Projected growth for 2026 is 7.4%, exceeding the 5.0% limit, with a cumulative deviation of 1.8% of GDP over 2024–2026. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 5">ⓘ</button>
+- **C3-T, fiscal stance and measures**: The fiscal stance was expansionary by 1.8% of GDP in 2025 and is projected to remain expansionary by 0.4% of GDP in 2026 before turning contractionary in 2027. Unilateral energy mitigation measures adopted in early 2026 cost approximately 0.1% of GDP, with a potential cost of 0.3% if extended. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, context**: The general government surplus was 3.4% of GDP in 2025. The budget surplus is projected at 2.1% in 2026 and 2.5% in 2027. This includes temporary measures adopted in March 2026 to mitigate high energy prices, including untargeted reductions in VAT on electricity and excise duties. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12-13" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12-13">ⓘ</button>
+- **C3\*, context**: The European Commission projects a structural primary surplus of 3.3% of GDP as of 2026. This is ambitious compared with past fiscal performance. Ageing-related expenditure is projected to increase significantly. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 182" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 182">ⓘ</button>
+- **C3-T, history lags policy**: The general government surplus is projected to ease to 2.1% of GDP in 2026 and 2.5% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 129" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 129">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, default is chosen**: While not explicitly stated as a red flag, the report notes that Cyprus has fiscal space to address challenges. Public investment is not limited by available funding. The government has applied for specialized loans under the EU SAFE instrument for defense spending (up to EUR 1.2 billion, 3.1% of GDP) but has not requested the activation of the national escape clause. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- **C3-A, context**: Cyprus is planning to increase defence spending and compensate depositors affected by the 2013-2014 bail-in through a solidarity fund financed by the state budget. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 13" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 13">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3\*, context**: The S2 indicator points to low risk, requiring a 0.1 percentage point improvement. The S1 indicator points to low risk, with no fiscal effort required to keep debt below 60% of GDP by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 183" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 183">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, debt dynamics**: General government debt decreased to 55.0% of GDP in 2025, driven by primary surpluses and nominal GDP growth outpacing interest payments. It is projected to fall further to 50.4% in 2026 and 45.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- **R1-E, components missing**: The debt-to-GDP ratio is set to decrease to 45.5% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 129" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 129">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, financing behavior shifts**: General government debt fell to 55.0% of GDP in 2025, below the 60% reference value. The [European Commission](../institutions/european-commission.qmd) forecasts a continuing decrease to 50.4% in 2026 and 45.5% in 2027. This decline is driven by sustained surpluses and strong nominal GDP growth. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button>
+- **R1-T, context**: The public debt maturity profile is favorable with an average maturity of 6.2 years for total debt. 34.1% of debt is based on a floating interest rate, mostly ESM loans. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected to decrease, dwindling to 0.4% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 182" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 182">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: The current account remains in deficit (-6.4% of GDP in 2025) despite a large trade surplus (5.7% of GDP). The deficit is driven by a primary income deficit of 11.1% of GDP, reflecting profits of foreign-owned firms. Foreign direct investment (FDI) has been the main source of financing for the current account deficit since 2016. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 7">ⓘ</button>
+- **R1-A, financing structure**: Access to non-bank financing is limited, with bank lending dominating corporate financing. Capital markets are underdeveloped, and the second pillar of the pension system is fragmented, limiting long-term capital supply. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 6">ⓘ</button>
+- **R1-A, context**: Gross financing needs are estimated at EUR 1.6 billion for both 2026 and 2027. Cyprus maintains a cash position of EUR 1.7 billion (4.6% of GDP) as of end-2025. Repayments to the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) are ongoing, with approximately EUR 1 billion scheduled for May 2026. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14-15" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14-15">ⓘ</button>
+- **R1-A, context**: Substantial cash reserves exist. The share of short-term public debt is low. Financing sources are stable with a diversified investor base. Debt is exclusively denominated in euro. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 183" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 183">ⓘ</button>
+
+#### Other refinancing context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, bright lines versus real eligibility**: Cyprus is not in an Excessive Deficit Procedure. The [European Commission](../institutions/european-commission.qmd) notes that Cyprus has the fiscal space to address challenges. However, economic security risks are rising due to the regional conflict. Cyprus has increased engagement with other EU Member States in response to FDI from non-EU countries and introduced a mandatory FDI screening mechanism. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, pp. 4, 7" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, pp. 4, 7">ⓘ</button>
+- **R6-A, fiscal framework compliance**: [Cyprus](../countries/cyprus.qmd) is subject to the EU fiscal framework, with net expenditure ceilings set by the [Council of the EU](../institutions/council-of-the-eu.qmd). The document notes deviations from these ceilings but emphasizes that debt remains below 60% of GDP and the position is in surplus. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 5">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+- **Banking stability**: The NPL ratio decreased to 1.6% in December 2025. However, recent legislative initiatives concerning the foreclosure framework pose downside risks, potentially weakening the framework’s effectiveness. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 13-14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 13-14">ⓘ</button>
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **Governance**: Governance of state-owned enterprises remains below international standards, with weaknesses in accountability and board appointments. Justice system efficiency is low, with long case resolution times and limited digitalisation. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 6">ⓘ</button>
+
+## Market Signals
+
+- **Factor decoupling**: The yield on Cyprus’s 10-year government bond stood at around 3.5% at the end of April 2026, with the spread over the German 10-year Bund at around 47 basis points. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 15" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 15">ⓘ</button>
+- **Factor decoupling**: The report does not provide specific bond spread data but notes that Cyprus is an attractive destination for foreign investment due to its corporate tax system and legal framework, although bureaucratic and administrative environments are less attractive. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 46" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 46">ⓘ</button>
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 19 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 184">ⓘ</button>
+
+## Outlook Material
+
+- **Geopolitical shocks**: The conflict in the Middle East has clouded the outlook. Cyprus is in close proximity to the war zone. The impact on the Cypriot economy depends on the duration and intensity of the conflict. Risks include a potential reversal of inflows of corporations and workers, and a potential reduction in tourist inflows from neighboring countries. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button>
+- **Geopolitical shocks**: The impact of the Middle East conflict on the Cypriot economy will depend on its duration and intensity, particularly affecting tourism. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button>
+- **Energy security**: Cyprus is highly dependent on imported oil. Efforts to strengthen energy security include the construction of an LNG import terminal and an interconnection project with Greece and Israel, both experiencing significant delays. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 7">ⓘ</button>
+- **Energy security and climate**: [Cyprus](../countries/cyprus.qmd) faces risks from energy supply disruptions and climate change (wildfires, floods, droughts). The national adaptation strategy 2025-2050 faces pending ministerial adoption. Water scarcity is critical. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 7">ⓘ</button>
+- **Climate adaptation**: Cyprus faces severe climate risks, including wildfires, floods, and water scarcity. The long-term costs of climate inaction significantly exceed those of climate action. There is a significant gap between the amount of investment needed for climate adaptation (EUR 3.4 billion up to 2050) and the amount currently planned. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, pp. 5, 15, 78" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, pp. 5, 15, 78">ⓘ</button>
+- **Labour market**: Challenges include integrating women and persons with disabilities, addressing skills mismatches, and low participation in STEM fields. Quality of employment is constrained by long working hours and low-paid jobs. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 8">ⓘ</button>
+- **Social protection**: Poverty risks for older people remain high due to inadequate pension income. There is a lack of a comprehensive long-term care system and affordable social housing. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 9">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

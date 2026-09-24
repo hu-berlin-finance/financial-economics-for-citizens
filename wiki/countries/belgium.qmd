@@ -1,0 +1,301 @@
+---
+title: "Belgium"
+summary: "This dossier integrates the 2026 Country Report and the Recommendation for a Council Recommendation on Country-Specific Recommendations, both issued by the European Commission on 2026-06-03, with the European …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier integrates the 2026 Country Report and the Recommendation for a Council Recommendation on Country-Specific Recommendations, both issued by the [European Commission](../institutions/european-commission.qmd) on 2026-06-03, with the [European Commission](../institutions/european-commission.qmd)'s Debt Sustainability Monitor published on 2026-02-12 and the Spring 2026 Economic Forecast published on 2026-05-21. The [OECD](../institutions/oecd.qmd) Economic Survey published on 2024-09-23 provides additional structural context. The evidence highlights slowing economic growth, driven by a global energy shock from the Middle East conflict, with real gross domestic product (GDP) projected to decelerate to 0.7% in 2026. Fiscal challenges persist, with the general government deficit stabilizing at 5.2% of GDP in 2026 and public debt rising to 112.8% by 2027 under the Spring 2026 forecast, or potentially reaching 137.4% by 2036 under the no-policy-change baseline of the Debt Sustainability Monitor. The reports underscore structural weaknesses in budgetary coordination, the activation of a national escape clause for defence spending, and significant refinancing needs.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | 1.2 | 1.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 11" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 11">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 1.4 | 1.2 | 1.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 11" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 11">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % | 1.7 | 1.8 | 1.5 | 1.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Consumer price index (HICP) | % |  | 2.3 | 4.3 | 2.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Core consumer prices (HICP) | % |  | 6.0 | 3.1 | 1.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP |  | -4.4 | -4.9 | -4.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Underlying general government fiscal balance | % of GDP |  | -3.6 | -4.1 | -3.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Underlying government primary fiscal balance | % of GDP |  | -2.1 | -2.4 | -1.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP |  | 105.2 | 107.4 | 110.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government net debt | % of GDP |  | 77.9 | 80.2 | 82.7 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Household debt | % of GDP |  | ~55% of GDP (mortgages 20% of bank assets) |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 35-36" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 35-36">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | - | 1.0 | 0.7 | 0.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | - | 3.0 | 3.4 | 2.6 | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  | 4.4 | 5.2 | 5.2 | 5.4 | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  |  | -0.3 | -0.8 | -0.6 | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public debt | % of GDP |  | 103.9 | 107.9 | 110.5 | 112.8 | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public spending | % of GDP |  |  | 54.2 |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 7">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Long-term care expenditure | % of GDP | 2.3 |  |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 7">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03" aria-label="Source: ec/recommendations/Belgium_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | 2025: 3.7; 2026f: 2.0; Cumulative 2025-2026f: 5.8 | % | <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 6">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03" aria-label="Source: ec/recommendations/Belgium_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2019 | 2021 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  |  | 0.7 | 0.7 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  |  | rising | 3.4 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  |  |  | 5.2 | 5.2 | 5.4 | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public debt | % of GDP |  |  |  | 107.9 | 110.5 | 112.8 | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public investment | % of GDP | 2.6 |  |  |  |  | 3.3 | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Defence expenditure | % of GDP |  | 0.9 |  | 1.4 | 1.6 | 1.8 | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3-4" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3-4">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Total tax revenues | % of GDP |  |  |  | 42.0 | 42.2 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 31" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 31">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Taxes on labour | % of GDP |  |  | 22.1 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 35">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Taxes on consumption | % of GDP |  |  | 9.5 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 35">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Taxes on capital | % of GDP |  |  | 11.0 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 35">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate (15-74) | % |  |  |  | 6.2 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 93" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 93">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Long-term unemployment | % |  |  |  | 2.0 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 93" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 93">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | R&D intensity | % of GDP |  |  | 3.36 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 10" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 10">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03" aria-label="Source: ec/country-reports/Belgium_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Employment rate (20-64) | 2025: 72.8; Target 2030: 80.0 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 14" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 14">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Renewable energy share | 2024: 14.3; Target 2030: 20.4 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 12" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 12">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03" aria-label="Source: ec/country-reports/Belgium_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -5.2 | -5.2 | -5.4 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 107.9 | 110.5 | 112.8 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 19.7 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 103.9 | 107.1 | 109.9 | 112.3 | 114.1 | 116.0 | 118.0 | 120.6 | 123.5 | 126.5 | 130.0 | 133.7 | 137.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 18.6 | 19.7 | 19.5 | 19.9 | 20.2 | 20.6 | 20.9 | 21.5 | 22.3 | 23.0 | 24.1 | 25.0 | 25.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -2.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: -1.8; 2025: -2.4; 2026–2036: -2.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | 51 | bps | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | 2025: 1.0; 2026: 1.1; 2028–2036 avg: 1.3 | % | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The [OECD](../institutions/oecd.qmd) projects real GDP growth at 1.2% in 2024 and 1.4% in 2025. Potential growth is estimated at 1.5% in 2024 and 1.4% in 2025. The output gap is projected to remain negative, at -1.4% in both 2024 and 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button>
+- **C1-T, structural break in trend**: The [European Commission](../institutions/european-commission.qmd) projects real GDP growth to decelerate to 0.7% in 2026, driven by weaker private consumption and external shocks. Growth in 2025 slowed due to heightened global uncertainty and a fall in exports. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Real GDP growth in 2025 was 1.0%. The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects real GDP to grow by 0.7% in 2026 and 0.9% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button>
+- **C1-T, structural break**: GDP growth is expected to decelerate to 0.7% in 2026 and rebound to 0.9% in 2027. Private consumption weakens due to reduced purchasing power. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 108" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 108">ⓘ</button>
+- **C1*, context**: Real GDP growth is projected at 1.0% in 2025, 1.1% in 2026, and averaging 1.3% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, growth not thin-tailed or serially independent**: Energy supply disruptions and elevated price volatility due to geopolitical tensions (war in the Middle East) are cited as risks. Belgium adopted fiscal measures to mitigate high energy prices, expected to cost less than 0.1% of GDP in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 6">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, Inherited competitiveness gap**: Wage indexation has pressured core inflation and temporarily weighed on price competitiveness. The Conseil Central de l’Economie estimates the wage gap between Belgium and reference countries (the Netherlands, France, Germany) will be around 1.8% by the end of 2024, up from 0.9% in 2022. Unit labour cost growth has impacted export performance. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 28-30" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 28-30">ⓘ</button>
+- **C1-A2, inherited competitiveness gap**: Unit labour costs rose by 2.5% in 2024, compared to 4.9% in the euro area. Real wages were 2.0% higher in 2025 compared to 2019. The automatic wage indexation system and wage norms create rigidity, potentially impacting competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 96" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 96">ⓘ</button>
+- **C1-A2, inherited competitiveness gap**: The document notes that Belgium has one of the lowest levels of business dynamism in the EU. The share of high-growth businesses is well below the EU average. Barriers to scaling up include high labour costs and size-dependent tax relief. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 9">ⓘ</button>
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, projections stale**: Inflation is projected to rise to 3.4% in 2026, following spiking energy prices due to geopolitical events in the Middle East. These recent shocks may not be fully reflected in earlier forecasts. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **C2\*, context**: HICP inflation stood at 3.0% in 2025. It is projected to be 3.4% in 2026 and 2.6% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **C3-E, Estimator fails or rests on one episode**: Belgium has a history of large primary surpluses, reaching 6% of GDP in the early 2000s. However, current projections show the primary balance deteriorating from -2.5% of GDP in 2025 to unsustainable levels without reform. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 40" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 40">ⓘ</button>
+- **C3-E, history lags policy**: The S2 debt-stabilisation indicator signals high risk, requiring a 7.0% of GDP improvement in the SPB in 2027 to stabilize debt long-term. The S1 debt-reduction indicator shows medium risk, requiring a 5.9% of GDP effort to reduce debt to 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 123" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 123">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **C3-T, History lags policy**: The [European Commission](../institutions/european-commission.qmd)’s new economic governance framework requires Belgium to submit a national medium-term structural budgetary plan. Belgium is the only Euro Area country without fully developed national multiannual fiscal planning. A credible medium-term consolidation strategy is needed to put debt on a downward path. The [OECD](../institutions/oecd.qmd) estimates that putting the debt-to-GDP ratio on a declining path would require a primary balance improvement of 3.7 percentage points of GDP between 2025 and 2030. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 40-43" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 40-43">ⓘ</button>
+- **C3-T, history lags policy**: Belgium has adopted a medium-term fiscal structural plan for 2025-2029, committing to limit net expenditure growth and reduce the deficit below 3% of GDP. This plan implies an improvement of the structural primary balance of 2.4 percentage points of GDP between 2025 and 2029. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button>
+- **C3-T, history lags policy**: The Council of the European Union activated the national escape clause for Belgium in July 2025 to facilitate higher defence spending, allowing deviation from maximum growth rates of net expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button>
+- **C3-T, history lags policy**: The excessive deficit procedure for Belgium is held in abeyance based on the [European Commission](../institutions/european-commission.qmd)'s assessment of effective action. The country is adhering to a corrective path recommended by the Council to bring an end to the excessive deficit. Net expenditure growth in 2025 (3.7%) was above the recommended maximum (3.6%) but within the flexibility of the national escape clause for defence spending. Projected net expenditure growth for 2026 (2.0%) is below the recommended maximum. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 4, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 4, p. 6">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is projected to stabilize at 5.2% in 2026 and rise to 5.4% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109">ⓘ</button>
+- **C3*, context**: The structural primary balance (SPB) before cost of ageing is assumed at -2.3% of GDP from 2026 onwards. This level is low compared with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+- **C3\*, context**: The structural primary balance is projected at -2.3% of GDP on average for 2026-2035. The fiscal consolidation space is 88% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, default is chosen, not only suffered**: The document highlights high fiscal sustainability risks in the medium and long term. Public spending is among the highest in the EU at 54.2% of GDP. Persistently high spending requires a high tax burden, weighing on economic efficiency. Reforms to pension and long-term care systems are underway but delays exist (e.g., pension reform adoption delayed from Q4-2025 to 2026). <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 7">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3\*, context**: The general government deficit is projected to stabilize at 5.2% of GDP in 2026 and rise to 5.4% in 2027. Public debt is forecast to increase from 107.9% of GDP in 2025 to 112.8% in 2027. The rise in 2027 is driven by higher defence expenditure and interest payments. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button>
+- **C3\*, context**: The general government deficit increased from 4.4% of GDP in 2024 to 5.2% in 2025. It is projected to remain at 5.2% in 2026 and rise to 5.4% in 2027. The increase in 2025 was due to lower tax revenues and higher defence spending. The 2026-2027 increase reflects high primary deficits, weak growth, and rising interest payments. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: The fiscal stance was contractionary by 0.3% of GDP in 2025 and is projected to be contractionary by 0.8% in 2026 and 0.6% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, Components missing or distorted**: Public debt is high at 105.2% of GDP in 2023 (Maastricht definition) and projected to rise to 110.0% in 2025. Debt is concentrated in the federal government but regions and communities account for an increasing share (16.6% of total public debt in 2022). Household debt is elevated, with residential mortgages comprising around 55% of GDP. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 35-45" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 35-45">ⓘ</button>
+- **R1-E, components missing**: Stock-flow adjustments were 1.5% of GDP in 2025 and 0.5% in 2026, but zero thereafter in the baseline. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+- **R1-E, components missing**: The debt-to-GDP ratio is projected to increase to 112.8% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 109">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, financing behavior shifts**: Defence expenditure increased to 1.4% of GDP in 2025 (up 0.5 percentage points from 2021) and is projected at 1.6% of GDP in 2026. This increase is accommodated by the national escape clause activated for 2025–2028. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 4, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 4, p. 6">ⓘ</button>
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: The document notes that Belgium’s complex federal structure implies substantial vertical fiscal imbalance, with regions and communities largely funded by transfers. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 45" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 45">ⓘ</button>
+- **R1-A, part of the debt not exposed to the market**: Belgium has requested EUR 8.3 billion in EU loans under Security Action for Europe (SAFE) for defence procurement as part of the ReArm Europe Plan. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 4">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1\*, context**: Public debt is increasing significantly, reaching 112.8% of GDP in 2027. The debt-to-GDP ratio is rising primarily due to high general government deficits. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button>
+- **R1\*, context**: General government debt increased from 103.9% of GDP at the end of 2024 to 107.9% at the end of 2025. It is projected to rise to 110.5% in 2026 and 112.8% in 2027. The 2025 increase was driven by a high primary deficit (+2.9 percentage points), a favourable snowball effect (-1.3 percentage points), and a debt-increasing stock-flow adjustment (+2.3 percentage points). <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button>
+- **R1*, context**: Gross debt is projected to increase to 137.4% of GDP by 2036. Gross financing needs are expected to rise from 19.7% of GDP in 2025 to 25.8% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 19.7% of GDP in 2025 and are projected to remain elevated. Debt is projected to increase to 137.4% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, Bright lines versus real eligibility**: The [European Commission](../institutions/european-commission.qmd) assesses Belgium’s fiscal trajectory under the new EU economic governance rules. Belgium’s deficit and debt levels are well above the thresholds for a reference trajectory (3% and 60% of GDP). The [European Commission](../institutions/european-commission.qmd) will present a reference path for annual growth in net primary expenditure to ensure debt follows a plausible downward path. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 41" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 41">ⓘ</button>
+- **R6-A, bright lines versus real eligibility**: Belgium is subject to an Excessive Deficit Procedure (EDP), which is held in abeyance. The country has a record of compliance with net expenditure recommendations, but the EDP remains open. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 24" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 24">ⓘ</button>
+- **R6\*, context**: The excessive deficit procedure is held in abeyance. The Council endorsed the national medium-term fiscal-structural plan for 2025–2029. The [European Commission](../institutions/european-commission.qmd) considers that Belgium has complied with its commitments in a satisfactory manner, though some reforms face implementation delays. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 4, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 4, p. 6">ⓘ</button>
+- **R6*, context**: The document notes the activation of the national escape clause (NEC) for Belgium. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **High Council of Finance - Public Sector Borrowing requirements (HCF-PSBR)**: The High Council of Finance - Public Sector Borrowing requirements (HCF-PSBR) has been hampered by a lack of binding agreements on budgetary objectives and insufficient financial and human resources. Reforms are underway to redefine its tasks and enhance its capacity. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 32-33" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 32-33">ⓘ</button>
+- **Budgetary Coordination**: An agreement on enhanced budgetary coordination was reached in March 2026 to address structural weaknesses in the budgetary process, including a lack of multiannual fiscal planning at the national level and insufficient time for legal review. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 4">ⓘ</button>
+
+## Market Signals
+
+- **Factor decoupling**: Long-term government bond yields increased significantly, adding pressure on public finances. The 10-year government bond yield averaged 2.9% in 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button>
+- **Factor decoupling**: The report notes that Belgium’s tax wedge on labour is well above the EU average (50.8% vs 40% in 2024), which constrains work incentives. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 34" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 34">ⓘ</button>
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 51 bps at the end of 2025. Fitch downgraded the rating from AA- to A+ with a stable outlook in June 2025. S&P revised its AA outlook from stable to negative in April 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+
+## Outlook Material
+
+- **Elections**: The latest general election was in June 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 8" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 8">ⓘ</button>
+- **Banking sector**: The banking sector remains resilient with capital and liquidity ratios above regulatory requirements, although leverage is relatively high. Non-performing loans have increased moderately from record lows. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 34-37" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 34-37">ⓘ</button>
+- **Climate risks**: Belgium is vulnerable to energy supply disruptions and climate-related events such as flooding. Energy intensity is high. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 30-31, 101" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 30-31, 101">ⓘ</button>
+- **Outlook Factors, institutional weakness**: The budgetary process suffers from structural weaknesses, including a lack of multiannual fiscal planning at the national level and insufficient time for legal review. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 4">ⓘ</button>
+- **Outlook Factors, pension reform**: A draft law to reform the pension system was tabled in March 2026. It aims to reduce the projected increase in pension expenditure by 1.3 percentage points of GDP between 2024 and 2070 by introducing a bonus-malus system and phasing out favorable conditions for civil servants. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 5-6" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 5-6">ⓘ</button>
+- **Outlook Factors, energy transition**: Belgium remains highly dependent on fossil fuel imports, with fossil fuels accounting for 67.1% of the energy mix in 2024. The share of renewable energy in final energy consumption was 14.3% in 2024, the lowest in the EU. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 12" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 12">ⓘ</button>
+- **Banking sector**: The Belgian banking sector appears sound and profitable, with a stable average capital-adequacy ratio of 20.2% in Q3-2025. The non-performing-loan ratio slightly increased to 1.7% in Q3-2025. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 56" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 56">ⓘ</button>
+- **Elections/Political Stability**: The document does not explicitly discuss elections, but it highlights the complexity of coordination between federal, regional, and local authorities, which complicates policy delivery and reform implementation. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 7">ⓘ</button>
+- **Structural Challenges**: Long-term fiscal sustainability risks are driven by ageing-related spending, particularly pensions and long-term care. Projected ageing-related spending increases by around 5 percentage points of GDP by 2070. Pension reforms are expected to reduce this increase by 1.6 percentage points, but long-term care costs remain a concern. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 7">ⓘ</button>
+- **Business Environment**: High regulatory burden and administrative complexity impair the business environment. Simplification initiatives are ongoing, but permits are complex and costly, affecting construction and infrastructure projects. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 8">ⓘ</button>
+- **Energy Transition**: Belgium remains highly dependent on fossil fuel imports (67.1% of energy mix). Roll-out of renewables is held back by insufficient grid capacity and permitting issues. Fossil fuel subsidies amount to 2.4% of GDP (2022 estimate), with many lacking phase-out plans before 2030. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 9, p. 10, p. 11" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 9, p. 10, p. 11">ⓘ</button>
+- **Climate Risk**: Under the "Fragmented Action" climate scenario, debt could be around 3 pps. of GDP higher in 2050 compared to the baseline. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109">ⓘ</button>
+- **Political Risk**: Lack of effective budgetary coordination between government levels is cited as a risk-increasing factor. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 123" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 123">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

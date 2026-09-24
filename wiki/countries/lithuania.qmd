@@ -1,0 +1,261 @@
+---
+title: "Lithuania"
+summary: "This dossier synthesizes evidence from the OECD's Economic Survey published on 2025-03-28, the European Commission's Country Report published on 2026-06-03, the European Commission's Debt Sustainability Monitor …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier synthesizes evidence from the [OECD](../institutions/oecd.qmd)'s [Economic Survey](../document-types/economic-survey.qmd) published on 2025-03-28, the [European Commission](../institutions/european-commission.qmd)'s [Country Report](../document-types/country-report.qmd) published on 2026-06-03, the [European Commission](../institutions/european-commission.qmd)'s [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published on 2026-02-12, and the [European Commission](../institutions/european-commission.qmd)'s Spring 2026 [Economic Forecast](../document-types/economic-forecast.qmd) published on 2026-05-21. The OECD survey and Country Report highlight a rebound in GDP growth driven by private consumption, but warn of weakening cost competitiveness due to wage growth outpacing productivity. Fiscal pressures are intensifying from defense, healthcare, and pension expenditures, leading to projected increases in the general government deficit and public debt. The Debt Sustainability Monitor classifies Lithuania's medium-term risks as low, with a projected structural primary deficit and low gross financing needs, though long-term aging costs pose fiscal challenges. The Spring 2026 Forecast projects continued growth despite global energy shocks, with public debt expected to rise to 48.4% of GDP by 2027.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 6.4 | 2.5 | 0.3 | 2.7 | 3.1 | 2.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % |  | 3.6 | 3.7 | 3.4 | 3.0 | 2.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 28">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % | 4.6 | 18.9 | 8.7 | 0.9 | 2.6 | 2.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | GDP deflator | % |  | 16.1 | 9.0 | 2.8 | 3.6 | 3.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 28">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -1.1 | -0.7 | -0.7 | -2.1 | -2.6 | -2.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Underlying general government fiscal balance | % of potential GDP |  | -1.7 | -0.6 | -2.2 | -3.1 | -2.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 28">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 43.3 | 38.1 | 37.3 | 38.5 | 41.5 | 43.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Ten-year government bond yield | % |  | 2.6 | 4.3 | 3.6 | 3.3 | 3.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 28">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financial liabilities | 38.5 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 8" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 8">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net financial liabilities | 8.9 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 8" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 8">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.7 | 3.0 | 2.9 | 3.0 | 2.1 | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  | 0.9 | 3.4 | 4.4 | 2.7 | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP |  |  | -1.3 | -1.8 | -2.2 | -2.7 | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Government debt | % of GDP |  |  | 38.0 | 39.5 |  | 48.4 | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 39">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  |  | 2.5 | 2.7 | 2.9 | 3.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unit labour costs (hour) growth | % | 14.9 | 12.2 | 5.6 | 6.1 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 10" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 10">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03" aria-label="Source: ec/country-reports/Lithuania_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Bank loans to GDP | Q3 2025: 37.8 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 66" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 66">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03" aria-label="Source: ec/country-reports/Lithuania_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -0.5 | -1.3 | -1.4 | -1.4 | -1.6 | -1.7 | -1.9 | -2.0 | -2.2 | -2.5 | -2.7 | -2.9 | -3.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 38.0 | 39.8 | 44.7 | 48.3 | 49.2 | 50.3 | 51.6 | 53.2 | 55.1 | 57.4 | 60.0 | 62.7 | 65.7 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 6.6 | 7.3 | 11.0 | 9.6 | 7.4 | 7.7 | 8.0 | 8.3 | 8.8 | 9.4 | 9.9 | 10.4 | 11.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -1.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 7.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public debt | % of GDP |  | 48.4 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 133" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 133">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -2.2 | -2.7 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 3.0 | 2.1 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### C1-T Structural break in trend
+
+- **C1-T, Structural break in trend**: The OECD projects GDP growth to rebound to 3.1% in 2025 and 2.8% in 2026, significantly above the potential growth rates of 3.0% and 2.6% respectively, indicating a closing of the negative output gap from 2023. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 28" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 28">ⓘ</button>
+- **C1-T, Structural break in trend**: The [European Commission](../institutions/european-commission.qmd) notes that real gross domestic product (GDP) growth picked up to 3.0% in 2024 and 2.9% in 2025, supported by wage growth and private consumption rebound. Growth is forecast at 3.0% in 2026 but declining to 2.1% in 2027 due to large base effects and the decline of the pension reform impact. Geopolitical risks and trade tensions weigh on growth. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 3">ⓘ</button>
+- **C1-T, structural break**: Real GDP is projected to grow by 3.0% in 2026 and 2.1% in 2027. Private consumption is the main driver. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, Inherited competitiveness gap**: Strong wage growth has eroded cost competitiveness. Relative unit labour costs in the tradable sector have increased significantly since 2019. While still lower than in Germany, the differential has narrowed from 40% pre-pandemic to 20% in mid-2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 25" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 25">ⓘ</button>
+- **C1-A2, Inherited competitiveness gap**: Exports of goods declined in 2023, partly due to deteriorating competitiveness, particularly in agricultural and chemical products. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 26" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 26">ⓘ</button>
+- **C1-A2, Inherited competitiveness gap**: Unit labour costs per hour rose sharply by 14.9% in 2022 and 12.2% in 2023 due to double-digit wage growth and inflation. Increases were more moderate in 2024 (5.6%) and 2025 (6.1%). This resulted in a significant increase in real effective exchange rates between 2020 and 2024, implying risks to cost competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 10" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 10">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 95" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 95">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: Labour productivity growth stagnated recently, with a dip in 2022 (-2.7%) and 2023 (-1.6%), resuming at 0.3% in 2024 and recovering to 2.9% in 2025. Productivity remains below the European Union (EU) average at 70.4% in 2024. Sustaining convergence requires a shift to higher value-added activities. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 10" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 10">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 95" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 95">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### C2-T Projections stale
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### C2-A Imperfect indexation
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### C2-M Labour-cost versus consumer-price differential
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### Other inflation context
+
+- **[Inflation Differential](../parameters/inflation-differential.qmd)**: Harmonised index of consumer prices (HICP) inflation increased significantly to 3.4% in 2025 and is projected to rise further to 4.4% in 2026, driven by fuel and service prices, before slowing to 2.7% in 2027. Projections account for rising fuel and service prices, linked to geopolitical conflicts (Middle East) and domestic demand. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 3">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### C3-T History lags policy
+
+- **C3-T, History lags policy**: The fiscal stance is expected to become more accommodative in 2025–2026, with the general government balance worsening to -2.6% of GDP in 2025 and -2.9% in 2026, driven by pension benefit increases and public wage growth. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 36" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 36">ⓘ</button>
+- **C3-T, History lags policy**: An additional fiscal space of 3 percentage points of GDP per year is needed by 2028 to finance ageing-related costs without increasing debt sustainably. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 38" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 38">ⓘ</button>
+- **C3-T, History lags policy**: Defence spending was increased to 3% of GDP in the 2025 budget, with plans to raise it to 5–6% of GDP annually over 2026–2030, requiring additional fiscal space. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 38" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 38">ⓘ</button>
+- **C3-T, History lags policy**: The general government deficit rose from 1.3% of gross domestic product (GDP) in 2024 to 1.8% in 2025, projected to reach 2.2% in 2026 and 2.7% in 2027. This is driven by increases in national investments, social spending, and interest expenditure. The [Council of the EU](../institutions/council-of-the-eu.qmd) activated the national escape clause for defence spending, allowing budgetary flexibility. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 39">ⓘ</button>
+- **C3\*, context**: The structural primary balance is projected at -1.3% of GDP on average for 2026-2035. The fiscal consolidation space is 68% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is projected to increase to 2.2% in 2026 and 2.7% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 132">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### Other fiscal context
+
+- **C3\*, context**: Public debt is projected to increase from 38.0% of GDP in 2024 to 48.4% in 2027. Defence expenditure is steadily increasing, reaching 2.7% of GDP in 2025 and forecast to rise to 3.5% in 2027. Tax reforms adopted in 2026 aim to broaden the tax base, but revenue from recurrent property and environmental taxes remains among the lowest in the EU. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 42" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 42">ⓘ</button>
+- **[Fiscal Capacity](../parameters/fiscal-capacity.qmd)**: Fiscal projections incorporate the national escape clause for defence spending and tax reforms. The primary balance is implied by the general government balance and interest expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 39">ⓘ</button>
+- **C3\*, context**: The European Commission projects a structural primary deficit of 1.3% of GDP as of 2026. This is low compared with past fiscal performance. Ageing-related expenditure is projected to increase. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 192" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 192">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to medium risk, requiring a 5.1 percentage point improvement. The S1 indicator points to medium risk, requiring a 4.0 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 193" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 193">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: Public debt is expected to increase to 48.4% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 133" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 133">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1\*, context**: General government gross debt was 38.5% of GDP in 2023, projected to rise to 43.4% by 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button>
+- **R1\*, context**: Gross financial liabilities stood at 38.5% of GDP in 2023, with net financial liabilities at 8.9% of GDP. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 8" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 8">ⓘ</button>
+- **R1-A, Part of the debt not exposed to the market**: Lithuanian firms rely heavily on internal funding (51% of small and medium-sized enterprises (SMEs) in 2025 vs 28% European Union (EU) average) and private equity due to underdeveloped capital markets. The market capitalisation of the Nasdaq Vilnius Stock Exchange is extremely small at 6.2% of GDP. Bank loans to GDP are among the lowest in the euro area at 36.1% (end-2024) or 37.8% (Q3 2025). <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 13">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 61" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 61">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 66" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 66">ⓘ</button>
+- **R1\*, context**: The banking sector is highly concentrated, with the top five institutions representing over 90% of the market. Banks convert a smaller proportion of deposits into loans compared to peers due to risk aversion. Credit growth recovered in 2024-2025, with annual credit growth for non-financial corporations reaching 19.5% in November 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 13">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 65" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 65">ⓘ</button>
+- **[Refinancing Need](../parameters/refinancing-need.qmd)**: Refinancing needs are influenced by rising public debt and defence spending. Domestic bank lending and capital market depth are key constraints on financing behaviour. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 61" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 61">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 66" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 66">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 7.3% of GDP in 2025. Debt is projected to increase to 65.7% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected to remain low, at around 10% of GDP over 2026-2027, reaching around 11% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 192" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 192">ⓘ</button>
+- **R1-A, context**: A relatively large share of public debt is held by non-residents. Risk-mitigating factors include the low share of short-term debt and full euro denomination. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 193" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 193">ⓘ</button>
+
+#### Other refinancing context
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### Other haircut context
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+#### R6-A Bright lines versus real eligibility
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+### Bank–sovereign nexus and captive creditors
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+### Willingness to pay and political stability
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+### National institutions
+
+- **[No evidence in the sources yet.]{.no-evidence}**
+
+## Market Signals
+
+- **Factor decoupling**: No specific evidence on bond spreads decoupling from risk appetite is provided. However, the shallow capital markets and reliance on internal funding suggest limited market depth for sovereign and corporate debt. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 13">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 62" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 62">ⓘ</button>
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 7 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 194">ⓘ</button>
+
+## Outlook Material
+
+- **Outlook Factors, fiscal framework**: The OECD recommends streamlining Lithuania’s fiscal framework, which includes a structural surplus rule and an expenditure growth-limiting rule, aligning it with new EU fiscal rules that focus on net expenditure and a debt anchor. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 40" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 40">ⓘ</button>
+- **Demographics**: The working-age population is forecast to start shrinking in 2026, declining by 18% by 2040. Migration flows have declined, and the fertility rate is low (1.11 children per woman in 2024). This exacerbates labour shortages and pressures on public services and pensions. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 7">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 22" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 22">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 96" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 96">ⓘ</button>
+- **Demographics**: Lithuania faces a major demographic shock, with the working-age population projected to decline by 30% by 2050. The old-age dependency ratio is expected to exceed 50% by 2050. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 16" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 16">ⓘ</button>
+- **Migration**: Recent reversal in net migration, driven by Ukrainian refugees and return migration, could mitigate labour shortages. Simulations suggest extending the recent net migration trend would reduce the projected fall in production by half. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 97" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 97">ⓘ</button>
+- **Health**: Low life expectancy, particularly for men, and high old-age poverty limit the scope for further retirement age increases. Healthcare spending is low but projected to increase modestly, with high out-of-pocket payments. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 107" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 107">ⓘ</button>
+- **Energy security**: Lithuania synchronised with the Continental European Synchronous Area in February 2025, increasing energy independence. However, it remains dependent on electricity imports (30.7% in 2025), exposing it to external price fluctuations. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 6">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 16" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 16">ⓘ</button>
+- **Pension reform**: The 2026 pension reform allowing opt-outs and withdrawals from private pension funds is expected to reduce pension fund assets under management by approximately 41% and decrease participation rates by 38% in the first quarter of 2026. This reduces the pool of patient capital for domestic investment and may undermine future pension adequacy. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 13">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 64" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 64">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

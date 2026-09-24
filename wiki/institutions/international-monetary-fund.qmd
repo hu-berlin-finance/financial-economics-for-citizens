@@ -1,0 +1,93 @@
+---
+title: "International Monetary Fund"
+summary: "The International Monetary Fund supplies core macroeconomic and fiscal data for the minimal rating process. Its World Economic Outlook is the primary data source for Growth (C1), Inflation Differential (C2), Fiscal …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+The [International Monetary Fund](../institutions/international-monetary-fund.qmd) supplies core macroeconomic and fiscal data for the minimal rating process. Its *World Economic Outlook* is the primary data source for [Growth](../parameters/growth.qmd) (C1), [Inflation Differential](../parameters/inflation-differential.qmd) (C2), [Fiscal Capacity](../parameters/fiscal-capacity.qmd) (C3), and [Refinancing Need](../parameters/refinancing-need.qmd) (R1) parameters. The *Fiscal Monitor* provides additional coverage of primary balances (C3). Article IV reports offer a cross-check for gross financing needs (R1). Additionally, loans issued under IMF programs count as off-market financing (R1-A*), reducing the market-exposed portion of sovereign debt.
+
+## Evidence by Country
+
+### [Austria](../countries/austria.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited regarding tax wedge disincentives that discourage workers from transitioning from part-time to full-time employment. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 18" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 18">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is referenced for assessments on financial literacy. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 103" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 103">ⓘ</button>
+
+### [Bulgaria](../countries/bulgaria.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) provides external analyses on spending efficiency. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 45, p. 57" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 45, p. 57">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) provides external analyses on public investment gaps. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 45, p. 57" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 45, p. 57">ⓘ</button>
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- Staff from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) participated in post-programme surveillance meetings. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+
+### [Finland](../countries/finland.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited for assessments on tax policy shifts toward consumption taxes. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 39">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited for the need for further access to risk capital for innovative firms. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 46" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 46">ⓘ</button>
+
+### [France](../countries/france.qmd)
+
+- Stress tests conducted under the [International Monetary Fund](../institutions/international-monetary-fund.qmd)’s 2025 Financial Sector Assessment Program indicate that French banks and insurance companies would remain resilient under severe adverse scenarios. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 19" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 19">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) published a 2025 paper on improving resource allocation to boost growth in [Greece](../countries/greece.qmd). <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5, p. 56-57" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5, p. 56-57">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) advocates for optimizing regulatory frameworks. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5, p. 56-57" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5, p. 56-57">ⓘ</button>
+- Staff from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) participated in post-programme surveillance meetings. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+- The document references [International Monetary Fund](../institutions/international-monetary-fund.qmd) analyses, which broadly align with the [OECD](../institutions/oecd.qmd)’s debt sustainability simulations. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 36" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 36">ⓘ</button>
+- The government repaid all borrowings from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) in April 2022. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button>
+
+### [Ireland](../countries/ireland.qmd)
+
+- Staff from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) participated in post-programme surveillance meetings. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+- The survey cites [International Monetary Fund](../institutions/international-monetary-fund.qmd) Article IV consultations and selected issues reports regarding Ireland, particularly concerning financial stability risks and non-bank financial institutions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 20" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 20">ⓘ</button>
+
+### [Italy](../countries/italy.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is referenced in selected issues reports regarding drivers of firm-level productivity growth and business dynamism. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 58, p. 62, p. 63" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 58, p. 62, p. 63">ⓘ</button>
+- Data from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited for Financial Soundness Indicators regarding banking system vulnerabilities. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button>
+
+### [Latvia](../countries/latvia.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is referenced regarding financial soundness indicators and stress tests. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 25" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 25">ⓘ</button>
+
+### [Lithuania](../countries/lithuania.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) provides technical assistance to help reduce the shadow economy and VAT gap. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 46, p. 47" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 46, p. 47">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) has advised consolidating research-performing institutions. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 46, p. 47" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 46, p. 47">ⓘ</button>
+
+### [Portugal](../countries/portugal.qmd)
+
+- Staff from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) participated in post-programme surveillance meetings. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd)'s 2024 Article IV Consultation is cited regarding housing market risks and financial stability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 31" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 31">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited for findings on regulatory burdens weighing on housing investment and measures to contain rising mortgage costs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 105, p. 113" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 105, p. 113">ⓘ</button>
+
+### [Slovakia](../countries/slovakia.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) conducted stress tests in 2024, concluding that the Slovak banking sector possesses strong capacity to absorb shocks. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 25" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 25">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd)’s Article IV Consultation Staff Report is cited regarding pension reforms. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 30" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 30">ⓘ</button>
+
+### [Slovenia](../countries/slovenia.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) provided projections on aging-related expenditure and pension reform impacts. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 6, p. 40" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 6, p. 40">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited regarding the assessment of active labour market policies and the fiscal impact of pension reforms. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 21" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 21">ⓘ</button>
+
+### [Spain](../countries/spain.qmd)
+
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) is cited for analysis of venture capital constraints and VAT reform potential. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 4, p. 45" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 4, p. 45">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) points to insufficient market size and lack of access to equity financing for young firms. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 4, p. 45" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 4, p. 45">ⓘ</button>
+- The [International Monetary Fund](../institutions/international-monetary-fund.qmd) highlights insufficient market size and lack of access to equity financing as key factors limiting the scaling up of young firms in Spain. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 8">ⓘ</button>
+- The document cites [International Monetary Fund](../institutions/international-monetary-fund.qmd) stress tests indicating the banking sector is well-positioned to withstand shocks. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 34" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 34">ⓘ</button>
+- The document references [International Monetary Fund](../institutions/international-monetary-fund.qmd) Article IV consultations regarding fiscal policy and environmental taxation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 51" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 51">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

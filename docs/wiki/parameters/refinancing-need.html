@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Refinancing Need – Financial Economics for Citizens</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-f27f428f3a862a3040b345f7ae97857e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-26f5639743d988bfe891cbc0f4b9999a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-f27f428f3a862a3040b345f7ae97857e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../styles/wiki.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Financial Economics for Citizens</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../app/index.html"> 
+<span class="menu-text">Rating App</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../wiki/index.html" aria-current="page"> 
+<span class="menu-text">Wiki</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../wiki/parameters/index.html">Parameters</a></li><li class="breadcrumb-item"><a href="../../wiki/parameters/refinancing-need.html">Refinancing Need</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/countries/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Countries</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/austria.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Austria</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/belgium.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Belgium</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/bulgaria.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bulgaria</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/croatia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Croatia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/cyprus.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cyprus</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/estonia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Estonia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/finland.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finland</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/france.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">France</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/germany.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Germany</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/greece.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Greece</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/hungary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Hungary</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/ireland.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ireland</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/italy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Italy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/latvia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Latvia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/lithuania.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lithuania</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/luxembourg.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Luxembourg</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/malta.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Malta</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/netherlands.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Netherlands</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/portugal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Portugal</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/slovakia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Slovakia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/slovenia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Slovenia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/spain.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Spain</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/sweden.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sweden</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/parameters/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Parameters</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/growth.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Growth</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/inflation-differential.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inflation Differential</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/fiscal-capacity.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fiscal Capacity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/refinancing-need.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Refinancing Need</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/haircut.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Haircut</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/backstop-eligibility.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Backstop Eligibility</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/outlook-factors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Outlook Factors</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/document-types/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Document Types</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/country-report.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Country Report</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/country-specific-recommendations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Country-Specific Recommendations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/debt-sustainability-monitor.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Debt Sustainability Monitor</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/economic-forecast.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Economic Forecast</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/economic-survey.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Economic Survey</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/post-programme-surveillance-report.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Post-Programme Surveillance Report</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/institutions/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Institutions</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/council-of-the-eu.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Council of the EU</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/eurogroup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eurogroup</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-central-bank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Central Bank</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-commission.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Commission</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-fiscal-board.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Fiscal Board</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-investment-bank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Investment Bank</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-investment-fund.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Investment Fund</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-stability-mechanism.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Stability Mechanism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/eurostat.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eurostat</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/international-monetary-fund.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">International Monetary Fund</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/oecd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">OECD</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/world-bank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">World Bank</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#in-the-mrp" id="toc-in-the-mrp" class="nav-link active" data-scroll-target="#in-the-mrp">In the MRP</a></li>
+  <li><a href="#in-the-dap" id="toc-in-the-dap" class="nav-link" data-scroll-target="#in-the-dap">In the DAP</a></li>
+  <li><a href="#methods-by-document-type" id="toc-methods-by-document-type" class="nav-link" data-scroll-target="#methods-by-document-type">Methods by Document Type</a>
+  <ul class="collapse">
+  <li><a href="#country-report" id="toc-country-report" class="nav-link" data-scroll-target="#country-report">Country Report</a></li>
+  <li><a href="#country-specific-recommendations" id="toc-country-specific-recommendations" class="nav-link" data-scroll-target="#country-specific-recommendations">Country-Specific Recommendations</a></li>
+  <li><a href="#post-programme-surveillance-report" id="toc-post-programme-surveillance-report" class="nav-link" data-scroll-target="#post-programme-surveillance-report">Post-Programme Surveillance Report</a></li>
+  <li><a href="#economic-survey" id="toc-economic-survey" class="nav-link" data-scroll-target="#economic-survey">Economic Survey</a></li>
+  </ul></li>
+  <li><a href="#institutions-and-data-sources" id="toc-institutions-and-data-sources" class="nav-link" data-scroll-target="#institutions-and-data-sources">Institutions and Data Sources</a></li>
+  <li><a href="#country-overview" id="toc-country-overview" class="nav-link" data-scroll-target="#country-overview">Country Overview</a></li>
+  <li><a href="#sources-and-licenses" id="toc-sources-and-licenses" class="nav-link" data-scroll-target="#sources-and-licenses">Sources and Licenses</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../wiki/parameters/index.html">Parameters</a></li><li class="breadcrumb-item"><a href="../../wiki/parameters/refinancing-need.html">Refinancing Need</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">Refinancing Need</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">September 23, 2026</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="in-the-mrp" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-mrp">In the MRP</h2>
+<p>The parameter <span class="math inline">\(n_t\)</span> measures the gross financing need as a share of gross domestic product. It is calculated as the sum of long-term debt divided by its weighted average maturity, short-term debt, and the headline deficit. The data comes from the <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> World Economic Outlook, <a href="../../wiki/institutions/eurostat.html">Eurostat</a>, and national debt management offices. Analysts cross-check this value against the gross financing need published in <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> Article IV reports or the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s <a href="../../wiki/document-types/debt-sustainability-monitor.html">Debt Sustainability Monitor</a>. This variable acts as the model’s state variable. It is compared with the edges of the fragile band to classify the country as safe, fragile, or distressed.</p>
+</section>
+<section id="in-the-dap" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-dap">In the DAP</h2>
+<p>The discretionary adjustments process for refinancing need covers task R1*. It addresses three issues. R1-E checks for missing or distorted components. Red flags include unavailable maturity or bill data, with the OECD Global Debt Report serving as a fallback. It also flags debt growing faster than deficits explain by more than one percent of gross domestic product per year, and contingent liabilities migrating onto the sovereign. R1-T checks for shifts in financing behavior. Red flags include a rising share of bills or a lower maturity target, and changes in or depletion of the treasury cash buffer. The anchored corner is <span class="math inline">\(n_t\)</span> net of the cash buffer. R1-A checks for debt not exposed to the market. Red flags include official loans, program financing, and captive holdings. The anchored corner is the market-held refinancing need. A parameter move changes values under the standard definition, never the definition itself.</p>
+</section>
+<section id="methods-by-document-type" class="level2">
+<h2 class="anchored" data-anchor-id="methods-by-document-type">Methods by Document Type</h2>
+<section id="country-report" class="level3">
+<h3 class="anchored" data-anchor-id="country-report"><a href="../../wiki/document-types/country-report.html">Country Report</a></h3>
+<ul>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> assesses debt sustainability using debt-to-gross domestic product ratios and public investment levels. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 42">ⓘ</button></li>
+<li>The document reports general government debt stocks and deficits, as well as tax arrears and shadow economy estimates, which impact long-term fiscal sustainability and refinancing risks. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6, p. 15" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6, p. 15">ⓘ</button></li>
+<li>The document does not explicitly detail gross financing needs as a single figure. However, it notes that the rise in debt and deficit implies increasing rollover needs, though the debt stock remains very low. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button></li>
+<li>Debt sustainability is analyzed based on the projected decline in the debt-to-gross domestic product ratio. The report highlights the role of primary surpluses and gross domestic product growth in reducing debt. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button></li>
+<li>Debt sustainability is monitored via the <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring Forecast, which projects gross debt trajectories and analyses structural primary balances. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 37">ⓘ</button></li>
+<li>The report details the composition of public debt and financing needs, including the impact of high interest payments and the use of European Union loans for defence. It does not explicitly compute gross financing needs but provides the underlying debt and deficit figures. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button></li>
+<li>The document notes that public investment is expected to increase significantly due to defence equipment purchases, raising total public investment above 5 percent of gross domestic product. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 32" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 32">ⓘ</button></li>
+<li>The MRP inputs for refinancing need are derived from the projected general government debt stock, interest expenditure, and primary balance. The document provides explicit projections for debt-to-gross domestic product and interest payments. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button></li>
+<li>Debt and deficit figures are sourced from the Commission Spring 2026 Forecast and national accounts. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, p. 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, p. 40">ⓘ</button></li>
+<li>The document provides general government gross debt as a percentage of gross domestic product, with projections for 2026 and 2027. It details the composition of debt reduction, attributing it to primary surpluses and nominal growth. It also reports on non-performing loan stocks held by banks and credit servicers, linking them to the financial sector’s health and sovereign exposure. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 6, p. 38-39, p. 61-62" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 6, p. 38-39, p. 61-62">ⓘ</button></li>
+<li>The document details the debt stock, including holdings by insurers and pension funds, and discusses the cost of servicing public debt. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 5, p. 76" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 5, p. 76">ⓘ</button></li>
+<li>The document reports general government debt-to-gross domestic product ratios and gross financing needs are implicit in the deficit and debt figures. It notes the activation of the national escape clause. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button></li>
+<li>Debt sustainability analysis is based on the Commission’s Spring 2026 Forecast. The report notes significant stock-flow adjustments affecting the debt trajectory. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 31" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 31">ⓘ</button></li>
+<li>Refinancing needs are influenced by rising public debt and defence spending. Domestic bank lending and capital market depth are key constraints on financing behavior. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 61, p. 66" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 61, p. 66">ⓘ</button></li>
+<li>Debt stock and composition are discussed in Annex 2, referencing general government debt-to-gross domestic product ratios and projections. Specific details on maturity profiles or short-term debt shares are not extensively detailed in the main summary but are noted as part of the debt sustainability framework. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 37">ⓘ</button></li>
+<li>The report provides gross and net general government debt figures, household debt ratios, and information on contingent liabilities related to energy companies. It discusses the structure of public debt and financing needs. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button></li>
+<li>The document reports gross general government debt levels. It does not provide detailed maturity profiles or gross financing need figures, but the low debt level suggests manageable refinancing needs under normal market conditions. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 35">ⓘ</button></li>
+<li>Debt sustainability analysis incorporates the trajectory of public debt reduction and the role of EU-funded investment in shaping future financing needs. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5, p. 41" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5, p. 41">ⓘ</button></li>
+<li>Debt projections are based on primary balance developments, interest rates, and stock-flow adjustments including public investment. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39">ⓘ</button></li>
+<li>The report addresses the current account deficit and government debt dynamics, noting the persistent deficits and rising debt levels. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3, p. 5" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3, p. 5">ⓘ</button></li>
+<li>Debt sustainability is assessed through the evolution of the debt-to-gross domestic product ratio, public investment levels, and stock-flow adjustments. The document does not provide explicit gross financing need figures but implies manageable refinancing conditions given the declining debt ratio and ECB support. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35">ⓘ</button></li>
+</ul>
+</section>
+<section id="country-specific-recommendations" class="level3">
+<h3 class="anchored" data-anchor-id="country-specific-recommendations"><a href="../../wiki/document-types/country-specific-recommendations.html">Country-Specific Recommendations</a></h3>
+<ul>
+<li>The document cites general government debt and deficit figures from <a href="../../wiki/institutions/eurostat.html">Eurostat</a> and projections from the <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring 2026 Forecast. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button></li>
+<li>The document cites general government debt and deficit figures from <a href="../../wiki/institutions/eurostat.html">Eurostat</a> and projections from the <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring 2026 Forecast. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button></li>
+<li>The document cites general government debt and deficit figures from <a href="../../wiki/institutions/eurostat.html">Eurostat</a> and projections from the <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring 2026 Forecast. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button></li>
+<li>Debt projections are based on the assumption that nominal gross domestic product continues to grow faster than interest payments and that primary surpluses are maintained. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button></li>
+<li>General government debt increased from 23.8% of GDP at the end of 2024 to 29.9% of GDP at the end of 2025. The Commission Spring 2026 Forecast projects the debt-to-GDP ratio to increase to 32.3% by the end of 2026 and to 35.5% by the end of 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button></li>
+<li>The increase in the debt ratio in 2025 mainly reflects capital injections into the Bulgarian Energy Holding and the Bulgarian Development Bank. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 5">ⓘ</button></li>
+<li>General government debt increased from 23.5% of GDP at the end of 2024 to 24.1% at the end of 2025. It is projected to increase to 26.9% by the end of 2026 and 30.5% by the end of 2027. The increases reflect high deficits and positive stock-flow adjustments in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button></li>
+<li>General government debt decreased from 93.5% of GDP in 2024 to 89.7% of GDP in 2025. The <a href="../../wiki/institutions/european-commission.html">European Commission</a> projects a further decrease to 87.6% in 2026 and 86.0% in 2027. This decline is attributed to persistent primary surpluses and a favorable interest-growth differential. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 4">ⓘ</button></li>
+<li>General government debt increased to 61.4% of GDP at the end of 2025 and is projected to reach 66.9% by the end of 2027. The increase reflects persistent deficits and interest expenditures growing faster than the economy. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button></li>
+<li>General government debt decreased from 66.4% of GDP at the end of 2024 to 65.7% at the end of 2025, projected to decrease to 64.9% in 2026 and 65.1% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button></li>
+<li>General government debt decreased from 101.6% of GDP at the end of 2024 to 100.7% of GDP at the end of 2025. The Commission projects the debt-to-GDP ratio to decrease to 99.6% by the end of 2026 and 98.9% by the end of 2027. The decrease reflects nominal GDP growth outpacing the cost of debt servicing. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 4">ⓘ</button></li>
+</ul>
+</section>
+<section id="post-programme-surveillance-report" class="level3">
+<h3 class="anchored" data-anchor-id="post-programme-surveillance-report"><a href="../../wiki/document-types/post-programme-surveillance-report.html">Post-Programme Surveillance Report</a></h3>
+<ul>
+<li>Debt sustainability and refinancing risks are assessed using data from the Debt Sustainability Monitor 2025 and national debt management offices. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5, p. 10, p. 14, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5, p. 10, p. 14, p. 18">ⓘ</button></li>
+</ul>
+</section>
+<section id="economic-survey" class="level3">
+<h3 class="anchored" data-anchor-id="economic-survey"><a href="../../wiki/document-types/economic-survey.html">Economic Survey</a></h3>
+<ul>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> assesses debt sustainability analysis including gross and net debt metrics. It accounts for the composition of debt across federal and regional governments. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 44-45" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 44-45">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> builds the gross financing need from the debt stock, short-term debt, weighted average maturity, and deficit. It cross-checks against published data on government debt and interest payments. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> notes that debt dynamics are currently favourable as expected nominal growth is well above interest rates on government debt. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 53" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 53">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports general government debt according to the Maastricht definition and provides data on non-performing loans and corporate indebtedness. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> analyzes debt trajectories using gross debt data from the <a href="../../wiki/institutions/oecd.html">OECD</a> Economic Outlook database, incorporating assumptions about interest rates, growth, and discretionary fiscal measures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 27" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 27">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> assesses debt metrics including both Maastricht-defined gross debt and broader general government gross debt. It highlights the importance of monitoring contingent liabilities from state-owned enterprises and climate risks. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 25" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 25">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> projects debt based on gross general government debt and Maastricht definition debt. It assesses the long-term trajectory of debt under different policy and demographic scenarios. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> assesses gross general government debt using the Maastricht definition and net debt, noting that interest payments are rising and repayment of crisis-related debt will start in 2028. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> assesses refinancing risks by examining the weighted average maturity of public debt (approx. 19 years) and the share of official lending. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> notes that gross refinancing needs are currently near 25% of GDP and the term structure of outstanding debt is near the euro-area average at close to 8 years. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 38" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 38">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> analyzes debt sustainability under current policies, fiscal reforms, and fiscal plus structural reforms scenarios, projecting debt-to-GNI* ratios up to 2050. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 34" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 34">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports general government gross debt and net financial liabilities. It notes the low level of public debt but projects an increase in the coming years. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> notes that debt sustainability is sensitive to interest rate movements and growth trajectories, projecting general government gross debt (Maastricht) to rise from 46.9% of GDP in 2025 to 50.3% in 2027. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 31" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 31">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> evaluates fiscal sustainability through stylised debt scenarios, projecting debt-to-GDP ratios under different policy assumptions, including pension reforms and defence spending increases. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 31" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 31">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> analyzes the effectiveness of the debt brake using a fiscal reaction function estimated over 1995-2024. It finds that the primary balance became more stabilising in response to debt levels after EU accession negotiations began, but not after the introduction of the debt brake. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 50" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 50">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> assesses gross general government debt using the Maastricht definition. The debt-to-GDP ratio would significantly increase in the 2040s under current policies due to aging costs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 8, p. 46" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 8, p. 46">ⓘ</button></li>
+</ul>
+</section>
+</section>
+<section id="institutions-and-data-sources" class="level2">
+<h2 class="anchored" data-anchor-id="institutions-and-data-sources">Institutions and Data Sources</h2>
+<ul>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the Country Reports and assessed debt sustainability. It activated the national escape clause for defence spending for <a href="../../wiki/countries/croatia.html">Croatia</a>, <a href="../../wiki/countries/bulgaria.html">Bulgaria</a>, <a href="../../wiki/countries/estonia.html">Estonia</a>, and <a href="../../wiki/countries/austria.html">Austria</a>. It monitors the <a href="../../wiki/institutions/european-stability-mechanism.html">European Stability Mechanism</a> loan availability. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 35, p. 42" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 35, p. 42">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 37">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provides data on gross general government debt and deficit statistics cited in the reports. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Activated the national escape clause for defence spending. Made financial assistance available under the Security Action for Europe instrument for <a href="../../wiki/countries/croatia.html">Croatia</a>, <a href="../../wiki/countries/bulgaria.html">Bulgaria</a>, <a href="../../wiki/countries/estonia.html">Estonia</a>, and <a href="../../wiki/countries/cyprus.html">Cyprus</a>. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 5">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 6">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 6">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-stability-mechanism.html">European Stability Mechanism</a></strong>: Referenced in the context of backstop eligibility and compliance with EU fiscal frameworks. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The European Commission assesses the implementation of country-specific recommendations (CSRs) and provides forecasts for economic and fiscal indicators. It evaluates Belgium’s progress in structural reforms and compliance with EU fiscal rules. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 24-29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 24-29">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: The Council of the European Union adopted a recommendation endorsing Belgium’s medium-term fiscal structural plan and a revised recommendation under Article 126(7) TFEU regarding the excessive deficit procedure. It also activated the national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 29">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The European Investment Bank provides funding for various projects in Belgium, including energy efficiency renovations, sustainable transport, and social housing. For instance, Brussels received EUR 475 million from the EIB for electric buses and metro/tram sets. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 72" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 72">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The issuer of the report. It provided the Spring 2026 Economic Forecast, which projects the deficit and debt trajectory. It also assessed the implementation of Country-Specific Recommendations (CSRs) and the degree of compliance with the EU fiscal framework. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5, p. 27-31" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5, p. 27-31">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted recommendations on 21 January 2025 endorsing Finland’s medium-term fiscal-structural plan and on 8 July 2025 activating the national escape clause for defence spending. On 21 January 2026, it adopted a recommendation to correct the excessive deficit, effectively closing the EDP while holding it in abeyance. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4, p. 32, p. 27">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on unemployment rates, educational attainment, and labour market indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 18, p. 101" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 18, p. 101">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Cited for assessments on tax policy shifts towards consumption taxes and the need for further access to risk capital for innovative firms. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 39, p. 46" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 39, p. 46">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: Cited for data on regional transition strategies for eastern border regions, R&amp;D indicators, and productivity analysis. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 7, p. 117, p. 120" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 7, p. 117, p. 120">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The European Commission issued this Country Report as part of the European Semester process. It assesses France’s economic, social, employment, structural, and budgetary policies. The Commission provided forecasts for gross domestic product, deficit, and debt. It also assessed the implementation of Country-Specific Recommendations (CSRs) and the progress of the Recovery and Resilience Plan. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 1, p. 3, p. 40" aria-label="Source: ec/country-reports/France_2026-06-03, p. 1, p. 3, p. 40">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The document references the ECB’s Bank Lending Survey, noting that French banks reported a slight tightening in credit standards for non-financial corporation loans in Q4 2025. It also mentions ECB data on credit growth and pension fund assets. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 79, p. 83" aria-label="Source: ec/country-reports/France_2026-06-03, p. 79, p. 83">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The report utilizes data from Eurostat for various indicators, including gross domestic product, inflation, unemployment, labor productivity, and taxation. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 45, p. 75" aria-label="Source: ec/country-reports/France_2026-06-03, p. 45, p. 75">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The European Investment Bank’s Investment Survey is cited regarding obstacles to business investment in France, such as uncertainty, lack of skilled staff, and energy costs. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 65" aria-label="Source: ec/country-reports/France_2026-06-03, p. 65">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the 2026 Country Report and the accompanying recommendation for a Council recommendation. The Commission assessed the implementation of 2025 Country-Specific Recommendations (CSRs) and projected fiscal and economic indicators using its Spring 2026 Forecast. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 1, p. 33, p. 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 1, p. 33, p. 40">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the recommendation endorsing Germany’s medium-term fiscal-structural plan on 10 October 2025. The Council also activated the National Escape Clause for Germany to facilitate higher defense spending. <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, p. 33, p. 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, p. 33, p. 40">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The issuer of the document. It conducted the in-depth review of <a href="../../wiki/countries/greece.html">Greece</a> under the Macroeconomic Imbalance Procedure. It provides the Spring 2026 Forecast data for gross domestic product, fiscal balances, and debt. It assesses the implementation of country-specific recommendations. It manages the Recovery and Resilience Facility and Cohesion Policy funds supporting <a href="../../wiki/countries/greece.html">Greece</a>. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 1, p. 3, p. 6, p. 36-37, p. 32-35" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 1, p. 3, p. 6, p. 36-37, p. 32-35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: Cited for the 2025 Investment Survey, indicating that 89 percent of Greek firms perceive business regulation as an investment barrier, compared to 69 percent in the European Union average. It also supports investments in <a href="../../wiki/countries/greece.html">Greece</a> through facilities like the One-Stop-Shop. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 12, p. 52-53" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 12, p. 52-53">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provides data on gross domestic product, investment, employment, unemployment, debt, and other economic indicators used throughout the report. It is the source for the investment gap graph and regional indicators. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 2, p. 36-37, p. 118-119" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 2, p. 36-37, p. 118-119">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/world-bank.html">World Bank</a></strong>: Cited for the 2025 Business Ready report for <a href="../../wiki/countries/greece.html">Greece</a>, highlighting low operational efficiency of public services for businesses. It is also referenced regarding environmental permitting efficiency. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5, p. 13, p. 53" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5, p. 13, p. 53">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Cited for a 2025 paper on improving resource allocation to boost growth in <a href="../../wiki/countries/greece.html">Greece</a>, and for advocacy on optimizing regulatory frameworks. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5, p. 56-57" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5, p. 56-57">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The document discusses the European Central Bank’s role in the context of the bank-sovereign nexus and financial stability. It is referenced in the context of the European System of Central Banks’ holdings of government debt (implicitly via Eurosystem data) and the transmission protection instrument (not explicitly detailed but relevant to backstop). The 2025 EU-wide stress test, conducted by the European Banking Authority with <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> input, confirmed the resilience of Greek banks. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 64-65" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 64-65">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: Cited for the 2024 Economic Survey for <a href="../../wiki/countries/greece.html">Greece</a> and the 2025 Regulatory Policy Outlook. It provides data on tax wedges, corporate income tax gaps, and regulatory practices. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 41, p. 44, p. 67-68, p. 94" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 41, p. 44, p. 67-68, p. 94">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the Country Report and the In-Depth Review under the Macroeconomic Imbalance Procedure. The <a href="../../wiki/institutions/european-commission.html">European Commission</a> forecasts fiscal developments and assesses compliance with EU fiscal rules. It also monitors the implementation of the Recovery and Resilience Facility. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 1, p. 5, p. 40, p. 47" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 1, p. 5, p. 40, p. 47">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Referenced in the context of selected issues reports on Italy, particularly regarding drivers of firm-level productivity growth and business dynamism. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 58, p. 62, p. 63" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 58, p. 62, p. 63">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Referenced in the context of financial stability reports and banking sector resilience. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 75" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 75">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The issuer of the report. It provides economic forecasts, debt sustainability assessments, and country-specific recommendations (CSRs). It assesses Latvia’s progress on structural reforms and fiscal compliance. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the Recommendation endorsing Latvia’s medium-term fiscal-structural plan in January 2025. Activated the national escape clause for Latvia in July 2025 to allow increased defence spending. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The author of the report. It issued the 2025 Country-Specific Recommendations (CSRs) addressed to <a href="../../wiki/countries/ireland.html">Ireland</a>, covering areas such as tax base broadening, healthcare cost-effectiveness, and housing supply. It assesses implementation progress as “limited” or “substantial” depending on the area. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 25-30" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 25-30">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted a Recommendation on 10 March 2026 endorsing <a href="../../wiki/countries/ireland.html">Ireland</a>’s revised medium-term fiscal-structural plan for 2026-2030. This provides the binding corrective path under the EU fiscal framework. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 25, p. 31" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 25, p. 31">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The European Commission references European Central Bank data on financial sector indicators, such as non-performing loan ratios and capital adequacy. It also notes the European Central Bank’s role in monitoring financial stability. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 57, p. 58" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 57, p. 58">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The report cites OECD data and assessments on better regulation practices, tax wedges, and productivity. The OECD has published an Economic Survey of <a href="../../wiki/countries/ireland.html">Ireland</a> recommending stronger fiscal frameworks and spending reviews. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 32, p. 35, p. 59" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 32, p. 35, p. 59">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issues the Country Report, provides economic forecasts, and assesses implementation of country-specific recommendations. It highlights fiscal risks, structural weaknesses, and the impact of pension reforms. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 3, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 3, p. 39">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Monetary policy normalisation contributed to easing lending standards and credit growth recovery in 2024-2025. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 13">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The 2025 Investment Survey indicates that 71 percent of firms cited skilled staff availability as a long-term barrier to investment. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Technical assistance is provided to help reduce the shadow economy and VAT gap. The IMF has advised consolidating research-performing institutions. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 46, p. 47" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 46, p. 47">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the recommendation endorsing Lithuania’s medium-term fiscal-structural plan and activated the national escape clause for higher defence expenditure. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 39">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provides data on gross domestic product, inflation, employment, and other macroeconomic indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 10, p. 40" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 10, p. 40">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The issuer of the document, providing the macroeconomic forecasts, assessing compliance with the medium-term fiscal-structural plan, and issuing Country-Specific Recommendations (CSRs). The Commission also monitors the implementation of the Recovery and Resilience Plan and cohesion policy funds. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 1, 5, 9" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 1, 5, 9">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Cited as the source for national accounts data, labor force statistics, and taxation trends. Data on gross domestic product growth, employment, and tax revenues are attributed to Eurostat datasets. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 3, 42" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 3, 42">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Cited in the context of financial stability, investment surveys (SAFE survey), and financial sector indicators such as loan-to-deposit ratios and non-performing loans. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 63" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 63">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: Referenced for assessments on productivity, regulatory burdens, and public finance reviews. The OECD’s Product Market Regulation indicators and economic surveys are used to benchmark <a href="../../wiki/countries/luxembourg.html">Luxembourg</a>’s competitiveness and administrative barriers. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 53" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 53">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: Cited for data on firm access to finance, late payments surveys, and investment needs in circular economy and infrastructure. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 13, 54, 78" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 13, 54, 78">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the Country Report and the accompanying Recommendation for a Council Recommendation. It conducted an in-depth review of the Dutch economy under the Macroeconomic Imbalance Procedure. The Commission also assessed the implementation of Country-Specific Recommendations and monitored the Recovery and Resilience Plan. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 1, 3, 30" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 1, 3, 30">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the Country Report and Spring 2026 Forecast. Assessed the implementation of country-specific recommendations (CSRs). Proposed abrogation of the excessive deficit procedure. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 1, 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 1, 35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted recommendations on <a href="../../wiki/countries/malta.html">Malta</a>’s economic policies and the maximum growth rates of net expenditure. Endorsed the medium-term fiscal structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 29, 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 29, 35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided statistical data on GDP, inflation, employment, debt, and other indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3, 9, 35, 38" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3, 9, 35, 38">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issuer of the Country Report and Country-Specific Recommendations (CSRs). Assesses progress on CSRs, monitors RRF implementation, and provides economic forecasts. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 1-139" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 1-139">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Endorsed <a href="../../wiki/countries/portugal.html">Portugal</a>’s medium-term fiscal-structural plan and activated the national escape clause for defense spending. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5, 34, 41" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5, 34, 41">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: Referenced regarding investment surveys and data on business investment obstacles. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 56-59, 103" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 56-59, 103">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-stability-mechanism.html">European Stability Mechanism</a></strong>: Mentioned in the context of backstop eligibility and institutional framework, though no direct support is cited in this specific report period beyond general eligibility assessments. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 1" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 1">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Referenced in the context of banking sector data, capital markets, and debt securities. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 67-72" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 67-72">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurogroup.html">Eurogroup</a></strong>: Referenced indirectly via EU-level fiscal coordination and the national escape clause mechanism. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the country report and spring 2026 economic forecast. Assessed the implementation of country-specific recommendations and provided technical support for structural reforms. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 1, p. 39" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 1, p. 39">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Activated the ‘national escape clause’ for Slovenia to allow higher defense spending in 2025. Endorsed Slovenia’s medium-term fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 5, p. 39">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Target for inflation is 2%. The ECB’s medium-term target is referenced for inflation context. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on labor market, inflation, and structural indicators. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 21, p. 45" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 21, p. 45">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: Provided data on productivity, taxation, and regulatory barriers. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 13, p. 45, p. 54" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 13, p. 45, p. 54">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Provided projections on aging-related expenditure and pension reform impacts. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 6, p. 40" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 6, p. 40">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The issuer of the report, providing economic forecasts and assessments of Slovakia’s economic and fiscal policies. It issued Country-Specific Recommendations (CSRs) and monitored the implementation of the Recovery and Resilience Plan (RRP). <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 1, p. 3, p. 5" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 1, p. 3, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted recommendations on Slovakia’s fiscal-structural plan and activated the National Escape Clause for defence spending. It also managed the Excessive Deficit Procedure. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 4, p. 41" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 4, p. 41">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided statistical data on GDP, unemployment, inflation, and other indicators used in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 22, p. 32" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 22, p. 32">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the recommendation. Provided the Spring 2026 Forecast projections for GDP, inflation, deficit, and debt. Assessed effective action for the excessive deficit procedure. Adopted the 2026 Alert Mechanism Report. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 2, p. 3, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 2, p. 3, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Endorsed <a href="../../wiki/countries/austria.html">Austria</a>’s national medium-term fiscal-structural plan. Adopted recommendations on euro-area economic policy and human capital. Allowed <a href="../../wiki/countries/austria.html">Austria</a> to deviate from maximum net expenditure growth rates via the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and defence expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the Country Report and Country-Specific Recommendations (CSRs) for 2025, focusing on fiscal sustainability, regulatory simplification, and social policies. It monitors Spain’s compliance with the EU fiscal framework and assesses the implementation of the Recovery and Resilience Plan (RRP). <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 1, 31" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 1, 31">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: Provided data from the 2025 Investment Survey, indicating that business regulation and uncertainty are major obstacles to investment in Spain. It also financed cohesion policy projects supporting competitiveness and sustainability. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 4, 54" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 4, 54">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: Cited for data on skills shortages, productivity, and tax policy. The OECD notes that 66% of Spanish SMEs report difficulties hiring staff with appropriate skills. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3, 44" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3, 44">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Cited for analysis of venture capital constraints and VAT reform potential. The IMF points to insufficient market size and lack of access to equity financing for young firms. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 4, 45" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 4, 45">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provides statistical data on GDP, inflation, unemployment, debt, and regional indicators used throughout the report. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35, 129" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35, 129">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/european-commission.html">European Commission</a> published the 2026 country report for <a href="../../wiki/countries/belgium.html">Belgium</a>, assessed progress on country-specific recommendations, and evaluated the implementation of the Recovery and Resilience Facility. It provided the Spring 2026 Forecast data and assessed effective action under the excessive deficit procedure. It also adopted the 2026 Alert Mechanism Report, which did not identify <a href="../../wiki/countries/belgium.html">Belgium</a> for an in-depth review. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 3, p. 4, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 3, p. 4, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: The Council of the European Union adopted the Recommendation on the economic policy of the euro area and endorsed <a href="../../wiki/countries/belgium.html">Belgium</a>’s national medium-term fiscal-structural plan. It recommended maximum growth rates for net expenditure and allowed <a href="../../wiki/countries/belgium.html">Belgium</a> to deviate from these rates under the national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 3, p. 4" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 3, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: <a href="../../wiki/institutions/eurostat.html">Eurostat</a> provided data on the general government deficit, debt, and expenditure, which form the basis for the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s fiscal assessments. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5, p. 6">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the recommendation, adopted the opinion on <a href="../../wiki/countries/croatia.html">Croatia</a>’s 2026 draft budgetary plan, published the 2026 country report, and produced the Spring 2026 Forecast. The <a href="../../wiki/institutions/european-commission.html">European Commission</a> also calculated deviations from net expenditure ceilings and assessed fiscal stance and debt projections. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 2-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the recommendation for a Council recommendation. Previously endorsed <a href="../../wiki/countries/croatia.html">Croatia</a>’s national medium-term fiscal-structural plan and allowed the activation of the national escape clause for defense spending. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 2-4, 12" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 2-4, 12">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and defense expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Mentioned indirectly in the context of the European Semester and economic governance framework, though specific actions or data from the <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> are not detailed in this text. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 2">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the opinion on <a href="../../wiki/countries/cyprus.html">Cyprus</a>’s 2026 draft budgetary plan, the 2026 Alert Mechanism Report, and the 2026 country report. Published the Spring 2026 Forecast. Proposed the regulation for the European Fund for the 2028-2034 period. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 2">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the Recommendation on the economic policy of the euro area and the Joint Employment Report. Endorsed <a href="../../wiki/countries/cyprus.html">Cyprus</a>’s national medium-term fiscal-structural plan on 21 January 2025, setting net expenditure ceilings. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided the data on general government surplus, debt, and net expenditure for 2024 and 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Adopted the recommendation for a Council Recommendation. Published the 2026 country report for <a href="../../wiki/countries/bulgaria.html">Bulgaria</a>. Adopted a report under Article 126(3) TFEU assessing <a href="../../wiki/countries/bulgaria.html">Bulgaria</a>’s situation vis-à-vis the deficit criterion. Proposed opening an excessive deficit procedure. Published the 2026 Alert Mechanism Report, not identifying <a href="../../wiki/countries/bulgaria.html">Bulgaria</a> for in-depth review. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 2-3, p. 6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 2-3, p. 6">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Recommended maximum growth rates of net expenditure for <a href="../../wiki/countries/bulgaria.html">Bulgaria</a> (6.2% in 2025, 4.9% in 2026, 4.4% in 2027, 4.0% in 2028). Allowed <a href="../../wiki/countries/bulgaria.html">Bulgaria</a> to deviate from these rates under the national escape clause. Adopted a Decision on the existence of an excessive deficit in <a href="../../wiki/countries/bulgaria.html">Bulgaria</a> and a Recommendation to bring the situation to an end. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4-6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4-6">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and defense expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4-5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Mentioned in the context of the European Semester and economic governance framework, but no specific actions or data attributed to the bank in this document. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 2" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 2">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Adopted the recommendation for a Council recommendation. Published the 2026 country report for Estonia. Adopted an opinion on the 2026 draft budgetary plan. Adopted the 2026 Alert Mechanism Report. Published the Competitiveness Compass. Adopted a report under Article 126(3) of the Treaty on the Functioning of the European Union assessing Estonia’s compliance with the deficit criterion. Provided Spring 2026 Forecast projections. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 1-6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 1-6">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and other indicators cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4-5, footnotes 10, 12" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4-5, footnotes 10, 12">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the Recommendation on the economic policy of the euro area. Endorsed Estonia’s national medium-term fiscal-structural plan. Activated the national escape clause for Estonia. The Council is the addressee of the Commission’s recommendation. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 2-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-fund.html">European Investment Fund</a></strong>: Mentioned as a partner in new financing agreements that have expanded access to finance for small and medium-sized enterprises. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 8">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Carried out the post-programme surveillance assessments. Provided the macroeconomic and budgetary projections (Spring 2026 Economic Forecast) and the Debt Sustainability Monitor 2025 assessments. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, p. 5, p. 10, p. 15, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, p. 5, p. 10, p. 15, p. 18">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Staff from the ECB participated in the surveillance missions in liaison with the Commission. The ECB’s discontinuation of purchase programs is noted as a factor for Portugal. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, p. 18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, p. 18">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-stability-mechanism.html">European Stability Mechanism</a></strong>: Staff from the ESM participated in meetings on aspects related to its Early Warning System. Outstanding ESM loans are cited for all four countries. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, p. 10, p. 14-15" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, p. 10, p. 14-15">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Staff from the IMF participated in the meetings for Greece, Cyprus, and Portugal. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the recommendation for the Council Recommendation. It assessed Spain’s progress on previous country-specific recommendations and implementation of the Recovery and Resilience Facility. It projected GDP growth, inflation, deficit, and debt figures in its Spring 2026 Forecast. It identified Spain as not requiring an in-depth review in the 2026 Alert Mechanism Report. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 1-3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 1-3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: The Council adopted the Recommendation on the economic policy of the euro area and the Joint Employment Report. It endorsed Spain’s national medium-term fiscal-structural plan in January 2025. It allowed Spain to deviate from recommended net expenditure growth rates via the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 2-3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Eurostat provided data on general government deficit and debt for 2024 and 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The International Monetary Fund highlighted insufficient market size and lack of access to equity financing as key factors limiting the scaling up of young firms in Spain. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 8">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The Organisation for Economic Co-operation and Development reported that a large share of Spanish firms, notably small and medium-sized enterprises, cite lack of available financing as a considerable long-term barrier to investment. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 8">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The issuer of the document. It published the 2026 country report for <a href="../../wiki/countries/portugal.html">Portugal</a>, adopted an opinion on the 2026 draft budgetary plan, and provided the Spring 2026 Forecast projections used in the assessment. It also adopted the 2026 Alert Mechanism Report, which did not identify <a href="../../wiki/countries/portugal.html">Portugal</a> for an in-depth review. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 2-3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: The recipient of the recommendation. It previously endorsed <a href="../../wiki/countries/portugal.html">Portugal</a>’s fiscal plan and allowed the activation of the national escape clause for defense spending. The document calls for the Council to adopt the recommendation. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 2, 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 2, 3-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government surplus, debt, and defense expenditure cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the recommendation, conducted the in-depth review under Regulation (EU) No 1176/2011, and produced the Spring 2026 Forecast and 2026 Country Report for <a href="../../wiki/countries/slovakia.html">Slovakia</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted recommendations on net expenditure growth rates, endorsed the fiscal-structural plan, and allowed deviation from expenditure limits via the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on government deficit, debt, and defense expenditure used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: Mentioned in the context of financing options for transport infrastructure development. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 11" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 11">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the recommendation for the Council Recommendation. Published the 2026 country report for <a href="../../wiki/countries/slovenia.html">Slovenia</a>. Adopted the Alert Mechanism Report (not identifying <a href="../../wiki/countries/slovenia.html">Slovenia</a> for in-depth review). Adopted an opinion on <a href="../../wiki/countries/slovenia.html">Slovenia</a>’s 2026 draft budgetary plan. Published the Competitiveness Compass. Produced the Spring 2026 Forecast. Adopted a report under Article 126(3) TFEU. Estimated the budgetary cost of additional measures. Calculated net expenditure growth and deviations. Recommended opening of the excessive deficit procedure is deferred <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 1-5" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 1-5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: Adopted the Recommendation on the economic policy of the euro area. Adopted the Recommendation on human capital. Endorsed <a href="../../wiki/countries/slovenia.html">Slovenia</a>’s national medium-term fiscal-structural plan with recommended maximum growth rates of net expenditure. Activated the national escape clause for <a href="../../wiki/countries/slovenia.html">Slovenia</a> allowing deviation from expenditure limits. Adopted the Recommendation allowing <a href="../../wiki/countries/slovenia.html">Slovenia</a> to deviate from expenditure limits <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 2-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on <a href="../../wiki/countries/slovenia.html">Slovenia</a>’s general government deficit, debt, and defence expenditure <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> assesses debt sustainability analysis including gross and net debt metrics. It accounts for the composition of debt across federal and regional governments. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 44-45" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 44-45">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The European Commission opened an excessive deficit procedure for Austria in July 2025. It recommended limiting net expenditure growth and setting a consolidation path to return the deficit below 3% of GDP by 2028. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 48" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 48">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The European Central Bank’s monetary policy normalization has led banks to shift portfolios away from central bank reserves towards government bonds, increasing exposure to sovereign risk. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 39" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 39">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Data on GDP, inflation, and government debt are sourced from Eurostat and national accounts, with revisions noted for 2021–2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 28" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 28">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The European Investment Fund is mentioned as a potential partner in supporting Austria’s venture capital market through public financial institutions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 81" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 81">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The European Commission assessed in June 2025 that Bulgaria fulfils the conditions for euro adoption. The Commission’s 2024 assessments estimated Bulgaria’s VAT gap at 6.3% of VAT Total Tax Liability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 36, 53" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 36, 53">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The European Central Bank provided positive assessments for Bulgaria’s euro adoption. Four Bulgarian banks are classified as significant institutions and have been subject to direct supervision by the ECB since 2020. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 36, 34" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 36, 34">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The OECD Economic Outlook 118 database is the primary source for macroeconomic projections. The OECD estimates that structural reforms could raise GDP per capita by 9% by 2060. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 10, 25" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 10, 25">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/european-commission.html">European Commission</a> is referenced regarding the EU fiscal framework, providing “technical information” for Croatia’s fiscal plan. It is also cited for the 2024 Ageing Report, which projects aging-related expenditure, and for assessments of rule of law and corruption. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 23, p. 90, p. 35" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 23, p. 90, p. 35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> is referenced in the context of climate risk stress tests for commercial banks, which complement domestic supervisory expectations. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 80" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 80">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s assessment and the <a href="../../wiki/institutions/oecd.html">OECD</a>’s projections highlight the need for continued fiscal consolidation to ensure debt sustainability. The <a href="../../wiki/institutions/oecd.html">OECD</a> estimates that ongoing efforts will lower the structural deficit by 0.5% of potential gross domestic product cumulatively over 2025-26 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 31" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 31">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> cut policy rates since June 2024, which has supported private consumption and investment in <a href="../../wiki/countries/finland.html">Finland</a> by lowering borrowing costs <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 20" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 20">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> provides macroeconomic forecasts, debt sustainability simulations, and policy recommendations. It estimates the fiscal impact of reforms and projects long-term debt trajectories using its Long-Term Model <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The <a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a>’s Investment Survey indicates that almost half of Finnish firms view the green transition as an opportunity, the highest share among the 23 surveyed countries <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 93" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 93">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The document references <a href="../../wiki/institutions/european-commission.html">European Commission</a> data and policies, such as the European Union fiscal framework and the European Union’s Restoration Regulation, which impact Finnish fiscal and environmental policy <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 116" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 116">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> started to ease monetary policy in 2024, reducing policy rates from 4% in June 2024 to 2.25% in April 2025. Market inflation expectations over the next 12 months are well-anchored at the ECB’s target of 2% <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 20" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 20">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> references the <a href="../../wiki/institutions/oecd.html">OECD</a> Long-Term Model simulations and <a href="../../wiki/institutions/european-commission.html">European Commission</a> ageing projections to assess debt sustainability and the impact of structural reforms on the primary balance. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 27" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 27">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: <a href="../../wiki/institutions/european-commission.html">European Commission</a> projections are used to estimate the evolution of ageing-related costs in debt sustainability scenarios. Simulations by the <a href="../../wiki/institutions/european-commission.html">European Commission</a> suggest that linking retirement age to life expectancy could reduce public pension expenditure by 1.0 percentage point of GDP by 2070. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 30" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 30">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Stress tests conducted under the <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a>’s 2025 Financial Sector Assessment Program indicate that French banks and insurance companies would remain resilient under severe adverse scenarios. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 19" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 19">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> references the <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> Financial Soundness Indicators for banking data. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 27" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 27">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> references <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> data for household and business leverage. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 28" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 28">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> references the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s Ageing Working Group projections for public health expenditure and long-term care costs. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 49" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 49">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> uses <a href="../../wiki/institutions/eurostat.html">Eurostat</a> data for employment, unemployment, and inflation statistics. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> cites the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s Ageing Report, which projects a decline in ageing-related expenditures in Greece compared to the European average. It also references the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s Digital Economy and Society Index (DESI), noting Greece’s rapid progress in digitalising public services. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 34" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 34">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> notes that Greece’s return to investment grade made its bonds eligible for the <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a>’s standard collateral framework for monetary policy operations. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The document references <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> analyses, which broadly align with the <a href="../../wiki/institutions/oecd.html">OECD</a>’s debt sustainability simulations. It also notes that Greece repaid its <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> loans in April 2022. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 36" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 36">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> uses data from <a href="../../wiki/institutions/eurostat.html">Eurostat</a> for employment rates, unemployment, and other macroeconomic indicators. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 25" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 25">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> cites <a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a> surveys on regulatory burdens and investment obstacles, noting that perceived burdens in Greece remain high. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 96" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 96">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-stability-mechanism.html">European Stability Mechanism</a></strong>: The document mentions that improvements in the banking sector’s resilience, noted by the <a href="../../wiki/institutions/european-stability-mechanism.html">European Stability Mechanism</a>, contributed to Greece’s sovereign credit rating upgrade. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 21" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 21">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> references the newly adopted EU fiscal rules by the <a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a>, noting that Greece’s projected debt decline ensures compliance with these rules. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> notes that <a href="../../wiki/countries/italy.html">Italy</a>’s MTFSP aligns with commitments under the revised EU fiscal rules approved by the <a href="../../wiki/institutions/european-commission.html">European Commission</a>. Revisions to the NRRP milestones were agreed with the Commission in late 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 31" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 31">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: Data from the <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> is cited for Financial Soundness Indicators regarding banking system vulnerabilities. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/world-bank.html">World Bank</a></strong>: Corruption perceptions and governance indicators are sourced from the <a href="../../wiki/institutions/world-bank.html">World Bank</a> Worldwide Governance Indicators. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 46" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 46">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The <a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a> is mentioned in the context of public guarantee schemes and investment surveys. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 127" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 127">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The survey references the European Commission’s Ageing Report for economic and budgetary projections for EU Member States from 2022 to 2070. It also cites the European Commission’s assessment of the draft Updated National Energy and Climate Plan of Ireland. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 25" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 25">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The survey cites International Monetary Fund Article IV consultations and selected issues reports regarding Ireland, particularly concerning financial stability risks and non-bank financial institutions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 20" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 20">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The OECD cites the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s 2024 Ageing Report for projections of ageing-related expenditure, which indicate a significant increase between 2022 and 2070. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 13" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 13">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/european-commission.html">European Commission</a> assessed <a href="../../wiki/countries/slovenia.html">Slovenia</a>’s 2026 Draft Budgetary Plan as at risk of non-compliance with the EU fiscal framework but noted that deviations were within allowed flexibility margins. The Commission also confirmed the implementation status of the <a href="../../wiki/countries/slovenia.html">Slovenia</a>n Recovery and Resilience Plan. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 30" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 30">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> implemented a policy rate cut in June 2025, leading to decreasing interest rates on loans and deposits in <a href="../../wiki/countries/slovenia.html">Slovenia</a>. The Bank of Slovenia (national central bank) adjusted macroprudential tools, such as increasing the countercyclical capital buffer. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 25" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 25">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> is cited regarding the assessment of active labour market policies and the fiscal impact of pension reforms. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 21" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 21">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The document references the EU Recovery and Resilience Plan (RRP) funds, which have supported investment and growth. The European Commission has endorsed Spain’s medium-term fiscal plan. The document also notes the alignment of national fiscal rules with the new EU fiscal framework overseen by the Commission <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 45" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 45">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The Bank of Spain has introduced a countercyclical capital buffer (CCyB) of 0.5%, increasing to 1%, aligning with European Central Bank guidance on climate risk and financial stability. The ECB’s projections on the impact of RRP funds on potential growth are cited <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30, p. 35">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The document cites IMF stress tests indicating the banking sector is well-positioned to withstand shocks. It also references IMF Article IV consultations regarding fiscal policy and environmental taxation <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 34, p. 51" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 34, p. 51">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The document mentions the European Investment Bank’s role in supporting infrastructure and green transition projects, although specific financial flows are not detailed in the extracted figures <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/world-bank.html">World Bank</a></strong>: The World Bank’s Worldwide Governance Indicators are cited in the context of corruption and public procurement challenges in Spain <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 54" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 54">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The European Commission notified a reversal of a milestone in April 2024 regarding the approval of national expenditure ceilings under the EU Recovery and Resilience Plan. The Commission also issued Country-Specific Recommendations in 2025, highlighting weaknesses in investment planning and transparency <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 48, 88" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 48, 88">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: The European Investment Bank (EIB) Investment Survey data are cited to show that lack of skilled staff is a pressing obstacle for investment in Slovakia. The EIB also notes that few companies report financing constraints as a major obstacle to investment <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 82, 90" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 82, 90">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a></strong>: The International Monetary Fund (IMF) conducted stress tests in 2024, concluding that the Slovak banking sector possesses strong capacity to absorb shocks. The IMF’s Article IV Consultation Staff Report is also cited regarding pension reforms <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 25, 30" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 25, 30">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Eurostat data are used to track AI adoption among enterprises, showing that 18% of Slovak enterprises used AI in 2025. Eurostat also provides data on energy prices and electricity trading <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 109, 134, 137" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 109, 134, 137">ⓘ</button></li>
+</ul>
+</section>
+<section id="country-overview" class="level2">
+<h2 class="anchored" data-anchor-id="country-overview">Country Overview</h2>
+<div class="table-scroll">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Country</th>
+<th>Latest figures</th>
+<th>Red flags with reported evidence</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../../wiki/countries/croatia.html">Croatia</a></td>
+<td>Gross general government debt 2024: 57.4; 2025: 56.7; 2026: 56.4; 2027: 56.8% of GDP. Ten-year bond yield 2024: 3.3; 2025: 3.0; 2026: 3.1; 2027: 3.2%.</td>
+<td>R1-E: Debt continued to decline below 60% of GDP, driven by robust growth. Net financial debt stood at 31.0% of GDP. R1-A: Contingent liabilities from state-owned enterprises (assets worth 45% of GDP in 2021) are assessed.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 10, p. 20, p. 25, p. 7" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 10, p. 20, p. 25, p. 7">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/bulgaria.html">Bulgaria</a></td>
+<td>General government gross debt 2024: 34.1%; 2026f: 37.4% of GDP. Debt (Maastricht) 2024: 25.4%; 2026f: 28.6% of GDP</td>
+<td>R1-T: Financing behavior shifts. Long-term government interest rates have largely tracked those in the euro area. Spreads have increased recently following a long period of near-zero rates, reflecting increased perceived risk related to political instability and low market liquidity.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 39, p. 38" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 39, p. 38">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/estonia.html">Estonia</a></td>
+<td>General government debt (Maastricht) 2023: 20.2; 2024: 23.5; 2025: 24.1; 2026: 27.6; 2027: 31.3% of GDP. Defence expenditure 2025: 3.4; 2026: &gt;5.0% of GDP.</td>
+<td>R1-A: Part of debt not exposed to the market. Council agreed to make available a loan of up to EUR 2.3 billion under the Security Action for Europe instrument. Debt increases reflect high deficits and positive stock-flow adjustments. R1-T: Fiscal policy turned countercyclical in 2026, with the budget deficit widening to 4.3% of GDP in 2026 and 4.7% in 2027.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10, p. 32, p. 12" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10, p. 32, p. 12">ⓘ</button> <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5, p. 6" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5, p. 6">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/cyprus.html">Cyprus</a></td>
+<td>General government debt 2025: 55.0%; 2027: 45.5% of GDP</td>
+<td>R1-A: Part of debt not exposed to the market. Applied for specialized loans under the EU SAFE instrument for defense spending (up to EUR 1.2 billion). Gross financing needs 2026: 1.6 billion EUR.</td>
+<td><button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 4, p. 7" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 4, p. 7">ⓘ</button> <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/austria.html">Austria</a></td>
+<td>General government gross debt 2024: 80.0%; 2027f: 85.7% of GDP. Interest payments 2024: 1.5% of GDP</td>
+<td>R1-E: Components missing or distorted. Stock-flow adjustments and interest payments are key drivers. Non-performing loans in the banking sector rose to 3.0% of total loans in 2024, driven by commercial real estate exposures. R1-T: Financing behavior shifts. Around one-third of new corporate loans in 2024 went to construction and real estate.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29, p. 40" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29, p. 40">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/belgium.html">Belgium</a></td>
+<td>General government debt 2025: 107.9%; 2027f: 112.8% of GDP</td>
+<td>R1*: Context. Debt increasing driven by high primary deficit and stock-flow adjustments. Defence expenditure 2025: 1.4%; 2026f: 1.6% of GDP. National escape clause activated.</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5, p. 6">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/finland.html">Finland</a></td>
+<td>General government gross debt 2021: 81.4; 2022: 85.6; 2023: 90.4; 2024: 93.7; 2025: 96.3% of GDP. Maastricht debt 2021: 74.0; 2022: 77.5; 2023: 82.1; 2024: 85.4; 2025: 88.0% of GDP.</td>
+<td>R1-A: Part of debt not exposed to the market. The <a href="../../wiki/institutions/council-of-the-eu.html">Council of the EU</a> has made financial assistance of up to EUR 1 billion available through the Security Action for Europe instrument. Public investment is expected to increase significantly in 2026–2027 due to defence equipment purchases. R1-T: Defense spending has risen rapidly from close to 1.5% to around 2.4% of gross domestic product in 2024 and is targeted to increase to 3% of gross domestic product by 2029.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22, p. 31" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22, p. 31">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5, p. 32, p. 5-6" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5, p. 32, p. 5-6">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/france.html">France</a></td>
+<td>General government gross debt 2022: 109.4; 2023: 112.6; 2024: 115.5; 2025: 118.8; 2026: 120.9% of GDP. Net interest payments 2022: 1.7; 2023: 1.9; 2024: 2.1; 2025: 2.3; 2026: 2.6% of GDP.</td>
+<td>R1-A: Part of debt not exposed to the market. Eurosystem holdings of government debt are relevant for backstop eligibility. Non-resident share and domestic bank holdings are key for haircut assessment.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 25" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 25">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3, p. 40" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3, p. 40">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/germany.html">Germany</a></td>
+<td>General government gross debt (Maastricht) 2023: 62.4; 2024: 63.4; 2025e: 64.6; 2026f: 65.5% of GDP. Net debt 2023: 25.8; 2024: 27.8; 2025e: 30.2% of GDP. Interest expenditure 2024: 1.1% of GDP.</td>
+<td>R1-E: Components missing or distorted. Interest payments rose to 1.1% of GDP in 2024 and are projected to further rise. Repayment of pandemic- and energy-crisis-related debt will start in 2028. R1-T: Financing behavior shifts. The fiscal framework changed significantly in 2025 with the reform of the national debt brake, creating fiscal space for a Special Fund for Infrastructure and Climate Neutrality worth EUR 500 billion.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 26, p. 37" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 26, p. 37">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Germany_2026-06-03, p. 6, p. 40" aria-label="Source: ec/country-reports/Germany_2026-06-03, p. 6, p. 40">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/greece.html">Greece</a></td>
+<td>General government gross debt (Maastricht) 2021: 177.0; 2022: 163.9; 2023: 157.3; 2024f: 152.2; 2025f: 148.1% of GDP. Ten-year bond yield 2024f: 3.1%; 2025f: 3.2%. Weighted average maturity 2024: ~19 years.</td>
+<td>R1-A: Part of the debt not exposed to the market. The structure of public debt is dominated by loans from official institutions. The government repaid all borrowings from the <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> in April 2022. R1*: Refinancing risks are limited in the medium term due to fixed interest rates and euro denomination.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 24, p. 32, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 24, p. 32, p. 11">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/italy.html">Italy</a></td>
+<td>Public debt (Maastricht) 2025 (p): 137.1; 2026 (f): 137.5; 2027 (f): 137.4% of GDP. General government gross debt 2026: 150.9% of GDP.</td>
+<td>R1-E: Components missing or distorted. Gross refinancing needs are currently near 25% of GDP. The term structure of outstanding debt is near the euro-area average at close to 8 years. R1-A: Part of the debt not exposed to the market. Domestic banks hold a relatively large share of government bonds (approx. 25% of bank assets).</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12, p. 38, p. 29, p. 32" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12, p. 38, p. 29, p. 32">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/latvia.html">Latvia</a></td>
+<td>General government gross debt (Maastricht) 2024: 46.2; 2025: 46.9; 2026: 48.1; 2027: 50.3% of GDP. General government gross debt 2026: 58.7; 2027: 61.0% of GDP. Defence spending 2026: 4.7% of GDP.</td>
+<td>R1-A: Contingent fiscal risks exist related to cost increases in the Rail Baltica project and the financial situation of some state-owned enterprises. R1*: Debt sustainability is sensitive to interest rate movements and growth trajectories.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 10, p. 31, p. 17, p. 30" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 10, p. 31, p. 17, p. 30">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/ireland.html">Ireland</a></td>
+<td>General government debt, Maastricht definition 2023: 43.2; 2024: 38.4; 2025: 35.6; 2026: 33.0% of GDP.</td>
+<td>R1-A: Part of the debt not exposed to the market. The government established the Future Ireland Fund and the Infrastructure, Climate and Nature Fund in July 2024 to save part of estimated windfall corporate tax revenues. R1-E: Components missing or distorted. Risks from high share of non-bank lending to small and medium-sized enterprises and commercial real estate sector leverage.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11, p. 37, p. 13, p. 22" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11, p. 37, p. 13, p. 22">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/lithuania.html">Lithuania</a></td>
+<td>Government debt 2024: 38.0%; 2027f: 48.4 % of GDP</td>
+<td>R1-A: Part of the debt not exposed to the market. Lithuanian firms rely heavily on internal funding (51% of SMEs in 2025 vs 28% EU average) and private equity due to underdeveloped capital markets. Bank loans to GDP are among the lowest in the euro area at 36.1% (end-2024) or 37.8% (Q3 2025).</td>
+<td><button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4, p. 39, p. 61, p. 66" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4, p. 39, p. 61, p. 66">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/luxembourg.html">Luxembourg</a></td>
+<td>Gross general government debt 2025: 26.5%; 2027f: 30.2% of GDP</td>
+<td>R1*: Context. Public debt is projected to increase mostly due to budget deficits and stock-flow adjustments. Public investment remained high at 5.0% of GDP in 2025.</td>
+<td><button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 37">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/netherlands.html">Netherlands</a></td>
+<td>General government debt 2025: 44.4; 2027f: 47.0 % of GDP</td>
+<td>R1-T: Financing behavior shifts. Government debt rose mainly reflecting loans to TenneT, the electricity transmission system operator, and EBN, the state energy company.</td>
+<td><button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3, p. 33" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3, p. 33">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/malta.html">Malta</a></td>
+<td>General government gross debt 2023: 49.6; 2027f: 46.2 % of GDP</td>
+<td>R1*: Context. General government gross debt stood at 46.4% of GDP at the end of 2025.</td>
+<td><button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 35">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/portugal.html">Portugal</a></td>
+<td>Gross general government debt 2025: 89.7; 2027f: 86.0 % of GDP</td>
+<td>R1-A: Part of debt not exposed to the market. Outstanding debt to European Financial Stabilisation Mechanism: EUR 19.8 billion; European Financial Stability Facility: EUR 23.0 billion as of April 2026. R1-T: Gross financing needs 2026: EUR 28.4 billion. Treasury cash buffer End-2025: EUR 4.3 billion.</td>
+<td><button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 5, p. 8-10" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 5, p. 8-10">ⓘ</button> <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17-18" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 17-18">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/slovenia.html">Slovenia</a></td>
+<td>General government gross debt (Maastricht) 2023: 68.3; 2024: 66.4; 2025: 65.7; 2026e: 65.6; 2027e: 67.1% of GDP. Net financial debt 2023: 22.2; 2024: 18.9; 2025: 16.4; 2026e: 19.7; 2027e: 21.3% of GDP. Ten-year government bond yield, average 2023: 3.1; 2024: 3.1; 2025: 3.4; 2026e: 3.4; 2027e: 3.4%.</td>
+<td>R1-E: Components missing or distorted. General government gross debt remained elevated at 65.7% of GDP in 2025, above the 60% Maastricht threshold. Net financial debt was 16.4% of GDP in 2025. R1-A: Part of the debt not exposed to the market. The banking sector is well-capitalised and profitable, with non-performing loans stable at 1.6% in late 2025. Household indebtedness is low at 28% of GDP in early 2025, well below the euro area average of 58.5%.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 9, p. 24, p. 27" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 9, p. 24, p. 27">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/slovakia.html">Slovakia</a></td>
+<td>General government debt, Maastricht definition 2023: 59.7; 2024: 61.4; 2025: 62.6; 2026: 64.6% of GDP. General government net debt 2023: 41.8; 2024: 44.3; 2025: 45.5; 2026: 47.6% of GDP. Ten-year government bond yield, average 2023: 3.5; 2024: 3.4; 2025: 3.6; 2026: 3.6; 2027: 3.6%.</td>
+<td>R1*: Context. Public debt (Maastricht definition) rose to 61.4% of GDP in 2024. Without further adjustment, debt-to-GDP could exceed 100% over the next 15 years due to ageing pressures. R1-E: Components missing or distorted. The introduction of a financial transactions tax (FTT) in April 2025 is highlighted as a risk. The FTT imposes a 0.4% tax on corporate bank transactions and 0.8% on cash withdrawals. The OECD argues this is highly distortionary, reduces economic activity, and may increase informality, warranting its abolition.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 10, p. 19, p. 28, p. 73-74" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 10, p. 19, p. 28, p. 73-74">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/spain.html">Spain</a></td>
+<td>General government gross debt (Maastricht) 2024: 101.6; 2025: 99.4; 2026: 97.9; 2027: 97.0% of GDP. Gross financial debt (OECD: 2023): 108.9% of GDP. Net financial debt (OECD: 2023): 77.9% of GDP.</td>
+<td>R1-E: Components missing or distorted. Gross general government debt (Maastricht) was 101.6% of GDP in 2024, declining to a projected 97.0% in 2027. OECD data shows gross financial debt at 108.9% of GDP (2023) and net financial debt at 77.9% of GDP (2023). The debt-to-GDP ratio would significantly increase in the 2040s under current policies due to aging costs. R1-A: Part of the debt not exposed to the market. The housing market shows structural challenges with persistent supply bottlenecks. Mortgage lending remains cautious, with a high share of variable-rate mortgages (about 70% of the stock), exposing households to interest rate volatility.</td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 8, p. 46, p. 36" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12, p. 8, p. 46, p. 36">ⓘ</button></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="sources-and-licenses" class="level2">
+<h2 class="anchored" data-anchor-id="sources-and-licenses">Sources and Licenses</h2>
+<p>Contains material from documents of the European Commission, © European Union, reused under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a> license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.</p>
+<p>Contains material adapted from OECD Economic Surveys, © OECD, licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a> license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.</p>
+<p>This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<div class="source-backdrop" id="source-backdrop" hidden="">
+  <div class="source-dialog" role="dialog" aria-modal="true" aria-labelledby="source-dialog-title">
+    <h4 id="source-dialog-title"><span class="source-icon" aria-hidden="true">ⓘ</span> Source</h4>
+    <dl>
+      <dt>Document</dt>
+      <dd id="source-dialog-document"></dd>
+      <dt>Page</dt>
+      <dd id="source-dialog-page"></dd>
+    </dl>
+    <button type="button" class="source-close" id="source-dialog-close">Close</button>
+  </div>
+</div>
+<script>
+  // Show the source of a statement in a dialog, like the information buttons of the rating app
+  (function () {
+    const backdrop = document.getElementById("source-backdrop");
+    const closeButton = document.getElementById("source-dialog-close");
+    let opener = null;
+
+    const open = (button) => {
+      const source = button.dataset.source;
+      const split = source.lastIndexOf(", p");
+      document.getElementById("source-dialog-document").textContent = split > 0 ? source.slice(0, split) : source;
+      document.getElementById("source-dialog-page").textContent =
+        split > 0 ? source.slice(split + 2).replace(/^pp?\.\s*/, "") : "–";
+      opener = button;
+      backdrop.hidden = false;
+      closeButton.focus();
+    };
+    const close = () => {
+      if (backdrop.hidden) return;
+      backdrop.hidden = true;
+      if (opener) opener.focus();
+    };
+
+    document.addEventListener("click", (event) => {
+      const button = event.target.closest(".source-ref");
+      if (button) open(button);
+    });
+    closeButton.addEventListener("click", close);
+    backdrop.addEventListener("click", (event) => {
+      if (event.target === backdrop) close();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") close();
+    });
+  })();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

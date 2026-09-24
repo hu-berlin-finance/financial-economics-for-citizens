@@ -8,7 +8,7 @@
 main table {
   font-size: 0.85rem;
 }
-main table td:last-child {
+main table:not(.quarto-listing-table) td:last-child {
   white-space: nowrap;
 }
 
@@ -135,9 +135,20 @@ a.entry-card:focus {
   font-weight: 600;
 }
 
-/* Key figures: years as columns, scrollable on small screens */
-.key-figures {
+/* Tables scroll horizontally when wider than the text column; the key figures
+   have years as columns */
+.key-figures,
+.table-scroll {
+  max-width: 100%;
+  min-width: 0;
   overflow-x: auto;
+  margin-bottom: 1rem;
+}
+.key-figures table {
+  margin-bottom: 0.5rem;
+}
+.key-figures caption {
+  text-align: left;
 }
 .key-figures td,
 .key-figures th {

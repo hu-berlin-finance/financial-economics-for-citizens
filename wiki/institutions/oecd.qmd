@@ -1,0 +1,86 @@
+---
+title: "OECD"
+summary: "The Organization for Economic Co-operation and Development supplies data that supports the assessment of Refinancing Need. Specifically, its Global Debt Report serves as the fallback source for estimating average …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+The Organization for Economic Co-operation and Development supplies data that supports the assessment of [Refinancing Need](../parameters/refinancing-need.qmd). Specifically, its Global Debt Report serves as the fallback source for estimating average maturity and bill stocks (R1-E*).
+
+## Evidence by Country
+
+### [Bulgaria](../countries/bulgaria.qmd)
+
+- The report references OECD analysis on education and skills strategies, calculations of the tax wedge, and assessments of regulatory policy. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 26, p. 49, p. 74" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 26, p. 49, p. 74">ⓘ</button>
+- The OECD Economic Outlook 118 database serves as the primary source for macroeconomic projections for Bulgaria. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 10" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 10">ⓘ</button>
+- The report estimates that structural reforms could raise per capita gross domestic product by 9% by 2060. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 25" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 25">ⓘ</button>
+- The report notes that at current growth rates, it would take 28 years for Bulgaria to converge to average OECD income levels. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 25" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 25">ⓘ</button>
+- The report highlights that unit labour costs have tripled since European Union accession, eroding the country's cost advantage. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 117" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 117">ⓘ</button>
+- The report recommends front-loaded fiscal consolidation to narrow the deficit and maintain the current debt ratio. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button>
+- The report estimates that reducing corruption to Visegrad-4 levels would raise per capita gross domestic product by 2.1% in the long run. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 135" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 135">ⓘ</button>
+- The report projects that without policy adjustments, the government debt ratio would rise to 160% by 2060. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 54" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 54">ⓘ</button>
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- The report cites OECD data on tax wedge calculations and better regulation practices. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, pp. 35, 61" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, pp. 35, 61">ⓘ</button>
+
+### [Finland](../countries/finland.qmd)
+
+- The OECD published an [Economic Survey](../document-types/economic-survey.qmd) in May 2025, providing macroeconomic forecasts for [Growth](../parameters/growth.qmd), [Inflation Differential](../parameters/inflation-differential.qmd), [Fiscal Capacity](../parameters/fiscal-capacity.qmd), and [Refinancing Need](../parameters/refinancing-need.qmd). <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11, p. 22">ⓘ</button>
+- The report identifies a fragile recovery in real gross domestic product, projected to grow modestly in 2025 and 2026, lagging behind Nordic peers and the OECD average. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button>
+- The report notes that productivity growth has weakened significantly, attributed to the collapse of Nokia, the end of trade with Russia, and firms remaining too small. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 24" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 24">ⓘ</button>
+- The report highlights downside risks skewed by geopolitical tensions, cyber-attacks, and trade policy uncertainty. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 25" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 25">ⓘ</button>
+- The report states that the general government fiscal balance deteriorated to -4.4% of gross domestic product in 2023 and is projected to improve slightly to -3.7% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button>
+- The report notes that recent tax cuts and increased defense budgets announced in April 2025 threaten to slow fiscal consolidation progress. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 12" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 12">ⓘ</button>
+- The report emphasizes the need for increased spending efficiency, particularly in health and social care, and structural reforms to boost labor market participation. [oecd/economic-surveys/Finland_2025-05-23]
+- The report projects that gross general government debt will rise from 85.6% of gross domestic product in 2023 to 96.3% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button>
+- The report indicates that defense spending has risen rapidly and is targeted to increase to 3% of gross domestic product by 2029, contributing to debt accumulation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 31" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 31">ⓘ</button>
+- The report estimates that without further reforms, public debt would reach 151% of gross domestic product by 2050 in the baseline scenario. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button>
+- The report references the [European Commission](../institutions/european-commission.qmd)'s assessment and OECD projections on the need for continued fiscal consolidation to ensure debt sustainability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 31" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 31">ⓘ</button>
+- The report notes that consumer and business confidence remain subdued, particularly in the construction sector. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 20" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 20">ⓘ</button>
+- The report identifies significant security risks from Russia, including cyber-attacks and infrastructure sabotage, as contributors to economic uncertainty. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 25" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 25">ⓘ</button>
+- The report states that the working-age population is projected to shrink in the 2030s under baseline migration assumptions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button>
+- The OECD uses its Economic Outlook Database for short-term projections and its Long-Term Model for medium- and long-term simulations. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button>
+- The OECD estimates the structural deficit and projects the general government fiscal balance based on policy assumptions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button>
+- The OECD simulations assess the long-term trajectory of debt under different policy and demographic scenarios. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button>
+- The OECD’s Product Market Regulation indicators and economic surveys are used to benchmark Finland's competitiveness and administrative barriers. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 7, p. 117, p. 120" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 7, p. 117, p. 120">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- The report cites the OECD 2024 [Economic Survey](../document-types/economic-survey.qmd) for Greece and the 2025 Regulatory Policy Outlook, providing data on tax wedges, corporate income tax gaps, and regulatory practices. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 41, p. 44, p. 67-68, p. 94" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 41, p. 44, p. 67-68, p. 94">ⓘ</button>
+
+### [Ireland](../countries/ireland.qmd)
+
+- The report cites OECD data and assessments on better regulation practices, tax wedges, and productivity. The OECD has published an [Economic Survey](../document-types/economic-survey.qmd) of Ireland recommending stronger fiscal frameworks and spending reviews. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 32, p. 35, p. 59" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 32, p. 35, p. 59">ⓘ</button>
+
+### [Luxembourg](../countries/luxembourg.qmd)
+
+- The OECD published an [Economic Survey](../document-types/economic-survey.qmd) in April 2025, providing macroeconomic forecasts for [Growth](../parameters/growth.qmd), [Inflation Differential](../parameters/inflation-differential.qmd), [Fiscal Capacity](../parameters/fiscal-capacity.qmd), and [Refinancing Need](../parameters/refinancing-need.qmd). <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button>
+- The report identifies a gradual recovery in real gross domestic product, projected to grow by 2.1% in 2025 and 2.3% in 2026, supported by easing financial conditions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button>
+- The report notes that measured labor productivity has stagnated since 2010, driven by declining multi-factor productivity and slowing capital deepening. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 80-82" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 80-82">ⓘ</button>
+- The report highlights that unit labor costs increased by about 15% since the end of 2021, leading to an appreciation in the unit labor cost-based real effective exchange rate. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 21" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 21">ⓘ</button>
+- The report states that the government budget balance is projected to be -0.0% of gross domestic product in 2025 and -0.1% in 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button>
+- The report notes that gross public debt was 24.9% of gross domestic product in 2023 and is projected to rise slightly to 23.5% in 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button>
+- The report emphasizes the need for comprehensive pension reforms, as the current system is projected to become unsustainable by the late 2040s without changes. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 54" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 54">ⓘ</button>
+- The report projects that gross pension expenditure will rise from 9.4% of gross domestic product in 2024 to 17.5% in 2070 without reform. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 54" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 54">ⓘ</button>
+- The report indicates that net financial debt was -48.2% of gross domestic product in 2023, indicating a strong net creditor position. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 7" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 7">ⓘ</button>
+- The report recommends adopting a national net spending rule to anchor fiscal policy and enhance the mandate of the national fiscal council. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 31, p. 46" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 31, p. 46">ⓘ</button>
+- The OECD’s Product Market Regulation indicators and economic surveys are used to benchmark Luxembourg's competitiveness and administrative barriers. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 53" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 4, 14, 53">ⓘ</button>
+
+### [Slovenia](../countries/slovenia.qmd)
+
+- The OECD provided data on productivity, taxation, and regulatory barriers. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 13, p. 45, p. 54" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 13, p. 45, p. 54">ⓘ</button>
+
+### [Spain](../countries/spain.qmd)
+
+- The report cites OECD data on skills shortages, productivity, and tax policy. The OECD notes that 66% of Spanish small and medium-sized enterprises report difficulties hiring staff with appropriate skills. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 3, p. 44" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 3, p. 44">ⓘ</button>
+- The Organisation for Economic Co-operation and Development reports that lack of available financing is a considerable long-term barrier to investment for Spanish firms, notably small and medium-sized enterprises. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 8">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

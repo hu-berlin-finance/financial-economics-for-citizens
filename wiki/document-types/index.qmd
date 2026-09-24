@@ -1,0 +1,20 @@
+---
+title: "Document Types"
+description: "The types of source documents in the wiki: their use in the rating process, license and attribution, methods, and the documents included."
+listing:
+  type: table
+  contents:
+    - country-report.qmd
+    - country-specific-recommendations.qmd
+    - debt-sustainability-monitor.qmd
+    - economic-forecast.qmd
+    - economic-survey.qmd
+    - post-programme-surveillance-report.qmd
+  sort: false
+  fields: [title, summary]
+  field-display-names:
+    title: "Document Type"
+    summary: "Summary"
+  filter-ui: true
+  sort-ui: false
+---

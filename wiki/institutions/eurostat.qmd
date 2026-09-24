@@ -1,0 +1,130 @@
+---
+title: "Eurostat"
+summary: "Eurostat is the statistical office of the European Union. It supplies essential data for the Minimal Rating Process (MRP) and the Discretionary Adjustments Process (DAP). Eurostat publishes the Harmonised Index of …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+Eurostat is the statistical office of the European Union. It supplies essential data for the Minimal Rating Process (MRP) and the Discretionary Adjustments Process (DAP). Eurostat publishes the Harmonised Index of Consumer Prices (HICP) used for the [Inflation Differential](../parameters/inflation-differential.qmd) (C2). It provides government debt and deficit statistics, including notifications for excessive deficit procedures, which feed into [Fiscal Capacity](../parameters/fiscal-capacity.qmd) (C3) and [Refinancing Need](../parameters/refinancing-need.qmd) (R1), specifically the DAP task R1-E*. Eurostat also publishes unit-labour-cost-based real effective exchange rates, supporting assessments of competitiveness gaps under [Growth](../parameters/growth.qmd) (C1-A2*) and [Inflation Differential](../parameters/inflation-differential.qmd) (C2-M*).
+
+## Evidence by Country
+
+### Euro Area
+
+- [Eurostat](../institutions/eurostat.qmd) data is used for government debt statistics, including the Maastricht definition and non-EDP liabilities, in the [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd). <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 79, p. 81" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 79, p. 81">ⓘ</button>
+
+### [Austria](../countries/austria.qmd)
+
+- Eurostat provided data on Gross Domestic Product (GDP), inflation (HICP), tax revenues, debt, and structural indicators used in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3, p. 43" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3, p. 43">ⓘ</button>
+- Eurostat provided data confirming the general government deficit and debt figures. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button>
+- Data on GDP, inflation, and government debt are sourced from Eurostat and national accounts, with revisions noted for 2021–2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 28" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 28">ⓘ</button>
+
+### [Belgium](../countries/belgium.qmd)
+
+- Eurostat provided data on the general government deficit, debt, and expenditure, which form the basis for the [European Commission](../institutions/european-commission.qmd)'s fiscal assessments. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5, p. 6" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5, p. 6">ⓘ</button>
+
+### [Bulgaria](../countries/bulgaria.qmd)
+
+- Eurostat provided data on general government deficit, debt, and defense expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4-5">ⓘ</button>
+
+### [Croatia](../countries/croatia.qmd)
+
+- Eurostat provided data on GDP, inflation (HICP), population, and employment statistics cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3, p. 21" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3, p. 21">ⓘ</button>
+- Eurostat provided data on general government deficit, debt, and defense expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3-4">ⓘ</button>
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- Eurostat provided data for a wide range of indicators, including GDP, inflation, unemployment, and social statistics. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button>
+- Eurostat provided the data on general government surplus, debt, and net expenditure for 2024 and 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 4">ⓘ</button>
+
+### [Estonia](../countries/estonia.qmd)
+
+- Eurostat provided data on general government deficit, debt, and other indicators cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4-5, footnotes 10, 12" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4-5, footnotes 10, 12">ⓘ</button>
+
+### [Finland](../countries/finland.qmd)
+
+- Eurostat provided data on unemployment rates, educational attainment, and labour market indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 18, p. 101" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 18, p. 101">ⓘ</button>
+- Eurostat provided data on general government deficit, debt, and expenditure used in the assessment. Specifically, data from Eurostat-Euro Indicators dated 22.04.2026 was cited for deficit and debt figures <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button>.
+
+### [France](../countries/france.qmd)
+
+- Eurostat provided data for various indicators, including GDP, inflation, unemployment, labor productivity, and taxation. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 45, p. 75" aria-label="Source: ec/country-reports/France_2026-06-03, p. 45, p. 75">ⓘ</button>
+- Eurostat provided data on general government deficit, debt, and other fiscal indicators used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 5" aria-label="Source: ec/recommendations/France_2026-06-03, p. 5">ⓘ</button>
+
+### [Germany](../countries/germany.qmd)
+
+- Eurostat provided data on general government deficit, debt, and defense expenditure used in the [European Commission](../institutions/european-commission.qmd)'s assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- Eurostat provided data on gross domestic product, investment, employment, unemployment, debt, and other economic indicators used throughout the report. It is the source for the investment gap graph and regional indicators. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 2, p. 36, p. 37, p. 118, p. 119" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 2, p. 36, p. 37, p. 118, p. 119">ⓘ</button>
+- Eurostat provided data on general government balance, debt, and employment indicators used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5–6, 12" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5–6, 12">ⓘ</button>
+- The [OECD](../institutions/oecd.qmd) uses data from [Eurostat](../institutions/eurostat.qmd) for employment rates, unemployment, and other macroeconomic indicators. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 25" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 25">ⓘ</button>
+
+### [Ireland](../countries/ireland.qmd)
+
+- Eurostat provided data on general government balance and debt for [Ireland](../countries/ireland.qmd). <button type="button" class="source-ref" data-source="ec/recommendations/Ireland_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Ireland_2026-06-03, p. 4-5">ⓘ</button>
+
+### [Italy](../countries/italy.qmd)
+
+- Eurostat provided data on general government deficit, debt, and net expenditure growth used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 5">ⓘ</button>
+
+### [Latvia](../countries/latvia.qmd)
+
+- Eurostat provided data on general government deficit, debt, and defense expenditure used in the [European Commission](../institutions/european-commission.qmd)’s assessments. <button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 3-4">ⓘ</button>
+- Eurostat data is used for life expectancy, healthy life years, and unit labor cost comparisons. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 11" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 11">ⓘ</button>
+
+### [Lithuania](../countries/lithuania.qmd)
+
+- Eurostat provided data on GDP, inflation, employment, and other macroeconomic indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 10, p. 40" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 10, p. 40">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) relies on Eurostat data for general government deficit, debt, defence expenditure, and social spending figures. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 3-5" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 3-5">ⓘ</button>
+
+### [Luxembourg](../countries/luxembourg.qmd)
+
+- Eurostat is cited as the source for national accounts data, labor force statistics, and taxation trends. Data on GDP growth, employment, and tax revenues are attributed to Eurostat datasets. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 3, 42" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 3, 42">ⓘ</button>
+- Eurostat provided data on general government balance, debt, defence expenditure, and labour market statistics cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Luxembourg_2026-06-03, p. 3-5" aria-label="Source: ec/recommendations/Luxembourg_2026-06-03, p. 3-5">ⓘ</button>
+
+### [Malta](../countries/malta.qmd)
+
+- Eurostat provided statistical data on GDP, inflation, employment, debt, and other indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3, p. 9, p. 35, p. 38" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3, p. 9, p. 35, p. 38">ⓘ</button>
+- Eurostat provided data on general government deficit, debt, and defence expenditure used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 4">ⓘ</button>
+
+### [Netherlands](../countries/netherlands.qmd)
+
+- Eurostat provided data on the general government deficit, debt, and net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4-5">ⓘ</button>
+
+### [Portugal](../countries/portugal.qmd)
+
+- Eurostat is the source for quarterly data used in stochastic projections, including primary balance, interest rates, and GDP growth. It also provides data on government debt by instrument and maturity. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 273, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 273, p. 291-292">ⓘ</button>
+- Eurostat provided data on general government surplus, debt, and defense expenditure cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button>
+- The [OECD](../institutions/oecd.qmd) uses [Eurostat](../institutions/eurostat.qmd) data for Harmonised Index of Consumer Prices (HICP) inflation, labour force statistics, and contingent liabilities metrics. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 23" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 23">ⓘ</button>
+- [Eurostat](../institutions/eurostat.qmd) provided data on population, labour market statistics, accidents at work, social protection statistics, and housing indicators. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 75, p. 76, p. 81, p. 88, p. 91, p. 94, p. 96, p. 106, p. 112, p. 121, p. 126, p. 130" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 75, p. 76, p. 81, p. 88, p. 91, p. 94, p. 96, p. 106, p. 112, p. 121, p. 126, p. 130">ⓘ</button>
+
+### [Slovakia](../countries/slovakia.qmd)
+
+- Data on GDP, unemployment, inflation, and other macroeconomic indicators are sourced from Eurostat. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 22, p. 32" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 22, p. 32">ⓘ</button>
+- Eurostat provided data on government deficit, debt, and defense expenditure used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button>
+- Eurostat data are used to track AI adoption among enterprises, showing that 18% of Slovak enterprises used AI in 2025. Eurostat also provides data on energy prices and electricity trading. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 109, p. 134, p. 137" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 109, p. 134, p. 137">ⓘ</button>
+
+### [Slovenia](../countries/slovenia.qmd)
+
+- Eurostat provided data on labor market, inflation, and structural indicators. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 21, p. 45" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 21, p. 45">ⓘ</button>
+- Eurostat provided data on [Slovenia](../countries/slovenia.qmd)'s general government deficit, debt, and defence expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button>
+
+### [Spain](../countries/spain.qmd)
+
+- Eurostat provides statistical data on GDP, inflation, unemployment, debt, and regional indicators used throughout the report. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 35, 129" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 35, 129">ⓘ</button>
+- Eurostat provided data on general government deficit and debt for 2024 and 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button>
+
+### Euro area
+
+- The [European Commission](../institutions/european-commission.qmd)'s [Economic Forecast](../document-types/economic-forecast.qmd) uses budgetary data validated by [Eurostat](../institutions/eurostat.qmd) up to 2025. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

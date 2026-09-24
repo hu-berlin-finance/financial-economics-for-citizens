@@ -1,0 +1,303 @@
+---
+title: "Estonia"
+summary: "This dossier draws on the European Commission’s Debt Sustainability Monitor published on 2026-02-12, the European Commission’s Spring-2026-Economic-Forecast published on 2026-05-21, and the European Commission’s Country …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [European Commission](../institutions/european-commission.qmd)’s [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published on 2026-02-12, the [European Commission](../institutions/european-commission.qmd)’s Spring-2026-Economic-Forecast published on 2026-05-21, and the [European Commission](../institutions/european-commission.qmd)’s [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) published on 2026-06-03, alongside the [OECD](../institutions/oecd.qmd)’s [Economic Survey](../document-types/economic-survey.qmd) published on 2026-06-08. The documents assess Estonia’s economic and fiscal trajectory amid geopolitical headwinds, specifically Russia’s war in Ukraine and a new global energy shock from the Middle East. Key themes include the activation of the national escape clause under the Stability and Growth Pact to accommodate increased defense spending, projected to reach 5.0% of GDP in 2026. Consequently, the general government deficit is projected to widen to 4.5% of GDP in 2026 and 4.8% in 2027. The [European Commission](../institutions/european-commission.qmd) classifies Estonia’s medium-term debt sustainability risks as medium, with gross debt projected to rise to 56.2% of GDP by 2036 in the baseline scenario. The recommendations emphasize sustaining defense spending while broadening the tax base, particularly via property taxes, and addressing structural issues such as regional disparities, access to finance for small and medium-sized enterprises, and energy security. The [OECD](../institutions/oecd.qmd) adds that competitiveness losses and demographic headwinds persist, and highlights challenges in climate mitigation and uneven artificial intelligence adoption.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | [2025]{.year-mark title="estimate"} | [2026]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.6 | 1.6 | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 4.8 | 4.4 | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  | 2.0 | 4.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government debt | % of GDP |  | 24.1 | 26.9 | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Defense spending | % of GDP |  | 4.2 | 5.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Total tax revenues | % of GDP | 35.2 | 36.4 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 35" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 35">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Youth unemployment | % |  | 20.7 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 81" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 81">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | R&D intensity (GERD) | % of GDP | 1.99 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 39" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 39">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Business R&D intensity | % of GDP | 1.19 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 41" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 41">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Venture capital | % of GDP | 0.246 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 54">ⓘ</button> |
+
+: Years in italics: estimate, forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03" aria-label="Source: ec/country-reports/Estonia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Unemployment rate | 2025: 7.5 (avg); 8.6 (start); 6.4 (end) | % | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 4, 81" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 4, 81">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Common Equity Tier 1 ratio | 2025 Q3: 19.7 | % | <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 56" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 56">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03" aria-label="Source: ec/country-reports/Estonia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2021 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | 0.6 | 1.6 | 1.7 | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  |  | 4.8 | 4.4 | 2.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  | 1.1 | 2.0 | 4.5 | 4.8 | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government debt | % of GDP |  | 23.5 | 24.1 | 26.9 | 30.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  |  | -0.5 (contractionary) | 2.8 (expansionary) | -0.3 (contractionary) | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP | 2.0 |  | 4.2 | 5.0 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | General government tax revenue | % of GDP |  | 35.2 (EU avg: 39.4) |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 6">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Property taxation revenue | % of GDP |  | 0.3 (EU avg: 1.8) |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 6">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Social benefit expenditure | % of GDP |  | 17.8 (EU avg: 27.3) |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 10" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 10">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03" aria-label="Source: ec/recommendations/Estonia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % change | -2.8 | -0.1 | 0.5 | 1.8 | 2.7 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised consumer price index | % change | 9.1 | 3.7 | 4.8 | 4.1 | 2.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | -2.7 | -1.1 | -2.0 | -4.3 | -4.7 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt (Maastricht) | % of GDP | 20.2 | 23.5 | 24.1 | 27.6 | 31.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  |  | 3.4 | >5.0 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 32" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 32">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % of labour force | 6.4 | 7.5 | 7.4 | 6.8 | 6.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 2.7 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 23.5 | 23.4 | 25.9 | 28.8 | 32.0 | 35.1 | 38.2 | 41.3 | 44.4 | 47.4 | 50.4 | 53.4 | 56.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 5.6 | 2.7 | 5.6 | 5.9 | 6.4 | 6.7 | 6.9 | 7.4 | 7.8 | 8.1 | 8.5 | 8.9 | 9.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | bps |  | 57 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 2026-2035: -3.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: 0.4; 2025: 0.6; 2026–2036: -3.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | 2025: 0.6; 2026: 2.1; 2028-2036 avg: 1.0 | % | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 149" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 149">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 1.6 | 1.7 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 114" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 114">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -4.5 | -4.8 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP |  | 30.5 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The [OECD](../institutions/oecd.qmd) projects GDP growth to recover to 1.8% in 2026 and 2.7% in 2027, supported by fiscal stimulus and rising household purchasing power. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 11" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 11">ⓘ</button>
+- **C1-T, structural break in trend**: The [European Commission](../institutions/european-commission.qmd) projects real GDP growth to recover to 1.6% in 2026 after a modest 0.6% in 2025. Growth is driven by domestic demand, public spending, and a rebound in investment, while external demand remains weak due to the economic slowdown in main trading partners (Sweden, Finland, Germany) and geopolitical tensions. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3">ⓘ</button>
+- **C1-T, structural break**: Real GDP is projected to grow by 1.6% in 2026 and 1.7% in 2027. Geopolitical concerns weigh on investment and exports. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 114" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 114">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Unit labour costs in manufacturing rose significantly more than in neighbouring Baltic economies, leading to a loss of cost competitiveness and a 15% fall in export market share volume between 2022 and 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 23" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 23">ⓘ</button>
+- **C1-A2, inherited competitiveness gap**: Large wage increases following the energy shock eroded competitiveness. Credit growth slowed initially but revived in late 2025 as interest rates fell. Consumer sentiment remains downbeat due to high uncertainty. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3">ⓘ</button>
+
+#### Other growth context
+
+- **C1\*, context**: Productivity growth remains subdued. Labour productivity increased by only 1.1% in 2025, while nominal unit labour costs grew by 3.3%. Real wage growth contracted by -0.5% in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 83" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 83">ⓘ</button>
+- **C1\*, context**: The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects real GDP to grow by 1.6% in 2026 and 1.7% in 2027, following 0.6% growth in 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- **C1\*, context**: The document highlights persistent regional disparities, with economic activity concentrated in the capital region, while remote and rural regions face demographic decline and structural challenges. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 7">ⓘ</button>
+- **C1\*, context**: Russia’s war of aggression against Ukraine disrupts cross-border economic activities, decreases investment attractiveness, and limits access to finance, particularly for regions on the eastern external border. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 7">ⓘ</button>
+- **C1\*, context**: Business research and development spending as a share of GDP remains below the European Union average, and patenting has declined. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 7">ⓘ</button>
+- **C1\*, context**: Availability of finance is a major investment obstacle for 19% of companies, a share significantly higher than the European Union average. Estonian businesses rely heavily on internal financing. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 8">ⓘ</button>
+- **C1\*, context**: Adverse demographic trends, with a declining working-age population, will weigh on growth. Immigration has temporarily mitigated this. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 18" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 18">ⓘ</button>
+- **C1\*, context**: Increased defence spending remains the key policy priority, with a target of above 5% of GDP from 2026 onwards. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 18" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 18">ⓘ</button>
+- **C1\*, context**: Real GDP growth is projected at 0.6% in 2025, 2.1% in 2026, and averaging 1.0% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 149" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 149">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, projections stale/stale risk**: Headline inflation is expected to rise to 4.1% in 2026 due to higher energy prices, and to 2.6% in 2027. Core inflation at constant tax rates decreased from 3.8% in 2024 to 3.4% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 11" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 11">ⓘ</button>
+- **C2-T, projections stale/stale risk**: Inflation measurement issues have been addressed; new methodology since January 2026 incorporates improved electricity and retail sales data. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 21" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 21">ⓘ</button>
+- **C2-T, projections stale/stale risk**: Inflation was 4.8% in 2025, with half attributed to higher taxes. Inflation is expected to average 4.4% in 2026, but this could be jeopardized by rising energy prices caused by the war in the Middle East. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+- **C2\*, context**: HICP inflation stood at 4.8% in 2025 and is projected to stand at 4.4% in 2026 and 2.9% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- **C2\*, context**: Estonia adopted a fiscal policy measure to mitigate high energy prices by postponing fuel and electricity excise tax rate increases from 2026 to 2027, with a projected fiscal cost of 0.1% of GDP in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+- **C3-E, history lags policy**: The S2 indicator points to medium risk, requiring a 2.9% of GDP improvement in 2027 to stabilize debt. The S1 indicator also points to medium risk, requiring a 2.4% of GDP effort to prevent debt from exceeding 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 148" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 148">ⓘ</button>
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: Fiscal policy turned countercyclical in 2026. The budget deficit is projected to widen to 4.3% of GDP in 2026 and 4.7% in 2027, driven by increased defence spending (to 5% of GDP) and tax cuts (basic tax allowance increase). <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 12" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 12">ⓘ</button>
+- **C3-T, history lags policy**: The [OECD](../institutions/oecd.qmd) recommends implementing a gradual medium-term fiscal consolidation from 2027 to stabilise debt. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 14" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 14">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is projected to widen significantly from 2.0% of GDP in 2025 to 4.5% in 2026. This is driven by increased defense spending (activated national escape clause), rising welfare and healthcare costs, and revenue losses from a transition to a universal tax system. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **C3-T, history lags policy**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed Estonia’s national medium-term fiscal-structural plan covering 2025–2028, with maximum growth rates of net expenditure of 7.1% in 2025, 5.1% in 2026, 3.6% in 2027, and 3.2% in 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The [Council of the EU](../institutions/council-of-the-eu.qmd) activated the national escape clause for Estonia in 2025, allowing deviation from recommended maximum growth rates to support increased defence spending until 2028. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is set to widen to 4.5% of GDP in 2026 and 4.8% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, default is chosen, not only suffered**: Estonia is applying the escape clause of the EU fiscal rules for defence spending until 2028. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 12" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 12">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3\*, context**: Public debt is low but rising, from 24.1% of GDP in 2025 to 26.9% in 2026. The tax base is narrow, heavily reliant on labor and consumption taxes (90% of total tax revenue in 2024). Recent tax increases include VAT (22% to 24%) and personal/corporate income tax (20% to 22% in 2025). <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5, 35" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5, 35">ⓘ</button>
+- **C3\*, context**: Defense spending increased from 2% of GDP in 2021 to 4.2% in 2025, expected to reach 5.0% in 2026. The Council activated the national escape clause to allow this increase. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Net expenditure grew by 2.0% in 2025, which was below the recommended maximum growth rate. Cumulatively for 2024–2025, growth was 5.7%, also below the recommended rate. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Net expenditure is projected to grow by 12.0% in 2026, exceeding the recommended maximum growth rate by a deviation of 2.8% of GDP in annual terms. The cumulative growth for 2024–2026 is projected at 18.4%, a deviation of 1.5% of GDP. This deviation is within the flexibility of the national escape clause. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5-6">ⓘ</button>
+- **C3\*, context**: The general government deficit increased from 1.1% of GDP in 2024 to 2.0% in 2025. It is projected to reach 4.5% of GDP in 2026 and 4.8% in 2027. The 2026 deficit increase reflects decreased revenue from personal income tax reform and increased defence spending and infrastructure investment. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4-5">ⓘ</button>
+- **C3\*, context**: The fiscal stance was contractionary by 0.5% of GDP in 2025, projected to be expansionary by 2.8% of GDP in 2026, and contractionary by 0.3% of GDP in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: General government tax revenue was 35.2% of GDP in 2024, four percentage points below the European Union average. Measures include increasing VAT to 24%, raising personal and corporate income tax rates to 22%, and introducing a motor vehicle tax. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 6">ⓘ</button>
+- **C3\*, context**: Property taxation revenues amounted to just 0.3% of GDP in 2024, well below the European Union average of 1.8%. The Commission recommends broadening the tax base, including via taxes on vacant residential property. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 6">ⓘ</button>
+- **C3\*, context**: Total general government defence expenditure amounted to 4.2% of GDP in 2025 and is projected at 5.0% of GDP in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Social benefit expenditure remained below the European Union average at 17.8% of GDP in 2024, compared to 27.3% for the European Union. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 10" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 10">ⓘ</button>
+- **C3\*, context**: The structural primary balance is projected at -3.1% of GDP on average for 2026-2035. The fiscal consolidation space is 89% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3\*, context**: The SPB before cost of ageing is assumed at -3.1% of GDP from 2026 onwards. This is low compared with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: Government debt is set to rise to 30.5% of GDP by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 115">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1\*, context**: General government debt (Maastricht definition) reached 24.1% of GDP in 2025 and is projected to rise to 31.3% of GDP by 2027. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button>
+- **R1\*, context**: Non-performing loans remain low (0.5% of total assets), but lending growth has accelerated, particularly in commercial real estate and housing loans. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 27" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 27">ⓘ</button>
+- **R1\*, context**: The non-financial corporate sector indebtedness reached 60% of GDP in 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 27" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 27">ⓘ</button>
+- **R1\*, context**: Public debt is 24.1% of GDP in 2025, projected to rise to 26.9% in 2026. Gross financing needs are not explicitly detailed as a single figure, but the rise in debt and deficit implies increasing rollover needs, though the debt stock remains very low compared to the EU average. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **R1-A, part of debt not exposed to market / Official loans**: In February 2026, the Council agreed to make available a loan of up to EUR 2.3 billion (5.9% of GDP) under the Security Action for Europe instrument to finance defense projects in 2026-2030. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 6">ⓘ</button>
+- **R1\*, context**: Contingent liabilities and guarantees are managed, with a new EUR 100 million targeted guarantee scheme for the energy sector launched. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 29" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 29">ⓘ</button>
+- **R1\*, context**: General government debt increased from 23.5% of GDP at the end of 2024 to 24.1% at the end of 2025. It is projected to increase to 26.9% by the end of 2026 and 30.5% by the end of 2027. The increases reflect high deficits and positive stock-flow adjustments in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 2.7% of GDP in 2025. Debt is projected to increase to 56.2% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross debt is projected to increase to 56.2% of GDP by 2036. Gross financing needs are expected to rise to 9.2% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button>
+
+#### Other refinancing context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, bright lines versus real eligibility**: The [OECD](../institutions/oecd.qmd) notes that the national fiscal rules should be adapted to focus on stabilising the debt ratio rather than just the budget balance, and suggests introducing a national well-defined 'escape clause' independent of the EU framework. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 35" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 35">ⓘ</button>
+- **R6-A, bright lines versus real eligibility**: Implementation of public integrity policies can be enhanced, particularly regarding conflict-of-interest regulations and foreign bribery awareness. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 29" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 29">ⓘ</button>
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd) adopted a report under Article 126(3) of the Treaty on the Functioning of the European Union on 3 June 2026. It concluded that the deficit criterion is not fulfilled because the planned 2026 deficit exceeds 3% of GDP. However, it did not propose opening an excessive deficit procedure because the [Council of the EU](../institutions/council-of-the-eu.qmd) activated the national escape clause and the deficit excess is fully explained by defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 6">ⓘ</button>
+- **R6\*, context**: The [Council of the EU](../institutions/council-of-the-eu.qmd) allowed Estonia to deviate from recommended maximum growth rates of net expenditure via the national escape clause, activated on 8 July 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button>
+- **R6\*, context**: The document notes the activation of the national escape clause (NEC) for Estonia. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+- **Outlook Factors, political stability/rule of law**: Public trust in government is slightly above the EU average but on a long-term downward trend. Trust in the justice system is stable. Corruption perception is low, with only 32% of businesses considering corruption widespread (vs EU 63%). <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 59, 62" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 59, 62">ⓘ</button>
+
+### National institutions
+
+[Debt management office, national central bank, fiscal council, statistical office: what the sources say about them.]
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Outlook Factors, factor decoupling**: The financial system remains robust with well-capitalised banks, but exposure to commercial real estate is elevated, warranting monitoring. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 26" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 26">ⓘ</button>
+- **Outlook Factors, factor decoupling**: The document does not provide specific government bond spread data to assess decoupling from the VIX or safe rates. However, it notes that [Estonia](../countries/estonia.qmd) is classified as a 'frontier market' by index providers due to small size and low liquidity, which acts as a deterrent for institutional investors. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 54">ⓘ</button>
+- **Market Signals, context**: The document does not report specific government bond spreads or yields. [ec/recommendations/Estonia_2026-06-03]
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 57 bps at the end of 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 147">ⓘ</button>
+
+## Outlook Material
+
+- **Climate transition**: Estonia remains among the most carbon-intensive OECD economies. Emissions reductions in transport and agriculture have lagged, and land use/forestry has shifted from a carbon sink to a source. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 11" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 11">ⓘ</button>
+- **Climate adaptation**: Climate risks, particularly flooding, are moderate but require early investment and stronger governance. Municipalities lack financial and administrative capacity for adaptation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 12" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 12">ⓘ</button>
+- **AI adoption**: AI adoption is high in knowledge-intensive sectors but lags in traditional sectors. Skill shortages are a key barrier to wider adoption. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 13" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 13">ⓘ</button>
+- **Outlook Factors, geopolitical shocks**: Geopolitical uncertainty from Russia’s war in Ukraine and the war in the Middle East weighs on growth, exports, and energy prices. Estonia faces risks to critical grid infrastructure from hybrid attacks. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3, 7" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3, 7">ⓘ</button>
+- **Outlook Factors, banking events**: The banking sector is resilient with a CET1 ratio of 19.7% (Q3 2025), well above the EU average. Credit growth accelerated in 2025, reaching 12% for NFCs and 9.9% for households annualized. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 56" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 56">ⓘ</button>
+- **Outlook Factors, structural reforms**: Reforms are ongoing to improve access to finance, particularly for SMEs in remote regions. The investment account regime was expanded in 2025 to include crowdfunding and crypto assets. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 56" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 56">ⓘ</button>
+- **R6\*, context**: The document does not explicitly discuss [Backstop Eligibility](../parameters/backstop-eligibility.qmd) parameters like ESM loans or ECB program financing in a negative context. However, it notes that [Estonia](../countries/estonia.qmd) successfully synchronized its electricity grid with the EU in February 2025, a key sovereignty and stability marker. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 14" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 14">ⓘ</button>
+- **Outlook Factors, energy security**: Estonia remains vulnerable to severe electricity price spikes. While solar power penetration is high (67.9% of renewables in net electricity generation in 2025), the construction of more battery energy storage systems is essential. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 8-9" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 8-9">ⓘ</button>
+- **Outlook Factors, structural reforms**: The implementation of cohesion policy programmes is above the average pace at the European Union level. The document emphasizes sustaining reforms under the Recovery and Resilience Facility. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 7, 11" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 7, 11">ⓘ</button>
+- **Outlook Factors, social challenges**: Early school leaving was above 10% in 2025, and youth unemployment was above 20% in 2025. Poverty risks are high for persons with disabilities (32.5% of working-age population with disabilities) and older women living alone. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 9-10" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 9-10">ⓘ</button>
+- **Investor Base**: The large share of government debt held by non-residents is a risk-increasing factor. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 148" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 148">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model string.

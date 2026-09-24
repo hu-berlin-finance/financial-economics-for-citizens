@@ -1,0 +1,274 @@
+---
+title: "Ireland"
+summary: "The dossier draws on an Economic Survey issued by the OECD on 2025-02-12, a Country Report issued by the European Commission on 2026-06-03, a Post-Programme Surveillance Report issued by the European Commission on …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+The dossier draws on an [Economic Survey](../document-types/economic-survey.qmd) issued by the [OECD](../institutions/oecd.qmd) on 2025-02-12, a [Country Report](../document-types/country-report.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-06-03, a [Post-Programme Surveillance Report](../document-types/post-programme-surveillance-report.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-06-02, a [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-02-12, and a [Economic Forecast](../document-types/economic-forecast.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-05-21. The evidence highlights [Ireland](../countries/ireland.qmd)'s economic resilience but emphasizes structural exposure to external shocks and high concentration risks in corporate tax revenues. Real gross domestic product (GDP) growth surged in 2025, driven by pharmaceutical exports, while domestic indicators suggest a moderation in growth for 2026. Public finances remain strong with a general government surplus, though this is partly inflated by windfall corporate taxes. The reports identify significant vulnerabilities, including reliance on multinational corporations, high energy import dependency, severe housing shortages, and insufficient progress toward climate targets. Fiscal sustainability is challenged by projected increases in age-related spending, large planned public investments, and repeated breaches of domestic spending rules.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 | 2026 | 2030 | 2050 | 2070 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | -5.7 | 0.3 | 3.7 | 3.5 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Modified domestic demand growth | % |  | 2.7 | 2.7 | 3.0 | 2.7 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % of labour force |  | 4.3 | 4.3 | 4.2 | 4.3 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised consumer price inflation | % |  | 5.2 | 1.5 | 1.9 | 1.8 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | GDP deflator | % |  | 4.0 | 1.9 | 1.6 | 1.8 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 19" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 19">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government financial balance | % of GDP |  | 4.5 | 1.8 | 1.7 |  |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 19" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 19">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government financial balance | % of GNI* |  | 11.7 |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 19" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 19">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public pensions, gross | % of GDP | 3.8 |  |  |  |  | 4.2 |  | 6.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 25" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 25">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Health care spending | % of GDP | 4.1 |  |  |  |  | 4.3 |  | 5.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 25" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 25">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Long-term care spending | % of GDP | 1.2 |  |  |  |  | 1.4 |  | 2.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 25" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 25">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt, Maastricht definition | % of GDP |  | 43.2 | 38.4 | 35.6 | 33.0 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt, Maastricht definition | % of GNI* |  | 68.3 |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 19" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 19">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | General gross government debt (projected) | % of GNI* |  |  |  |  |  |  | ~40 (fiscal + structural reforms) |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 34" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 34">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 12.3 | -1.2 | 3.4 | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP |  | 1.8 | 1.4 | 1.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total taxes (inc. social contributions) | % of GDP | 21.7 | 20.8 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 37">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross government debt | % of GDP |  | 32.9 | 32.4 | 31.6 | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Corporate income tax as % of GDP | % of GDP | 5.0 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 37">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | House price-to-income ratio (Index 2005=100) | Index |  | ~210 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 103" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 103">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03" aria-label="Source: ec/country-reports/Ireland_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Homelessness (Emergency accommodation) | March 2026: >17,500 | Persons | <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 105" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 105">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03" aria-label="Source: ec/country-reports/Ireland_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 12.3 | -1.2f | 3.4f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 3.5f | 2.6f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 1.8 | 1.4f | 1.2f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Government debt-to-GDP | % of GDP |  |  | 31.6f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Cash and liquid asset reserves | End-2025 (Q1-2026): 36.0; End-2026: 25.0f | EUR billion | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Cash and liquid asset reserves | End-2025 (Q1-2026): 5.6; End-2026: 3.9f | % of GDP | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year government bond yield | End-April 2026: 3.26 | % | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 38.3 | 33.1 | 32.5 | 31.6 | 29.3 | 27.4 | 25.6 | 24.1 | 22.8 | 21.9 | 21.2 | 20.7 | 20.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 1.8 | 2.1 | 2.5 | 2.7 | 1.8 | 1.8 | 1.7 | 1.6 | 1.5 | 1.6 | 1.6 | 1.7 | 1.7 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 1.4 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 2.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: 3.1; 2025: 0.0; 2026–2036: 1.4 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | 20 | bps | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+- **C1-E, broken or dominated sample**: Assessing Irish GDP performance is complicated by multinational firms whose large transactions heavily impact national accounts, such as the sharp contraction in real GDP in 2023 due to reduced contract manufacturing, contrasting with a 5% increase in Modified Gross National Income (GNI*). <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 17" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 17">ⓘ</button>
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The [OECD](../institutions/oecd.qmd) projects robust real GDP growth of 3.7% in 2025 and 3.5% in 2026, driven by subsiding volatility from the multinational sector, improving financial conditions, and recovering exports. Modified domestic demand, which excludes volatile multinational transactions, is projected to stabilize around 3.0% in 2025-26, below its long-term average of roughly 3.5%. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 19" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 19">ⓘ</button>
+- **C1-T, structural break in trend**: The [European Commission](../institutions/european-commission.qmd) projects real GDP growth to decline by 1.2% in 2026 due to base effects from the front-loading of pharmaceutical exports in 2025, before stabilizing at 3.4% in 2027. This deviation from the historical high growth rate indicates a structural normalization rather than a permanent break in trend, although the domestic economy (modified domestic demand) grew by 4.9% in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 3">ⓘ</button>
+- **C1*, context**: Real GDP growth is projected at 10.7% in 2025, 0.2% in 2026, and averaging 3.2% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 154" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 154">ⓘ</button>
+- **C1-T, structural break**: GDP is forecast to decline by 1.2% in 2026 due to base effects from pharmaceutical export frontloading, before growing 3.4% in 2027. Domestic activity remains resilient. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 116" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 116">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, growth not thin-tailed**: Downside risks to growth have risen, including geopolitical fragmentation, weaker global demand, tighter capacity constraints, and renewed pressures on energy and food prices. Potential shocks to systemically important large firms could adversely impact the domestic economy and tax revenues. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 12" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 12">ⓘ</button>
+- **C1-A1, growth not thin-tailed**: The economy is highly concentrated in multinational corporations, particularly in pharmaceuticals and ICT. This creates exposure to firm-specific disruptions and external geopolitical tensions, such as US tariff policy changes. The [European Commission](../institutions/european-commission.qmd) notes that 84% of business research and development expenditure is performed by large, foreign-owned firms, making the innovation system vulnerable to global headwinds. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 4, p. 41" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 4, p. 41">ⓘ</button>
+- **C1-A1, context**: Growth is exposed to risks arising from high concentration of activity within a few sectors dominated by multinational companies, leaving the economy vulnerable to firm- and sector-specific shocks. A persistent energy shock could exert additional downward pressure. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button>
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Labour productivity is high at 221.6% of the EU average in 2025, but there is a persistent gap between domestic small and medium-sized enterprises (SMEs) and large multinationals. High costs, including energy and housing, constrain domestic firms. Unit labour cost growth has fluctuated, reflecting volatile GDP trends. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 46, p. 87" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 46, p. 87">ⓘ</button>
+
+#### Other growth context
+
+- **C1-A2, context**: Real GDP increased exceptionally by 12.3% in 2025, largely driven by strong pharmaceutical exports, reflecting front-loading in anticipation of US tariffs and strong global demand. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The domestic spending rule, limiting permanent spending increases to 5% per annum net of tax policy changes, has been systematically breached since its introduction. Budget 2025 implies a net spending increase of 9.2% in 2024 and 5.8% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 35" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 35">ⓘ</button>
+- **C3-T, history lags policy**: Public debt is low at 43.2% of GDP in 2023 but stands at 76% of GNI*. Population ageing and digital/green transitions will increase future costs, requiring fiscal reforms to ensure long-run debt sustainability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 13" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 13">ⓘ</button>
+- **C3-T, history lags policy**: Repeated, sizeable spending overruns, especially in the health sector, undermine fiscal credibility. EUR 3.7 billion of the increase in spending in Budget 2025 was due to overruns compared to Budget 2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 35" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 35">ⓘ</button>
+- **C3-T, history lags policy**: The Council of the [European Commission](../institutions/european-commission.qmd) adopted a recommendation endorsing [Ireland](../countries/ireland.qmd)’s revised medium-term fiscal-structural plan for 2026-2030 on 10 March 2026. This plan includes a fiscal adjustment over four years and addresses spending pressures. However, the [European Commission](../institutions/european-commission.qmd) notes limited progress in broadening the tax base to reduce reliance on corporate taxes, despite country-specific recommendations. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 25, p. 31" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 25, p. 31">ⓘ</button>
+- **C3-T, context**: Sustained spending pressures fuel strong current expenditure growth, leading to repeated mid-year revisions of Exchequer expenditure ceilings. The government adopted temporary measures in March and April 2026 to mitigate high energy prices. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button>
+- **C3*, context**: The structural primary balance is projected at 1.4% of GDP on average for 2026-2035. The fiscal consolidation space is 50% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3*, context**: The SPB before cost of ageing is assumed at 1.4% of GDP from 2026 onwards. This is in line with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button>
+- **C3-T, history lags policy**: The general government surplus is forecast to decline to 1.4% of GDP in 2026 and 1.2% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 117" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 117">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, default is chosen, not only suffered**: The tax base is narrow and highly reliant on corporate and personal income taxes from multinationals, creating vulnerability to economic shocks. Around one-third of income earners do not pay personal income tax or the universal social charge. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 31" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 31">ⓘ</button>
+- **C3-A, default is chosen, not only suffered**: While not indicating default risk, the [European Commission](../institutions/european-commission.qmd) highlights that mainstream political platforms and budget decisions rely heavily on transient corporate tax revenues. The government’s medium-term fiscal and structural plan acknowledges that half of current corporate tax receipts are "windfall profits" not linked to domestic activity. A scenario where corporate taxes decline to 2020 levels would turn surpluses into deficits. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 36" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 36">ⓘ</button>
+- **C3-A, context**: Fiscal risks stem from significant concentration of corporate tax revenue in a small number of large companies in pharmaceutical and ICT sectors. A substantial portion of this revenue is estimated to be ‘windfalls’, exposing public finances to profitability and decisions of individual companies and changes in US trade and tax policies. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3-4" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3-4">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3*, context**: Public expenditure on health is projected to increase significantly, rising by 0.6 percentage points of GDP by 2040 and a further 0.9 percentage points by 2070 due to an ageing population. The old-age dependency ratio is set to more than double between 2022 and 2070. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 5, p. 32" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 5, p. 32">ⓘ</button>
+- **C3-E, history lags policy**: The S2 indicator points to medium risk, requiring a 3.3% of GDP improvement in 2027 to stabilize debt, driven by ageing costs. The S1 indicator points to low risk, requiring a 1.0% of GDP effort to reduce debt to 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 153" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 153">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing or distorted**: The financial system appears resilient, but risks should be monitored closely, particularly the high share of non-bank lending to small and medium-sized enterprises and the commercial real estate market. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 13" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 13">ⓘ</button>
+- **R1-E, components missing or distorted**: Capital values in the commercial real estate sector have decreased by 27% since 2019, and the leverage of some property funds has increased, creating risks of an adverse feedback loop with the real economy. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 22" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 22">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: The government established the Future Ireland Fund and the Infrastructure, Climate and Nature Fund in July 2024 to save part of estimated windfall corporate tax revenues, strengthening the fiscal framework. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 37" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 37">ⓘ</button>
+- **R1-A, context**: [Ireland](../countries/ireland.qmd) has an outstanding debt of EUR 17.3 billion to the European Financial Stabilisation Mechanism and EUR 18.4 billion to the European Financial Stability Facility. A EUR 2 billion EFSM repayment is due in 2026, with EFSF loan repayments starting in 2029. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1*, context**: The vast majority of public debt is fixed at an average interest rate of about 1.5%. Cash and liquid asset reserves are high at EUR 36 billion (5.6% of GDP) at end-March 2026, expected to reduce to EUR 25 billion (3.9% of GDP) at end-2026. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5">ⓘ</button>
+- **R1*, context**: Gross government debt decreased to 32.9% of GDP at the end of 2025 and is projected to fall to 32.4% in 2026 and 31.6% in 2027. The debt-to-GDP ratio is significantly lower than when measured against modified gross national income (GNI*), where it stood at 61.7% of GNI* in 2025. The [European Commission](../institutions/european-commission.qmd) notes that stock-flow adjustments are significant. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 3, p. 31" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 3, p. 31">ⓘ</button>
+- **R1*, context**: Gross financing needs were 2.1% of GDP in 2025. Debt is projected to decline to 20.3% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1*, context**: Gross debt is projected to decline to 20.3% of GDP by 2036. Gross financing needs remain low, around 1.7% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button>
+- **R1-E, components missing**: The debt-to-GDP ratio is forecast to decrease to 31.6% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 117" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 117">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+- **C5-A, politically feasible haircut**: Non-resident holdings of government debt are not explicitly detailed in terms of restructuring risk, but the financial sector is stable with banks well-capitalized. Domestic banks hold a share of sovereign debt, but the high level of non-resident institutional investment in the broader economy creates complex interlinkages. The [European Commission](../institutions/european-commission.qmd) does not flag immediate restructuring risks. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 54" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 54">ⓘ</button>
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6*, context**: [Ireland](../countries/ireland.qmd) is compliant with the EU fiscal framework. The Council of the [European Commission](../institutions/european-commission.qmd) endorsed its revised medium-term fiscal-structural plan in March 2026. There is no excessive deficit procedure open. The [European Commission](../institutions/european-commission.qmd) assesses debt sustainability as manageable given the current surplus, though vulnerable to revenue shocks. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 25, p. 31" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 25, p. 31">ⓘ</button>
+- **R6*, context**: Ireland submitted a revised medium-term plan following elections, which was still being assessed at the cut-off date. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 115" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 115">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, bright lines versus real eligibility**: The [European Commission](../institutions/european-commission.qmd)’s debt-sustainability risk classification and compliance record are relevant for backstop eligibility, though specific status details are not explicitly detailed in this survey beyond general references to EU rules. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 35" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 35">ⓘ</button>
+- **R6-A, bright lines versus real eligibility**: The new EU fiscal rules are not currently a binding constraint for [Ireland](../countries/ireland.qmd), highlighting the need for a more binding and credible domestic framework with stronger political anchoring. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 35" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 35">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+- **Banking stability**: Irish retail banks recorded a return on equity of 11.2% in 2025. The fully loaded common equity tier 1 ratio was 15.9% by end-2025. Non-performing loan ratios improved to lowest levels in over a decade. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 4" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 4">ⓘ</button>
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling**: Household deposits have supported domestic retail banks, and capital and liquidity positions are well above regulatory requirements. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 21" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 21">ⓘ</button>
+- **Factor decoupling**: The pass-through of higher policy rates to bank lending rates on mortgage loans was lower than in the euro area, leading to a smaller house price correction than elsewhere. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 21" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 21">ⓘ</button>
+- **Factor decoupling, context**: The 10-year Irish government bond yield increased to around 3.26% at end-April 2026. The spread against the 10-year German bond reverted to 23 basis points at end-April 2026. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 5">ⓘ</button>
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 20 bps at the end of 2025. Ratings are AA. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 152">ⓘ</button>
+
+## Outlook Material
+
+- **Topic: Housing Supply**: Housing affordability and availability continue to fall short, affecting well-being and competitiveness. Recent policies have increased completions, but structural impediments remain. The construction of new dwellings is far below the estimated annual requirement of 50,000 units. Housing stock per 1,000 adults is among the lowest in the EU. Homelessness reached over 17,500 people in emergency accommodation in March 2026. This creates significant social and economic pressures and limits labor mobility. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 77" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 77">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 6, p. 102, p. 105" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 6, p. 102, p. 105">ⓘ</button>
+- **Topic: Climate Change**: [Ireland](../countries/ireland.qmd) is not on track to meet its 2030 greenhouse gas emission targets, having reduced emissions by only 7.8% from 2018 levels against a target of 51%. The country faces challenges in deploying renewables and expanding grid capacity, which constrains industrial competitiveness and household affordability. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 61" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 61">ⓘ</button> <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 4, p. 11, p. 70" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 4, p. 11, p. 70">ⓘ</button>
+- **Topic: Labor Shortages**: Labor shortages risk jeopardizing housing and climate reform agendas, with an estimated need for 50,000 additional construction workers by 2030. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 44" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 44">ⓘ</button>
+- **Revenue concentration risk**: Corporate tax revenues are concentrated in a few foreign-owned firms. Three firms accounted for 38% of total corporate tax receipts in recent years. This concentration poses a significant risk to fiscal stability if these firms repatriate profits or shift activities. <button type="button" class="source-ref" data-source="ec/country-reports/Ireland_2026-06-03, p. 36" aria-label="Source: ec/country-reports/Ireland_2026-06-03, p. 36">ⓘ</button>
+- **Geopolitical shocks**: The energy price shock resulting from the conflict in the Middle East is expected to exert upward pressure on inflation, weighing on domestic growth. [Ireland](../countries/ireland.qmd) is highly dependent on energy imports, leading to high electricity prices (highest in Western Europe in 2025). <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button>
+- **Economic Structure**: Concentration of tax revenues in a few multinational enterprises (MNEs) is a risk-increasing factor. Negative net international investment position is noted but largely reflects MNE presence. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 153" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 153">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

@@ -1,0 +1,89 @@
+---
+title: "European Investment Bank"
+summary: "The European Investment Bank has a limited direct role in the minimal rating process. Its lending to sovereigns or state-owned entities can appear as official, off-market financing. This affects the assessment of the …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+The European Investment Bank has a limited direct role in the minimal rating process. Its lending to sovereigns or state-owned entities can appear as official, off-market financing. This affects the assessment of the portion of debt not exposed to market conditions, which is a discretionary adjustment under the refinancing need parameter (`[Refinancing Need](../parameters/refinancing-need.qmd)`, specifically the R1-A task).
+
+## Evidence by Country
+
+### Euro Area
+
+- The European Investment Bank is cited in a box regarding how EU manufacturing firms navigate foreign market tensions. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 49" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 49">ⓘ</button>
+
+### [Austria](../countries/austria.qmd)
+
+- The European Investment Bank conducted the Investment Survey, reporting on investment obstacles such as skilled labor shortages, energy costs, and regulation. It also reported on access to finance. <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 12, p. 56" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 12, p. 56">ⓘ</button>
+- The European Investment Fund is mentioned as a potential partner in supporting Austria’s venture capital market through public financial institutions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 81" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 81">ⓘ</button>
+
+### [Belgium](../countries/belgium.qmd)
+
+- The European Investment Bank provides funding for various projects in Belgium, including energy efficiency renovations, sustainable transport, and social housing. For instance, Brussels received EUR 475 million from the European Investment Bank for electric buses and metro and tram sets. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 72" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 72">ⓘ</button>
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- The European Investment Bank Investment Survey highlights obstacles to investment in Cyprus, including the availability of skilled staff, energy costs, and uncertainty about the future. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 46" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 46">ⓘ</button>
+
+### [Estonia](../countries/estonia.qmd)
+
+- The European Investment Bank Investment Survey 2025 highlights investment obstacles in Estonia, such as uncertainty, lack of skilled staff, and energy costs. The European Investment Bank also partners with Estonia on affordable housing projects. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 46, p. 103" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 46, p. 103">ⓘ</button>
+
+### [Finland](../countries/finland.qmd)
+
+- The European Investment Bank's Investment Survey indicates that almost half of Finnish firms view the green transition as an opportunity, the highest share among the 23 surveyed countries. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 93" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 93">ⓘ</button>
+
+### [France](../countries/france.qmd)
+
+- The European Investment Bank Investment Survey is cited regarding obstacles to business investment in France, such as uncertainty, lack of skilled staff, and energy costs. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 65" aria-label="Source: ec/country-reports/France_2026-06-03, p. 65">ⓘ</button>
+- The European Investment Bank is referenced regarding investment surveys and the funding gap for innovative scale-up firms. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 9-10" aria-label="Source: ec/recommendations/France_2026-06-03, p. 9-10">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- The European Investment Bank reports that 89% of Greek firms perceive business regulation as an investment barrier, compared to 69% in the European Union average. It also supports investments in Greece through facilities like the One-Stop-Shop. <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 12, p. 52-53" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 12, p. 52-53">ⓘ</button>
+- European Investment Bank surveys indicate that Greek firms perceive compliance with business regulations as a major challenge to investment. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 8" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 8">ⓘ</button>
+- The European Investment Bank is cited in surveys on regulatory burdens and investment obstacles, noting that perceived burdens in Greece remain high. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 96" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 96">ⓘ</button>
+
+### [Italy](../countries/italy.qmd)
+
+- The European Investment Bank is mentioned in the context of the communication address, with no specific actions detailed. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 5">ⓘ</button>
+- The European Investment Bank is mentioned in the context of public guarantee schemes and investment surveys. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 127" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 127">ⓘ</button>
+
+### [Latvia](../countries/latvia.qmd)
+
+- The European Investment Bank is not explicitly discussed in terms of specific actions, but EU funding instruments supported by the Commission are referenced as essential for implementing reforms and investments. <button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 2-3">ⓘ</button>
+- The European Investment Bank is cited in the context of surveying business constraints. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Latvia_2026-06-12, p. 86" aria-label="Source: oecd/economic-surveys/Latvia_2026-06-12, p. 86">ⓘ</button>
+
+### [Lithuania](../countries/lithuania.qmd)
+
+- The European Investment Bank’s 2025 Investment Survey indicates that 71% of firms cited skilled staff availability as a long-term barrier to investment. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 4">ⓘ</button>
+
+### [Luxembourg](../countries/luxembourg.qmd)
+
+- The European Investment Bank is cited for data on firm access to finance, late payments surveys, and investment needs in circular economy and infrastructure. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 13, 54, 78" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 13, 54, 78">ⓘ</button>
+
+### [Portugal](../countries/portugal.qmd)
+
+- The European Investment Bank is referenced regarding investment surveys and data on business investment obstacles. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 56-59, 103" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 56-59, 103">ⓘ</button>
+- The European Investment Bank reports that fewer Portuguese firms are investing compared to European peers, highlighting a legacy of low investment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 48" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 48">ⓘ</button>
+- The European Investment Bank is cited for findings on low labour productivity in construction and weak competition due to regulatory barriers. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 105" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 105">ⓘ</button>
+
+### [Slovakia](../countries/slovakia.qmd)
+
+- The European Investment Bank is mentioned in the context of financing options for transport infrastructure development. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 11" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 11">ⓘ</button>
+- The European Investment Bank Investment Survey data are cited to show that lack of skilled staff is a pressing obstacle for investment in Slovakia. The European Investment Bank also notes that few companies report financing constraints as a major obstacle to investment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 82, p. 90" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 82, p. 90">ⓘ</button>
+
+### [Spain](../countries/spain.qmd)
+
+- The European Investment Bank provided data from the 2025 Investment Survey, indicating that business regulation and uncertainty are major obstacles to investment in Spain. It also financed cohesion policy projects supporting competitiveness and sustainability. <button type="button" class="source-ref" data-source="ec/country-reports/Spain_2026-06-03, p. 4, 54" aria-label="Source: ec/country-reports/Spain_2026-06-03, p. 4, 54">ⓘ</button>
+- The document mentions the European Investment Bank’s role in supporting infrastructure and green transition projects, although specific financial flows are not detailed in the extracted figures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 30" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 30">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model expert-agent.

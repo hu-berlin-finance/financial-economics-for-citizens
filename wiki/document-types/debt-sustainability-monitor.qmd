@@ -1,0 +1,47 @@
+---
+title: "Debt Sustainability Monitor"
+summary: "The European Commission publishes the Debt Sustainability Monitor once a year for all euro-area member states. It classifies short-, medium-, and long-term fiscal sustainability risks and projects debt and gross …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+The [European Commission](../institutions/european-commission.qmd) publishes the Debt Sustainability Monitor once a year for all euro-area member states. It classifies short-, medium-, and long-term fiscal sustainability risks and projects debt and gross financing needs. The document draws on the Commission's economic forecasts to assess risks such as debt dynamics, structural primary balances, and market perceptions. This card currently draws on four parts of the 2025 edition, published in February 2026.
+
+## Use in the Rating Process
+
+This document type feeds the gross financing need cross-check (R1*), the debt-sustainability risk classification behind backstop eligibility (R6*), and fiscal capacity (C3*). It provides detailed projections for [Refinancing Need](../parameters/refinancing-need.qmd), assessments of [Fiscal Capacity](../parameters/fiscal-capacity.qmd) through long-term indicators, and context for [Backstop Eligibility](../parameters/backstop-eligibility.qmd) regarding the activation of the national escape clause.
+
+## License and Attribution
+
+The content is licensed under CC BY 4.0. Reuse is allowed for any purpose if the source is credited and changes are indicated, per Commission Decision 2011/833/EU on the reuse of Commission documents. You must include the credit line: © European Union, 2026, with a link to the document. Third-party content inside a document, such as logos or figures credited to another organization, is not covered by this license.
+
+## Methods
+
+- The document uses a "no-fiscal-policy-change" baseline from 2027 onwards, anchoring the structural primary balance (excluding cost of ageing) at the level projected for 2026. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+- The baseline assumes the structural primary balance remains constant at its 2026 forecast level until 2036, except for ageing costs. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 43" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 43">ⓘ</button>
+- Gross financing needs consist of the general government deficit, debt redemptions, and stock-flow adjustments. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 259" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 259">ⓘ</button>
+- Long-term fiscal sustainability indicators S1 and S2 measure the required fiscal effort. S2 is the change needed to stabilize debt over an infinite horizon. S1 is the change needed to bring debt to 60% of GDP by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 283-289" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 283-289">ⓘ</button>
+- Risk categories for S1 and S2 are assigned based on the size of the adjustment: low if less than 2% of GDP, medium if 2-6%, and high if greater than 6%. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 283-289" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 283-289">ⓘ</button>
+- Medium-term growth projections beyond the forecast horizon use the Economic Policy Committee and Price and Inflation Projections Working Group (EPC/POWG) T+10 methodology. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 265" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 265">ⓘ</button>
+- Real GDP growth is adjusted for fiscal multiplier effects in the year T+2 using a multiplier of 0.6. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 43" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 43">ⓘ</button>
+- Stochastic projections employ 10,000 shocks to assess uncertainty, covering 80% of simulated debt paths. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+- Stock-flow adjustments are explicitly modeled for 2025 and 2026 in some cases but set to zero thereafter in the baseline. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 43" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 43">ⓘ</button>
+- Interest rates on new and rolled-over debt converge linearly to market-based forward nominal rates by 2035. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 122">ⓘ</button>
+- Inflation is assumed to converge linearly towards the inflation expectations 10 years ahead. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 222-256" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 222-256">ⓘ</button>
+
+## Documents
+
+::: {.table-scroll}
+
+| Document | Country | Publication Date | Main Topics |
+| --- | --- | --- | --- |
+| ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12 | All member states | 2026-02-12 | Fiscal sustainability risks, debt projections, gross financing needs, S1/S2 indicators, climate scenarios, national escape clause assessment. |
+
+:::
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

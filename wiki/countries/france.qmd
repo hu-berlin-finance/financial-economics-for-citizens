@@ -1,0 +1,266 @@
+---
+title: "France"
+summary: "This dossier draws on the European Commission’s 2025 Debt Sustainability Monitor, published on 2026-02-12; the European Commission’s Spring 2026 Economic Forecast, published on 2026-05-21; the European Commission’s 2026 …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the European Commission’s 2025 Debt Sustainability Monitor, published on 2026-02-12; the European Commission’s Spring 2026 Economic Forecast, published on 2026-05-21; the European Commission’s 2026 Country Report, published on 2026-06-03; and the [OECD](../institutions/oecd.qmd)’s 2026 Economic Survey, published on 2026-06-30. The evidence highlights persistent economic stagnation, with real GDP growth projected between 0.7% and 0.8% for 2026 and 2027. Fiscal challenges are significant, as the general government deficit remains above 5% of GDP and debt is projected to rise above 144% of GDP by 2036 under a no-policy-change baseline. Structural issues include weak labor productivity, high public spending, slow progress in renewable energy deployment, and political uncertainty stemming from recent government changes and a hung parliament.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 1.2 | 0.8 | 0.8 | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | -5.8 | -5.1 | -5.1 | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government primary deficit | % of GDP |  | 2.2 |  | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 112.6 |  | 118.1 | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Interest payments | % of GDP |  | 2.5 | 2.6 | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Non-financial corporations' debt | % of GDP |  | 92.3 |  | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 4" aria-label="Source: ec/country-reports/France_2026-06-03, p. 4">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Labour productivity (vs EU) | % of EU level |  | 112.7 |  | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 12" aria-label="Source: ec/country-reports/France_2026-06-03, p. 12">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Total tax revenues | % of GDP |  | 44.3 |  | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 6" aria-label="Source: ec/country-reports/France_2026-06-03, p. 6">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal and social tax expenditures | % of GDP |  | ~6.0 |  | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 6" aria-label="Source: ec/country-reports/France_2026-06-03, p. 6">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03" aria-label="Source: ec/country-reports/France_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | 2025-Q4: 7.9; 2026f: 8.3 | % | <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03" aria-label="Source: ec/country-reports/France_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 | 2026 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % change | 1.9 | 1.4 | 0.9 | 0.7 | 0.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 23" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 23">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % of labour force | 7.4 | 7.4 | 7.7 | 8.3 | 8.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 23" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 23">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government budget balance | % of GDP | -5.4 | -5.8 | -5.1 | -5.0 | -4.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 23" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 23">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary fiscal balance | % of GDP | -3.7 | -3.9 | -3.0 | -2.6 | -2.0 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 25" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 25">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 109.4 | 112.6 | 115.5 | 118.8 | 120.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 25" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 25">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net interest payments | % of GDP | 1.7 | 1.9 | 2.1 | 2.3 | 2.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 25" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 25">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Harmonised consumer price index | % change | 5.7 | 2.3 | 0.9 | 2.1 | 1.8 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 23" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 23">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30" aria-label="Source: oecd/economic-surveys/France_2026-06-30">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 113.2 | 116.3 | 118.1 | 120.0 | 122.2 | 124.2 | 126.5 | 129.1 | 131.7 | 134.5 | 137.6 | 140.8 | 144.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 22.3 | 21.6 | 21.1 | 21.9 | 22.5 | 22.8 | 23.3 | 24.0 | 24.7 | 25.4 | 26.2 | 27.0 | 27.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -3.7 | -3.2 | -2.3 | -2.4 | -2.5 | -2.1 | -2.1 | -2.1 | -2.1 | -2.1 | -2.2 | -2.2 | -2.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 113.2 | 116.3 | 118.1 | 120.0 | 122.2 | 124.2 | 126.5 | 129.1 | 131.7 | 134.5 | 137.6 | 140.8 | 144.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 22.3 | 21.6 | 21.1 | 21.9 | 22.5 | 22.8 | 23.3 | 24.0 | 24.7 | 25.4 | 26.2 | 27.0 | 27.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -2.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 21.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: -3.8; 2025: -3.0; 2026–2036: -2.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | 75 | bps | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 166" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 166">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.8 | 0.8 | 1.1 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -5.1 | -5.1 | -5.7 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 115.6 | 118.1 | 120.2 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The European Commission projects real GDP growth to remain subdued at 0.8% in both 2025 and 2026, driven by energy price increases, fiscal consolidation, and the fallout from the conflict in the Middle East. Growth was partly offset in 2025 by less restrictive monetary policy and strengthening domestic demand, but private consumption remained sluggish due to high household saving rates (18.2% of gross disposable income in 2025) <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button>.
+- **C1-T, structural break**: Economic activity is forecast to grow at 0.8% in 2026 and 1.1% in 2027. Net exports supported by aeronautics and defense offset weak private consumption due to higher energy prices. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 122" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 122">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: France’s price competitiveness has improved, with favorable performance in unit labor cost and GDP deflator-based real depreciations compared to other EU Member States in 2024 and 2025. However, world export market shares declined in 2024 due to weak demand in main markets and underperformance in key sectors like automotive and aeronautics <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button>.
+
+#### Other growth context
+
+- **C1\*, context**: Labor productivity growth remains lacklustre. Although labor productivity (112.7% of the EU level in 2025) picked up in 2024 and 2025, it is constrained by low capital deepening and stagnant total factor productivity. Structural challenges include low business R&D intensity (2.18% of GDP in 2024) and limited adoption of advanced digital technologies by Small and Medium-sized Enterprises <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3, p. 12, p. 56" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3, p. 12, p. 56">ⓘ</button>.
+- **C1\*, context**: Real GDP growth slowed to 0.9% in 2025 amid heightened political uncertainty and is projected to slow further to 0.7% in 2026 before picking up slightly to 0.8% in 2027. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 23" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 23">ⓘ</button>
+- **C1\*, context**: GDP per capita growth has lagged behind highest-income [OECD](../institutions/oecd.qmd) economies, growing by only 63% of the average European Union country rate between 2000 and 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 9" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 9">ⓘ</button>
+- **C1\*, context**: Political uncertainty since 2024, marked by multiple government changes and a hung parliament, has complicated consensus-building and reduced GDP growth by an estimated 0.2–0.4 percentage points. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 18" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 18">ⓘ</button>
+- **C1\*, context**: The employment rate reached a historical high of 69.6% in the second quarter of 2025, but the unemployment rate is projected to increase to 8.3% in 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 19" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 19">ⓘ</button>
+- **C1\*, context**: Labour productivity has recovered to pre-pandemic levels but remains limited by weak technology adoption and skills shortages. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 17" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 17">ⓘ</button>
+- **C1\*, context**: Real GDP growth is projected at 0.2% in 2025, 1.2% in 2026, and averaging 0.7% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button>
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: France committed to placing debt on a downward trajectory under its medium-term fiscal-structural plan for 2025–2029, aiming to reduce the deficit below 3% of GDP by 2029. However, the general government deficit is projected to remain at 5.1% of GDP in 2026. Political gridlock in 2026 budget adoption weakened deficit reduction plans, and the suspension of the 2023 pension reform until January 2028 is expected to worsen the budget balance and increase public debt in the medium term <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3, p. 5, p. 6" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3, p. 5, p. 6">ⓘ</button>.
+- **C3-E, history lags policy**: The S2 indicator points to medium risk, requiring a 3.1% of GDP improvement in 2027 to stabilize debt. The S1 indicator also points to medium risk, requiring a 3.9% of GDP effort to reduce debt to 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 168" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 168">ⓘ</button>
+- **C3-T, history lags policy**: The general government deficit is forecast to remain at 5.1% in 2026 and rise to 5.7% in 2027. Large primary deficits and rising interest payments drive debt increases. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: Public expenditure remains high at 57.2% of GDP in 2025, the second highest in the Eurozone. Approximately 60% is earmarked for social protection and healthcare. The European Commission notes that spending reviews have identified around EUR 10 billion in savings for 2025–2026, but a more ambitious strategy is needed to permanently reduce spending and improve efficiency <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 5, p. 48" aria-label="Source: ec/country-reports/France_2026-06-03, p. 5, p. 48">ⓘ</button>.
+- **C3\*, context**: The tax burden is significantly higher than the EU average, with tax revenues at 44.3% of GDP in 2025. High taxes on production (4.4% of GDP) and labor (implicit tax rate of 38.8% in 2024) weigh on growth. Fiscal and social tax expenditures amount to nearly 6% of GDP, complicating the tax system and posing a heavy budgetary burden <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 6, p. 46" aria-label="Source: ec/country-reports/France_2026-06-03, p. 6, p. 46">ⓘ</button>.
+- **C3\*, context**: Public spending reached 57.2% of GDP in 2025, which is 7.4 percentage points above the euro area average. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 29" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 29">ⓘ</button>
+- **C3\*, context**: Stabilizing public debt at 122% of GDP by 2030 requires substantial fiscal consolidation, with a cumulative adjustment of around 3 percentage points of GDP compared to the current primary budget balance. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 28" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 28">ⓘ</button>
+- **C3\*, context**: The fiscal deficit was 5.1% of GDP in 2024 and is projected to decline to 4.6% by 2027, provided consolidation continues. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 23" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 23">ⓘ</button>
+- **C3\*, context**: Ageing-related spending pressures are significant, with pension benefits high and the old-age dependency ratio rising from 38% in 2022 to 53% in 2050. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 30" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 30">ⓘ</button>
+- **C3\*, context**: Tax expenditures represent 2.9% of GDP, contributing to a complex tax system with limited systematic evaluation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 38" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 38">ⓘ</button>
+- **C3\*, context**: The structural primary balance is projected at -2.1% of GDP on average for 2026-2035. The fiscal consolidation space is 81% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3\*, context**: The SPB before cost of ageing is assumed at -2.1% of GDP from 2026 onwards. This is low compared with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button>
+- **C3\*, context**: The European Commission projects a structural primary deficit before cost of ageing of -3.0% of GDP in 2026, stabilizing at -2.1% from 2027 onwards. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170">ⓘ</button>
+- **C3\*, context**: The S2 indicator requires a 3.1% of GDP effort to stabilize debt, driven by the initial budgetary position (3.0%) and ageing costs (0.1%). The S1 indicator requires a 3.9% of GDP effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: The document notes that Eurosystem holdings of government debt are relevant for backstop eligibility but does not provide specific share figures for captive holdings in the main text. However, it mentions that non-resident share and domestic bank holdings are key for haircut assessment <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button>.
+
+#### Other refinancing context
+
+- **R1\*, context**: General government debt is projected to rise to 118.1% of GDP in 2026. Interest payments are set to keep rising, reaching 2.6% of GDP in 2026. The primary deficit was 2.2% of GDP in 2025, driven by high primary deficits and higher borrowing costs <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button>.
+- **R1\*, context**: Non-financial corporations’ debt edged up to 92.3% of GDP in 2025, increasing the risk to investment and undermining company resilience. Corporate bankruptcies reached record highs, rising by 3.5% in 2025 <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 4" aria-label="Source: ec/country-reports/France_2026-06-03, p. 4">ⓘ</button>.
+- **R1\*, context**: General government gross debt rose steadily from 65% of GDP in 2007 to 115.5% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 24" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 24">ⓘ</button>
+- **R1\*, context**: Annual public debt-servicing costs (net interest payments) rose from 1.3% of GDP in 2020 to 2.1% in 2024, projected to reach 2.6% in 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 25" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 25">ⓘ</button>
+- **R1\*, context**: In the absence of new fiscal measures, the debt-to-GDP ratio could rise to 127% by 2030 and reach 203% by 2050. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 27" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 27">ⓘ</button>
+- **R1\*, context**: France’s long-term interest rates on government bonds are among the highest in the euro area. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 24" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 24">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 21.6% of GDP in 2025. Debt is projected to increase to 144.0% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross debt is projected to increase to 144.0% of GDP by 2036. Gross financing needs are expected to rise to 27.8% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button>
+- **R1-E, components missing**: Public debt is set to increase to 120.2% of GDP by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 123">ⓘ</button>
+- **R1\*, context**: Gross financing needs are projected at 21.1% of GDP in 2026, rising to 27.8% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 170">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: France is under an Excessive Deficit Procedure, which is currently held in abeyance. The Council adopted a recommendation in January 2025 endorsing France’s medium-term fiscal-structural plan with an extension of the adjustment period until 2029. Compliance with maximum growth rates of net expenditure is being monitored <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 40, p. 45" aria-label="Source: ec/country-reports/France_2026-06-03, p. 40, p. 45">ⓘ</button>.
+- **R6\*, context**: The document does not mention NEC activation for France. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 112">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+- Stress tests conducted under the [International Monetary Fund](../institutions/international-monetary-fund.qmd)’s 2025 Financial Sector Assessment Program indicate that French banks and insurance companies would remain resilient under severe adverse scenarios. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 19" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 19">ⓘ</button>
+
+### Willingness to pay and political stability
+
+- **Political uncertainty**: Political gridlock and uncertainty are expected to persist until presidential elections in mid-2027, complicating the meeting of medium-term fiscal commitments. The suspension of the 2023 pension reform adds to fiscal uncertainty <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 5" aria-label="Source: ec/country-reports/France_2026-06-03, p. 5">ⓘ</button>.
+- **Political Stability**: Heightened political uncertainty and frequent government changes since 2024 have weakened business and household confidence, delaying consumption and investment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 18" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 18">ⓘ</button>
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling, rollover pessimism**: The document does not provide specific data on government bond spreads or yields. However, it notes that higher borrowing costs are contributing to the rise in interest payments as a share of GDP <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 3" aria-label="Source: ec/country-reports/France_2026-06-03, p. 3">ⓘ</button>.
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 75 bps at the end of 2025. Rating agencies revised downwards their grading or outlook in 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 167">ⓘ</button>
+
+## Outlook Material
+
+- **Regional disparities**: Territorial disparities are increasing, with traditional heavy industry regions in the North and North-East facing economic vulnerabilities and high youth outmigration. Outermost regions face persistent structural vulnerabilities, with GDP per capita significantly below the EU average (e.g., 30% in Mayotte) <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 8, p. 146" aria-label="Source: ec/country-reports/France_2026-06-03, p. 8, p. 146">ⓘ</button>.
+- **Energy transition**: Challenges persist in deploying renewable energy, with slow permitting and insufficient grid investments. The share of renewable energy sources in gross final energy consumption reached 23.2% in 2024, but France is not on track to meet the EU 2030 target <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 21" aria-label="Source: ec/country-reports/France_2026-06-03, p. 21">ⓘ</button>.
+- **Geopolitical Risks**: The evolving conflict in the Middle East has triggered an energy shock that disrupted economic momentum and weighed on investor sentiment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 9" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 9">ⓘ</button>
+- **Industrial Competitiveness**: Manufacturing deindustrialization has been sharper than the [OECD](../institutions/oecd.qmd) average, driven by structural shifts and weaker export performance. <button type="button" class="source-ref" data-source="oecd/economic-surveys/France_2026-06-30, p. 13" aria-label="Source: oecd/economic-surveys/France_2026-06-30, p. 13">ⓘ</button>
+- **Contingent Liabilities**: Contingent liability risks from the private sector, including state guarantees from the COVID-19 crisis, are risk-increasing factors. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 168" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 168">ⓘ</button>
+- **Climate Risk**: Under the "Fragmented Action" climate scenario, debt could be around 6 pps. of GDP higher in 2050. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

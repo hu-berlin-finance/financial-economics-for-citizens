@@ -1,0 +1,37 @@
+---
+title: "Countries"
+description: "One dossier per country, with the evidence organized by the assessment areas of the DAP (Economic, Fiscal, Debt, Institutions), the DAP tasks and red flags, key figures, and national institutions."
+listing:
+  type: table
+  contents:
+    - austria.qmd
+    - belgium.qmd
+    - bulgaria.qmd
+    - croatia.qmd
+    - cyprus.qmd
+    - estonia.qmd
+    - finland.qmd
+    - france.qmd
+    - germany.qmd
+    - greece.qmd
+    - hungary.qmd
+    - ireland.qmd
+    - italy.qmd
+    - latvia.qmd
+    - lithuania.qmd
+    - luxembourg.qmd
+    - malta.qmd
+    - netherlands.qmd
+    - portugal.qmd
+    - slovakia.qmd
+    - slovenia.qmd
+    - spain.qmd
+    - sweden.qmd
+  sort: false
+  fields: [title, summary]
+  field-display-names:
+    title: "Countrie"
+    summary: "Summary"
+  filter-ui: true
+  sort-ui: false
+---

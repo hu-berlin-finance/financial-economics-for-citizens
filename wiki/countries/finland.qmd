@@ -1,0 +1,298 @@
+---
+title: "Finland"
+summary: "This dossier draws on the OECD Economic Survey (published May 2025), the European Commission Debt Sustainability Monitor (published February 2026), the European Commission Economic Forecast (Spring 2026, published May …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [OECD](../institutions/oecd.qmd) [Economic Survey](../document-types/economic-survey.qmd) (published May 2025), the [European Commission](../institutions/european-commission.qmd) [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) (published February 2026), the [European Commission](../institutions/european-commission.qmd) [Economic Forecast](../document-types/economic-forecast.qmd) (Spring 2026, published May 2026), and the [European Commission](../institutions/european-commission.qmd) [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) (published June 2026). The evidence highlights a fragile economic recovery with modest growth projections for 2026 and 2027. Fiscal sustainability remains a core challenge, with public debt projected to rise significantly to over 90% of gross domestic product by 2027, driven by increased defence spending, aging demographics, and structural deficits. The [European Commission](../institutions/european-commission.qmd) has opened an excessive deficit procedure (EDP), which is held in abeyance. Long-term fiscal sustainability risks are assessed as medium, requiring a structural primary balance improvement of 4.1 percentage points of gross domestic product to stabilize debt.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  |  | -0.9 | -0.1 | 0.7 | 1.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth (extended) | % | 0.8 | -0.9 | -0.1 | 0.7 | 1.1 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised index of consumer prices (HICP) | % |  |  | 4.3 | 1.0 | 1.8 | 1.9 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised index of consumer prices (extended) | % | 7.2 | 4.3 | 1.0 | 1.8 | 1.9 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | GDP deflator | % | 6.2 | 3.5 | 1.4 | 1.6 | 1.9 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | -0.2 | -3.0 | -4.4 | -3.7 | -3.2 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance (table 1) | % of GDP |  |  | -3.0 | -4.4 | -3.7 | -3.2 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 81.4 | 85.6 | 90.4 | 93.7 | 96.3 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt (Maastricht) | % of GDP | 74.0 | 77.5 | 82.1 | 85.4 | 88.0 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financial debt | % of GDP |  |  | 85.6 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 9" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 9">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net financial debt | % of GDP |  |  | -57.4 |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 9" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 9">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} | [2029]{.year-mark title="target"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth (implied from stagnation/rebound description) | - | decline | small rebound | marginal growth |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP |  |  | 3.4 | 4.5 | 4.6 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government debt | % of GDP | 77 |  | 88.5 |  | 93.1 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public expenditure | % of GDP |  |  | 57.2 |  | 57.9 |  | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % |  |  | 10.3 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 3">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | Defence expenditure | % of GDP |  | 2.4 |  |  |  | 3.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button> |
+
+: Years in italics: forecast, target. Source <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03" aria-label="Source: ec/country-reports/Finland_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Household credit-to-GDP ratio | 2020: 58.5; 2025-Q2: 51.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03" aria-label="Source: ec/country-reports/Finland_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.2 | 0.8 | 1.4 | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 1.8 | 2.4 | 1.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government deficit | % of GDP | 4.4 | 3.4 | 4.5 | 4.6 | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | -1.5 | 0.7 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 82.4 | 88.5 | 91.2 | 93.1 | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public expenditure | % of GDP | 57.7 |  |  |  | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  | 1.7 | 2.6 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure growth | % |  | -0.7 | 4.1 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 6">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03" aria-label="Source: ec/recommendations/Finland_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 82.5 | 88.1 | 90.9 | 92.4 | 94.9 | 97.2 | 99.5 | 102.2 | 104.9 | 107.4 | 109.6 | 111.8 | 113.9 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 17.9 | 20.1 | 19.2 | 18.6 | 20.0 | 20.3 | 20.4 | 21.0 | 21.5 | 21.8 | 22.0 | 22.5 | 22.7 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -2.8 | -2.8 | -2.2 | -2.0 | -1.8 | -1.7 | -1.4 | -1.5 | -1.5 | -1.6 | -1.5 | -1.7 | -1.6 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | % of GDP | -1.5 | -1.3 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | -0.9 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 249">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.4 | 0.1 | 0.9 | 1.1 | 1.6 | 1.6 | 1.2 | 1.0 | 1.1 | 1.2 | 1.3 | 1.4 | 1.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 250" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 250">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Inflation rate | % | 0.7 | 0.9 | 1.7 | 1.8 | 1.9 | 1.9 | 2.0 | 2.0 | 2.1 | 2.2 | 2.2 | 2.3 | 2.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 250" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 250">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -0.9 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 20.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth (y-o-y%) | % | 0.2 | 0.8 | 1.4 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised index of consumer prices (y-o-y%) | % | 1.8 | 2.4 | 1.9 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance (% of GDP) | % of GDP | -3.4 | -4.5 | -4.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (% of GDP) | % of GDP | 88.5 | 91.2 | 93.1 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP |  | -4.5 | -4.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The real gross domestic product contracted by 0.1% in 2024 after a sharper decline in late 2023. Growth is projected to recover modestly to 0.7% in 2025 and 1.1% in 2026, supported by declining interest rates and easing inflation, but this recovery lags behind Nordic peers and the [OECD](../institutions/oecd.qmd) average <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button>.
+- **C1-T, Structural break in trend**: The [European Commission](../institutions/european-commission.qmd) states that Finland’s economy is emerging from stagnation and is expected to transit to broad-based growth in 2026. After a decline in 2023 and a small rebound in 2024, real GDP grew only marginally in 2025. Subdued performance is attributed to declining private and public consumption and low consumer confidence <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 3">ⓘ</button>.
+- **C1\*, context**: Real gross domestic product (GDP) growth was 0.2% in 2025. The [European Commission](../institutions/european-commission.qmd) Spring 2026 Forecast projects real GDP to grow by 0.8% in 2026 and 1.4% in 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **C1-T, structural break**: Real GDP growth is projected at 0.8% in 2026 and 1.4% in 2027 <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17">ⓘ</button>.
+- **C1\*, context**: Real GDP growth is projected to accelerate to 0.8% in 2026 and 1.4% in 2027, driven by domestic demand. In 2025, growth was modest at 0.2%. Private consumption is expected to increase by 0.6% in 2026, supported by rising disposable income from significant wage increases (8% total for 2025-27). However, the household savings rate remains high (12.4% in 2026) due to weak consumer confidence and high unemployment. Investment is set to rise in 2026, driven by machinery and equipment spending, including the delivery of F-35 fighter jets and data centre construction. Net exports are forecast to turn negative in 2026 due to import growth outpacing exports <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 148" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 148">ⓘ</button>.
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, growth not thin-tailed**: The recovery is fragile with downside risks skewed by geopolitical tensions, cyber-attacks, and trade policy uncertainty. A further escalation in global trade tensions or hybrid warfare could weaken export performance and delay investment <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 25" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 25">ⓘ</button>.
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, Inherited competitiveness gap**: Cost competitiveness has improved, with average wages relative to output per worker reaching their most advantageous levels since 2020. However, export market shares have contracted since 2020, indicating challenges with non-cost competitiveness such as low economic activity in traditional export destinations and a lack of new innovative products <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 3–4" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 3–4">ⓘ</button>.
+- **C1-A2, productivity gap**: Despite strong innovation performance and high research and development expenditure, productivity growth has remained weak since the decline of the electronics sector in the early 2010s. The document notes that research results need to be commercialized more widely across the economy to contribute effectively to growth <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 7">ⓘ</button>.
+
+#### Other growth context
+
+- **C1\*, context**: Productivity growth has weakened significantly, falling faster than in Nordic neighbors. This is attributed to the collapse of Nokia, the end of trade with Russia, and firms remaining too small <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 24" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 24">ⓘ</button>.
+- **C1*, context**: Labour productivity growth has been limited since 2010, oscillating around zero following the collapse of the electronics sector. Productivity in the services sector has remained constant while growing in peer countries <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 12" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 12">ⓘ</button>.
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The government announced consolidation measures in 2024, including tax increases and spending cuts. However, policy changes in April 2025, including income and corporate tax reductions and increased defense spending to 3% of gross domestic product by 2029, are estimated to reduce the fiscal balance by 1.7 percentage points of gross domestic product by 2029, slowing the pace of consolidation <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 12" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 12">ⓘ</button>.
+- **C3-T, History lags policy**: The [European Commission](../institutions/european-commission.qmd) reports that an excessive deficit procedure (EDP) was opened in January 2026. Finland activated the ‘national escape clause’ to accommodate planned increases in defence expenditure. The Ministry of Finance estimates that stabilising public finances will require a consolidation effort of EUR 8–11 billion (2.7%–3.7% of GDP) over the next parliamentary term (starting 2027) <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4">ⓘ</button>.
+- **C3-T, adopted consolidation**: The [Council of the EU](../institutions/council-of-the-eu.qmd) recommended maximum growth rates of net expenditure of 1.3% in 2026, 1.5% in 2027, and 1.8% in 2028 to bring an end to the excessive deficit situation. The excessive deficit procedure is held in abeyance based on effective action <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 4">ⓘ</button>.
+- **C3-T, escape clause deviation**: Projected net expenditure growth for 2026 is 4.1%, which exceeds the recommended maximum growth rate of 1.3% by 1.5% of GDP in annual terms. However, this deviation is within the flexibility of the national escape clause activated for defense spending <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 6">ⓘ</button>.
+- **C3-T, history lags policy**: The general government balance is projected at -4.5% in 2026 and -4.6% in 2027 <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17">ⓘ</button>.
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: The general government fiscal balance deteriorated to -4.4% of gross domestic product in 2023 and is projected to improve slightly to -3.7% in 2025 and -3.2% in 2026 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button>.
+- **C3\*, context**: A structural gap between revenue and expenditure has existed since the Global Financial Crisis. Ageing-related costs are projected to rise considerably, with pension, health, and long-term care expenditure increasing from around 15.5% of gross domestic product to around 18.5% by 2040 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 36" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 36">ⓘ</button>.
+- **C3*, context**: The general government deficit declined to 3.4% of gross domestic product in 2025 but is projected to rise to 4.5% in 2026 and 4.6% in 2027. Public debt is expected to increase from 88.5% in 2025 to 93.1% in 2027. The government implemented consolidation measures in 2024–2025, including spending cuts and tax increases, but these did not suffice to stabilise the debt ratio <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **C3*, context**: A new fiscal framework was approved in December 2025, introducing a long-term debt anchor of 40% of gross domestic product and targets for four-year and eight-year cycles. The Economic Policy Council was designated as the independent fiscal institution responsible for monitoring compliance with European Union fiscal rules <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **C3\*, context**: The general government deficit decreased from 4.4% of gross domestic product in 2024 to 3.4% of gross domestic product in 2025. The [European Commission](../institutions/european-commission.qmd) projects the deficit to rise to 4.5% of gross domestic product in 2026 and 4.6% of gross domestic product in 2027, driven by higher government investment in defense and interest payments <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **C3\*, high expenditure share**: Public expenditure was 57.7% of gross domestic product in 2024, the highest in the Union. Social protection expenditure was 26% of gross domestic product in 2024, well above the Union average of 19% of gross domestic product. The document states that public debt is not expected to stabilize without additional interventions and calls for spending reviews to improve efficiency <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 6">ⓘ</button>.
+- **C3*, context**: The SPB is assumed to be a deficit of 0.9% of gross domestic product as of 2026, excluding changes in the cost of ageing. This level is low compared with past fiscal performance <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247">ⓘ</button>.
+- **C3*, context**: Long-term fiscal sustainability risks are medium. The S2 indicator signals that Finland would need to improve its structural primary balance by 4.1 percentage points to ensure debt stabilizes over the long term <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248">ⓘ</button>.
+- **C3*, context**: The S1 indicator shows that a fiscal effort of 3.1 percentage points would be needed to reduce debt to 60% of gross domestic product by 2070 <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248">ⓘ</button>.
+- **C3\*, context**: The structural primary balance is projected at -0.9% of gross domestic product on average for 2026-2035. The fiscal consolidation space is 92% in the baseline scenario <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>.
+- **C3\*, context**: The general government deficit is forecast to widen from 3.4% of gross domestic product in 2025 to 4.5% in 2026 and 4.6% in 2027. Expenditure growth in 2026 is driven by the delivery of F-35 jets, increasing interest payments, and higher compensation of employees due to recent wage agreements. Revenue growth is supported by a mild economic expansion but limited by weak labor market conditions and planned personal income tax cuts. The fiscal stance is expected to be expansionary in 2026 <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149">ⓘ</button>.
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, contingent liabilities**: Risk-increasing factors are related to government guarantees and related implicit liabilities for the public sector, which are among the largest in the European Union <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248">ⓘ</button>.
+- **R1-E, stock-flow adjustments**: The projected increase in debt is also explained by positive stock-flow adjustments (1.3% of gross domestic product on average over 2027-2036), mostly due to the build-up of a public pension fund <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247">ⓘ</button>.
+- **R1-E, components missing**: Data not explicitly detailed in country summary, but included in aggregate tables <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 17">ⓘ</button>.
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, financing behavior shifts**: Defense spending has risen rapidly from close to 1.5% to around 2.4% of gross domestic product in 2024 and is targeted to increase to 3% of gross domestic product by 2029. This rise in expenditure contributes to the widening deficit and debt accumulation <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 31" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 31">ⓘ</button>.
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, investor base**: Mitigating factors include relatively stable financing sources with a diversified and large investor base, and debt denominated exclusively in euros <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 248">ⓘ</button>.
+
+#### Other refinancing context
+
+- **R1\*, context**: Gross general government debt is projected to rise from 85.6% of gross domestic product in 2023 to 96.3% in 2025. Debt on the Maastricht definition rose to 82.1% in 2023 and is projected to reach 88.0% in 2025 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 22" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 22">ⓘ</button>.
+- **R1\*, context**: The document notes that household indebtedness has eased recently, with the household credit-to-gross domestic product ratio declining from 58.5% in 2020 to 51.3% in Q2 2025, as households amortised loans more than they drew new ones <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4">ⓘ</button>.
+- **R1*, context**: Public investment is expected to increase significantly in 2026–2027 due to defence equipment purchases (e.g., F35 fighter jets), raising total public investment above 5% of gross domestic product <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 32" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 32">ⓘ</button>.
+- **R1\*, context**: General government debt increased from 82.4% of gross domestic product at the end of 2024 to 88.5% of gross domestic product at the end of 2025. The increase reflects a persistent deficit, a large positive stock-flow adjustment, and modest nominal gross domestic product growth. Debt is projected to reach 91.2% of gross domestic product by the end of 2026 and 93.1% by the end of 2027 <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **R1\*, stock-flow adjustments**: The document notes that the increase in the debt ratio in 2025 was mainly due to a persistent government deficit and a large positive stock-flow adjustment. In 2026, the stock-flow adjustment is expected to play only a marginal role <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **R1\*, context**: Government gross financing needs are expected to recede slightly to around 19% of gross domestic product on average in 2026-2027, approaching 23% of gross domestic product in 2036 <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247">ⓘ</button>.
+- **R1\*, context**: Gross financing needs were 20.1% of gross domestic product in 2025. Debt is projected to increase to 113.9% of gross domestic product by 2036, crossing the 90% threshold <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>.
+- **R1\*, context**: Public debt is projected to continue rising, reaching 91.2% of gross domestic product in 2026 and 93.1% in 2027, due to persistent large deficits <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 149">ⓘ</button>.
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: The [European Commission](../institutions/european-commission.qmd)'s assessment and the [OECD](../institutions/oecd.qmd)'s projections highlight the need for continued fiscal consolidation to ensure debt sustainability. The [OECD](../institutions/oecd.qmd) estimates that ongoing efforts will lower the structural deficit by 0.5% of potential gross domestic product cumulatively over 2025-26 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 31" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 31">ⓘ</button>.
+- **R6*, Bright-line inputs**: An excessive deficit procedure (EDP) was opened against Finland in January 2026. However, the [Council of the EU](../institutions/council-of-the-eu.qmd) adopted a recommendation on 21 January 2026 with a view to bringing an end to the situation, and the EDP is held in abeyance. This follows the activation of the national escape clause for defence spending, which fully explains the cumulated deviation in 2026 <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 27" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 27">ⓘ</button>.
+- **R6\*, context**: The excessive deficit procedure for [Finland](../countries/finland.qmd) is held in abeyance following the [Council of the EU](../institutions/council-of-the-eu.qmd)'s assessment of effective action on 3 June 2026 <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 4">ⓘ</button>.
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **Economic Policy Council**: Designated as the independent fiscal institution responsible for monitoring compliance with EU fiscal rules under the new fiscal framework approved in December 2025 <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **Ministry of Finance**: Estimates that stabilising public finances will require a consolidation effort of EUR 8–11 billion over the next parliamentary term <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 4">ⓘ</button>.
+- **[Eurostat](../institutions/eurostat.qmd)**: Provided data on general government deficit, debt, and expenditure used in the assessment. Specifically, data from Eurostat-Euro Indicators dated 22.04.2026 was cited for deficit and debt figures <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button>.
+- **[European Central Bank](../institutions/european-central-bank.qmd)**: The [European Central Bank](../institutions/european-central-bank.qmd) cut policy rates since June 2024, which has supported private consumption and investment in [Finland](../countries/finland.qmd) by lowering borrowing costs <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 20" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 20">ⓘ</button>.
+- **[OECD](../institutions/oecd.qmd)**: The [OECD](../institutions/oecd.qmd) provides macroeconomic forecasts, debt sustainability simulations, and policy recommendations. It estimates the fiscal impact of reforms and projects long-term debt trajectories using its Long-Term Model <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button>.
+- **[European Investment Bank](../institutions/european-investment-bank.qmd)**: The [European Investment Bank](../institutions/european-investment-bank.qmd)'s Investment Survey indicates that almost half of Finnish firms view the green transition as an opportunity, the highest share among the 23 surveyed countries <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 93" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 93">ⓘ</button>.
+- **[European Commission](../institutions/european-commission.qmd)**: The document references [European Commission](../institutions/european-commission.qmd) data and policies, such as the European Union fiscal framework and the European Union's Restoration Regulation, which impact Finnish fiscal and environmental policy <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 116" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 116">ⓘ</button>.
+- **[European Commission](../institutions/european-commission.qmd)**: The [European Commission](../institutions/european-commission.qmd) publishes the Debt Sustainability Monitor as part of its economic surveillance duties. The document serves as input for the European Semester and the reformed EU fiscal framework <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 11, 12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 11, 12">ⓘ</button>.
+- **[European Central Bank](../institutions/european-central-bank.qmd)**: The [European Central Bank](../institutions/european-central-bank.qmd)'s composite indicator of systemic sovereign stress (SovCISS) is used to monitor short-term sovereign risk. The [European Central Bank](../institutions/european-central-bank.qmd)'s policy rates and asset purchase programs are noted in the context of financing conditions and debt holder composition <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 21, 23, 74" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 21, 23, 74">ⓘ</button>.
+- **[Eurostat](../institutions/eurostat.qmd)**: [Eurostat](../institutions/eurostat.qmd) data is used for government debt statistics, including the Maastricht definition and non-EDP liabilities <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 79, 81" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 79, 81">ⓘ</button>.
+- **[European Commission](../institutions/european-commission.qmd)**: The [European Commission](../institutions/european-commission.qmd) issued the forecast and provided a toolbox to address the energy crisis, emphasizing targeted and temporary fiscal measures <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 80" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 80">ⓘ</button>.
+- **[European Central Bank](../institutions/european-central-bank.qmd)**: The [European Central Bank](../institutions/european-central-bank.qmd) is expected to cautiously tighten its monetary policy stance, with markets pricing in policy rates of around 2.6% in the first quarter of 2027 <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 37" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 37">ⓘ</button>.
+- **[Eurostat](../institutions/eurostat.qmd)**: The forecast uses budgetary data validated by [Eurostat](../institutions/eurostat.qmd) up to 2025 <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89">ⓘ</button>.
+- **[European Investment Bank](../institutions/european-investment-bank.qmd)**: Cited in a box regarding how EU manufacturing firms navigate foreign market tensions <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 49" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 49">ⓘ</button>.
+
+## Market Signals
+
+- **Outlook Factors, factor decoupling**: Consumer and business confidence remain subdued, particularly in the construction sector, despite a slight improvement in business confidence. House prices have stabilized after earlier declines, with the real price index of old dwellings showing limited improvement <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 20" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 20">ⓘ</button>.
+- **Context**: Financial markets’ perceptions of sovereign risk have remained broadly stable, except for a downgrade by Fitch in July 2025 to the third highest rating, ‘AA’. The 10-year sovereign yield spread is 35 basis points versus the German Bund as of December 31, 2025 <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247, 249" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 247, 249">ⓘ</button>.
+
+## Outlook Material
+
+- **Outlook Factors, geopolitical shocks**: Finland faces significant security risks from Russia, including cyber-attacks and infrastructure sabotage. The country closed its border with Russia indefinitely in April 2024 and joined the North Atlantic Treaty Organization in April 2023. These factors contribute to economic uncertainty and defense spending increases <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 25" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 25">ⓘ</button>.
+- **Outlook Factors, demographic trends**: The working-age population is projected to shrink in the 2030s under baseline migration assumptions, although recent high migration levels have led to upward revisions in population projections. Net inward migration of 40,000 annually from 2026 is assumed in the high population scenario, which would stabilize public debt at around 110% of gross domestic product from 2035 onwards <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 39" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 39">ⓘ</button>.
+- **Geopolitics and Defence**: [Finland](../countries/finland.qmd) is increasing defence expenditure to 3% of gross domestic product by 2029, up from 2.4% in 2024. The 2026 budget includes EUR 6 billion in new procurement for defence materiel. The [Council of the EU](../institutions/council-of-the-eu.qmd) has made financial assistance of up to EUR 1 billion available through the Security Action for Europe instrument <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 5–6" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 5–6">ⓘ</button>.
+- **Social Stability**: High unemployment (10.3% in late 2025) and reforms to the social security system are raising concerns about poverty risks among vulnerable groups. The social security reforms, effective in 2026, tighten conditions and may increase labour market participation but could also disproportionately affect low-income families and young people <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 18–19" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 18–19">ⓘ</button>.
+- **Innovation and Productivity**: Commercialisation of innovation remains problematic, with declining cooperation between academia and businesses. Scaling-up innovative firms is hampered by a lack of large-scale domestic venture capital funding for later-stage rounds <button type="button" class="source-ref" data-source="ec/country-reports/Finland_2026-06-03, p. 10–11" aria-label="Source: ec/country-reports/Finland_2026-06-03, p. 10–11">ⓘ</button>.
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

@@ -1,0 +1,84 @@
+---
+title: "Country-Specific Recommendations"
+summary: "This document type is issued by the European Commission as a proposal and adopted by the Council of the EU. It forms part of the European Semester cycle, published annually in the spring for each euro-area member state. …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This document type is issued by the [European Commission](../institutions/european-commission.qmd) as a proposal and adopted by the [Council of the EU](../institutions/council-of-the-eu.qmd). It forms part of the European Semester cycle, published annually in the spring for each euro-area member state. The documents assess national economic, social, employment, structural, and budgetary policies. This card currently draws on twenty-one documents covering [Austria](../countries/austria.qmd), [Belgium](../countries/belgium.qmd), [Bulgaria](../countries/bulgaria.qmd), [Croatia](../countries/croatia.qmd), [Cyprus](../countries/cyprus.qmd), [Estonia](../countries/estonia.qmd), [Finland](../countries/finland.qmd), [France](../countries/france.qmd), [Germany](../countries/germany.qmd), [Greece](../countries/greece.qmd), [Ireland](../countries/ireland.qmd), [Italy](../countries/italy.qmd), [Latvia](../countries/latvia.qmd), [Lithuania](../countries/lithuania.qmd), [Luxembourg](../countries/luxembourg.qmd), [Malta](../countries/malta.qmd), [Netherlands](../countries/netherlands.qmd), [Portugal](../countries/portugal.qmd), [Slovakia](../countries/slovakia.qmd), [Slovenia](../countries/slovenia.qmd), and [Spain](../countries/spain.qmd).
+
+## Use in the Rating Process
+
+This document type provides bright-line inputs for the **minimal rating process (MRP)** and the **discretionary adjustments process (DAP)**.
+
+- It feeds **backstop eligibility (R6\*)** by stating whether a country is subject to an excessive deficit procedure and the status of that procedure (e.g., whether it is held in abeyance or abrogated).
+- It feeds the **fiscal plan (C3-T\*)** by assessing compliance with the recommended net expenditure path, including the application of national escape clauses for defence spending or other flexibility measures.
+
+## License and Attribution
+
+This document type is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Reuse is allowed for any purpose if the source is credited and changes are indicated, pursuant to Commission Decision 2011/833/EU on the reuse of Commission documents. Credit must be given as: © European Union, <year>, with a link to the document. Third-party content inside a document, such as logos or figures credited to another organization, is not covered by this license.
+
+## Methods
+
+- The documents assess compliance with the net expenditure path and the status of the excessive deficit procedure. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 3">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) assesses effective action under the excessive deficit procedure, which can lead to the procedure being held in abeyance. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 4">ⓘ</button>
+- Deviations from recommended maximum growth rates of net expenditure are calculated, accounting for flexibilities such as the national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button>
+- The [Council of the EU](../institutions/council-of-the-eu.qmd) endorses national medium-term fiscal-structural plans and sets maximum growth rates for net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Cyprus_2026-06-03, p. 3">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) proposes opening an excessive deficit procedure if the deficit is projected to exceed the 3% of GDP reference value. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 6">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) adopts a report under Article 126(3) of the Treaty on the Functioning of the European Union to assess compliance with the deficit criterion, but does not propose opening an excessive deficit procedure if the deviation is fully explained by the activated national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 6">ⓘ</button>
+- The [European Commission](../institutions/european-commission.qmd) uses the concept of "net expenditure" and its growth rate to monitor compliance with the EU fiscal framework. The "fiscal stance" is defined as the annual change in the underlying budgetary position, measured as the difference between medium-term potential growth and the change in primary expenditure net of discretionary revenue measures. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 4">ⓘ</button>
+- The document references the "excessive deficit procedure" under Article 126(3) of the Treaty on the Functioning of the European Union as a bright-line indicator of fiscal compliance. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 5">ⓘ</button>
+- The document uses HICP inflation projections from the Commission Spring 2026 Forecast to assess price stability and differentials implicitly through the context of euro-area policy coordination. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5">ⓘ</button>
+- The document assesses fiscal capacity through the lens of the EU fiscal framework, using net expenditure growth rates, structural plans, and the definition of fiscal stance as the change in primary expenditure net of discretionary revenue measures. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5–6" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5–6">ⓘ</button>
+- Debt sustainability is monitored via general government debt-to-GDP ratios, budget surpluses, and the external position, noting that debt and external debt ratios are expected to fall further. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 4, 6" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 4, 6">ⓘ</button>
+- The document uses the Commission Spring 2026 Forecast to project general government balance and debt, based on policy measures known at the cut-off date. <button type="button" class="source-ref" data-source="ec/recommendations/Ireland_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Ireland_2026-06-03, p. 4-5">ⓘ</button>
+- Growth projections are derived from the Commission Spring 2026 Forecast, accounting for strong real growth and subsequent adjustments. <button type="button" class="source-ref" data-source="ec/recommendations/Ireland_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Ireland_2026-06-03, p. 4">ⓘ</button>
+- The document assesses fiscal sustainability risks and the alignment of the budget with the corrective path under the excessive deficit procedure, focusing on net expenditure growth rates and the primary balance implied by the deficit and interest costs. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 5-6" aria-label="Source: ec/recommendations/France_2026-06-03, p. 5-6">ⓘ</button>
+- The document references the status of the excessive deficit procedure and the assessment of effective action, which are bright-line inputs for backstop eligibility under the EU fiscal framework. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 4" aria-label="Source: ec/recommendations/France_2026-06-03, p. 4">ⓘ</button>
+- The document identifies macroeconomic imbalances and high government debt as drivers for in-depth reviews under the Alert Mechanism Report. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 3">ⓘ</button>
+- The document assesses compliance with the Stability and Growth Pact and the European Semester, reporting on net expenditure deviations and the activation of national escape clauses for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 2-3">ⓘ</button>
+- The document concludes whether the deficit criterion is fulfilled despite projected deficits exceeding 3% of GDP, due to the activation of the national escape clause, and does not propose an excessive deficit procedure. <button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 5">ⓘ</button>
+- The document reports on the abrogation of excessive deficit decisions following timely and durable correction, indicating formal closure of the procedure. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 3">ⓘ</button>
+- The document assesses material deviations in net expenditure growth against Council-endorsed ceilings, including cumulative deviations over multi-year periods. <button type="button" class="source-ref" data-source="ec/recommendations/Luxembourg_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Luxembourg_2026-06-03, p. 4">ⓘ</button>
+- The document assesses the fiscal stance and net expenditure growth against recommended maximum rates under the EU fiscal framework (Regulation (EU) 2024/1263). Deviations from these rates are calculated in percentage points of GDP. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 3-5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 3-5">ⓘ</button>
+- The document uses the Commission Spring 2026 Forecast to project deficit and debt developments, incorporating policy measures known at the cut-off date. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button>
+- Net expenditure growth is assessed against recommended maximum growth rates established by the Council, accounting for flexibility under the national escape clause for defence spending. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 5">ⓘ</button>
+- Debt sustainability is assessed through the projected debt-to-GDP ratio, noting the impact of the interest-growth differential and stock-flow adjustments. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button>
+- The assessment of excessive deficit procedure eligibility follows the EU fiscal framework (Regulation (EU) 2024/1263), considering the activation of the national escape clause and the Article 126(3) TFEU report. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 5">ⓘ</button>
+
+## Documents
+
+::: {.table-scroll}
+
+| Document | Country | Publication Date | Main Topics |
+| --- | --- | --- | --- |
+| ec/recommendations/Austria_2026-06-03 | [Austria](../countries/austria.qmd) | 2026-06-03 | Excessive deficit procedure abeyance; national escape clause for defence; net expenditure compliance |
+| ec/recommendations/Belgium_2026-06-03 | [Belgium](../countries/belgium.qmd) | 2026-06-03 | Excessive deficit procedure abeyance; national escape clause; net expenditure deviations |
+| ec/recommendations/Bulgaria_2026-06-03 | [Bulgaria](../countries/bulgaria.qmd) | 2026-06-03 | Proposed excessive deficit procedure; national escape clause; deficit projections |
+| ec/recommendations/Croatia_2026-06-03 | [Croatia](../countries/croatia.qmd) | 2026-06-03 | Net expenditure deviations; national escape clause; fiscal stance |
+| ec/recommendations/Cyprus_2026-06-03 | [Cyprus](../countries/cyprus.qmd) | 2026-06-03 | Net expenditure deviations; surplus position; fiscal framework compliance |
+| ec/recommendations/Estonia_2026-06-03 | [Estonia](../countries/estonia.qmd) | 2026-06-03 | National escape clause for defence; excessive deficit procedure assessment; net expenditure deviations; tax base broadening |
+| ec/recommendations/Finland_2026-06-03 | [Finland](../countries/finland.qmd) | 2026-06-03 | Excessive deficit procedure abeyance; national escape clause; high public expenditure; productivity challenges |
+| ec/recommendations/France_2026-06-03 | [France](../countries/france.qmd) | 2026-06-03 | Excessive deficit procedure abeyance; high fiscal sustainability risks; pension reform suspension; net expenditure compliance |
+| ec/recommendations/Germany_2026-06-03 | [Germany](../countries/germany.qmd) | 2026-06-03 | National escape clause for defence; no excessive deficit procedure; net expenditure limits; structural reforms |
+| ec/recommendations/Greece_2026-06-03 | [Greece](../countries/greece.qmd) | 2026-06-03 | No macroeconomic imbalances; national escape clause for defence; fiscal adherence; structural reforms |
+| ec/recommendations/Ireland_2026-06-03 | [Ireland](../countries/ireland.qmd) | 2026-06-03 | Net expenditure compliance; corporate tax reliance; energy transition; housing supply |
+| ec/recommendations/Italy_2026-06-03 | [Italy](../countries/italy.qmd) | 2026-06-03 | Macroeconomic imbalances; excessive deficit procedure abeyance; net expenditure ceilings; structural reforms |
+| ec/recommendations/Latvia_2026-06-03 | [Latvia](../countries/latvia.qmd) | 2026-06-03 | National escape clause for defence; deficit criterion fulfillment; shadow economy; energy transition |
+| ec/recommendations/Lithuania_2026-06-03 | [Lithuania](../countries/lithuania.qmd) | 2026-06-03 | Net expenditure deviations; national escape clause; public debt rise; structural challenges |
+| ec/recommendations/Luxembourg_2026-06-03 | [Luxembourg](../countries/luxembourg.qmd) | 2026-06-03 | Net expenditure deviations; pension sustainability; housing affordability; productivity decline |
+| ec/recommendations/Malta_2026-06-03 | [Malta](../countries/malta.qmd) | 2026-06-03 | Abrogated excessive deficit procedure; net expenditure deviations; tax planning risks; structural reforms |
+| ec/recommendations/Netherlands_2026-06-03 | [Netherlands](../countries/netherlands.qmd) | 2026-06-03 | No macroeconomic imbalances; net expenditure deviations; housing shortage; pension reform costs |
+| ec/recommendations/Portugal_2026-06-03 | [Portugal](../countries/portugal.qmd) | 2026-06-03 | Surplus to deficit shift; national escape clause; net expenditure deviations; pension sustainability |
+| ec/recommendations/Slovakia_2026-06-03 | [Slovakia](../countries/slovakia.qmd) | 2026-06-03 | Macroeconomic imbalances; excessive deficit procedure abeyance; high deficit; housing shortage |
+| ec/recommendations/Slovenia_2026-06-03 | [Slovenia](../countries/slovenia.qmd) | 2026-06-03 | No excessive deficit procedure opened; national escape clause; net expenditure deviations; energy transition |
+| ec/recommendations/Spain_2026-06-03 | [Spain](../countries/spain.qmd) | 2026-06-03 | National escape clause; net expenditure deviations; debt decline; structural reforms |
+
+:::
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

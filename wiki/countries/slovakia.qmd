@@ -1,0 +1,287 @@
+---
+title: "Slovakia"
+summary: "This dossier draws on the Country Report and Country-Specific Recommendations for Slovakia, both issued by the European Commission on June 3, 2026. It also integrates data from the Debt Sustainability Monitor published …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [Country Report](../document-types/country-report.qmd) and [Country-Specific Recommendations](../document-types/country-specific-recommendations.qmd) for [Slovakia](../countries/slovakia.qmd), both issued by the [European Commission](../institutions/european-commission.qmd) on June 3, 2026. It also integrates data from the [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) published by the [European Commission](../institutions/european-commission.qmd) on February 12, 2026, and the [Economic Forecast](../document-types/economic-forecast.qmd) from May 21, 2026. Additionally, the dossier incorporates findings from the [Economic Survey](../document-types/economic-survey.qmd) issued by the [OECD](../institutions/oecd.qmd) on June 25, 2026. The reports highlight weak economic growth driven by fiscal consolidation and an unfavorable external environment, with significant fiscal pressures as the general government deficit rises and public debt increases. Structural weaknesses include regional disparities, low innovation, high unit labor costs, and a severe housing shortage. The analysis notes vulnerabilities in the judicial and anti-corruption framework, continued energy dependency on Russia, and high long-term fiscal sustainability risks based on debt-to-GDP projections. The OECD survey further emphasizes the long-term risks posed by demographic aging and the need for structural reforms to improve the business environment and competitiveness.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % change | 2.1 | 1.9 | 0.8 | 0.7 | 1.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 10" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 10">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % change | 1.6 | 1.8 | 1.7 | 1.7 | 1.7 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised index of consumer prices (HICP) | % y-o-y change | 11.0 | 3.2 | 4.2 | 4.2 | 2.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 10" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 10">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government fiscal balance | % of GDP | -5.3 | -4.5 | -4.3 | -4.3 | -4.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Cyclically adjusted general government fiscal balance | % of potential GDP | -5.0 | -3.7 | -3.1 | -3.1 | -3.1 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt, Maastricht definition | % of GDP | 59.7 | 61.4 | 62.6 | 64.6 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 10" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government net debt | % of GDP | 41.8 | 44.3 | 45.5 | 47.6 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Current account balance | % of GDP | -4.6 | -3.6 | -3.2 | -2.7 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Ten-year government bond yield, average | % | 3.5 | 3.4 | 3.6 | 3.6 | 3.6 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.8 | 0.8 | 1.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP Inflation | % | 4.2 | 4.3 | 3.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General Government Deficit | % of GDP | 4.5 | 4.6 | 5.4 | <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public Debt | % of GDP | 61.4 |  | 66.9 | <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 5">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03" aria-label="Source: ec/country-reports/Slovakia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Current Account | Marginally improved, but risks persist | N/A | <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03" aria-label="Source: ec/country-reports/Slovakia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.8 | 0.8 | 1.5 | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 4.2 | 4.3 | 3.2 | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -5.3 | -4.5 | -4.6 | -5.4 | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Fiscal stance | % of GDP |  | -1.1 | -0.5 | -1.1 | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government debt | % of GDP | 59.7 | 61.4 | 63.7 | 66.9 | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net expenditure growth | % |  | 1.7 | 2.9 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Defence expenditure | % of GDP |  | 2.0 | 2.0 |  | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03" aria-label="Source: ec/recommendations/Slovakia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Cumulative net expenditure growth | 2024–2025: 5.4; 2024–2026: 8.4 | % | <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03" aria-label="Source: ec/recommendations/Slovakia_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 59.7 | 61.9 | 64.0 | 67.2 | 69.9 | 72.6 | 75.8 | 79.4 | 83.2 | 87.3 | 91.6 | 96.4 | 101.2 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 10.8 | 10.1 | 10.1 | 11.0 | 10.9 | 11.2 | 11.5 | 12.0 | 12.3 | 12.8 | 13.2 | 13.7 | 14.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | -4.1 | -3.4 | -2.9 | -3.5 | -3.5 | -3.5 | -3.6 | -3.8 | -3.8 | -4.0 | -4.2 | -4.4 | -4.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | % of GDP | -4.2 | -3.2 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | -2.6 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 244">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 1.9 | 0.8 | 1.0 | 1.1 | 1.6 | 1.8 | 1.5 | 1.3 | 1.3 | 1.4 | 1.4 | 1.5 | 1.5 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 245" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 245">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Inflation rate | % | 3.4 | 3.8 | 3.6 | 2.9 | 2.8 | 2.7 | 2.7 | 2.6 | 2.5 | 2.4 | 2.4 | 2.3 | 2.3 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 245" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 245">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP |  | 10.1 |  |  |  |  |  |  |  |  |  |  |  | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | -2.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.8 | 1.5 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public deficit | % of GDP | 4.6 | 5.4 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public debt | % of GDP |  | 66.9 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 147" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 147">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+- **C1-E, Broken or dominated sample**: Demographic shifts pose a significant long-term headwind. The population aged 15-64 is set to shrink by nearly 30% over 2025-2065, while the number of people above 64 will increase by 52%. This demographic change is expected to have a large downward impact on GDP per capita, potentially reducing it by up to 17.5% relative to a scenario with constant employment ratios. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 31-33" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 31-33">ⓘ</button>
+
+#### C1-T Structural break in trend
+
+- **C1-T Structural break in trend**: Economic growth slowed significantly to 0.8% in 2025 due to fiscal consolidation and global uncertainty. Growth is forecast to remain subdued at 0.8% in 2026. The medium-term growth forecast (1.5% in 2027) deviates from the historical mean, reflecting structural challenges in productivity and innovation. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3">ⓘ</button>
+- **C1\*, context**: Real gross domestic product (GDP) growth was 0.8% in 2025. The [European Commission](../institutions/european-commission.qmd) projects growth of 0.8% in 2026 and 1.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button>
+- **C1-T, structural break**: Real GDP growth is expected to remain modest at 0.8% in 2026, picking up to 1.5% in 2027. Domestic demand is subdued due to fiscal consolidation. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146">ⓘ</button>
+- **C1-T, Structural break in trend**: The OECD notes that convergence in living standards has stalled. Real GDP per capita growth has fallen behind regional peers since the Global Financial Crisis. The gap in GDP per capita with Germany is primarily due to lower total factor productivity (TFP), which accounts for 64% of the gap. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 59-60" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 59-60">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2 Inherited competitiveness gap**: Slovakia’s competitiveness is weakening, reflected by sluggish productivity growth and decreased foreign direct investment (FDI). Real convergence has stalled, with GDP per capita at 56.8% of the EU average in 2024. High unit labor costs undermine cost competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- **C1-A2, inherited competitiveness gap**: Fast-rising unit labor costs have further weakened competitiveness and are still expected to grow relatively fast in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- **C1-A2, Inherited competitiveness gap**: The automotive sector, a key driver of the economy, faces acute challenges from structural changes and high trade barriers. US effective tariff rates on Slovak exports have increased substantially, affecting the automotive sector disproportionately compared to other Visegrad countries. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19-20" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19-20">ⓘ</button>
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+- **C2-M Labour-cost versus consumer-price differential**: Inflation remains elevated at 4.2% in 2025, driven by tax increases and services prices. It is expected to remain high at 4.3% in 2026 due to rising energy prices. The cumulated inflation differential to the euro area is widening, weighing on competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3, 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3, 4">ⓘ</button>
+
+#### Other inflation context
+
+- **C2\*, context**: HICP inflation was well above the euro area in 2025, partly due to value-added tax (VAT) rate increases. Core inflation is forecast to stay among the highest in the euro area in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T History lags policy**: Slovakia is struggling to correct its excessive budget deficit. The deadline for bringing the deficit below 3% of GDP has been postponed to 2028. The adjustment requires an improvement in the structural primary balance of around 5.2 percentage points of GDP between 2024 and 2028. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The [Council of the EU](../institutions/council-of-the-eu.qmd) endorsed [Slovakia](../countries/slovakia.qmd)'s national medium-term fiscal-structural plan in January 2025, setting maximum net expenditure growth rates. [Slovakia](../countries/slovakia.qmd) activated the national escape clause for defense spending (2025–2028). <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- **C3-T, history lags policy**: The public deficit is projected to rise to 4.6% in 2026 and 5.4% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 146">ⓘ</button>
+- **C3-T, History lags policy**: The government adopted a fiscal consolidation plan for 2025 and 2026, aiming to reduce the deficit. The 2026 plan includes revenue measures totaling 1.0% of GDP (taxes on high earners, VAT increases, health insurance contributions) and spending reductions of 0.9% of GDP. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 22-24" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 22-24">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A Default is chosen, not only suffered**: The Slovak Council for Budgetary Responsibility warns that, without additional measures, the deficit could reach 6% of GDP and public debt could rise to 75% of GDP by 2029. Consolidation measures have focused primarily on tax increases, which reduce competitiveness, while discretionary spending (e.g., 13th pension, energy support) reduces net fiscal consolidation. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 5">ⓘ</button>
+- **C3-A, Default is chosen, not only suffered**: The OECD critiques the composition of consolidation, noting that heavy reliance on taxes (especially labor and corporate) and across-the-board spending cuts is detrimental to growth. It recommends prioritizing spending cuts (energy subsidies, pensions) and less distortionary taxes. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 24-25" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 24-25">ⓘ</button>
+
+#### Other fiscal context
+
+- **C3*, context**: The structural primary balance is projected at -2.6% of GDP on average for 2026-2035. The fiscal consolidation space is 44% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3*, context**: The SPB is assumed to be a deficit of 2.6% of GDP as of 2026, excluding changes in the cost of ageing. This level is broadly in line with past fiscal performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242">ⓘ</button>
+- **C3*, context**: Long-term fiscal sustainability risks are high. The S2 indicator signals that Slovakia would need to improve its structural primary balance by 7.2 percentage points to ensure debt stabilizes over the long term. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 243" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 243">ⓘ</button>
+- **C3*, context**: The S1 indicator shows that a fiscal effort of 6.2 percentage points would be needed to limit debt to 60% of GDP by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 243" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 243">ⓘ</button>
+- **C3\*, context**: The general government deficit decreased to 4.5% of GDP in 2025 but is projected to rise to 5.4% in 2027 due to military equipment deliveries. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 5">ⓘ</button>
+- **C3\*, context**: Net expenditure grew by 1.7% in 2025, below the recommended maximum. It is projected to grow by 2.9% in 2026, exceeding the recommended maximum growth rate by 0.8% of GDP in annual terms, though cumulative growth remains below the limit. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button>
+- **C3\*, context**: Insufficient implementation of existing spending reviews limits their potential for savings. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button>
+- **C3\*, context**: The tax wedge on labor earnings remains above the European Union (EU) average. Revenues from recurrent property and environmental taxation are below the EU average. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 7" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 7">ⓘ</button>
+- **C3\*, context**: Public expenditure to GDP was 47% in 2024, well above the OECD average. Energy subsidies remain large, with nearly 90% of households eligible for targeted subsidies in 2026. The OECD recommends phasing out these subsidies. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 42" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 42">ⓘ</button>
+- **C3\*, context**: The debt brake, a constitutional rule, has historically been suspended for two years after parliamentary approval of government programs, limiting its effectiveness. The OECD recommends reforming the debt brake to increase credibility by removing exemption periods. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 48-49" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 48-49">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: Public debt is set to rise to 66.9% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 147" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 147">ⓘ</button>
+- **R1-E, Components missing or distorted**: The introduction of a financial transactions tax (FTT) in April 2025 is highlighted as a risk. The FTT imposes a 0.4% tax on corporate bank transactions and 0.8% on cash withdrawals. The OECD argues this is highly distortionary, reduces economic activity, and may increase informality, warranting its abolition. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 73-74" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 73-74">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, investor base**: Risk-increasing factors include the share of government debt held by non-residents. Mitigating factors include a low share of short-term government debt and most debt being denominated in euro. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 243" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 243">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1*, context**: Gross financing needs were 10.1% of GDP in 2025. Debt is projected to increase to 101.2% of GDP by 2036, crossing the 90% threshold. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\* Refinancing need**: The current account has marginally improved, but risks for external sustainability remain due to the worsened trade balance and persistently high government deficit. Housing supply remains limited, pushing up prices and household debt. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3, 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3, 4">ⓘ</button>
+- **R1\*, context**: General government debt increased to 61.4% of GDP at the end of 2025 and is projected to reach 66.9% by the end of 2027. The increase reflects persistent deficits and interest expenditures growing faster than the economy. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 6" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 6">ⓘ</button>
+- **R1*, context**: Government gross financing needs are expected to remain around 10.5% of GDP over 2026-2027, reaching around 14% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242">ⓘ</button>
+- **R1\*, context**: Public debt (Maastricht definition) rose to 61.4% of GDP in 2024. Without further adjustment, debt-to-GDP could exceed 100% over the next 15 years due to ageing pressures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 28" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 28">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **Council of the EU**: The Council adopted a recommendation endorsing Slovakia’s medium-term fiscal-structural plan and activated the National Escape Clause for higher defence spending. The Council also held the Excessive Deficit Procedure in abeyance. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 41" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 41">ⓘ</button>
+- **R6\*, context**: The excessive deficit procedure for [Slovakia](../countries/slovakia.qmd) is held in abeyance following the endorsement of its fiscal-structural plan. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+- **R6-A, Bright lines versus real eligibility**: The OECD notes that the debt brake’s track record is poor. An empirical investigation found no significant stabilising response to debt levels around the introduction of the debt brake in 2012, but a stabilising response did emerge after EU accession preparations began in 2001-2003. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 48-50" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 48-50">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+- **Outlook Factors, Bank-sovereign nexus**: The banking sector appears robust with strong capital buffers. However, the FTT poses a risk to bank resources by incentivizing deposit outflows into cash. Commercial real estate shows some vulnerability, with nearly three out of four CRE loans served by firms with negative equity. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 23-25" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 23-25">ⓘ</button>
+
+### Willingness to pay and political stability
+
+- **Outlook Factors, political stability**: Concerns persist regarding the judicial system and anti-corruption framework. The dismantling of specialized anti-corruption agencies and reforms shortening limitation periods have reduced the detection and prosecution of high-level corruption cases. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 9">ⓘ</button>
+- **Political stability**: A recent downgrade reflects broad institutional challenges and political tensions. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242">ⓘ</button>
+- **Outlook Factors, Political stability**: The OECD highlights issues with the rule of law and judicial independence. Perceptions of corruption are high, with 85% of companies perceiving corruption as widespread. Recent reforms, including the dissolution of the Special Prosecutor’s Office, have raised concerns about the effectiveness of anti-corruption efforts. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 64-67" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 64-67">ⓘ</button>
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling**: The economy is heavily reliant on low-value-added automotive production, which accounts for around half of industrial revenues. This sector faces pressures from global trade tensions and the transition to electric vehicles. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- **Context**: Financial markets’ perceptions of sovereign risk are investment grade, but a recent downgrade reflects broad institutional challenges and political tensions. The 10-year sovereign yield spread is 65 basis points versus the German Bund as of December 31, 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242, 244" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 242, 244">ⓘ</button>
+- **Factor decoupling**: The OECD does not provide specific bond spread data but notes that high effective tariff rates on exports to the US and weak foreign demand are weighing on the economy. The current account deficit remains substantial, though expected to narrow slightly due to fiscal consolidation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 19" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 19">ⓘ</button>
+
+## Outlook Material
+
+- **Regional Disparities**: Significant regional disparities persist, with GDP per capita ranging from 151% of the EU average in Bratislava to 55% in eastern Slovakia. Eastern Slovakia faces higher unemployment and poverty rates, and significant outward migration of skilled workers. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3">ⓘ</button>
+- **Energy Security**: Slovakia remains heavily reliant on Russian energy imports. Dependence on Russian gas and crude oil poses risks to economic security amid geopolitical tensions. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 4, 18" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 4, 18">ⓘ</button>
+- **Housing market**: [Slovakia](../countries/slovakia.qmd) faces a severe housing shortage with the lowest housing stock per capita in the EU. House prices surged in 2025 amid lower mortgage rates and are likely to keep rising due to constrained supply. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>
+- **Energy dependence**: Over 50% of natural gas and over 80% of oil were of Russian origin in 2025. The share of renewables in the electricity mix was among the lowest in the EU. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 10" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 10">ⓘ</button>
+- **Outlook Factors, rule of law**: Safeguards for the independence of the judiciary remain insufficient, posing risks to the business and regulatory environment. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 9" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 9">ⓘ</button>
+- **Topic: AI Adoption**: AI adoption in Slovakia is lagging behind EU peers. Only 18% of enterprises reported using AI in 2025, up from 7% in 2023. The OECD recommends streamlining regulation to ease access to data and helping firms comply with the EU AI Act to accelerate adoption. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 11-12, 108-109" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 11-12, 108-109">ⓘ</button>
+- **Topic: Climate Change and Net-Zero Transition**: Slovakia is well-positioned for the net-zero transition due to its low-carbon electricity mix (nuclear and hydro). However, administrative procedures for low-carbon power projects are cumbersome. The OECD recommends streamlining permitting and moving to market-based electricity pricing while supporting low-income households with targeted transfers. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 13, 129-137" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 13, 129-137">ⓘ</button>
+- **Topic: Skills Shortages**: Severe skills shortages, particularly in the automotive and industrial sectors, hinder growth. The OECD recommends improving the education system, facilitating lifelong learning, and increasing the use of active labor market policies focused on retraining and upskilling. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 89-91" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 89-91">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

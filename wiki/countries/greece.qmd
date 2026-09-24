@@ -1,0 +1,292 @@
+---
+title: "Greece"
+summary: "This dossier draws on the Economic Survey issued by the OECD on 2024-12-05, the Debt Sustainability Monitor issued by the European Commission on 2026-02-12, the Spring 2026 Economic Forecast issued by the European …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [Economic Survey](../document-types/economic-survey.qmd) issued by the [OECD](../institutions/oecd.qmd) on 2024-12-05, the [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-02-12, the Spring 2026 Economic Forecast issued by the [European Commission](../institutions/european-commission.qmd) on 2026-05-21, and the [Country Report](../document-types/country-report.qmd) and the [Post-Programme Surveillance Report](../document-types/post-programme-surveillance-report.qmd) issued by the [European Commission](../institutions/european-commission.qmd) on 2026-06-03 and 2026-06-02, respectively. The reports assess Greece’s solid post-pandemic growth, which is projected to moderate as the Recovery and Resilience Facility implementation concludes and due to new global energy shocks. They highlight significant structural vulnerabilities, including low productivity, high public and external debt, and a high current account deficit. Fiscal policy remains solid with a projected surplus, though the National Escape Clause is activated for higher defense spending. The documents also address institutional challenges, such as judicial inefficiencies and the slow resolution of non-performing loans, which continue to burden the banking sector and private balance sheets. The post-programme surveillance assessment confirms that Greece retains the capacity to service its debt, supported by substantial cash reserves and a long debt maturity profile, despite downside risks from geopolitical shocks.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2021 | 2022 | 2023 | [2024]{.year-mark title="forecast"} | [2025]{.year-mark title="forecast"} | [2026]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 5.7 | 2.3 | 2.3 | 2.3 | 2.2 | 2.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 11">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Potential GDP growth | % |  | 1.8 | 2.2 | 2.2 | 2.2 | 2.3 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 24" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 24">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Harmonised CPI inflation | % |  | 4.2 | 3.0 | 2.7 | 2.1 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 11">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -2.5 | -1.3 | -0.8 | -0.6 | -0.7 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 11">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government primary balance | % of GDP |  |  | 1.5 | 2.4 | 2.4 | 2.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 11">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt (Maastricht) | % of GDP | 177.0 | 163.9 | 157.3 | 152.2 | 148.1 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 24" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 24">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Ten-year government bond yield (average) | % | 3.5 | 4.0 | 3.4 | 3.1 | 3.2 |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 24" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 24">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Weighted average maturity of public debt | Years |  |  |  | ~19 years |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Backstop Eligibility](../parameters/backstop-eligibility.qmd) | Cash reserves (liquid assets) | Dec 2023: EUR 33.5 billion (15% of GDP) | EUR / % GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | >1% | 1.7% | 0.8% | 0.6% | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5-6" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5-6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP |  | 146.1% | 140.7% | 134.4% | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 6">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Current account deficit | % of GDP |  | 5.7% |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03" aria-label="Source: ec/country-reports/Greece_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | 2023-2025: 2.1% (avg); 2026f: 1.8%; 2027f: 1.6% | % | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 2" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 2">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Long-term real growth estimate | ~1.5% | % | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary surplus | 2025: >3.5%; 2026-2027f: >3.5% | % of GDP | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Non-performing loan ratio (banks) | Q3 2025: 2.8% | % of gross loans | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 38-39" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 38-39">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | NPL stock managed by servicers | End-2025: EUR 80 billion (32.2% of GDP) | EUR / % of GDP | <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03" aria-label="Source: ec/country-reports/Greece_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.1 | 1.8f | 1.6f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | HICP inflation | % |  | 3.7f | 2.4f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 1.7 | 0.8f | 0.6f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7-8" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7-8">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary surplus | % of GDP |  | 4.0f | 3.7f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 8" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 8">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Public debt-to-GDP | % of GDP | 146.1 |  | 134.4f | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Government cash reserves | Dec 2025: 39.6 | EUR billion | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Government cash reserves | Dec 2025: 15.9 | % of GDP | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Weighted average maturity | ~19 | years | <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross debt ratio | % of GDP | 154.2 | 147.6 | 142.1 | 137.9 | 134.2 | 132.2 | 130.1 | 127.7 | 125.8 | 124.6 | 123.9 | 123.7 | 123.5 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 9.0 | 8.2 | 8.7 | 8.6 | 8.6 | 9.5 | 10.7 | 12.1 | 12.6 | 16.1 | 14.9 | 17.0 | 16.8 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 1.8 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 8.2 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (before CoA) | 2024: 3.8; 2025: 3.2; 2026–2036: 1.8 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button> |
+| [Outlook Factors](../parameters/outlook-factors.qmd) | 10-year sovereign yield spread vs German Bund | 63 | bps | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 2.1 | 1.8 | 1.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 118-119" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 118-119">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 1.7 | 0.8 | 0.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 146.1 | 140.7 | 134.4 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+- **C1-E, broken or dominated sample**: The document highlights that Greece’s GDP-per-capita growth has outpaced the euro area since early 2021, marking a strong rebound from previous crises. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 17" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 17">ⓘ</button>
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: The [OECD](../institutions/oecd.qmd) notes that labor productivity has stagnated at low levels over much of the past decade, partly reflecting a collapse in investment during the economic crisis. Real GDP growth has been weak during the last two decades, with negative contributions from labor productivity and employment. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 17" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 17">ⓘ</button>
+- **C1-T, Structural break in trend**: The [European Commission](../institutions/european-commission.qmd) estimates long-term real growth at around 1.5%, slightly exceeding the European Union average, implying slow economic convergence. Real gross domestic product was still almost 14% below its 2008 peak level in 2025. The medium-term growth forecast of 1.8% for 2026 and 1.6% for 2027 deviates from the historical mean of 2.1% (2023-2025), driven by the end of the Recovery and Resilience Facility implementation and the energy crisis weighing on activity <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 2-3" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 2-3">ⓘ</button>.
+- **C1-T, context**: Real GDP grew by 2.1% in 2025. Growth is projected to moderate to 1.8% in 2026 and 1.6% in 2027 as implementation of the recovery and resilience plan ends. Risks are tilted to the downside due to potential escalation of the Middle East conflict <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button>.
+- **C1*, context**: Real GDP growth is projected at 2.1% in 2025, 2.2% in 2026, and averaging 0.7% from 2028 to 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 160" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 160">ⓘ</button>
+- **C1-T, structural break**: GDP growth is forecast to decelerate to 1.8% in 2026 and 1.6% in 2027. Investment remains robust due to Recovery and Resilience Facility (RRF) absorption. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 118" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 118">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+- **C1-A1, Growth not thin-tailed or serially independent**: Exposure to rare disasters is highlighted as a significant risk. Climate change increases economic costs, with extreme weather events causing EUR 18.3 billion in economic losses between 1980 and 2024, of which only 5% was covered by insurance. Greece is one of the five most water-stressed Member States in the European Union. The economy is also vulnerable to geopolitical shocks affecting tourism and transport services, which account for around 20% of gross domestic product <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 7-8, 21, 87-89" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 7-8, 21, 87-89">ⓘ</button>.
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Competitiveness gains have been achieved largely on the back of declining real wages. The [OECD](../institutions/oecd.qmd) warns that these gains may be lost if wages grow in excess of productivity. Unit labor costs have been increasing, though less so than in other [OECD](../institutions/oecd.qmd) countries. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 17" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 17">ⓘ</button>
+- **C1-A2, Inherited competitiveness gap**: Low non-cost competitiveness is reflected by a persistently high current account deficit of 5.7% of gross domestic product in 2025. Labour productivity is only 54.6% of the European Union average, compensated by long working hours. The economy relies on low value-added sectors like tourism and agriculture. Import dependence remains high, with an import ratio of direct material inputs at 49% compared to the European Union average of 22.4% <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3, 4, 5, 59-60" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3, 4, 5, 59-60">ⓘ</button>.
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **C2-T, context**: Inflation is projected to increase to 3.7% in 2026 and moderate to 2.4% in 2027, driven by rising commodity prices and labor shortages <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button>.
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: The [OECD](../institutions/oecd.qmd) recommends maintaining primary fiscal surpluses of 2% of GDP in 2024–25 as planned. It also suggests phasing out VAT reductions and exemptions and strengthening tax compliance to broaden tax bases. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 15" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 15">ⓘ</button>
+- **C3-T, History lags policy**: Adopted consolidation measures include permanent tax cuts and targeted social measures aimed at supporting households' disposable incomes. The Council endorsed Greece’s medium-term fiscal structural plan for 2025-2028. The country is required to limit the growth in net expenditure consistent with putting public debt on a plausibly downward trajectory while utilizing the allowance for higher defense expenditure under the National Escape Clause <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5, 32, 36" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5, 32, 36">ⓘ</button>.
+- **C3-T, context**: Greece registered a general government surplus of 1.7% of GDP in 2025. The primary surplus is projected at 4.0% in 2026 and 3.7% in 2027. The projection incorporates temporary and permanent measures to contain energy price rises and support low-income households, costing around 0.3% of GDP <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7-8" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7-8">ⓘ</button>.
+- **C3*, context**: The structural primary balance is projected at 1.8% of GDP on average for 2026-2035. The fiscal consolidation space is 33% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, 42">ⓘ</button>
+- **C3*, context**: The SPB before cost of ageing is assumed at 1.8% of GDP from 2026 onwards. This is ambitious compared with past performance. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button>
+- **C3-T, history lags policy**: The general government surplus is set to moderate to 0.8% of GDP in 2026 and 0.6% in 2027, despite expansionary fiscal measures. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **C3-A, context**: Fiscal risks remain related to ongoing legal cases and rising spending pressures including defence, energy, and ageing <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 8" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 8">ⓘ</button>.
+
+#### Other fiscal context
+
+- **C3\*, context**: The [OECD](../institutions/oecd.qmd) states that significant primary surpluses over many years are needed to reduce public debt, which amounted to 163.9% of GDP in 2023. The government plans primary surpluses of 2.4% of GDP in 2024, 2.5% in 2025, and 2.4% in 2026. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 11">ⓘ</button>
+- **C3\*, context**: [Greece](../countries/greece.qmd) recorded a general government budget surplus above 1% of gross domestic product in both 2024 and 2025 (1.7% in 2025). This is projected to narrow to 0.8% in 2026 and 0.6% in 2027. The primary surplus is expected to remain above 3.5% of gross domestic product. The shrinking surplus reflects the implementation of permanent tax cuts, targeted social measures, and higher defense expenditure (2.6% of gross domestic product in 2026). Total government expenditure on defense increased from 2.2% of gross domestic product in 2024 to 2.4% in 2025. The National Escape Clause is activated to accommodate higher defense spending <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 5-6, 7, 36" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 5-6, 7, 36">ⓘ</button>.
+- **C3-E, history lags policy**: The S2 indicator points to low risk, as no improvement relative to the baseline is needed to stabilize debt. The S1 indicator points to low risk, requiring only a 1.5% of GDP effort to reduce debt to 60% by 2070. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 158" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 158">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: The debt-to-GDP ratio is projected to decline to 134.4% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 119">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+- **R1-T, context**: Sovereign financing needs are set to remain below 10% of GDP in 2026 and 2027. Government cash reserves amounted to EUR 39.6 billion (15.9% of GDP) in December 2025. The weighted average maturity of public debt is close to 19 years <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button>.
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, part of the debt not exposed to the market**: The document states that the structure of public debt is dominated by loans from official institutions. The government repaid all borrowings from the [International Monetary Fund](../institutions/international-monetary-fund.qmd) in April 2022. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button>
+- **R1-A, Part of the debt not exposed to the market**: The document notes the presence of official loans and program financing in the context of prudent debt management, including early repayments of financial assistance, contributing to debt reduction. Contingent liabilities related to non-performing loans managed by credit servicers remain a significant off-market exposure linked to the sovereign via the banking sector nexus <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 6, 38-39" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 6, 38-39">ⓘ</button>.
+- **R1-A, context**: Greece has outstanding debt of EUR 26.3 billion under the Greek Loan Facility, EUR 59.8 billion to the European Stability Mechanism, and EUR 141.4 billion to the European Financial Stability Facility <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button>.
+
+#### Other refinancing context
+
+- **R1\*, context**: The structure of public debt is dominated by loans from official institutions, with a weighted average maturity close to 19 years in 2024. Nearly all these loans are at fixed interest rates and denominated in euros, limiting exposure to currency or interest rate risks. The [OECD](../institutions/oecd.qmd) notes that refinancing risks are limited in the medium term. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button>
+- **R1\*, context**: [Greece](../countries/greece.qmd)’s public debt-to-gross domestic product ratio is the highest in the European Union, dropping to 146.1% in 2025. It is projected to decline to 140.7% in 2026 and 134.4% in 2027, driven by sustained primary surpluses and favorable nominal gross domestic product growth. The stock of non-performing loans held by banks reached a historic low of 2.8% in the third quarter of 2025. However, non-performing loans managed by credit servicers remained broadly unchanged at EUR 80 billion (32.2% of gross domestic product) at the end of 2025, continuing to burden private sector balance sheets. Resolution of these loans proceeds slowly due to judicial and institutional obstacles <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3, 6, 38-39" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3, 6, 38-39">ⓘ</button>.
+- **R1\*, context**: Gross financing needs were 8.2% of GDP in 2025. Debt is projected to decline to 123.5% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1*, context**: Gross debt is projected to decline to 123.5% of GDP by 2036. Gross financing needs are expected to increase to 16.8% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: Greece’s credit rating returned to investment grade in late 2023, making Greek sovereign bonds eligible for the [European Central Bank](../institutions/european-central-bank.qmd)’s monetary policy operations in the standard collateral framework. This upgrade reflects sustained structural reforms and enhanced banking-sector resilience. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 21" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 21">ⓘ</button>
+- **R6\*, context**: [Greece](../countries/greece.qmd) is subject to the reformed Stability and Growth Pact. The Council activated the National Escape Clause for [Greece](../countries/greece.qmd) to facilitate the transition to higher levels of defense spending. The [European Commission](../institutions/european-commission.qmd) undertook an in-depth review of the Greek economy as part of the Macroeconomic Imbalance Procedure in 2026. [Greece](../countries/greece.qmd) is not under an Excessive Deficit Procedure but is monitored for compliance with the fiscal rules. The [European Commission](../institutions/european-commission.qmd) assesses [Greece](../countries/greece.qmd)’s compliance with maximum growth rates of net expenditure <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3, 32, 36" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3, 32, 36">ⓘ</button>.
+- **R6*, context**: The document notes the activation of the national escape clause (NEC) for Greece. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 113">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+- **Outlook Factors, Bank–sovereign nexus**: Legacy non-performing loans continue to weigh on the economy and private sector balance sheets. The stock of non-performing loans managed by credit servicers remains high. The resolution of these loans is delayed by judicial inefficiencies. The banking sector remains resilient with a common equity tier 1 ratio of 15.9% in the third quarter of 2025. However, the concentration of capital in ‘zombie’ companies hinders investment by healthy companies. The banking sector is largely state-backed through initiatives like EquiFund, indicating limited private market maturity <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3, 38-39, 53-54, 61-62, 65" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3, 38-39, 53-54, 61-62, 65">ⓘ</button>.
+- **Banking stability**: Non-performing loan ratio stood at 3.3% in December 2025, the lowest since joining the euro area. However, the workout of legacy debt managed by servicers is slow <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 9" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 9">ⓘ</button>.
+- **Contingent Liabilities**: State guarantees, non-performing loans in the banking sector (above EU average), negative net international investment position, and contingent liabilities from pending legal cases are risk-increasing factors. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 158" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 158">ⓘ</button>
+- **Debt Structure**: Major share of debt held by official lenders at low interest rates and high cash buffers are risk-mitigating factors. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 158" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 158">ⓘ</button>
+
+### Willingness to pay and political stability
+
+- **Outlook Factors, political stability**: The [OECD](../institutions/oecd.qmd) notes that the balance of risks to the economic outlook is tilted to the downside, citing potential geopolitical tensions, slower growth among main trading partners, and delays in the implementation of the Recovery and Resilience Plan. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 27" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 27">ⓘ</button>
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **Factor decoupling**: Markets have priced down Greek sovereign bond risks significantly following the return to investment grade. The [OECD](../institutions/oecd.qmd) notes that spreads on Greek government debt have declined, reflecting improved investor confidence. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 32" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 32">ⓘ</button>
+- **Factor decoupling, rollover pessimism**: The document does not provide specific bond spread or yield data to assess decoupling from global risk appetite or rollover pessimism directly. However, it notes that Greek firms report more barriers to investment than their European Union peers, and access to finance remains constrained, particularly for small and medium-sized enterprises. The [European Investment Bank](../institutions/european-investment-bank.qmd) reports that 89% of Greek firms perceive business regulation as an investment barrier, compared to 69% in the European Union average <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 12, 52-53" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 12, 52-53">ⓘ</button>.
+- **Factor decoupling, context**: The Greek sovereign spread over the 10-year German Bund averaged 78 basis points in April 2026, reflecting some widening due to the international environment <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button>.
+- **Factor decoupling**: The 10-year sovereign yield spread vs. German Bund was 63 bps at the end of 2025. Greece maintains investment grade ratings. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 157">ⓘ</button>
+
+## Outlook Material
+
+- **Topic: Judicial efficiency**: The justice system faces significant operational challenges, including lengthy civil and commercial proceedings (737 days in first-instance courts in 2023) and insufficient digitalization. Delays in auctioning properties and post-auction disputes hinder the resolution of non-performing loans. Recent reforms aim to streamline proceedings and adopt alternative dispute resolution mechanisms, but impact assessment is pending <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3, 13-15, 72-73" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3, 13-15, 72-73">ⓘ</button>.
+- **Topic: Housing market**: Housing affordability has deteriorated sharply. The standardised house price-to-income ratio grew by 13% in the last decade. House prices increased by 7.8% in 2025. Housing construction remains limited, with dwelling investment at 3.1% of gross domestic product in 2025, well below the European Union average. A significant portion of the housing stock is vacant or uninhabitable, tied up in legal processes. Short-term rentals reduce long-term rental availability <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 3, 4, 25-26, 109-113" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 3, 4, 25-26, 109-113">ⓘ</button>.
+- **Topic: Energy transition and security**: [Greece](../countries/greece.qmd) relies heavily on fossil fuels, with natural gas accounting for a significant share of electricity production. The country is exposed to high energy prices and volatility. Progress is being made in renewable energy capacity and grid interconnection (e.g., Crete to mainland). However, the phasing out of fossil-fuel subsidies has not been initiated. Energy storage capacity is limited, leading to curtailments of renewable energy <button type="button" class="source-ref" data-source="ec/country-reports/Greece_2026-06-03, p. 15-18, 80-85, 86-87" aria-label="Source: ec/country-reports/Greece_2026-06-03, p. 15-18, 80-85, 86-87">ⓘ</button>.
+- **Topic: Climate change**: The document highlights that Greece is particularly vulnerable to a warming climate, with high risks from forest fires and floods. Extreme weather events, such as the 2023 floods in Thessaly, have caused large economic damages and may become more frequent and severe. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 14" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 14">ⓘ</button>
+- **Geopolitical shocks**: Risks remain tilted to the downside as a potential further escalation of the Middle East conflict could have a material impact on tourism and domestic demand <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button>.
+- **Climate Risk**: Under the "Fragmented Action" climate scenario, debt could be around 6 pps. of GDP higher in 2050. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 109">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

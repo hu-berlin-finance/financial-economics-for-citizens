@@ -1,0 +1,43 @@
+---
+title: "European Stability Mechanism"
+summary: "The European Stability Mechanism acts as a backstop provider through credit lines and programs, supporting the assessment of Backstop Eligibility (R6). Its loans, along with the legacy loans of its predecessor, the …"
+date-modified: 2026-09-23
+---
+
+## Role in the Rating Process
+
+The [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) acts as a backstop provider through credit lines and programs, supporting the assessment of [Backstop Eligibility](../parameters/backstop-eligibility.qmd) (R6). Its loans, along with the legacy loans of its predecessor, the European Financial Stability Facility, are categorized as off-market financing, which informs the [Refinancing Need](../parameters/refinancing-need.qmd) parameter (R1-A*).
+
+## Evidence by Country
+
+### [Cyprus](../countries/cyprus.qmd)
+
+- Cyprus maintains ongoing repayments to the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd), with approximately EUR 1 billion scheduled for May 2026. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14-15" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14-15">ⓘ</button>
+- The public debt maturity profile is favorable, but 34.1% of the debt is based on a floating interest rate, which consists mostly of loans from the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd). <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 14">ⓘ</button>
+
+### [Greece](../countries/greece.qmd)
+
+- [Greece](../countries/greece.qmd) holds outstanding debt of EUR 59.8 billion to the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd). <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 10">ⓘ</button>
+- Improvements in the banking sector’s resilience, noted by the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd), contributed to [Greece](../countries/greece.qmd)’s sovereign credit rating upgrade. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 21" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 21">ⓘ</button>
+
+### [Ireland](../countries/ireland.qmd)
+
+- No specific new evidence regarding the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) is cited in this report, beyond general institutional participation. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+
+### [Portugal](../countries/portugal.qmd)
+
+- The institution is mentioned in the context of backstop eligibility and the institutional framework. No direct support is cited in the previous report period beyond general eligibility assessments. <button type="button" class="source-ref" data-source="ec/country-reports/Portugal_2026-06-03, p. 1" aria-label="Source: ec/country-reports/Portugal_2026-06-03, p. 1">ⓘ</button>
+- Staff from the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) participated in meetings on aspects related to its Early Warning System. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, 10, 14-15" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2, 10, 14-15">ⓘ</button>
+
+### Euro Area
+
+- Staff from the [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) participated in post-programme surveillance missions conducted by the [European Commission](../institutions/european-commission.qmd), in liaison with the [European Central Bank](../institutions/european-central-bank.qmd) and the [International Monetary Fund](../institutions/international-monetary-fund.qmd). <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button>
+- The [European Stability Mechanism](../institutions/european-stability-mechanism.qmd) is invited as an observer to the Debt Sustainability Analysis working group of the [European Commission](../institutions/european-commission.qmd). <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 118" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 118">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

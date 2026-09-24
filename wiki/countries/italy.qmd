@@ -1,0 +1,245 @@
+---
+title: "Italy"
+summary: "This dossier draws on the OECD’s Economic Survey for Italy, published on 2026-04-23, the European Commission’s 2026 Country Report for Italy, published on 2026-06-03, the European Commission’s 2026 Spring 2026 Economic …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier draws on the [OECD](../institutions/oecd.qmd)’s [Economic Survey](../document-types/economic-survey.qmd) for [Italy](../countries/italy.qmd), published on 2026-04-23, the [European Commission](../institutions/european-commission.qmd)’s 2026 [Country Report](../document-types/country-report.qmd) for [Italy](../countries/italy.qmd), published on 2026-06-03, the [European Commission](../institutions/european-commission.qmd)’s 2026 Spring 2026 Economic Forecast, published on 2026-05-21, and the [European Commission](../institutions/european-commission.qmd)’s 2025 [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd), published on 2026-02-12. The OECD survey assesses the economy as resilient but facing medium-term headwinds from high public debt, population ageing, and weak productivity growth. The European Commission reports highlight a deceleration in real GDP growth, persistent labor productivity stagnation, and a rise in the debt-to-GDP ratio. The Spring 2026 Economic Forecast projects a slowdown in growth in 2026 due to a global energy shock. The Debt Sustainability Monitor classifies medium-term risks as high, noting large gross financing needs and projected debt increases. Key themes include fiscal sustainability risks under the Medium-Term Fiscal-Structural Plan, regional disparities, demographic challenges, and exposure to global energy price volatility.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 147.5 | 147.9 | 150.3 | 150.9 | 150.9 | 150.4 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 32" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 32">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | 2023: 0.9; 2024: 0.8; 2025 (p): 0.5; 2026 (f): 0.4; 2027 (f): 0.6 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Inflation (HICP) | 2023: 5.9; 2024: 1.1; 2025 (p): 1.6; 2026 (f): 2.4; 2027 (f): 1.8 | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Government budget balance | 2023: -7.2; 2024: -3.4; 2025 (p): -3.1; 2026 (f): -2.9; 2027 (f): -2.8 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Government primary budget balance | 2023: -3.8; 2024: 0.3; 2025 (p): 0.6; 2026 (f): 0.9; 2027 (f): 1.1 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public debt (Maastricht) | 2023: 133.9; 2024: 134.7; 2025 (p): 137.1; 2026 (f): 137.5; 2027 (f): 137.4 | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button> |
+| [Haircut](../parameters/haircut.qmd) | Nonresident share of debt (Net Int. Inv. Pos.) | 2025Q3: 13.3% of GDP (Surplus) | % of GDP | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 24" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 24">ⓘ</button> |
+| [Haircut](../parameters/haircut.qmd) | Domestic-bank holdings of gov. debt | 2025Q2: ~25% of bank assets | % of assets | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.5 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 3">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Inflation (HICP) | % |  | 1.6 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP |  | -3.1 | -2.9 | -2.9 | <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 47" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 47">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross general government debt | % of GDP |  | 137.1 | 138.5 | 139.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 5">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Total tax revenues | % of GDP |  | 43.0 |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 48" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 48">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Business R&D expenditure | % of GDP | 0.79 |  |  |  | <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 13" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 13">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03" aria-label="Source: ec/country-reports/Italy_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | 0.5 | 0.9 | 1.2 | 1.0 | 1.0 | 0.7 | 0.7 | 0.5 | 0.3 | 0.1 | 0.0 | 0.1 | 0.0 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 134.9 | 136.4 | 137.9 | 137.5 | 137.3 | 137.8 | 138.4 | 139.4 | 140.7 | 142.6 | 144.8 | 147.0 | 149.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 24.5 | 23.3 | 23.7 | 22.4 | 22.3 | 22.9 | 23.2 | 23.8 | 24.4 | 25.2 | 25.9 | 26.5 | 27.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 1.1 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 23.3 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2025 | 2026 | 2027 |  |
+| :-- | :-- | :-- | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | 0.5 | 0.5 | 0.6 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -3.1 | -2.9 | -2.9 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | General government gross debt | % of GDP | 137.1 | 138.5 | 139.2 | <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **[C1-T, structural break in trend]**: The [OECD](../institutions/oecd.qmd) projects real GDP growth to remain modest at 0.4% in 2026 and 0.6% in 2027, weighed down by a surge in energy prices and geopolitical uncertainty. This follows moderate growth of 0.5% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 13" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 13">ⓘ</button>
+- **[C1-T, structural break in trend]**: Real GDP growth decelerated to 0.5% in 2025 due to geopolitical uncertainty and trade barriers. Investment rebounded after a decline in 2024. Exports grew, reversing two years of decline, though imports grew faster. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 3">ⓘ</button>
+- **[C1-T, structural break]**: Real GDP is expected to grow by 0.5% in 2026 and 0.6% in 2027. Domestic demand is dampened by loss of purchasing power and geopolitical tensions. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 126" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 126">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **[C1-A2, inherited competitiveness gap]**: Labour productivity growth has lagged the euro-area average since the mid-1990s. The level of multi-factor productivity declined between 2000 and 2022. The large share of small, low-productivity firms weighs on aggregate performance. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 112" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 112">ⓘ</button>
+- **[C1-A2, inherited competitiveness gap]**: Labor productivity stagnation persists. Italy’s GDP growth has consistently lagged behind employment growth over the past two decades. Unit labor costs rose, contributing to inflation, but the protracted slump in labor productivity weakens competitiveness. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 3">ⓘ</button>
+- **[C1-A2, inherited competitiveness gap]**: Significant regional gaps persist. Southern regions’ GDP per head is 65% of the EU average, compared to above EU average for the rest of the country. Productivity in the South is ~80% of EU levels versus 99% for the rest of Italy. R&D investment in the South is 1% of GDP versus 1.5% in the rest of the country. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 4">ⓘ</button>
+
+#### Other growth context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+- **[C2-T, projections stale]**: Headline inflation is projected to rise to 2.4% in 2026 due to disruptions in global energy supplies from the Middle East conflict, before falling to 1.8% in 2027. Core inflation remains higher than pre-pandemic levels. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button>
+
+#### C2-A Imperfect indexation
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-M Labour-cost versus consumer-price differential
+
+- **[C2-M, labour-cost versus consumer-price differential]**: Nominal wage growth is around 3% annually, recovering from pre-pandemic levels of 1%, but real contractual wages were still 8.8% below their January 2021 level in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 27" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 27">ⓘ</button>
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **[C3-T, history lags policy]**: The [Italy](../countries/italy.qmd) government has committed to a steady fiscal consolidation path under the Medium-Term Fiscal-Structural Plan (MTFSP) until 2031. This implies primary spending declining relative to GDP each year to reduce the debt ratio. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 39" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 39">ⓘ</button>
+- **[C3-T, history lags policy]**: Primary surpluses are expected to remain insufficient to offset the debt-increasing effects of the interest-growth differential and stock-flow adjustments. As a result, the debt-to-GDP ratio is projected to increase from 137.1% in 2025 to 139.2% in 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 5">ⓘ</button>
+- **[C3-T, history lags policy]**: The government deficit is projected to fall to 2.9% of GDP in both 2026 and 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127">ⓘ</button>
+
+#### C3-A Default is chosen, not only suffered
+
+- **[C3-A, default is chosen, not only suffered]**: Public debt exceeds 137% of GDP (Maastricht) and is projected to rise further under current tax and spending settings. Ageing costs are projected to rise by at least 1% of GDP by the mid-2030s, primarily due to pensions. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 38" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 38">ⓘ</button>
+- **[C3-A, default is chosen, not only suffered]**: The [European Commission](../institutions/european-commission.qmd) notes high fiscal sustainability risks in the medium term. Sizeable debt servicing costs and skewed public expenditure towards pensions limit budgetary flexibility. The automatic link between retirement conditions and life expectancy is set to resume but will be phased in gradually. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 5, p. 48" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 5, p. 48">ⓘ</button>
+
+#### Other fiscal context
+
+- **[C3\*, context]**: The general government deficit fell to 3.1% of GDP in 2025, supported by stronger revenue from higher employment and wages. It is projected to decline to 2.9% in 2026 and 2027. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 4, p. 47" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 4, p. 47">ⓘ</button>
+- **[C3\*, context]**: The structural primary balance is projected at 1.1% of GDP on average for 2026-2035. The fiscal consolidation space is 43% in the baseline scenario. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, p. 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41, p. 42">ⓘ</button>
+- **[C3\*, context]**: The [European Commission](../institutions/european-commission.qmd) projects a structural primary surplus of 1.1% of GDP as of 2026. This is broadly in line with past fiscal performance. Ageing-related expenditure is projected to increase. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 177" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 177">ⓘ</button>
+- **[C3\*, context]**: The S2 indicator points to low risk, as no improvement is needed to stabilize debt due to projected decreases in ageing costs. The S1 indicator points to low risk, requiring a 1.6% of GDP effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 178" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 178">ⓘ</button>
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **[R1-E, components missing or distorted]**: Gross refinancing needs are currently near 25% of GDP. The term structure of outstanding debt is near the euro-area average at close to 8 years. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 38" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 38">ⓘ</button>
+- **[R1-E, components missing or distorted]**: Stock-flow adjustments related to the delayed cash effect of housing renovation tax credits contribute to the rise in debt. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 5">ⓘ</button>
+- **[R1-E, components missing]**: The debt-to-GDP ratio is set to rise to 139.2% by 2027, driven by a debt-increasing interest-growth-rate differential. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 127">ⓘ</button>
+- **[R1\*, context]**: Gross financing needs were 23.3% of GDP in 2025. Debt is projected to increase to 149.1% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, p. 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, p. 42">ⓘ</button>
+- **[R1\*, context]**: Gross financing needs are expected to remain large, reaching around 27% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 177" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 177">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **[R1-A, part of the debt not exposed to the market]**: Insurers and pension funds hold significant amounts of government debt. Italian insurers hold roughly 10% of the outstanding stock of Italian government bonds. Pension fund assets were EUR 243 billion at end-2024. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 76, p. 78" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 76, p. 78">ⓘ</button>
+- **[R1-A, context]**: Risk-increasing factors relate to the share of short-term government debt. Risk-mitigating factors include the major share of debt held by domestic lenders and euro denomination. The favourable net international investment position mitigates fiscal risks. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 178" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 178">ⓘ</button>
+
+#### Other refinancing context
+
+- **[R1\*, context]**: The debt-to-GDP ratio reversed its downward trajectory in 2024 and started rising again, driven mainly by the lagged impact of tax credits for housing renovations. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 5">ⓘ</button>
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+- **[C5-A, politically feasible haircut differs from 30%]**: Domestic banks hold a relatively large share of government bonds (approx. 25% of bank assets). The average residual duration of these holdings has risen to near 4.8 years, exposing banks to deterioration in the government bond market. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 29" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 29">ⓘ</button>
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R6-A Bright lines versus real eligibility
+
+- **[R6-A, bright lines versus real eligibility]**: Agencies have upgraded [Italy](../countries/italy.qmd)'s sovereign debt ratings, reducing the premium on borrowing. This reflects improved fiscal management and structural reforms under the NRRP. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 31" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 31">ⓘ</button>
+- **[R6-A, bright lines versus real eligibility]**: Italy is subject to an excessive deficit procedure, which is held in abeyance. The country adhered to maximum growth rates of net expenditure recommended by the Council. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 40" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 40">ⓘ</button>
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Market Signals
+
+- **[Factor decoupling]**: Interest spreads have narrowed and agencies have upgraded credit ratings. The spread with the 10-year German government bond yield has decreased significantly in recent years. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 31" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 31">ⓘ</button>
+- **[Factor decoupling]**: The report notes that global trade uncertainty poses a major challenge for export-driven economies like Italy. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 22" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 22">ⓘ</button>
+- **[Rollover pessimism]**: The 10-year sovereign yield spread vs. German Bund is 74 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 179">ⓘ</button>
+
+## Outlook Material
+
+- **[Energy security]**: The 2026 Middle East conflict has renewed volatility in global energy markets. [Italy](../countries/italy.qmd) remains exposed due to high reliance on imported fossil fuels (74% of net total energy consumed). <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 90" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 90">ⓘ</button>
+- **[Trade policy]**: Global trade policy restrictions and competition from emerging economies (e.g., China) weigh on Italian exports and industrial production. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 22" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 22">ⓘ</button>
+- **[Demographic Challenges]**: Italy faces long-standing demographic challenges. By 2050, the total population is expected to decline by more than 4 million. The fertility rate was 1.18 in 2024, well below the EU average of 1.34. The share of the population under 15 decreased to 11.9% in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 6" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 6">ⓘ</button>
+- **[Brain Drain]**: A significant outflow of young, highly qualified Italians seeking opportunities abroad persists. In 2024, around 188,000 people left the country, while 450,000 migrated to Italy. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 7" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 7">ⓘ</button>
+- **[Labor Market Segmentation]**: Atypical work remains common. 11.3% of workers had involuntary temporary contracts and 8.5% were in involuntary part-time roles. Undeclared work concerned about 3.13 million full-time equivalent jobs in 2023. <button type="button" class="source-ref" data-source="ec/country-reports/Italy_2026-06-03, p. 25, p. 26" aria-label="Source: ec/country-reports/Italy_2026-06-03, p. 25, p. 26">ⓘ</button>
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.

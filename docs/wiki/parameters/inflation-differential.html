@@ -1,0 +1,1452 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Inflation Differential – Financial Economics for Citizens</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-f27f428f3a862a3040b345f7ae97857e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-26f5639743d988bfe891cbc0f4b9999a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-f27f428f3a862a3040b345f7ae97857e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles/wiki.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Financial Economics for Citizens</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../app/index.html"> 
+<span class="menu-text">Rating App</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../wiki/index.html" aria-current="page"> 
+<span class="menu-text">Wiki</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../wiki/parameters/index.html">Parameters</a></li><li class="breadcrumb-item"><a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/countries/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Countries</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/austria.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Austria</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/belgium.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Belgium</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/bulgaria.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bulgaria</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/croatia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Croatia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/cyprus.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cyprus</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/estonia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Estonia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/finland.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Finland</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/france.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">France</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/germany.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Germany</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/greece.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Greece</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/hungary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Hungary</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/ireland.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ireland</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/italy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Italy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/latvia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Latvia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/lithuania.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lithuania</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/luxembourg.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Luxembourg</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/malta.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Malta</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/netherlands.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Netherlands</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/portugal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Portugal</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/slovakia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Slovakia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/slovenia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Slovenia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/spain.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Spain</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/countries/sweden.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sweden</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/parameters/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Parameters</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/growth.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Growth</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/inflation-differential.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Inflation Differential</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/fiscal-capacity.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fiscal Capacity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/refinancing-need.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Refinancing Need</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/haircut.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Haircut</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/backstop-eligibility.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Backstop Eligibility</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/parameters/outlook-factors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Outlook Factors</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/document-types/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Document Types</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/country-report.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Country Report</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/country-specific-recommendations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Country-Specific Recommendations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/debt-sustainability-monitor.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Debt Sustainability Monitor</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/economic-forecast.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Economic Forecast</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/economic-survey.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Economic Survey</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/document-types/post-programme-surveillance-report.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Post-Programme Surveillance Report</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../wiki/institutions/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Institutions</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/council-of-the-eu.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Council of the EU</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/eurogroup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eurogroup</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-central-bank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Central Bank</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-commission.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Commission</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-fiscal-board.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Fiscal Board</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-investment-bank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Investment Bank</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-investment-fund.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Investment Fund</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/european-stability-mechanism.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">European Stability Mechanism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/eurostat.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Eurostat</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/international-monetary-fund.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">International Monetary Fund</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/oecd.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">OECD</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../wiki/institutions/world-bank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">World Bank</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#in-the-mrp" id="toc-in-the-mrp" class="nav-link active" data-scroll-target="#in-the-mrp">In the MRP</a></li>
+  <li><a href="#in-the-dap" id="toc-in-the-dap" class="nav-link" data-scroll-target="#in-the-dap">In the DAP</a></li>
+  <li><a href="#methods-by-document-type" id="toc-methods-by-document-type" class="nav-link" data-scroll-target="#methods-by-document-type">Methods by Document Type</a>
+  <ul class="collapse">
+  <li><a href="#country-specific-recommendations" id="toc-country-specific-recommendations" class="nav-link" data-scroll-target="#country-specific-recommendations">Country-Specific Recommendations</a></li>
+  <li><a href="#country-report" id="toc-country-report" class="nav-link" data-scroll-target="#country-report">Country Report</a></li>
+  <li><a href="#post-programme-surveillance-report" id="toc-post-programme-surveillance-report" class="nav-link" data-scroll-target="#post-programme-surveillance-report">Post-Programme Surveillance Report</a></li>
+  <li><a href="#economic-survey" id="toc-economic-survey" class="nav-link" data-scroll-target="#economic-survey">Economic Survey</a></li>
+  <li><a href="#debt-sustainability-monitor" id="toc-debt-sustainability-monitor" class="nav-link" data-scroll-target="#debt-sustainability-monitor">Debt Sustainability Monitor</a></li>
+  <li><a href="#economic-forecast" id="toc-economic-forecast" class="nav-link" data-scroll-target="#economic-forecast">Economic Forecast</a></li>
+  </ul></li>
+  <li><a href="#institutions-and-data-sources" id="toc-institutions-and-data-sources" class="nav-link" data-scroll-target="#institutions-and-data-sources">Institutions and Data Sources</a></li>
+  <li><a href="#country-overview" id="toc-country-overview" class="nav-link" data-scroll-target="#country-overview">Country Overview</a></li>
+  <li><a href="#sources-and-licenses" id="toc-sources-and-licenses" class="nav-link" data-scroll-target="#sources-and-licenses">Sources and Licenses</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../wiki/parameters/index.html">Parameters</a></li><li class="breadcrumb-item"><a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">Inflation Differential</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">September 23, 2026</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="in-the-mrp" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-mrp">In the MRP</h2>
+<p>Δπ is the projected five-year average HICP (Harmonised Index of Consumer Prices) inflation of the country minus that of the euro area, using projections from the <a href="../../wiki/institutions/international-monetary-fund.html">International Monetary Fund</a> World Economic Outlook or the <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a>. Common euro-area inflation cancels out of the model, so only the differential matters. The MRP uses min{0, Δπ}: a negative differential is debited in full (about 6.3 percentage points of GDP of borrowing capacity per 100 basis points at the reference calibration); a positive differential is not credited, because differentials in a currency union tend to reverse through competitiveness.</p>
+</section>
+<section id="in-the-dap" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-dap">In the DAP</h2>
+<p>C2-E covers projections that are unavailable or implausible, with a fallback Δπ = 0. C2-T covers stale projections, with red flags such as legislated wage rounds, administered-price resets, or tax changes with mechanical price effects. C2-A covers imperfect indexation, with red flags such as bracket creep or a high share of expenditure indexed by law; these effects go to fiscal capacity, not Δπ. C2-M covers the labour-cost versus consumer-price differential, with a red flag being a unit-labour-cost differential persistently above the HICP differential, which triggers the C1-A2 check. Not crediting a positive differential is a conservative design choice that the DAP does not assess.</p>
+</section>
+<section id="methods-by-document-type" class="level2">
+<h2 class="anchored" data-anchor-id="methods-by-document-type">Methods by Document Type</h2>
+<section id="country-specific-recommendations" class="level3">
+<h3 class="anchored" data-anchor-id="country-specific-recommendations"><a href="../../wiki/document-types/country-specific-recommendations.html">Country-Specific Recommendations</a></h3>
+<ul>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring 2026 Forecast provides HICP inflation figures for 2025 and projections for 2026 and 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4">ⓘ</button></li>
+<li>HICP inflation is reported as 3.0% for 2025, with projections of 3.4% for 2026 and 2.6% for 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button></li>
+<li>HICP inflation stood at 4.4% in 2025 and is projected to be 4.6% in 2026 and 2.7% in 2027 for the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button></li>
+<li>HICP inflation was 3.5% in 2025, with projections of 4.2% for 2026 and 2.6% for 2027 for the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 4">ⓘ</button></li>
+<li>HICP inflation stood at 4.8% in 2025 and is projected to stand at 4.4% in 2026 and 2.9% in 2027 for the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button></li>
+<li>HICP inflation is reported for 2025 and projected for 2026 and 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button></li>
+<li>HICP inflation is reported for 2025 and projected for 2026 and 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button></li>
+<li>HICP inflation is reported for 2025 and projected for 2026 and 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5">ⓘ</button></li>
+<li>HICP inflation is reported for 2025 and projected for 2026 and 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 5" aria-label="Source: ec/recommendations/France_2026-06-03, p. 5">ⓘ</button></li>
+<li>The document uses HICP inflation projections from the Commission Spring 2026 Forecast to assess price stability and differentials implicitly through the context of euro-area policy coordination. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5">ⓘ</button></li>
+<li>The document provides HICP inflation projections that inform the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a> parameter. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 5">ⓘ</button></li>
+<li>The document utilizes Commission Spring 2026 Forecast projections for harmonized index of consumer prices inflation. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 3">ⓘ</button></li>
+<li>HICP inflation stood at 3.3% in 2025. The <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring 2026 Forecast projects HICP inflation to stand at 3.2% in 2026 and 2.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button></li>
+<li>HICP inflation was well above the euro area in 2025, partly due to value-added tax (VAT) rate increases. Core inflation is forecast to stay among the highest in the euro area in 2026. <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button></li>
+<li>Harmonized Index of Consumer Prices (HICP) inflation stood at 2.7% in 2025. It is projected to stand at 3.0% in 2026 and 2.5% in 2027. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button></li>
+</ul>
+</section>
+<section id="country-report" class="level3">
+<h3 class="anchored" data-anchor-id="country-report"><a href="../../wiki/document-types/country-report.html">Country Report</a></h3>
+<ul>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> reports HICP inflation data and projections to assess price stability and differentials for <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> provides HICP inflation figures to assess the inflation differential. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button></li>
+<li>Inflation projections for <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a> are based on the Commission Spring 2026 Forecast, reflecting energy price dynamics. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> reports rising HICP inflation in 2025 and a forecast for 2026 to assess <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button></li>
+<li>The document reports HICP inflation forecasts for 2026 and 2027. It does not provide a specific euro-area average inflation projection for direct differential calculation, but implies convergence toward the <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> target via the 2027 forecast. <button type="button" class="source-ref" data-source="ec/country-reports/Latvia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Latvia_2026-06-03, p. 3">ⓘ</button></li>
+<li>HICP inflation projections account for rising fuel and service prices, linked to geopolitical conflicts and domestic demand. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 3">ⓘ</button></li>
+<li>The report provides HICP inflation figures for the country and compares them to the EU average, noting the impact of energy prices. <button type="button" class="source-ref" data-source="ec/country-reports/Netherlands_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Netherlands_2026-06-03, p. 3">ⓘ</button></li>
+<li>The document reports headline HICP inflation and compares it with EU trends, providing inputs for the inflation differential parameter. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3">ⓘ</button></li>
+<li>Inflation projections are based on wage dynamics, administered prices, and energy costs. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 3">ⓘ</button></li>
+<li>The report discusses the projected five-year average HICP inflation, noting that inflation in Slovakia is expected to remain above the euro area average, widening the cumulated inflation differential. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3, p. 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3, p. 4">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> reports HICP inflation figures and projections, noting that half the inflation is attributed to higher taxes and energy price shocks, assessing the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/country-reports/Estonia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Estonia_2026-06-03, p. 3">ⓘ</button></li>
+</ul>
+</section>
+<section id="post-programme-surveillance-report" class="level3">
+<h3 class="anchored" data-anchor-id="post-programme-surveillance-report"><a href="../../wiki/document-types/post-programme-surveillance-report.html">Post-Programme Surveillance Report</a></h3>
+<ul>
+<li>The <a href="../../wiki/institutions/european-commission.html">European Commission</a> Spring 2026 Economic Forecast provides HICP inflation projections for 2026 and 2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button></li>
+<li>HICP inflation projections for 2026 and 2027 are used to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button></li>
+<li>Headline inflation projections for 2026 and 2027 are used to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button></li>
+<li>Headline inflation figures for 2025 and projections for 2026 and 2027 are used to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button></li>
+</ul>
+</section>
+<section id="economic-survey" class="level3">
+<h3 class="anchored" data-anchor-id="economic-survey"><a href="../../wiki/document-types/economic-survey.html">Economic Survey</a></h3>
+<ul>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> uses its Economic Outlook database for short-term projections. Consumer price index (HICP) and core consumer prices are reported to assess inflation dynamics. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 26" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 26">ⓘ</button></li>
+<li>Wage indexation has pressured core inflation and temporarily weighed on price competitiveness. Unit labour cost growth has impacted export performance. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Belgium_2024-09-23, p. 28-30" aria-label="Source: oecd/economic-surveys/Belgium_2024-09-23, p. 28-30">ⓘ</button></li>
+<li>Consumer price index (Harmonised) figures are reported for 2023–2027 to assess inflation trends. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button></li>
+<li>Inflation projections account for mechanical price effects from expiring energy support measures. Energy inflation surged from -7.8% in December 2024 to +5.2% in January 2025 due to the end of the electricity price brake and reinstatement of levies. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 24" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 24">ⓘ</button></li>
+<li>Inflation (CPI) and Headline inflation (HICP) figures are reported to assess inflation differentials. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 8, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 8, p. 11">ⓘ</button></li>
+<li>A temporary increase in inflation from price resets is a risk following euro adoption. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised Consumer Price Index (HICP) and core inflation figures. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button></li>
+<li>Headline inflation is expected to rise to 4.1% in 2026 due to higher energy prices, and to 2.6% in 2027. Core inflation at constant tax rates decreased from 3.8% in 2024 to 3.4% in 2025. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 11" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 11">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised index of consumer prices (HICP) inflation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Croatia_2026-01-30, p. 10" aria-label="Source: oecd/economic-surveys/Croatia_2026-01-30, p. 10">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised index of consumer prices (HICP) inflation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Finland_2025-05-23, p. 11" aria-label="Source: oecd/economic-surveys/Finland_2025-05-23, p. 11">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports HCPI Inflation and Harmonised core inflation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Germany_2025-06-12, p. 10, p. 26" aria-label="Source: oecd/economic-surveys/Germany_2025-06-12, p. 10, p. 26">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised CPI inflation. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 11" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 11">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports HICP inflation figures for 2023–2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised consumer price inflation and GDP deflator figures to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports HICP inflation and GDP deflator figures. It notes that wage growth has fueled inflation and weakened competitiveness. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Lithuania_2025-03-28, p. 12" aria-label="Source: oecd/economic-surveys/Lithuania_2025-03-28, p. 12">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Consumer price index (HICP) figures for 2024–2027 to assess the <a href="../../wiki/parameters/inflation-differential.html">Inflation Differential</a>. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised index of consumer prices (HICP) inflation figures for <a href="../../wiki/countries/slovenia.html">Slovenia</a>. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 9" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 9">ⓘ</button></li>
+<li>The <a href="../../wiki/institutions/oecd.html">OECD</a> reports Harmonised index of consumer prices (HICP) inflation figures for <a href="../../wiki/countries/slovakia.html">Slovakia</a>. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 10" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 10">ⓘ</button></li>
+<li>Inflation projections are based on the OECD Economic Outlook database, tracking headline and core consumer price index changes for <a href="../../wiki/countries/spain.html">Spain</a>. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 34" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 34">ⓘ</button></li>
+</ul>
+</section>
+<section id="debt-sustainability-monitor" class="level3">
+<h3 class="anchored" data-anchor-id="debt-sustainability-monitor"><a href="../../wiki/document-types/debt-sustainability-monitor.html">Debt Sustainability Monitor</a></h3>
+<ul>
+<li>Inflation is assumed to converge linearly towards the inflation expectations 10 years ahead. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 222-256" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 222-256">ⓘ</button></li>
+</ul>
+</section>
+<section id="economic-forecast" class="level3">
+<h3 class="anchored" data-anchor-id="economic-forecast"><a href="../../wiki/document-types/economic-forecast.html">Economic Forecast</a></h3>
+<ul>
+<li>Inflation projections incorporate the pass-through of higher energy prices to consumer prices, with a focus on the divergence between energy-sensitive and wage-sensitive components. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 60" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 60">ⓘ</button></li>
+</ul>
+</section>
+</section>
+<section id="institutions-and-data-sources" class="level2">
+<h2 class="anchored" data-anchor-id="institutions-and-data-sources">Institutions and Data Sources</h2>
+<ul>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provides data on inflation (HICP) cited in the reports. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Uses data for a wide range of indicators, including inflation. <button type="button" class="source-ref" data-source="ec/country-reports/Cyprus_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Cyprus_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on inflation (HICP). <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Provides economic forecasts and HICP inflation data for assessments. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Referenced indirectly through euro-area inflation averages and broader macroeconomic context. <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Relevant regarding broader macroeconomic context including inflation averages. <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 67" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 67">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The report utilizes data from Eurostat for various indicators, including inflation. <button type="button" class="source-ref" data-source="ec/country-reports/France_2026-06-03, p. 45, p. 75" aria-label="Source: ec/country-reports/France_2026-06-03, p. 45, p. 75">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provides data on GDP, inflation, employment, and other macroeconomic indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Lithuania_2026-06-03, p. 10, p. 40" aria-label="Source: ec/country-reports/Lithuania_2026-06-03, p. 10, p. 40">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: Target for inflation is 2%. The ECB’s medium-term target is referenced for inflation context. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided statistical data on GDP, inflation, employment, debt, and other indicators cited in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Malta_2026-06-03, p. 3, p. 9, p. 35, p. 38" aria-label="Source: ec/country-reports/Malta_2026-06-03, p. 3, p. 9, p. 35, p. 38">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on labor market, inflation, and structural indicators. <button type="button" class="source-ref" data-source="ec/country-reports/Slovenia_2026-06-03, p. 21, p. 45" aria-label="Source: ec/country-reports/Slovenia_2026-06-03, p. 21, p. 45">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided statistical data on GDP, unemployment, inflation, and other indicators used in the report. <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 22, p. 32" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 22, p. 32">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Published the 2026 country report for <a href="../../wiki/countries/austria.html">Austria</a> and provided the Spring 2026 Forecast data. <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 2, p. 3, p. 4" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 2, p. 3, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Published the 2026 country report for <a href="../../wiki/countries/belgium.html">Belgium</a> and provided the Spring 2026 Forecast data. <button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 3, p. 4, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 3, p. 4, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Published the 2026 country report for <a href="../../wiki/countries/croatia.html">Croatia</a> and provided the Spring 2026 Forecast data. <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 2-4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 2-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Published the 2026 country report for <a href="../../wiki/countries/bulgaria.html">Bulgaria</a> and provided the Spring 2026 Forecast data. <button type="button" class="source-ref" data-source="ec/recommendations/Bulgaria_2026-06-03, p. 2-3, p. 4" aria-label="Source: ec/recommendations/Bulgaria_2026-06-03, p. 2-3, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Carried out the post-programme surveillance assessments and provided the Spring 2026 Economic Forecast. <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 2">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and other indicators cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4-5, footnotes 10, 12" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4-5, footnotes 10, 12">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and defense expenditure used in the <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and expenditure used in the assessment. Specifically, data from Eurostat-Euro Indicators dated 22.04.2026 was cited for deficit and debt figures. <button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government balance, debt, and employment indicators used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5-6, p. 12" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5-6, p. 12">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and other fiscal indicators used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 5" aria-label="Source: ec/recommendations/France_2026-06-03, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and net expenditure growth. <button type="button" class="source-ref" data-source="ec/recommendations/Italy_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Italy_2026-06-03, p. 5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Authored the recommendation, published the 2026 country report for Lithuania, adopted the opinion on the 2026 draft budgetary plan, and produced the Spring 2026 Forecast. It also assessed compliance with the Stability and Growth Pact and the European Semester. <button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 2-3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and defense expenditure used in the Commission’s assessments. <button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 3-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Published the 2026 country report for <a href="../../wiki/countries/malta.html">Malta</a>, adopted the opinion on the 2025 draft budgetary plan, adopted the 2026 Alert Mechanism Report, and produced the Spring 2026 Forecast used for macroeconomic projections. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 2-3" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 2-3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and defence expenditure used in the assessment. <button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: Issued the recommendation and the Spring 2026 Forecast. Assessed <a href="../../wiki/countries/luxembourg.html">Luxembourg</a>’s draft budgetary plan and adherence to expenditure ceilings. Identified structural challenges in pensions, housing, and competitiveness. <button type="button" class="source-ref" data-source="ec/recommendations/Luxembourg_2026-06-03, p. 2-11" aria-label="Source: ec/recommendations/Luxembourg_2026-06-03, p. 2-11">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government balance, debt, defence expenditure, and labour market statistics cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Luxembourg_2026-06-03, p. 3-5" aria-label="Source: ec/recommendations/Luxembourg_2026-06-03, p. 3-5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government surplus, debt, and defense expenditure cited in the document. <button type="button" class="source-ref" data-source="ec/recommendations/Portugal_2026-06-03, p. 3-4" aria-label="Source: ec/recommendations/Portugal_2026-06-03, p. 3-4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on general government deficit, debt, and net expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4-5" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4-5">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Provided data on <a href="../../wiki/countries/slovenia.html">Slovenia</a>’s general government deficit, debt, and defence expenditure. <button type="button" class="source-ref" data-source="ec/recommendations/Slovenia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovenia_2026-06-03, p. 4">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The Commission adopted the recommendation for the Council Recommendation. It assessed Spain’s progress on previous country-specific recommendations and implementation of the Recovery and Resilience Facility. It projected GDP growth, inflation, deficit, and debt figures in its Spring 2026 Forecast. It identified Spain as not requiring an in-depth review in the 2026 Alert Mechanism Report. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 1-3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 1-3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Eurostat provided data on general government deficit and debt for 2024 and 2025. <button type="button" class="source-ref" data-source="ec/recommendations/Spain_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Spain_2026-06-03, p. 3">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The Organisation for Economic Co-operation and Development (OECD) reports consumer price index (Harmonised) data for Austria. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Data on GDP, inflation, and government debt are sourced from Eurostat and national accounts, with revisions noted for 2021–2024. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 28" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 28">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The OECD Economic Outlook 118 database is the primary source for macroeconomic projections for Bulgaria. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 10" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 10">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> uses data from <a href="../../wiki/institutions/eurostat.html">Eurostat</a> for employment rates, unemployment, and other macroeconomic indicators. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Greece_2024-12-05, p. 25" aria-label="Source: oecd/economic-surveys/Greece_2024-12-05, p. 25">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The OECD uses Eurostat data for employment, unemployment, and inflation statistics. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Estonia_2026-06-08, p. 10" aria-label="Source: oecd/economic-surveys/Estonia_2026-06-08, p. 10">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The document is issued by the European Commission and uses its autumn forecast and debt sustainability analysis (DSA) methodology. The Commission calculates S1 and S2 indicators and defines risk categories. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 222-303" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 222-303">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: Eurostat is the source for quarterly data used in stochastic projections, including primary balance, interest rates, and GDP growth. It also provides data on government debt by instrument and maturity. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 273, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 273, p. 291-292">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The European Central Bank provides data on government debt securities by maturity, interest rates, and bank sector indicators such as non-performing loans and capital ratios. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 291-292">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The document is prepared by the Directorate-General for Economic and Financial Affairs under the responsibility of Maarten Verwey and João Nogueira Martins. It presents the Spring 2026 European Economic Forecast. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 201" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 201">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a></strong>: The <a href="../../wiki/institutions/european-central-bank.html">European Central Bank</a> is expected to cautiously tighten its monetary policy stance, with markets pricing in policy rates of around 2.6% in the first quarter of 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 37" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 37">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The <a href="../../wiki/institutions/european-commission.html">European Commission</a> issued the forecast and provided a toolbox to address the energy crisis, emphasizing targeted and temporary fiscal measures. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 80" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 80">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: The forecast uses budgetary data validated by <a href="../../wiki/institutions/eurostat.html">Eurostat</a> up to 2025. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 89">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-investment-bank.html">European Investment Bank</a></strong>: Cited in a box regarding how EU manufacturing firms navigate foreign market tensions. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 49" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 49">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/oecd.html">OECD</a></strong>: The <a href="../../wiki/institutions/oecd.html">OECD</a> provides the primary assessment, recommending structural reforms in pensions, taxation, innovation, and competition to ensure sustainable growth <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 1-117" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 1-117">ⓘ</button></li>
+<li><strong><a href="../../wiki/institutions/european-commission.html">European Commission</a></strong>: The document discusses the <a href="../../wiki/countries/netherlands.html">Netherlands</a>’s compliance with the reformed EU fiscal framework. The <a href="../../wiki/institutions/oecd.html">OECD</a> notes that the <a href="../../wiki/countries/netherlands.html">Netherlands</a>’s projected path for net primary expenditure growth is higher than the limits assigned by the <a href="../../wiki/institutions/european-commission.html">European Commission</a>, potentially leading to a “Significant Deviation Procedure” under the EU Stability and Growth Pact. The <a href="../../wiki/institutions/european-commission.html">European Commission</a>’s debt-sustainability risk classification and fiscal rules are referenced as key constraints on Dutch fiscal policy. [oecd/economic-surveys/Netherlands_2025-07-09, p.&nbsp;13; <button type="button" class="source-ref" data-source="oecd/economic-surveys/Netherlands_2025-07-09, p. 3" aria-label="Source: oecd/economic-surveys/Netherlands_2025-07-09, p. 3">ⓘ</button>8]</li>
+<li><strong><a href="../../wiki/institutions/eurostat.html">Eurostat</a></strong>: <a href="../../wiki/institutions/eurostat.html">Eurostat</a> data is used for HICP inflation, labour force statistics, and contingent liabilities metrics. <button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 23" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 23">ⓘ</button></li>
+</ul>
+</section>
+<section id="country-overview" class="level2">
+<h2 class="anchored" data-anchor-id="country-overview">Country Overview</h2>
+<div class="table-scroll">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Country</th>
+<th>Latest figures</th>
+<th>Red flags with reported evidence</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../../wiki/countries/austria.html">Austria</a></td>
+<td>HICP inflation 2025: 3.6; 2026e: 3.0; 2027f: 2.5</td>
+<td>C2-A imperfect indexation (cumulative inflation 2022–2025: 25%, 5.2 pp higher than euro area; personal income tax brackets indexed to inflation) <button type="button" class="source-ref" data-source="ec/country-reports/Austria_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Austria_2026-06-03, p. 3">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/recommendations/Austria_2026-06-03, p. 4, p. 6" aria-label="Source: ec/recommendations/Austria_2026-06-03, p. 4, p. 6">ⓘ</button>; C2-T projections stale (inflation projections account for mechanical price effects from expiring energy support measures) <button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 24" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 24">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Austria_2026-03-19, p. 29" aria-label="Source: oecd/economic-surveys/Austria_2026-03-19, p. 29">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/belgium.html">Belgium</a></td>
+<td>HICP inflation 2025: 3.0; 2026f: 3.4; 2027f: 2.6</td>
+<td>C2-T projections stale (spiking energy prices due to geopolitical events in the Middle East) <button type="button" class="source-ref" data-source="ec/country-reports/Belgium_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Belgium_2026-06-03, p. 3">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Belgium_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Belgium_2026-06-03, p. 5">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/croatia.html">Croatia</a></td>
+<td>HICP inflation 2025: 4.4; 2026f: 4.6; 2027f: 2.7</td>
+<td>C2-T admin price effects (phase-out of energy support; fuel price caps; temporary fiscal measures for energy prices) <button type="button" class="source-ref" data-source="ec/country-reports/Croatia_2026-06-03, p. 4, p. 95" aria-label="Source: ec/country-reports/Croatia_2026-06-03, p. 4, p. 95">ⓘ</button>, <button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 4">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Croatia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Croatia_2026-06-03, p. 3">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/bulgaria.html">Bulgaria</a></td>
+<td>HICP inflation 2025: 3.8; 2026: 2.7; 2027: 2.4</td>
+<td>C2-T tax changes with mechanical price effects <button type="button" class="source-ref" data-source="ec/country-reports/Bulgaria_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Bulgaria_2026-06-03, p. 4">ⓘ</button>; C2-T projections stale (temporary increase in inflation from price resets following euro adoption) <button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Bulgaria_2026-02-05, p. 11" aria-label="Source: oecd/economic-surveys/Bulgaria_2026-02-05, p. 11">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/estonia.html">Estonia</a></td>
+<td>HICP inflation 2025: 4.8; 2026: 4.4; 2027: 2.9</td>
+<td>C2-T tax changes with mechanical price effects (postponing fuel and electricity excise tax rate increases from 2026 to 2027) <button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 5">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Estonia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Estonia_2026-06-03, p. 4">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/cyprus.html">Cyprus</a></td>
+<td>Headline HICP inflation 2026: 3.6f; 2027: 2.2f</td>
+<td>C2-T projections stale (spike in energy prices) <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 12">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/latvia.html">Latvia</a></td>
+<td>HICP inflation 2025: 3.8; 2026f: 3.6; 2027f: 2.2</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Latvia_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Latvia_2026-06-03, p. 3">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/lithuania.html">Lithuania</a></td>
+<td>HICP inflation 2025: 3.4; 2026: 4.4; 2027: 2.7</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Lithuania_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Lithuania_2026-06-03, p. 3">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/netherlands.html">Netherlands</a></td>
+<td>HICP Inflation 2025: 3.3; 2026f: 3.2; 2027f: 2.5</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Netherlands_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Netherlands_2026-06-03, p. 4">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/malta.html">Malta</a></td>
+<td>HICP inflation 2025: 2.4; 2026: 2.7; 2027: 2.3</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Malta_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Malta_2026-06-03, p. 3">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/slovenia.html">Slovenia</a></td>
+<td>HICP Inflation 2025: 2.5; 2026e: 3.3; 2027e: 2.6</td>
+<td>C1-A2 inherited competitiveness gap (strong nominal wage growth, particularly in the public sector due to a wage reform and minimum wage indexation, driving inflation and potentially eroding external competitiveness) <button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 20" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 20">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovenia_2026-06-16, p. 9" aria-label="Source: oecd/economic-surveys/Slovenia_2026-06-16, p. 9">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/slovakia.html">Slovakia</a></td>
+<td>HICP Inflation 2025: 4.2; 2026: 4.2; 2027: 2.6</td>
+<td>C2-T projections stale (partly due to VAT rate increases; core inflation forecast to stay among highest in euro area) <button type="button" class="source-ref" data-source="ec/recommendations/Slovakia_2026-06-03, p. 4" aria-label="Source: ec/recommendations/Slovakia_2026-06-03, p. 4">ⓘ</button>; C2-M labour-cost versus consumer-price differential (inflation driven by tax increases and services prices; cumulated inflation differential widening) <button type="button" class="source-ref" data-source="ec/country-reports/Slovakia_2026-06-03, p. 3, p. 4" aria-label="Source: ec/country-reports/Slovakia_2026-06-03, p. 3, p. 4">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Slovakia_2026-06-25, p. 10" aria-label="Source: oecd/economic-surveys/Slovakia_2026-06-25, p. 10">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/ireland.html">Ireland</a></td>
+<td>HICP inflation 2025: 1.9; 2026: 1.8; 2027: 2.6f</td>
+<td>C2-T projections stale (energy price shock from Middle East conflict) <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 3">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Ireland_2025-02-12, p. 11" aria-label="Source: oecd/economic-surveys/Ireland_2025-02-12, p. 11">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/greece.html">Greece</a></td>
+<td>HICP inflation 2025: 2.9; 2026: 3.7; 2027: 2.4</td>
+<td>C2-T projections stale (rising commodity prices and labor shortages) <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 7">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Greece_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Greece_2026-06-03, p. 5">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/portugal.html">Portugal</a></td>
+<td>HICP inflation 2025: 2.2; 2026: 2.2; 2027: 2.0</td>
+<td>C2-T projections stale (energy prices rising due to Middle East conflict) <button type="button" class="source-ref" data-source="ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16" aria-label="Source: ec/post-programme/Post-Programme-Surveillance-Spring-2026_2026-06-03, p. 16">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Portugal_2026-01-06, p. 13" aria-label="Source: oecd/economic-surveys/Portugal_2026-01-06, p. 13">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/germany.html">Germany</a></td>
+<td>HICP inflation 2025: 2.3; 2026f: 2.9; 2027f: 2.7</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Germany_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Germany_2026-06-03, p. 3">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/finland.html">Finland</a></td>
+<td>HICP inflation 2025: 1.8; 2026f: 2.4; 2027f: 1.9</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Finland_2026-06-03, p. 5" aria-label="Source: ec/recommendations/Finland_2026-06-03, p. 5">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/france.html">France</a></td>
+<td>HICP inflation 2025: 0.9; 2026f: 2.4; 2027f: 1.8</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/France_2026-06-03, p. 5" aria-label="Source: ec/recommendations/France_2026-06-03, p. 5">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/italy.html">Italy</a></td>
+<td>HICP inflation 2025: 1.6; 2026f: 2.4; 2027f: 1.8</td>
+<td>C2-T projections stale (headline inflation projected to rise due to disruptions in global energy supplies from the Middle East conflict) <button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Italy_2026-04-23, p. 12" aria-label="Source: oecd/economic-surveys/Italy_2026-04-23, p. 12">ⓘ</button></td>
+</tr>
+<tr class="even">
+<td><a href="../../wiki/countries/luxembourg.html">Luxembourg</a></td>
+<td>HICP inflation 2025: 2.5; 2026e: 2.7; 2027f: 1.8</td>
+<td>None reported</td>
+<td><button type="button" class="source-ref" data-source="ec/recommendations/Luxembourg_2026-06-03, p. 3" aria-label="Source: ec/recommendations/Luxembourg_2026-06-03, p. 3">ⓘ</button></td>
+</tr>
+<tr class="odd">
+<td><a href="../../wiki/countries/spain.html">Spain</a></td>
+<td>HICP inflation 2024: 2.9; 2025: 2.6; 2026: 2.3; 2027: 1.8</td>
+<td>C2-T projections stale (headline inflation expected to decline, but core inflation declined slowly; nominal wage growth outpacing inflation, though second-round effects contained) <button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 31" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 31">ⓘ</button></td>
+<td><button type="button" class="source-ref" data-source="oecd/economic-surveys/Spain_2025-11-26, p. 12" aria-label="Source: oecd/economic-surveys/Spain_2025-11-26, p. 12">ⓘ</button></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="sources-and-licenses" class="level2">
+<h2 class="anchored" data-anchor-id="sources-and-licenses">Sources and Licenses</h2>
+<p>Contains material from documents of the European Commission, © European Union, reused under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a> license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.</p>
+<p>Contains material adapted from OECD Economic Surveys, © OECD, licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a> license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.</p>
+<p>This page and the summaries of the source documents it is based on were generated by the language model Qwen3.6-27B-FP8.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<div class="source-backdrop" id="source-backdrop" hidden="">
+  <div class="source-dialog" role="dialog" aria-modal="true" aria-labelledby="source-dialog-title">
+    <h4 id="source-dialog-title"><span class="source-icon" aria-hidden="true">ⓘ</span> Source</h4>
+    <dl>
+      <dt>Document</dt>
+      <dd id="source-dialog-document"></dd>
+      <dt>Page</dt>
+      <dd id="source-dialog-page"></dd>
+    </dl>
+    <button type="button" class="source-close" id="source-dialog-close">Close</button>
+  </div>
+</div>
+<script>
+  // Show the source of a statement in a dialog, like the information buttons of the rating app
+  (function () {
+    const backdrop = document.getElementById("source-backdrop");
+    const closeButton = document.getElementById("source-dialog-close");
+    let opener = null;
+
+    const open = (button) => {
+      const source = button.dataset.source;
+      const split = source.lastIndexOf(", p");
+      document.getElementById("source-dialog-document").textContent = split > 0 ? source.slice(0, split) : source;
+      document.getElementById("source-dialog-page").textContent =
+        split > 0 ? source.slice(split + 2).replace(/^pp?\.\s*/, "") : "–";
+      opener = button;
+      backdrop.hidden = false;
+      closeButton.focus();
+    };
+    const close = () => {
+      if (backdrop.hidden) return;
+      backdrop.hidden = true;
+      if (opener) opener.focus();
+    };
+
+    document.addEventListener("click", (event) => {
+      const button = event.target.closest(".source-ref");
+      if (button) open(button);
+    });
+    closeButton.addEventListener("click", close);
+    backdrop.addEventListener("click", (event) => {
+      if (event.target === backdrop) close();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") close();
+    });
+  })();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,0 +1,238 @@
+---
+title: "Luxembourg"
+summary: "This dossier synthesizes information from the OECD Economic Survey (2025-04-28), the European Commission Debt Sustainability Monitor (2026-02-12), the European Commission Economic Forecast (2026-05-21), and the European …"
+date-modified: 2026-09-23
+---
+
+## Overview
+
+This dossier synthesizes information from the [OECD](../institutions/oecd.qmd) [Economic Survey](../document-types/economic-survey.qmd) (2025-04-28), the [European Commission](../institutions/european-commission.qmd) [Debt Sustainability Monitor](../document-types/debt-sustainability-monitor.qmd) (2026-02-12), the [European Commission](../institutions/european-commission.qmd) [Economic Forecast](../document-types/economic-forecast.qmd) (2026-05-21), and the [European Commission](../institutions/european-commission.qmd) [Country Report](../document-types/country-report.qmd) (2026-06-03). The evidence highlights a slowdown in economic growth driven by structural productivity stagnation and external shocks, alongside a shift from fiscal surplus to deficit. Structural challenges include housing affordability, pension sustainability risks due to demographic aging, and low long-term growth potential. The [European Commission](../institutions/european-commission.qmd) classifies medium-term debt sustainability risks as low to medium, though long-term fiscal gaps are significant.
+
+## Key Figures
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2023 | 2024 | 2025 | 2026 | 2040 | 2070 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % | -0.7 | 1.0 | 2.1 | 2.3 |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button> |
+| [Inflation Differential](../parameters/inflation-differential.qmd) | Inflation (HICP) | % | 2.9 | 2.3 | 2.1 | 1.9 |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | -0.8 | 1.0 | -0.0 | -0.1 |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Public debt, Maastricht definition | % of GDP | 24.9 | 22.9 | 22.9 | 23.5 |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Net financial debt | % of GDP | -48.2 |  |  |  |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 7" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 7">ⓘ</button> |
+| [Growth](../parameters/growth.qmd) | Unemployment rate | % of labour force | 5.2 | 5.7 | 5.9 | 5.8 |  |  | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Gross pension expenditure projection | % of GDP |  | 9.4 |  |  | 11.2 | 17.5 | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 54" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 54">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Unit labour cost appreciation | Since end-2021: ~15% | % | <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 21" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 21">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | [2026]{.year-mark title="forecast"} | [2027]{.year-mark title="forecast"} |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | :-: |
+| [Growth](../parameters/growth.qmd) | Real GDP growth | % |  | 0.6 | 1.6 | 2.0 | <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 3">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | General government balance | % of GDP | 0.9 (surplus) | -2.0 | -1.2 | -1.5 | <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 5, 37" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 5, 37">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross general government debt | % of GDP |  | 26.5 |  | 30.2 | <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 37">ⓘ</button> |
+
+: Years in italics: forecast. Source <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Growth](../parameters/growth.qmd) | Labour productivity growth | 2021–2025 avg: -1.6 (labor); -1.8 (total factor) | % per year | <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 4" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 4">ⓘ</button> |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Net expenditure deviation (vs plan) | 2025: 1.3 (annual); 0.6 (cumulative) | % of GDP | <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 5">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Unit | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |  |
+| :-- | :-- | :-- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Primary balance | % of GDP | 1.2 | -0.4 | -0.1 | 0.2 | 0.4 | 0.8 | 1.0 | 0.8 | 0.5 | 0.3 | 0.1 | -0.1 | -0.4 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross public debt | % of GDP | 26.3 | 26.8 | 27.1 | 26.8 | 26.2 | 25.2 | 24.0 | 23.0 | 22.3 | 21.6 | 21.1 | 20.5 | 20.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs | % of GDP | 2.9 | 3.6 | 3.6 | 3.1 | 3.0 | 2.5 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 1.9 | 2.1 | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199">ⓘ</button> |
+
+: Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+::: {.key-figures}
+
+| Parameter | Indicator | Value | Unit |  |
+| :-- | :-- | :-- | :-- | :-: |
+| [Fiscal Capacity](../parameters/fiscal-capacity.qmd) | Structural primary balance (SPB) baseline avg 2026-2035 | 1.4 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 41">ⓘ</button> |
+| [Refinancing Need](../parameters/refinancing-need.qmd) | Gross financing needs 2025 | 3.6 | % of GDP | <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20">ⓘ</button> |
+
+: Other figures. Source <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12">ⓘ</button>
+
+:::
+
+## Economic
+
+### C1\* Growth ([Growth](../parameters/growth.qmd))
+
+#### C1-E Broken or dominated sample
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-T Structural break in trend
+
+- **C1-T, structural break in trend**: Real GDP growth slowed to 1.1% in 2020–2025, significantly below the historical mean of 4.5% in 2000–2007 and 2.5% in 2010–2019. Medium-term forecasts project growth of 1.6% in 2026 and 2.0% in 2027, remaining below historical trends. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 3" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 3">ⓘ</button>
+- **C1-T, structural break**: Real GDP growth is expected to accelerate to 1.6% in 2026 and 2.0% in 2027, supported by services exports. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 134" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 134">ⓘ</button>
+
+#### C1-A1 Growth not thin-tailed or serially independent
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C1-A2 Inherited competitiveness gap
+
+- **C1-A2, inherited competitiveness gap**: Labor productivity has stagnated since the early 2010s, with labor productivity decreasing by 1.6% and total factor productivity falling by 1.8% on average per year between 2021 and 2025. The financial sector, accounting for around 25% of value added, shows negative productivity growth, pointing to diminishing efficiency gains. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 4, 12" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 4, 12">ⓘ</button>
+- **[C1-A2, competitiveness gap]**: Unit labor costs increased by about 15% since the end of 2021, leading to an appreciation in the unit labor cost-based real effective exchange rate, although this has partially reversed as nominal wages in neighboring countries caught up <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 21" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 21">ⓘ</button>.
+- **[C1\*, context]**: Measured labor productivity in [Luxembourg](../countries/luxembourg.qmd) is among the highest in the OECD, but growth has stagnated since 2010, driven by declining multi-factor productivity and slowing capital deepening <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 80-82" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 80-82">ⓘ</button>.
+
+#### Other growth context
+
+- **[C1\*, context]**: The [OECD](../institutions/oecd.qmd) projects real GDP growth to recover gradually, reaching 2.1% in 2025 and 2.3% in 2026, supported by easing financial conditions and a gradual recovery in the construction sector <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button>.
+
+### C2\* Inflation differential ([Inflation Differential](../parameters/inflation-differential.qmd))
+
+#### C2-E Projections unavailable or implausible
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-T Projections stale
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C2-A Imperfect indexation
+
+- **[C1-A2, context]**: The [OECD](../institutions/oecd.qmd) notes that wage indexation has protected real household income but may limit short-term macroeconomic adjustment to adverse shocks by creating downward real wage rigidity <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 19-20" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 19-20">ⓘ</button>.
+
+#### C2-M Labour-cost versus consumer-price differential
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other inflation context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Fiscal
+
+### C3\* Fiscal capacity and plan ([Fiscal Capacity](../parameters/fiscal-capacity.qmd))
+
+#### C3-E Estimator fails or rests on one episode
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### C3-T History lags policy
+
+- **C3-T, history lags policy**: [Luxembourg](../countries/luxembourg.qmd) was found not compliant with its medium-term fiscal-structural plan commitments in 2025. The annual deviation from the recommended net expenditure path was 1.3% of GDP, and the cumulative deviation was 0.6% of GDP. The general government balance turned to a deficit of 2.0% of GDP in 2025, after a surplus of 0.9% in 2024, driven by higher spending on defense, housing, and climate measures. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 5">ⓘ</button>
+- **[C3-T, history lags policy]**: Under unchanged tax and spending policies, gross public debt would remain stable until the late 2040s but would rise rapidly thereafter due to aging-related expenditure, particularly pensions <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 27" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 27">ⓘ</button>.
+- **C3-T, history lags policy**: The general government balance is forecast to remain in deficit, improving to -1.2% in 2026 and widening slightly to -1.5% in 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 135" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 135">ⓘ</button>
+- **[C3-T, context]**: The [OECD](../institutions/oecd.qmd) recommends adopting a national net spending rule to anchor fiscal policy, replacing the obsolete EU-mandated medium-term objective <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 31, 46" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 31, 46">ⓘ</button>.
+
+#### C3-A Default is chosen, not only suffered
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other fiscal context
+
+- **C3\*, context**: Public debt is projected to increase from 26.5% of GDP in 2025 to 30.2% in 2027, mostly due to budget deficits and stock-flow adjustments. Risks to the fiscal plan include lower than projected economic growth and increasing spending pressures from aging and defense commitments. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 5, 37" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 5, 37">ⓘ</button>
+- **C3\*, context**: The [European Commission](../institutions/european-commission.qmd) projects a structural primary surplus of 1.4% of GDP as of 2026. This is low compared with past fiscal performance. Ageing-related expenditure is projected to increase. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 197" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 197">ⓘ</button>
+- **C3\*, context**: The S2 indicator points to high risk, requiring a 7.1 percentage point improvement, driven by ageing costs (7.8 pps). The S1 indicator points to medium risk, requiring a 2.0 percentage point effort. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 198" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 198">ⓘ</button>
+- **[C3\*, context]**: [Luxembourg](../countries/luxembourg.qmd) has a history of prudent budget management, with gross public debt below 30% of GDP in 2023 and net government financial assets of about 50% of GDP <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 26" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 26">ⓘ</button>.
+- **[C3\*, context]**: The fiscal stance is broadly neutral in 2025, but the [OECD](../institutions/oecd.qmd) advises phasing out energy policy supports and accelerating consolidation from 2026 to rebuild fiscal buffers <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 27-28" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 27-28">ⓘ</button>.
+
+## Debt
+
+### R1\* Refinancing need ([Refinancing Need](../parameters/refinancing-need.qmd))
+
+#### R1-E Components missing or distorted
+
+- **R1-E, components missing**: The debt-to-GDP ratio is projected to increase to 30.2% by 2027. <button type="button" class="source-ref" data-source="ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 135" aria-label="Source: ec/forecast/Spring-2026-Economic-Forecast_2026-05-21, p. 135">ⓘ</button>
+
+#### R1-T Financing behavior shifts
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### R1-A Part of the debt not exposed to the market
+
+- **R1-A, context**: Risk-increasing factors relate to contingent liability risks from the private sector and changes in international financial regulations. Risk-mitigating factors include lengthening debt maturity, stable financing sources, euro denomination, and a positive net international investment position. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 198" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 198">ⓘ</button>
+
+#### Other refinancing context
+
+- **R1\*, context**: Gross general government debt stood at 26.5% of GDP at the end of 2025. Debt is expected to rise to 30.2% of GDP in 2027. The report notes that public investment remained high at 5.0% of GDP in 2025. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 37" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 37">ⓘ</button>
+- **R1\*, context**: Gross financing needs were 3.6% of GDP in 2025. Debt is projected to remain stable at 20.1% of GDP by 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 20, 42">ⓘ</button>
+- **R1\*, context**: Gross financing needs are expected to decrease to around 3% of GDP on average over 2026-2027, reaching around 2% of GDP in 2036. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 197" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 197">ⓘ</button>
+- **[R1\*, context]**: Gross public debt (Maastricht definition) was 24.9% of GDP in 2023 and is projected to remain low, at 23.5% in 2026 <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 9" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 9">ⓘ</button>.
+- **[R1\*, context]**: Net financial debt was -48.2% of GDP in 2023, indicating strong net creditor position <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 7" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 7">ⓘ</button>.
+
+### C5\* Haircut ([Haircut](../parameters/haircut.qmd))
+
+#### C5-A Politically feasible haircut differs from 30%
+
+[No evidence in the sources yet.]{.no-evidence}
+
+#### Other haircut context
+
+[No evidence in the sources yet.]{.no-evidence}
+
+## Institutions
+
+### R6\* Backstop eligibility ([Backstop Eligibility](../parameters/backstop-eligibility.qmd))
+
+#### Bright-line inputs
+
+- **R6\*, context**: [Luxembourg](../countries/luxembourg.qmd) has been found not compliant with its fiscal commitments under the EU fiscal framework, with an annual and cumulative deviation of 1.3% and 0.6% of GDP respectively in 2025. The Council endorsed its medium-term fiscal-structural plan, which aims to keep the deficit well below 3% of GDP by 2029 and public debt below 60% of GDP. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, p. 5" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, p. 5">ⓘ</button>
+
+#### R6-A Bright lines versus real eligibility
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Bank–sovereign nexus and captive creditors
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### Willingness to pay and political stability
+
+[No evidence in the sources yet.]{.no-evidence}
+
+### National institutions
+
+- **[R6-A, context]**: The [OECD](../institutions/oecd.qmd) suggests enhancing the mandate of the national fiscal council to include long-term debt sustainability assessments and to monitor compliance with the new national fiscal rule <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 31, 46" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 31, 46">ⓘ</button>.
+
+## Market Signals
+
+- **Rollover pessimism**: The 10-year sovereign yield spread vs. German Bund is 29 basis points as of 31 December 2025. <button type="button" class="source-ref" data-source="ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199" aria-label="Source: ec/debt-sustainability/Debt-Sustainability-Monitor-2025_2026-02-12, p. 199">ⓘ</button>
+
+## Outlook Material
+
+- **Housing and Labor Market**: High house prices and limited supply pose systemic risks. House prices in 2025 were 60% higher than a decade ago. The unemployment rate rose above the EU average for the first time since 2009, reaching 6.5% in 2025. Skills mismatches are significant, with macroeconomic skills mismatches rising to 34.4% in 2025, far above the EU average of 19.2%. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 5, 22" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 5, 22">ⓘ</button>
+- **Pension Sustainability**: The pension system is projected to start running a deficit as of 2029 due to unfavorable demographic dynamics. The pay-as-you-go Pillar I reserve is projected to be entirely depleted by 2048. A 2025 pension reform increased contribution rates by 1.5 percentage points to 25.5% but is deemed insufficient to fully address structural sustainability issues or significantly increase the low participation rate of workers aged 55–64 (51.9% in 2025). <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 6, 39" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 6, 39">ⓘ</button>
+- **Tax Planning**: Aggressive tax planning remains unaddressed. [Luxembourg](../countries/luxembourg.qmd) introduced a non-deductibility rule for interest and royalty payments, but its scope is limited. The country is identified as a conduit for capital flows, with net inward FDI stock 31 times larger than GDP. <button type="button" class="source-ref" data-source="ec/country-reports/Luxembourg_2026-06-03, pp. 8, 45" aria-label="Source: ec/country-reports/Luxembourg_2026-06-03, pp. 8, 45">ⓘ</button>
+- **[Pension Sustainability]**: The [OECD](../institutions/oecd.qmd) identifies the pension system's sustainability as a major long-term risk, projecting pension expenditure to rise from 9.4% of GDP in 2024 to 17.5% in 2070 without reform <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 54" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 54">ⓘ</button>.
+- **[Climate Transition]**: The transition to green growth will have a net negative impact on the budget balance, estimated at around 2% of GDP by 2050, primarily due to lower fuel revenues <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 28, 30" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 28, 30">ⓘ</button>.
+- **[Housing]**: Housing affordability remains low, with real house prices falling by about 20% since late 2022, but affordability deteriorating further due to higher interest rates <button type="button" class="source-ref" data-source="oecd/economic-surveys/Luxembourg_2025-04-28, p. 40" aria-label="Source: oecd/economic-surveys/Luxembourg_2025-04-28, p. 40">ⓘ</button>.
+
+## Sources and Licenses
+
+Contains material from documents of the European Commission, © European Union, reused under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. The material has been summarized and rearranged with the help of a language model; every statement links to the source document and page.
+
+Contains material adapted from OECD Economic Surveys, © OECD, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+This page was generated by the language model string, based on summaries of the source documents generated by Qwen3.6-27B-FP8.
